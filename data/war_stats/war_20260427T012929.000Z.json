@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HJOIPKWJ-kgz9zlLsa5zR8zG9KzHF2htwHRDW_y8p5o.png"
         },
         "clanLevel": 32,
-        "attacks": 16,
-        "stars": 44,
-        "destructionPercentage": 74.85,
+        "attacks": 19,
+        "stars": 50,
+        "destructionPercentage": 84.85,
         "members": [
             {
                 "tag": "#2PULPGL90",
@@ -74,6 +74,16 @@
                 "name": "SochieLife",
                 "townhallLevel": 18,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#YQYVJ92C",
+                        "defenderTag": "#P2Y22GJ2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 31,
+                        "duration": 150
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -106,6 +116,16 @@
                 "name": "- nancy 95",
                 "townhallLevel": 18,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#Q92RUPUJ",
+                        "defenderTag": "#GCUJR88R",
+                        "stars": 0,
+                        "destructionPercentage": 48,
+                        "order": 32,
+                        "duration": 139
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -123,7 +143,15 @@
                         "duration": 101
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LYYPULJY8",
+                    "defenderTag": "#800CC2CCG",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 34,
+                    "duration": 170
+                }
             },
             {
                 "tag": "#YPYL8QYC2",
@@ -217,6 +245,14 @@
                         "destructionPercentage": 100,
                         "order": 25,
                         "duration": 152
+                    },
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#GCUJR88R",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 33,
+                        "duration": 163
                     }
                 ],
                 "opponentAttacks": 0
@@ -293,7 +329,15 @@
                         "duration": 117
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LYYPULJY8",
+                    "defenderTag": "#2PYVCVQP9",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 35,
+                    "duration": 127
+                }
             },
             {
                 "tag": "#LPU0GGCJQ",
@@ -396,9 +440,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/bknttvK6yB8eTN5Z9zl_OIcO2nuu9GhF3lLrMrlSaM4.png"
         },
         "clanLevel": 28,
-        "attacks": 14,
-        "stars": 25,
-        "destructionPercentage": 42.95,
+        "attacks": 16,
+        "stars": 31,
+        "destructionPercentage": 52.95,
         "members": [
             {
                 "tag": "#8VQPU0VU",
@@ -435,7 +479,15 @@
                 "name": "\u2606\u2605\u2606VOLTRON\u2606\u2605\u2606",
                 "townhallLevel": 18,
                 "mapPosition": 6,
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#V0GYVCJ9",
+                    "defenderTag": "#GCUJR88R",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 33,
+                    "duration": 163
+                }
             },
             {
                 "tag": "#89CUVVC0",
@@ -578,7 +630,15 @@
                         "duration": 106
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YQYVJ92C",
+                    "defenderTag": "#P2Y22GJ2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 31,
+                    "duration": 150
+                }
             },
             {
                 "tag": "#U9RVC8Q",
@@ -743,6 +803,24 @@
                 "name": "Quicksilver",
                 "townhallLevel": 16,
                 "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#LYYPULJY8",
+                        "defenderTag": "#800CC2CCG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 34,
+                        "duration": 170
+                    },
+                    {
+                        "attackerTag": "#LYYPULJY8",
+                        "defenderTag": "#2PYVCVQP9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 35,
+                        "duration": 127
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2P8LYJCUR",
