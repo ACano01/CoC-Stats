@@ -5,7 +5,7 @@
     "battleModifier": "none",
     "preparationStartTime": "20260426T022929.000Z",
     "startTime": "20260427T012929.000Z",
-    "endTime": "20260428T012929.000Z",
+    "endTime": "20260428T041103.000Z",
     "clan": {
         "tag": "#CPJQ2JV",
         "name": "Christ",
@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HJOIPKWJ-kgz9zlLsa5zR8zG9KzHF2htwHRDW_y8p5o.png"
         },
         "clanLevel": 32,
-        "attacks": 12,
-        "stars": 35,
-        "destructionPercentage": 59.85,
+        "attacks": 16,
+        "stars": 44,
+        "destructionPercentage": 74.85,
         "members": [
             {
                 "tag": "#2PULPGL90",
@@ -170,7 +170,15 @@
                         "duration": 112
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#JYJ8JGC",
+                    "defenderTag": "#99VJ2VVPQ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 26,
+                    "duration": 138
+                }
             },
             {
                 "tag": "#9G92CY9L",
@@ -201,6 +209,16 @@
                 "name": "YAGO",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#P8QRRPYP",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 25,
+                        "duration": 152
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -282,6 +300,16 @@
                 "name": "night dragon",
                 "townhallLevel": 15,
                 "mapPosition": 16,
+                "attacks": [
+                    {
+                        "attackerTag": "#LPU0GGCJQ",
+                        "defenderTag": "#GYQG9Y2J8",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 30,
+                        "duration": 136
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#9YY90YJQC",
@@ -312,6 +340,16 @@
                 "name": "family buffalo",
                 "townhallLevel": 18,
                 "mapPosition": 6,
+                "attacks": [
+                    {
+                        "attackerTag": "#2VYVULCVL",
+                        "defenderTag": "#JYJ8JGC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 28,
+                        "duration": 99
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -327,9 +365,17 @@
                         "destructionPercentage": 100,
                         "order": 11,
                         "duration": 104
+                    },
+                    {
+                        "attackerTag": "#2P8LYJCUR",
+                        "defenderTag": "#8VQPU0VU",
+                        "stars": 2,
+                        "destructionPercentage": 94,
+                        "order": 29,
+                        "duration": 180
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#P2Y22GJ2",
                     "defenderTag": "#2P8LYJCUR",
@@ -350,16 +396,16 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/bknttvK6yB8eTN5Z9zl_OIcO2nuu9GhF3lLrMrlSaM4.png"
         },
         "clanLevel": 28,
-        "attacks": 12,
-        "stars": 22,
-        "destructionPercentage": 37.95,
+        "attacks": 14,
+        "stars": 25,
+        "destructionPercentage": 42.95,
         "members": [
             {
                 "tag": "#8VQPU0VU",
                 "name": "\u2744\ufe0fYeti\u2744\ufe0f",
                 "townhallLevel": 18,
                 "mapPosition": 4,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#L2PQ9QLUC",
                     "defenderTag": "#8VQPU0VU",
@@ -374,7 +420,15 @@
                 "name": "The Dude",
                 "townhallLevel": 18,
                 "mapPosition": 11,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#V0GYVCJ9",
+                    "defenderTag": "#P8QRRPYP",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 25,
+                    "duration": 152
+                }
             },
             {
                 "tag": "#GCUJR88R",
@@ -473,7 +527,33 @@
                 "name": "Ryan",
                 "townhallLevel": 18,
                 "mapPosition": 10,
-                "opponentAttacks": 0
+                "attacks": [
+                    {
+                        "attackerTag": "#JYJ8JGC",
+                        "defenderTag": "#99VJ2VVPQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 26,
+                        "duration": 138
+                    },
+                    {
+                        "attackerTag": "#JYJ8JGC",
+                        "defenderTag": "#2P8LYJCUR",
+                        "stars": 2,
+                        "destructionPercentage": 92,
+                        "order": 27,
+                        "duration": 180
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2VYVULCVL",
+                    "defenderTag": "#JYJ8JGC",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 28,
+                    "duration": 99
+                }
             },
             {
                 "tag": "#P2Y22GJ2",
@@ -696,7 +776,15 @@
                         "duration": 93
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LPU0GGCJQ",
+                    "defenderTag": "#GYQG9Y2J8",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 30,
+                    "duration": 136
+                }
             }
         ]
     }
