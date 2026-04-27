@@ -5,7 +5,7 @@
     "battleModifier": "none",
     "preparationStartTime": "20260426T022929.000Z",
     "startTime": "20260427T012929.000Z",
-    "endTime": "20260428T041103.000Z",
+    "endTime": "20260428T045751.000Z",
     "clan": {
         "tag": "#CPJQ2JV",
         "name": "Christ",
@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HJOIPKWJ-kgz9zlLsa5zR8zG9KzHF2htwHRDW_y8p5o.png"
         },
         "clanLevel": 32,
-        "attacks": 19,
+        "attacks": 20,
         "stars": 50,
         "destructionPercentage": 84.85,
         "members": [
@@ -295,6 +295,14 @@
                         "destructionPercentage": 100,
                         "order": 16,
                         "duration": 115
+                    },
+                    {
+                        "attackerTag": "#UQQ0LJLP",
+                        "defenderTag": "#8VQPU0VU",
+                        "stars": 2,
+                        "destructionPercentage": 82,
+                        "order": 36,
+                        "duration": 101
                     }
                 ],
                 "opponentAttacks": 0
@@ -449,7 +457,7 @@
                 "name": "\u2744\ufe0fYeti\u2744\ufe0f",
                 "townhallLevel": 18,
                 "mapPosition": 4,
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#L2PQ9QLUC",
                     "defenderTag": "#8VQPU0VU",
