@@ -255,7 +255,15 @@
                         "duration": 163
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PGQVUC2V",
+                    "defenderTag": "#V0GYVCJ9",
+                    "stars": 2,
+                    "destructionPercentage": 97,
+                    "order": 37,
+                    "duration": 180
+                }
             },
             {
                 "tag": "#L2PQ9QLUC",
@@ -448,9 +456,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/bknttvK6yB8eTN5Z9zl_OIcO2nuu9GhF3lLrMrlSaM4.png"
         },
         "clanLevel": 28,
-        "attacks": 16,
-        "stars": 31,
-        "destructionPercentage": 52.95,
+        "attacks": 17,
+        "stars": 33,
+        "destructionPercentage": 57.8,
         "members": [
             {
                 "tag": "#8VQPU0VU",
@@ -660,6 +668,16 @@
                 "name": "mik",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#PGQVUC2V",
+                        "defenderTag": "#V0GYVCJ9",
+                        "stars": 2,
+                        "destructionPercentage": 97,
+                        "order": 37,
+                        "duration": 180
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#UQQ0LJLP",
