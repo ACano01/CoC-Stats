@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HJOIPKWJ-kgz9zlLsa5zR8zG9KzHF2htwHRDW_y8p5o.png"
         },
         "clanLevel": 32,
-        "attacks": 20,
-        "stars": 50,
-        "destructionPercentage": 84.85,
+        "attacks": 21,
+        "stars": 52,
+        "destructionPercentage": 89.45,
         "members": [
             {
                 "tag": "#2PULPGL90",
@@ -42,7 +42,15 @@
                         "duration": 167
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PQG9JVY8J",
+                    "defenderTag": "#2PULPGL90",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 41,
+                    "duration": 162
+                }
             },
             {
                 "tag": "#U90CYLQ2",
@@ -124,9 +132,25 @@
                         "destructionPercentage": 48,
                         "order": 32,
                         "duration": 139
+                    },
+                    {
+                        "attackerTag": "#Q92RUPUJ",
+                        "defenderTag": "#G8YV0ULP",
+                        "stars": 2,
+                        "destructionPercentage": 92,
+                        "order": 42,
+                        "duration": 180
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PQG9JVY8J",
+                    "defenderTag": "#Q92RUPUJ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 39,
+                    "duration": 126
+                }
             },
             {
                 "tag": "#800CC2CCG",
@@ -288,7 +312,15 @@
                         "duration": 170
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#G8YV0ULP",
+                    "defenderTag": "#L2PQ9QLUC",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 38,
+                    "duration": 128
+                }
             },
             {
                 "tag": "#UQQ0LJLP",
@@ -313,7 +345,15 @@
                         "duration": 101
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#G8YV0ULP",
+                    "defenderTag": "#UQQ0LJLP",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 40,
+                    "duration": 135
+                }
             },
             {
                 "tag": "#GCL9GGPYG",
@@ -456,9 +496,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/bknttvK6yB8eTN5Z9zl_OIcO2nuu9GhF3lLrMrlSaM4.png"
         },
         "clanLevel": 28,
-        "attacks": 17,
-        "stars": 33,
-        "destructionPercentage": 57.8,
+        "attacks": 21,
+        "stars": 45,
+        "destructionPercentage": 77.8,
         "members": [
             {
                 "tag": "#8VQPU0VU",
@@ -580,6 +620,24 @@
                 "name": "Ex Inferis",
                 "townhallLevel": 18,
                 "mapPosition": 1,
+                "attacks": [
+                    {
+                        "attackerTag": "#PQG9JVY8J",
+                        "defenderTag": "#Q92RUPUJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 39,
+                        "duration": 126
+                    },
+                    {
+                        "attackerTag": "#PQG9JVY8J",
+                        "defenderTag": "#2PULPGL90",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 41,
+                        "duration": 162
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#L2PQ9QLUC",
@@ -789,7 +847,33 @@
                 "name": "Excelsior",
                 "townhallLevel": 18,
                 "mapPosition": 3,
-                "opponentAttacks": 0
+                "attacks": [
+                    {
+                        "attackerTag": "#G8YV0ULP",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 38,
+                        "duration": 128
+                    },
+                    {
+                        "attackerTag": "#G8YV0ULP",
+                        "defenderTag": "#UQQ0LJLP",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 40,
+                        "duration": 135
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#Q92RUPUJ",
+                    "defenderTag": "#G8YV0ULP",
+                    "stars": 2,
+                    "destructionPercentage": 92,
+                    "order": 42,
+                    "duration": 180
+                }
             },
             {
                 "tag": "#P8J2CVUCL",
