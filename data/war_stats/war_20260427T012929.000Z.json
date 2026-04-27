@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HJOIPKWJ-kgz9zlLsa5zR8zG9KzHF2htwHRDW_y8p5o.png"
         },
         "clanLevel": 32,
-        "attacks": 21,
-        "stars": 52,
-        "destructionPercentage": 89.45,
+        "attacks": 23,
+        "stars": 58,
+        "destructionPercentage": 99.45,
         "members": [
             {
                 "tag": "#2PULPGL90",
@@ -220,6 +220,14 @@
                         "destructionPercentage": 100,
                         "order": 9,
                         "duration": 112
+                    },
+                    {
+                        "attackerTag": "#99VJ2VVPQ",
+                        "defenderTag": "#U9RVC8Q",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 47,
+                        "duration": 145
                     }
                 ],
                 "opponentAttacks": 1,
@@ -237,7 +245,25 @@
                 "name": "brandondepalma",
                 "townhallLevel": 18,
                 "mapPosition": 5,
-                "opponentAttacks": 0
+                "attacks": [
+                    {
+                        "attackerTag": "#9G92CY9L",
+                        "defenderTag": "#89CUVVC0",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 45,
+                        "duration": 86
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YYV9V0QV",
+                    "defenderTag": "#9G92CY9L",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 43,
+                    "duration": 131
+                }
             },
             {
                 "tag": "#QC92VLPP",
@@ -450,7 +476,15 @@
                         "duration": 99
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#U9RVC8Q",
+                    "defenderTag": "#2VYVULCVL",
+                    "stars": 2,
+                    "destructionPercentage": 93,
+                    "order": 46,
+                    "duration": 180
+                }
             },
             {
                 "tag": "#2P8LYJCUR",
@@ -496,9 +530,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/bknttvK6yB8eTN5Z9zl_OIcO2nuu9GhF3lLrMrlSaM4.png"
         },
         "clanLevel": 28,
-        "attacks": 21,
-        "stars": 45,
-        "destructionPercentage": 77.8,
+        "attacks": 24,
+        "stars": 50,
+        "destructionPercentage": 87.45,
         "members": [
             {
                 "tag": "#8VQPU0VU",
@@ -550,7 +584,15 @@
                 "name": "ben",
                 "townhallLevel": 18,
                 "mapPosition": 9,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9G92CY9L",
+                    "defenderTag": "#89CUVVC0",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 45,
+                    "duration": 86
+                }
             },
             {
                 "tag": "#JG9089U8",
@@ -719,7 +761,25 @@
                 "name": "Kemajyn",
                 "townhallLevel": 18,
                 "mapPosition": 5,
-                "opponentAttacks": 0
+                "attacks": [
+                    {
+                        "attackerTag": "#U9RVC8Q",
+                        "defenderTag": "#2VYVULCVL",
+                        "stars": 2,
+                        "destructionPercentage": 93,
+                        "order": 46,
+                        "duration": 180
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#99VJ2VVPQ",
+                    "defenderTag": "#U9RVC8Q",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 47,
+                    "duration": 145
+                }
             },
             {
                 "tag": "#PGQVUC2V",
@@ -751,6 +811,24 @@
                 "name": "Kemzilla",
                 "townhallLevel": 18,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#YYV9V0QV",
+                        "defenderTag": "#9G92CY9L",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 43,
+                        "duration": 131
+                    },
+                    {
+                        "attackerTag": "#YYV9V0QV",
+                        "defenderTag": "#2VYVULCVL",
+                        "stars": 2,
+                        "destructionPercentage": 74,
+                        "order": 44,
+                        "duration": 108
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
