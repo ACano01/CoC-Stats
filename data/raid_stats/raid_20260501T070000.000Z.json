@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260501T070000.000Z",
     "endTime": "20260504T070000.000Z",
-    "capitalTotalLoot": 114606,
+    "capitalTotalLoot": 145568,
     "raidsCompleted": 2,
-    "totalAttacks": 27,
-    "enemyDistrictsDestroyed": 11,
+    "totalAttacks": 34,
+    "enemyDistrictsDestroyed": 14,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -16,6 +16,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 9417
+        },
+        {
+            "tag": "#2PULPGL90",
+            "name": "M M 1960",
+            "attacks": 5,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 21291
         },
         {
             "tag": "#U90CYLQ2",
@@ -64,6 +72,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 9408
+        },
+        {
+            "tag": "#2VYVULCVL",
+            "name": "family buffalo",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 9671
         }
     ],
     "attackLog": [
@@ -378,9 +394,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/m12voZDRzfq7pcqGACk-st2v-9xBvjFgWUUs5ViZwAQ.png"
                 }
             },
-            "attackCount": 4,
+            "attackCount": 11,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -395,10 +411,36 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11158,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2PULPGL90",
+                                "name": "M M 1960"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PULPGL90",
+                                "name": "M M 1960"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PULPGL90",
+                                "name": "M M 1960"
+                            },
+                            "destructionPercent": 29,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -440,19 +482,55 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10133,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2PULPGL90",
+                                "name": "M M 1960"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PULPGL90",
+                                "name": "M M 1960"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9671,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 61,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
