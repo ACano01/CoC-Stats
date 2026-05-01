@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260501T070000.000Z",
     "endTime": "20260504T070000.000Z",
-    "capitalTotalLoot": 190845,
+    "capitalTotalLoot": 258531,
     "raidsCompleted": 3,
-    "totalAttacks": 44,
-    "enemyDistrictsDestroyed": 18,
+    "totalAttacks": 57,
+    "enemyDistrictsDestroyed": 24,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -28,10 +28,18 @@
         {
             "tag": "#U90CYLQ2",
             "name": "Ben",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 10275
+            "capitalResourcesLooted": 31300
+        },
+        {
+            "tag": "#Y02J2VQ2",
+            "name": "jj",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 15599
         },
         {
             "tag": "#YL0VJ2YY",
@@ -52,10 +60,18 @@
         {
             "tag": "#LPU0GGCJQ",
             "name": "night dragon",
-            "attacks": 1,
+            "attacks": 3,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 916
+            "capitalResourcesLooted": 11532
+        },
+        {
+            "tag": "#8RJ8CC8LU",
+            "name": "COBRA",
+            "attacks": 4,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 20446
         },
         {
             "tag": "#Y8PJCG8L",
@@ -686,9 +702,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/pDpfvZM7ZYEMUd_mv4b9_6d0fksBEIWtbDBIh4w21Tk.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 13,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -712,64 +728,182 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 64,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 5450,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y02J2VQ2",
+                                "name": "jj"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9805,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 83,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10149,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y02J2VQ2",
+                                "name": "jj"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y02J2VQ2",
+                                "name": "jj"
+                            },
+                            "destructionPercent": 49,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10616,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9728,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11220,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10718,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
