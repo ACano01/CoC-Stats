@@ -2,20 +2,20 @@
     "state": "ongoing",
     "startTime": "20260501T070000.000Z",
     "endTime": "20260504T070000.000Z",
-    "capitalTotalLoot": 41750,
+    "capitalTotalLoot": 69299,
     "raidsCompleted": 1,
-    "totalAttacks": 8,
-    "enemyDistrictsDestroyed": 4,
+    "totalAttacks": 14,
+    "enemyDistrictsDestroyed": 6,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
         {
             "tag": "#PQC82LLR",
             "name": "DocPeejay",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11069
+            "capitalResourcesLooted": 29210
         },
         {
             "tag": "#2QJ8UV2V0",
@@ -24,6 +24,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 30681
+        },
+        {
+            "tag": "#YU2UYJLR0",
+            "name": "X2B",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 9408
         }
     ],
     "attackLog": [
@@ -38,9 +46,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 14,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -55,10 +63,28 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 90,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 8770,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 90,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -127,10 +153,28 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9371,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 65,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -190,10 +234,28 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9408,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YU2UYJLR0",
+                                "name": "X2B"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YU2UYJLR0",
+                                "name": "X2B"
+                            },
+                            "destructionPercent": 67,
+                            "stars": 2
+                        }
+                    ]
                 }
             ]
         }
