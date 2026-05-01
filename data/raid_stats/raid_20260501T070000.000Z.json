@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260501T070000.000Z",
     "endTime": "20260504T070000.000Z",
-    "capitalTotalLoot": 93350,
+    "capitalTotalLoot": 114606,
     "raidsCompleted": 2,
-    "totalAttacks": 23,
-    "enemyDistrictsDestroyed": 9,
+    "totalAttacks": 27,
+    "enemyDistrictsDestroyed": 11,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -16,6 +16,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 9417
+        },
+        {
+            "tag": "#U90CYLQ2",
+            "name": "Ben",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10275
         },
         {
             "tag": "#YL0VJ2YY",
@@ -32,6 +40,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 29210
+        },
+        {
+            "tag": "#Y8PJCG8L",
+            "name": "Chmmr",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10981
         },
         {
             "tag": "#2QJ8UV2V0",
@@ -362,9 +378,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/m12voZDRzfq7pcqGACk-st2v-9xBvjFgWUUs5ViZwAQ.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 4,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -397,10 +413,28 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10275,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 83,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -433,10 +467,28 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10981,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 58,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
