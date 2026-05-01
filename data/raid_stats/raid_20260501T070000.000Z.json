@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260501T070000.000Z",
     "endTime": "20260504T070000.000Z",
-    "capitalTotalLoot": 145568,
+    "capitalTotalLoot": 150653,
     "raidsCompleted": 2,
-    "totalAttacks": 34,
+    "totalAttacks": 35,
     "enemyDistrictsDestroyed": 14,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -20,10 +20,10 @@
         {
             "tag": "#2PULPGL90",
             "name": "M M 1960",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 21291
+            "capitalResourcesLooted": 26376
         },
         {
             "tag": "#U90CYLQ2",
@@ -394,7 +394,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/m12voZDRzfq7pcqGACk-st2v-9xBvjFgWUUs5ViZwAQ.png"
                 }
             },
-            "attackCount": 11,
+            "attackCount": 12,
             "districtCount": 9,
             "districtsDestroyed": 5,
             "districts": [
@@ -446,10 +446,20 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 60,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 5085,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2PULPGL90",
+                                "name": "M M 1960"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
