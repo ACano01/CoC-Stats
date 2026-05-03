@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260501T070000.000Z",
     "endTime": "20260504T070000.000Z",
-    "capitalTotalLoot": 717523,
+    "capitalTotalLoot": 727129,
     "raidsCompleted": 9,
-    "totalAttacks": 167,
-    "enemyDistrictsDestroyed": 66,
+    "totalAttacks": 169,
+    "enemyDistrictsDestroyed": 67,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -180,10 +180,10 @@
         {
             "tag": "#LPU0GGCJQ",
             "name": "night dragon",
-            "attacks": 3,
+            "attacks": 5,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11532
+            "capitalResourcesLooted": 21138
         },
         {
             "tag": "#8RJ8CC8LU",
@@ -2370,9 +2370,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/qw0kHwhUKyxGvOQJlvvfBKYNa8xvlRhD4pKt6NO37h0.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 8,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -2423,10 +2423,28 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9606,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
