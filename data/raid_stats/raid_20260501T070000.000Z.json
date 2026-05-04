@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260501T070000.000Z",
     "endTime": "20260504T070000.000Z",
-    "capitalTotalLoot": 792295,
+    "capitalTotalLoot": 810810,
     "raidsCompleted": 10,
-    "totalAttacks": 185,
-    "enemyDistrictsDestroyed": 72,
+    "totalAttacks": 189,
+    "enemyDistrictsDestroyed": 74,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -140,10 +140,10 @@
         {
             "tag": "#V0CC0YR8",
             "name": "Wes",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 17081
+            "capitalResourcesLooted": 23202
         },
         {
             "tag": "#GULJYQPR0",
@@ -172,10 +172,10 @@
         {
             "tag": "#GCL9GGPYG",
             "name": "Katara",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 12036
+            "capitalResourcesLooted": 24430
         },
         {
             "tag": "#2PYVCVQP9",
@@ -2654,9 +2654,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/wB-zozpuRZlIQqM7DyhD_sATNPoaI7NeQsuSuDyyiOw.png"
                 }
             },
-            "attackCount": 4,
+            "attackCount": 8,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -2689,11 +2689,19 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 56,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 6150,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11169,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#VPJYP29",
@@ -2743,11 +2751,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 45,
-                    "stars": 1,
-                    "attackCount": 2,
-                    "totalLooted": 5410,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11531,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#GU2UVG9CV",
@@ -2770,10 +2786,28 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 74,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 7375,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 22,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
