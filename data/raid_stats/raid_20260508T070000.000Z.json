@@ -22,9 +22,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/dIS9rh4l9xTFBDK2pAEAE_FfECZN036tNnCD3LEQGVE.png"
                 }
             },
-            "attackCount": 10,
+            "attackCount": 22,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -39,28 +39,106 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11490,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V2GVCRV2",
+                                "name": "eLotex"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V2GVCRV2",
+                                "name": "eLotex"
+                            },
+                            "destructionPercent": 68,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V2GVCRV2",
+                                "name": "eLotex"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10694,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8LUL8VPG",
+                                "name": "Lecktor"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8LUL8VPG",
+                                "name": "Lecktor"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8LUL8VPG",
+                                "name": "Lecktor"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11733,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PYQPC8YJ0",
+                                "name": "Hannibal"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PYQPC8YJ0",
+                                "name": "Hannibal"
+                            },
+                            "destructionPercent": 72,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PYQPC8YJ0",
+                                "name": "Hannibal"
+                            },
+                            "destructionPercent": 24,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -101,10 +179,36 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11822,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V2GVCRV2",
+                                "name": "eLotex"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V2GVCRV2",
+                                "name": "eLotex"
+                            },
+                            "destructionPercent": 54,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V2GVCRV2",
+                                "name": "eLotex"
+                            },
+                            "destructionPercent": 29,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
