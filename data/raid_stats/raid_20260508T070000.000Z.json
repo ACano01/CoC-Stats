@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260508T070000.000Z",
     "endTime": "20260511T070000.000Z",
-    "capitalTotalLoot": 358666,
+    "capitalTotalLoot": 384781,
     "raidsCompleted": 5,
-    "totalAttacks": 80,
-    "enemyDistrictsDestroyed": 33,
+    "totalAttacks": 88,
+    "enemyDistrictsDestroyed": 35,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#LGUV2YP0",
             "name": "Big Bry68",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 22224
+            "capitalResourcesLooted": 26384
         },
         {
             "tag": "#VPJYP29",
@@ -88,6 +88,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 24689
+        },
+        {
+            "tag": "#8RJ8CC8LU",
+            "name": "COBRA",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 21955
         },
         {
             "tag": "#GU2UVG9CV",
@@ -986,18 +994,44 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/mgJA1X_j1G6xd8CG5kvLSIjzYPkAHchpcpRITQ1LxGE.png"
                 }
             },
-            "attackCount": 19,
+            "attackCount": 27,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 41,
+                    "stars": 1,
+                    "attackCount": 3,
+                    "totalLooted": 5930,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LGUV2YP0",
+                                "name": "Big Bry68"
+                            },
+                            "destructionPercent": 41,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LGUV2YP0",
+                                "name": "Big Bry68"
+                            },
+                            "destructionPercent": 9,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 7,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1073,10 +1107,36 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11547,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 31,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -1222,11 +1282,27 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 21,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3245,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11883,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#PQC82LLR",
