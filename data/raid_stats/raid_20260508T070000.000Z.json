@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260508T070000.000Z",
     "endTime": "20260511T070000.000Z",
-    "capitalTotalLoot": 451431,
+    "capitalTotalLoot": 476911,
     "raidsCompleted": 6,
-    "totalAttacks": 107,
-    "enemyDistrictsDestroyed": 41,
+    "totalAttacks": 114,
+    "enemyDistrictsDestroyed": 43,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#9C229UGJ",
+            "name": "Chase",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 5955
+        },
         {
             "tag": "#2PULPGL90",
             "name": "M M 1960",
@@ -140,10 +148,10 @@
         {
             "tag": "#2QJ8UV2V0",
             "name": "Reign",
-            "attacks": 1,
+            "attacks": 6,
             "attackLimit": 5,
-            "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 3790
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 23315
         },
         {
             "tag": "#YR922PJC0",
@@ -1382,9 +1390,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/cR0tQV4LICUbld9a4w5d2TADE3v_00G7q4xlBiRwtCY.png"
                 }
             },
-            "attackCount": 16,
+            "attackCount": 23,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -1539,20 +1547,54 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 65,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 5955,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 65,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 41,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 38,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 3790,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11307,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2QJ8UV2V0",
+                                "name": "Reign"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2QJ8UV2V0",
+                                "name": "Reign"
+                            },
+                            "destructionPercent": 87,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#2QJ8UV2V0",
@@ -1567,10 +1609,36 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12008,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2QJ8UV2V0",
+                                "name": "Reign"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2QJ8UV2V0",
+                                "name": "Reign"
+                            },
+                            "destructionPercent": 87,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2QJ8UV2V0",
+                                "name": "Reign"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
