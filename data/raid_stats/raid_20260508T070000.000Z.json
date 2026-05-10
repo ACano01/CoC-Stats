@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260508T070000.000Z",
     "endTime": "20260511T070000.000Z",
-    "capitalTotalLoot": 657861,
+    "capitalTotalLoot": 692852,
     "raidsCompleted": 9,
-    "totalAttacks": 154,
-    "enemyDistrictsDestroyed": 59,
+    "totalAttacks": 162,
+    "enemyDistrictsDestroyed": 62,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -76,10 +76,10 @@
         {
             "tag": "#P9LC88QJ",
             "name": "DaTicket13",
-            "attacks": 1,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 5941
+            "capitalResourcesLooted": 29361
         },
         {
             "tag": "#LGUV2YP0",
@@ -160,6 +160,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 27353
+        },
+        {
+            "tag": "#LPU0GGCJQ",
+            "name": "night dragon",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11571
         },
         {
             "tag": "#8RJ8CC8LU",
@@ -2094,9 +2102,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/OOi2sVPYWFlBuHYJCpYOjHJBfPxvCKTVSNGHVDhwzSk.png"
                 }
             },
-            "attackCount": 10,
+            "attackCount": 18,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
@@ -2111,10 +2119,36 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11571,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 79,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -2201,10 +2235,36 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11795,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -2264,10 +2324,28 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11625,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 56,
+                            "stars": 2
+                        }
+                    ]
                 }
             ]
         }
