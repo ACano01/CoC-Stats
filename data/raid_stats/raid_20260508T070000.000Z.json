@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260508T070000.000Z",
     "endTime": "20260511T070000.000Z",
-    "capitalTotalLoot": 552626,
+    "capitalTotalLoot": 556341,
     "raidsCompleted": 7,
-    "totalAttacks": 131,
+    "totalAttacks": 132,
     "enemyDistrictsDestroyed": 50,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -36,10 +36,10 @@
         {
             "tag": "#YQYVJ92C",
             "name": "SochieLife",
-            "attacks": 1,
+            "attacks": 2,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 2187
+            "capitalResourcesLooted": 5902
         },
         {
             "tag": "#UUC9PCQ",
@@ -1754,7 +1754,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/Log_7LbLQPCb9XMOcWO3iu8BLiM-3Qd0tSJPmOUYsfM.png"
                 }
             },
-            "attackCount": 12,
+            "attackCount": 13,
             "districtCount": 9,
             "districtsDestroyed": 5,
             "districts": [
@@ -1771,10 +1771,20 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
+                    "destructionPercent": 45,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 3715,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YQYVJ92C",
+                                "name": "SochieLife"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
