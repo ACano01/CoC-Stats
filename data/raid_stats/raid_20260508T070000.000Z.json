@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260508T070000.000Z",
     "endTime": "20260511T070000.000Z",
-    "capitalTotalLoot": 651920,
+    "capitalTotalLoot": 657861,
     "raidsCompleted": 9,
-    "totalAttacks": 153,
-    "enemyDistrictsDestroyed": 58,
+    "totalAttacks": 154,
+    "enemyDistrictsDestroyed": 59,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -72,6 +72,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 23678
+        },
+        {
+            "tag": "#P9LC88QJ",
+            "name": "DaTicket13",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 5941
         },
         {
             "tag": "#LGUV2YP0",
@@ -2086,9 +2094,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/OOi2sVPYWFlBuHYJCpYOjHJBfPxvCKTVSNGHVDhwzSk.png"
                 }
             },
-            "attackCount": 9,
+            "attackCount": 10,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -2112,11 +2120,19 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 46,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 4375,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10316,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#GULJYQPR0",
