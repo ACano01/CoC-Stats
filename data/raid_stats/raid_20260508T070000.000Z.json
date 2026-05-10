@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260508T070000.000Z",
     "endTime": "20260511T070000.000Z",
-    "capitalTotalLoot": 572792,
-    "raidsCompleted": 7,
-    "totalAttacks": 136,
-    "enemyDistrictsDestroyed": 51,
+    "capitalTotalLoot": 584828,
+    "raidsCompleted": 8,
+    "totalAttacks": 139,
+    "enemyDistrictsDestroyed": 52,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -120,6 +120,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 10990
+        },
+        {
+            "tag": "#V0CC0YR8",
+            "name": "Wes",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12036
         },
         {
             "tag": "#PQC82LLR",
@@ -1754,9 +1762,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/Log_7LbLQPCb9XMOcWO3iu8BLiM-3Qd0tSJPmOUYsfM.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 20,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -1984,10 +1992,36 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
+                    "destructionPercent": 100,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 3,
+                    "totalLooted": 12036,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 83,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 27,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
@@ -2724,19 +2758,27 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/RuNoh1CHFOFq7vDoLh3H64WpmX0tNdNwaHWlRwdm_6k.png"
                 }
             },
-            "attackCount": 27,
+            "attackCount": 28,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 78,
+                    "destructionPercent": 100,
                     "stars": 0,
-                    "attackCount": 3,
-                    "totalLooted": 8320,
+                    "attackCount": 4,
+                    "totalLooted": 13370,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q8PU2QC2G",
+                                "name": "F-M-T"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#PQCGQCPQ2",
