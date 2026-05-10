@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260508T070000.000Z",
     "endTime": "20260511T070000.000Z",
-    "capitalTotalLoot": 556341,
+    "capitalTotalLoot": 572792,
     "raidsCompleted": 7,
-    "totalAttacks": 132,
-    "enemyDistrictsDestroyed": 50,
+    "totalAttacks": 136,
+    "enemyDistrictsDestroyed": 51,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -36,10 +36,10 @@
         {
             "tag": "#YQYVJ92C",
             "name": "SochieLife",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 5902
+            "capitalResourcesLooted": 22353
         },
         {
             "tag": "#UUC9PCQ",
@@ -1754,9 +1754,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/Log_7LbLQPCb9XMOcWO3iu8BLiM-3Qd0tSJPmOUYsfM.png"
                 }
             },
-            "attackCount": 13,
+            "attackCount": 17,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -1771,11 +1771,27 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 45,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 3715,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11856,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YQYVJ92C",
+                                "name": "SochieLife"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YQYVJ92C",
+                                "name": "SochieLife"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#YQYVJ92C",
@@ -1871,10 +1887,28 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 67,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 8310,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YQYVJ92C",
+                                "name": "SochieLife"
+                            },
+                            "destructionPercent": 67,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YQYVJ92C",
+                                "name": "SochieLife"
+                            },
+                            "destructionPercent": 22,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
