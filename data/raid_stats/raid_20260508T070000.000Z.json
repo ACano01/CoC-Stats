@@ -2680,9 +2680,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/RuNoh1CHFOFq7vDoLh3H64WpmX0tNdNwaHWlRwdm_6k.png"
                 }
             },
-            "attackCount": 18,
+            "attackCount": 22,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -2837,10 +2837,20 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 26,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 3530,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q22VC2C9L",
+                                "name": "DETH"
+                            },
+                            "destructionPercent": 26,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -2916,10 +2926,36 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11460,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q22VC2C9L",
+                                "name": "DETH"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q22VC2C9L",
+                                "name": "DETH"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q22VC2C9L",
+                                "name": "DETH"
+                            },
+                            "destructionPercent": 36,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
