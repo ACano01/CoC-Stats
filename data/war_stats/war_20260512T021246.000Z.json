@@ -15,16 +15,34 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 15,
-        "stars": 32,
-        "destructionPercentage": 44.24,
+        "attacks": 19,
+        "stars": 43,
+        "destructionPercentage": 59.88,
         "members": [
             {
                 "tag": "#9C229UGJ",
                 "name": "Chase",
                 "townhallLevel": 18,
                 "mapPosition": 3,
-                "opponentAttacks": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#9C229UGJ",
+                        "defenderTag": "#CQQLVJPG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 56,
+                        "duration": 105
+                    },
+                    {
+                        "attackerTag": "#9C229UGJ",
+                        "defenderTag": "#CC99PR9L",
+                        "stars": 2,
+                        "destructionPercentage": 91,
+                        "order": 57,
+                        "duration": 133
+                    }
+                ],
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#28UL92YLC",
                     "defenderTag": "#9C229UGJ",
@@ -155,7 +173,7 @@
                 "name": "- nancy 95",
                 "townhallLevel": 18,
                 "mapPosition": 2,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#CQQLVJPG",
                     "defenderTag": "#Q92RUPUJ",
@@ -250,6 +268,16 @@
                 "name": "King Hova",
                 "townhallLevel": 18,
                 "mapPosition": 17,
+                "attacks": [
+                    {
+                        "attackerTag": "#QC92VLPP",
+                        "defenderTag": "#22JQRYR0Q",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 59,
+                        "duration": 116
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#8G2Y90RC9",
@@ -305,7 +333,7 @@
                         "duration": 138
                     }
                 ],
-                "opponentAttacks": 4,
+                "opponentAttacks": 7,
                 "bestOpponentAttack": {
                     "attackerTag": "#CC99PR9L",
                     "defenderTag": "#L2PQ9QLUC",
@@ -443,6 +471,16 @@
                 "name": "ZAC JB.",
                 "townhallLevel": 15,
                 "mapPosition": 22,
+                "attacks": [
+                    {
+                        "attackerTag": "#8GVP0V8CJ",
+                        "defenderTag": "#2U0ULVUUY",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 60,
+                        "duration": 122
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#8GQY928CY",
@@ -549,7 +587,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/F_IbE1NFSNr2n2e_PifZ90ILI9zJobP6tiXFgYmd_ho.png"
         },
         "clanLevel": 35,
-        "attacks": 36,
+        "attacks": 41,
         "stars": 75,
         "destructionPercentage": 100.0,
         "members": [
@@ -576,7 +614,15 @@
                         "duration": 97
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9C229UGJ",
+                    "defenderTag": "#CQQLVJPG",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 56,
+                    "duration": 105
+                }
             },
             {
                 "tag": "#U2PQJUG2",
@@ -608,7 +654,15 @@
                         "duration": 114
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9C229UGJ",
+                    "defenderTag": "#CC99PR9L",
+                    "stars": 2,
+                    "destructionPercentage": 91,
+                    "order": 57,
+                    "duration": 133
+                }
             },
             {
                 "tag": "#Q9PVGURR",
@@ -731,7 +785,15 @@
                 "name": "Tokyo~.",
                 "townhallLevel": 15,
                 "mapPosition": 23,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8GVP0V8CJ",
+                    "defenderTag": "#2U0ULVUUY",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 60,
+                    "duration": 122
+                }
             },
             {
                 "tag": "#LU820VYV",
@@ -803,6 +865,24 @@
                 "name": "derek",
                 "townhallLevel": 18,
                 "mapPosition": 6,
+                "attacks": [
+                    {
+                        "attackerTag": "#YUJJLPVUU",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 52,
+                        "duration": 104
+                    },
+                    {
+                        "attackerTag": "#YUJJLPVUU",
+                        "defenderTag": "#Q92RUPUJ",
+                        "stars": 2,
+                        "destructionPercentage": 92,
+                        "order": 53,
+                        "duration": 118
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
@@ -934,7 +1014,15 @@
                         "duration": 165
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QC92VLPP",
+                    "defenderTag": "#22JQRYR0Q",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 59,
+                    "duration": 116
+                }
             },
             {
                 "tag": "#G0RU2QVQC",
@@ -1065,6 +1153,24 @@
                 "name": "Hammond River",
                 "townhallLevel": 18,
                 "mapPosition": 12,
+                "attacks": [
+                    {
+                        "attackerTag": "#V2LLY2JU",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 1,
+                        "destructionPercentage": 26,
+                        "order": 54,
+                        "duration": 27
+                    },
+                    {
+                        "attackerTag": "#V2LLY2JU",
+                        "defenderTag": "#9C229UGJ",
+                        "stars": 1,
+                        "destructionPercentage": 21,
+                        "order": 55,
+                        "duration": 26
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -1138,6 +1244,16 @@
                 "name": "supertreekoboy",
                 "townhallLevel": 16,
                 "mapPosition": 20,
+                "attacks": [
+                    {
+                        "attackerTag": "#Y9LGCP8PV",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 2,
+                        "destructionPercentage": 80,
+                        "order": 58,
+                        "duration": 111
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PYVCVQP9",
