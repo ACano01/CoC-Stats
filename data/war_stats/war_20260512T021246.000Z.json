@@ -15,16 +15,16 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 14,
-        "stars": 30,
-        "destructionPercentage": 41.36,
+        "attacks": 15,
+        "stars": 32,
+        "destructionPercentage": 44.24,
         "members": [
             {
                 "tag": "#9C229UGJ",
                 "name": "Chase",
                 "townhallLevel": 18,
                 "mapPosition": 3,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#28UL92YLC",
                     "defenderTag": "#9C229UGJ",
@@ -49,7 +49,7 @@
                         "duration": 138
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#Q9U8GPJ0V",
                     "defenderTag": "#2PULPGL90",
@@ -305,7 +305,7 @@
                         "duration": 138
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#CC99PR9L",
                     "defenderTag": "#L2PQ9QLUC",
@@ -443,7 +443,15 @@
                 "name": "ZAC JB.",
                 "townhallLevel": 15,
                 "mapPosition": 22,
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8GQY928CY",
+                    "defenderTag": "#8GVP0V8CJ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 49,
+                    "duration": 97
+                }
             },
             {
                 "tag": "#LRR0LP2J0",
@@ -495,6 +503,16 @@
                 "name": "family buffalo",
                 "townhallLevel": 18,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#2VYVULCVL",
+                        "defenderTag": "#28UL92YLC",
+                        "stars": 2,
+                        "destructionPercentage": 72,
+                        "order": 48,
+                        "duration": 105
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#Q9PVGURR",
@@ -531,9 +549,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/F_IbE1NFSNr2n2e_PifZ90ILI9zJobP6tiXFgYmd_ho.png"
         },
         "clanLevel": 35,
-        "attacks": 31,
-        "stars": 72,
-        "destructionPercentage": 96.0,
+        "attacks": 36,
+        "stars": 75,
+        "destructionPercentage": 100.0,
         "members": [
             {
                 "tag": "#CQQLVJPG",
@@ -688,6 +706,14 @@
                         "destructionPercentage": 13,
                         "order": 45,
                         "duration": 13
+                    },
+                    {
+                        "attackerTag": "#RRYQRV2Y",
+                        "defenderTag": "#9C229UGJ",
+                        "stars": 1,
+                        "destructionPercentage": 15,
+                        "order": 51,
+                        "duration": 14
                     }
                 ],
                 "opponentAttacks": 1,
@@ -832,6 +858,24 @@
                 "name": "abe",
                 "townhallLevel": 18,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#8GQY928CY",
+                        "defenderTag": "#8GVP0V8CJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 49,
+                        "duration": 97
+                    },
+                    {
+                        "attackerTag": "#8GQY928CY",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 50,
+                        "duration": 117
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#L2PQ9QLUC",
@@ -872,6 +916,24 @@
                 "name": "XxHFDxX",
                 "townhallLevel": 17,
                 "mapPosition": 18,
+                "attacks": [
+                    {
+                        "attackerTag": "#22JQRYR0Q",
+                        "defenderTag": "#8GVP0V8CJ",
+                        "stars": 2,
+                        "destructionPercentage": 89,
+                        "order": 46,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#22JQRYR0Q",
+                        "defenderTag": "#2PULPGL90",
+                        "stars": 1,
+                        "destructionPercentage": 75,
+                        "order": 47,
+                        "duration": 165
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -1061,7 +1123,15 @@
                         "duration": 128
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2VYVULCVL",
+                    "defenderTag": "#28UL92YLC",
+                    "stars": 2,
+                    "destructionPercentage": 72,
+                    "order": 48,
+                    "duration": 105
+                }
             },
             {
                 "tag": "#Y9LGCP8PV",
