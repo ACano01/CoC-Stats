@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 27,
-        "stars": 56,
-        "destructionPercentage": 80.56,
+        "attacks": 32,
+        "stars": 63,
+        "destructionPercentage": 89.0,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -304,6 +304,14 @@
                         "destructionPercentage": 100,
                         "order": 59,
                         "duration": 116
+                    },
+                    {
+                        "attackerTag": "#QC92VLPP",
+                        "defenderTag": "#Q9U8GPJ0V",
+                        "stars": 1,
+                        "destructionPercentage": 78,
+                        "order": 74,
+                        "duration": 131
                     }
                 ],
                 "opponentAttacks": 1,
@@ -344,6 +352,14 @@
                         "destructionPercentage": 100,
                         "order": 68,
                         "duration": 137
+                    },
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#2V2L9LR2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 71,
+                        "duration": 125
                     }
                 ],
                 "opponentAttacks": 2,
@@ -444,6 +460,16 @@
                 "name": "night dragon",
                 "townhallLevel": 15,
                 "mapPosition": 24,
+                "attacks": [
+                    {
+                        "attackerTag": "#LPU0GGCJQ",
+                        "defenderTag": "#L9CVPL8QR",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 70,
+                        "duration": 130
+                    }
+                ],
                 "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#2000RRRY0",
@@ -582,6 +608,24 @@
                 "name": "fadi",
                 "townhallLevel": 18,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#YR922PJC0",
+                        "defenderTag": "#2G8Y2R09",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 72,
+                        "duration": 119
+                    },
+                    {
+                        "attackerTag": "#YR922PJC0",
+                        "defenderTag": "#CC99PR9L",
+                        "stars": 1,
+                        "destructionPercentage": 76,
+                        "order": 73,
+                        "duration": 126
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#VPYPLGVL",
@@ -746,7 +790,7 @@
                         "duration": 114
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#9C229UGJ",
                     "defenderTag": "#CC99PR9L",
@@ -951,7 +995,15 @@
                         "duration": 30
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LPU0GGCJQ",
+                    "defenderTag": "#L9CVPL8QR",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 70,
+                    "duration": 130
+                }
             },
             {
                 "tag": "#89U099909",
@@ -1039,7 +1091,15 @@
                 "name": "Phil",
                 "townhallLevel": 18,
                 "mapPosition": 11,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YR922PJC0",
+                    "defenderTag": "#2G8Y2R09",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 72,
+                    "duration": 119
+                }
             },
             {
                 "tag": "#8GQY928CY",
@@ -1188,14 +1248,14 @@
                         "duration": 102
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#GU2UVG9CV",
+                    "attackerTag": "#V0GYVCJ9",
                     "defenderTag": "#2V2L9LR2",
-                    "stars": 2,
-                    "destructionPercentage": 89,
-                    "order": 67,
-                    "duration": 113
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 71,
+                    "duration": 125
                 }
             },
             {
@@ -1320,7 +1380,7 @@
                         "duration": 100
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#2P8LYJCUR",
                     "defenderTag": "#Q9U8GPJ0V",
