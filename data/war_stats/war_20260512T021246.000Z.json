@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 44,
+        "attacks": 47,
         "stars": 72,
         "destructionPercentage": 98.08,
         "members": [
@@ -98,6 +98,14 @@
                         "destructionPercentage": 100,
                         "order": 39,
                         "duration": 102
+                    },
+                    {
+                        "attackerTag": "#U90CYLQ2",
+                        "defenderTag": "#Q9U8GPJ0V",
+                        "stars": 2,
+                        "destructionPercentage": 69,
+                        "order": 89,
+                        "duration": 93
                     }
                 ],
                 "opponentAttacks": 1,
@@ -379,6 +387,24 @@
                 "name": "Polaris",
                 "townhallLevel": 15,
                 "mapPosition": 21,
+                "attacks": [
+                    {
+                        "attackerTag": "#99VC2CU9",
+                        "defenderTag": "#Q9U8GPJ0V",
+                        "stars": 2,
+                        "destructionPercentage": 59,
+                        "order": 90,
+                        "duration": 95
+                    },
+                    {
+                        "attackerTag": "#99VC2CU9",
+                        "defenderTag": "#28UL92YLC",
+                        "stars": 1,
+                        "destructionPercentage": 52,
+                        "order": 91,
+                        "duration": 79
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2V2L9LR2",
@@ -1502,7 +1528,7 @@
                         "duration": 100
                     }
                 ],
-                "opponentAttacks": 7,
+                "opponentAttacks": 9,
                 "bestOpponentAttack": {
                     "attackerTag": "#2P8LYJCUR",
                     "defenderTag": "#Q9U8GPJ0V",
@@ -1535,7 +1561,7 @@
                         "duration": 128
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#Q92RUPUJ",
                     "defenderTag": "#28UL92YLC",
