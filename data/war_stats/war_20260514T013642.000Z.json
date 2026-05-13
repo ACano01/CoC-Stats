@@ -1,0 +1,389 @@
+{
+    "state": "preparation",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "preparationStartTime": "20260513T023642.000Z",
+    "startTime": "20260514T013642.000Z",
+    "endTime": "20260515T013642.000Z",
+    "clan": {
+        "tag": "#CPJQ2JV",
+        "name": "Christ",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
+        },
+        "clanLevel": 33,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#9C229UGJ",
+                "name": "Chase",
+                "townhallLevel": 18,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2PULPGL90",
+                "name": "M M 1960",
+                "townhallLevel": 18,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#U90CYLQ2",
+                "name": "Ben",
+                "townhallLevel": 16,
+                "mapPosition": 17,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YQYVJ92C",
+                "name": "SochieLife",
+                "townhallLevel": 18,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9C9GUPV9R",
+                "name": "RYouANacho",
+                "townhallLevel": 14,
+                "mapPosition": 24,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#UUC9PCQ",
+                "name": "Beat my Wifi",
+                "townhallLevel": 18,
+                "mapPosition": 12,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YL0VJ2YY",
+                "name": "Choong",
+                "townhallLevel": 18,
+                "mapPosition": 13,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#Q92RUPUJ",
+                "name": "- nancy 95",
+                "townhallLevel": 18,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#800CC2CCG",
+                "name": "also Carsten",
+                "townhallLevel": 17,
+                "mapPosition": 19,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#VPJYP29",
+                "name": "Viking",
+                "townhallLevel": 18,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#99VJ2VVPQ",
+                "name": "The Sage",
+                "townhallLevel": 18,
+                "mapPosition": 15,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9G92CY9L",
+                "name": "brandondepalma",
+                "townhallLevel": 18,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QC92VLPP",
+                "name": "King Hova",
+                "townhallLevel": 18,
+                "mapPosition": 16,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#99VC2CU9",
+                "name": "Polaris",
+                "townhallLevel": 15,
+                "mapPosition": 20,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#V0GYVCJ9",
+                "name": "YAGO",
+                "townhallLevel": 18,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#L2PQ9QLUC",
+                "name": "BossHogg",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#UQQ0LJLP",
+                "name": "mike",
+                "townhallLevel": 18,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2PYVCVQP9",
+                "name": "Carsten",
+                "townhallLevel": 17,
+                "mapPosition": 18,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LPU0GGCJQ",
+                "name": "night dragon",
+                "townhallLevel": 15,
+                "mapPosition": 23,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8RJ8CC8LU",
+                "name": "COBRA",
+                "townhallLevel": 15,
+                "mapPosition": 22,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GU2UVG9CV",
+                "name": "Viking 2",
+                "townhallLevel": 17,
+                "mapPosition": 14,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8GVP0V8CJ",
+                "name": "ZAC JB.",
+                "townhallLevel": 15,
+                "mapPosition": 21,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LRR0LP2J0",
+                "name": "Joey Salads",
+                "townhallLevel": 13,
+                "mapPosition": 25,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2VYVULCVL",
+                "name": "family buffalo",
+                "townhallLevel": 18,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2P8LYJCUR",
+                "name": "nofreelunch",
+                "townhallLevel": 18,
+                "mapPosition": 11,
+                "opponentAttacks": 0
+            }
+        ]
+    },
+    "opponent": {
+        "tag": "#U8LPP2U",
+        "name": "Konoha team",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/hVRUdGImNSe53Gz-RrudC_8Uf-WM8uu7SUiXs0jKCI4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/hVRUdGImNSe53Gz-RrudC_8Uf-WM8uu7SUiXs0jKCI4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/hVRUdGImNSe53Gz-RrudC_8Uf-WM8uu7SUiXs0jKCI4.png"
+        },
+        "clanLevel": 26,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#2Q0QR8L0",
+                "name": "\u2b50Oitavo Hokage\u2b50",
+                "townhallLevel": 15,
+                "mapPosition": 20,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#888RLG2VV",
+                "name": "Magnata BR",
+                "townhallLevel": 18,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#28C8QVCLP",
+                "name": "\u2b50Orochimaru\u2b50",
+                "townhallLevel": 16,
+                "mapPosition": 18,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#88UUQP9V",
+                "name": "Eduardo\u2605\u2605\u2605",
+                "townhallLevel": 18,
+                "mapPosition": 14,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#RPQYU2U",
+                "name": "Allan",
+                "townhallLevel": 15,
+                "mapPosition": 22,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#UR0R8J9G",
+                "name": "pazza",
+                "townhallLevel": 18,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#UGCYLPR",
+                "name": "Tobias_Heitor",
+                "townhallLevel": 18,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YJC0Q2J",
+                "name": "\u2b50Mestre C\u00e9sar\u2b50",
+                "townhallLevel": 18,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YY8JC8JR",
+                "name": "Diiego",
+                "townhallLevel": 18,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#VQVJVQP8",
+                "name": "VELHO PUNK",
+                "townhallLevel": 16,
+                "mapPosition": 19,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2098PQUU",
+                "name": "nicnic",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#P08RPPPCQ",
+                "name": "\u2667\u2605TROYA\u2606\u2663$",
+                "townhallLevel": 18,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#PGRQYJCC",
+                "name": "Vit\u00e3o",
+                "townhallLevel": 17,
+                "mapPosition": 15,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#Y90YR8LVU",
+                "name": "- NiGthWoOLF\u2122",
+                "townhallLevel": 18,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8Y20LL9R9",
+                "name": "\u2b50Tan\u00e3\u2122\u2b50",
+                "townhallLevel": 18,
+                "mapPosition": 11,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R8PQPVC2V",
+                "name": "Morcego",
+                "townhallLevel": 12,
+                "mapPosition": 25,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2QL9QCVL2",
+                "name": "\u2b50Aline Hyuuga\u2b50",
+                "townhallLevel": 18,
+                "mapPosition": 12,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#L08VVYLLV",
+                "name": "Mateus",
+                "townhallLevel": 13,
+                "mapPosition": 24,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#RPU2VUUP",
+                "name": "\u2b50Madara Uchiha\u2b50",
+                "townhallLevel": 18,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#88CLCJ2CG",
+                "name": "LORD OF WAR",
+                "townhallLevel": 18,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R0R0JURR",
+                "name": "LU\u00cdS FERNANDO",
+                "townhallLevel": 16,
+                "mapPosition": 17,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#L2JUQ2GRQ",
+                "name": "L. Fernando",
+                "townhallLevel": 15,
+                "mapPosition": 21,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LU8L0Y8GG",
+                "name": "M\u00a3!4NoO!T\u00a3",
+                "townhallLevel": 18,
+                "mapPosition": 13,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2RC2QGVC",
+                "name": "Diego",
+                "townhallLevel": 17,
+                "mapPosition": 16,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LY8PR82U",
+                "name": "\u2b50ZabuzaMomochi\u2b50",
+                "townhallLevel": 15,
+                "mapPosition": 23,
+                "opponentAttacks": 0
+            }
+        ]
+    }
+}
