@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 17,
-        "stars": 49,
-        "destructionPercentage": 66.56,
+        "attacks": 20,
+        "stars": 55,
+        "destructionPercentage": 74.68,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -215,7 +215,15 @@
                         "duration": 139
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#UR0R8J9G",
+                    "defenderTag": "#VPJYP29",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 35,
+                    "duration": 126
+                }
             },
             {
                 "tag": "#99VJ2VVPQ",
@@ -344,6 +352,14 @@
                         "destructionPercentage": 100,
                         "order": 19,
                         "duration": 92
+                    },
+                    {
+                        "attackerTag": "#UQQ0LJLP",
+                        "defenderTag": "#YJC0Q2J",
+                        "stars": 2,
+                        "destructionPercentage": 78,
+                        "order": 34,
+                        "duration": 114
                     }
                 ],
                 "opponentAttacks": 1,
@@ -425,6 +441,16 @@
                 "name": "ZAC JB.",
                 "townhallLevel": 15,
                 "mapPosition": 21,
+                "attacks": [
+                    {
+                        "attackerTag": "#8GVP0V8CJ",
+                        "defenderTag": "#RPQYU2U",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 33,
+                        "duration": 146
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -462,6 +488,16 @@
                 "name": "nofreelunch",
                 "townhallLevel": 18,
                 "mapPosition": 11,
+                "attacks": [
+                    {
+                        "attackerTag": "#2P8LYJCUR",
+                        "defenderTag": "#2QL9QCVL2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 36,
+                        "duration": 151
+                    }
+                ],
                 "opponentAttacks": 0
             }
         ]
@@ -475,9 +511,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/hVRUdGImNSe53Gz-RrudC_8Uf-WM8uu7SUiXs0jKCI4.png"
         },
         "clanLevel": 26,
-        "attacks": 15,
-        "stars": 37,
-        "destructionPercentage": 50.8,
+        "attacks": 16,
+        "stars": 40,
+        "destructionPercentage": 54.8,
         "members": [
             {
                 "tag": "#2Q0QR8L0",
@@ -538,13 +574,31 @@
                 "name": "Allan",
                 "townhallLevel": 15,
                 "mapPosition": 22,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8GVP0V8CJ",
+                    "defenderTag": "#RPQYU2U",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 33,
+                    "duration": 146
+                }
             },
             {
                 "tag": "#UR0R8J9G",
                 "name": "pazza",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#UR0R8J9G",
+                        "defenderTag": "#VPJYP29",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 35,
+                        "duration": 126
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#9G92CY9L",
@@ -593,14 +647,14 @@
                         "duration": 131
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#Q92RUPUJ",
+                    "attackerTag": "#UQQ0LJLP",
                     "defenderTag": "#YJC0Q2J",
                     "stars": 2,
-                    "destructionPercentage": 75,
-                    "order": 21,
-                    "duration": 128
+                    "destructionPercentage": 78,
+                    "order": 34,
+                    "duration": 114
                 }
             },
             {
@@ -758,7 +812,15 @@
                 "name": "\u2b50Aline Hyuuga\u2b50",
                 "townhallLevel": 18,
                 "mapPosition": 12,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2P8LYJCUR",
+                    "defenderTag": "#2QL9QCVL2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 36,
+                    "duration": 151
+                }
             },
             {
                 "tag": "#L08VVYLLV",
