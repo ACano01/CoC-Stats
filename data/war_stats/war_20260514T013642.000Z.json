@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 23,
-        "stars": 61,
-        "destructionPercentage": 83.48,
+        "attacks": 28,
+        "stars": 72,
+        "destructionPercentage": 96.0,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -75,7 +75,15 @@
                         "duration": 102
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#UGCYLPR",
+                    "defenderTag": "#2PULPGL90",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 50,
+                    "duration": 178
+                }
             },
             {
                 "tag": "#U90CYLQ2",
@@ -207,6 +215,14 @@
                         "destructionPercentage": 75,
                         "order": 21,
                         "duration": 128
+                    },
+                    {
+                        "attackerTag": "#Q92RUPUJ",
+                        "defenderTag": "#88UUQP9V",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 47,
+                        "duration": 113
                     }
                 ],
                 "opponentAttacks": 1,
@@ -224,6 +240,16 @@
                 "name": "also Carsten",
                 "townhallLevel": 17,
                 "mapPosition": 19,
+                "attacks": [
+                    {
+                        "attackerTag": "#800CC2CCG",
+                        "defenderTag": "#2Q0QR8L0",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 45,
+                        "duration": 142
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#VQVJVQP8",
@@ -297,6 +323,14 @@
                         "destructionPercentage": 100,
                         "order": 6,
                         "duration": 142
+                    },
+                    {
+                        "attackerTag": "#9G92CY9L",
+                        "defenderTag": "#888RLG2VV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 51,
+                        "duration": 111
                     }
                 ],
                 "opponentAttacks": 2,
@@ -349,13 +383,31 @@
                         "duration": 90
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2Q0QR8L0",
+                    "defenderTag": "#99VC2CU9",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 46,
+                    "duration": 129
+                }
             },
             {
                 "tag": "#V0GYVCJ9",
                 "name": "YAGO",
                 "townhallLevel": 18,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#P08RPPPCQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 48,
+                        "duration": 144
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#LU8L0Y8GG",
@@ -371,6 +423,16 @@
                 "name": "BossHogg",
                 "townhallLevel": 18,
                 "mapPosition": 1,
+                "attacks": [
+                    {
+                        "attackerTag": "#L2PQ9QLUC",
+                        "defenderTag": "#88CLCJ2CG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 49,
+                        "duration": 142
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#YJC0Q2J",
@@ -563,16 +625,34 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/hVRUdGImNSe53Gz-RrudC_8Uf-WM8uu7SUiXs0jKCI4.png"
         },
         "clanLevel": 26,
-        "attacks": 21,
-        "stars": 51,
-        "destructionPercentage": 68.0,
+        "attacks": 23,
+        "stars": 57,
+        "destructionPercentage": 76.0,
         "members": [
             {
                 "tag": "#2Q0QR8L0",
                 "name": "\u2b50Oitavo Hokage\u2b50",
                 "townhallLevel": 15,
                 "mapPosition": 20,
-                "opponentAttacks": 0
+                "attacks": [
+                    {
+                        "attackerTag": "#2Q0QR8L0",
+                        "defenderTag": "#99VC2CU9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 46,
+                        "duration": 129
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#800CC2CCG",
+                    "defenderTag": "#2Q0QR8L0",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 45,
+                    "duration": 142
+                }
             },
             {
                 "tag": "#888RLG2VV",
@@ -589,14 +669,14 @@
                         "duration": 172
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#9C229UGJ",
+                    "attackerTag": "#9G92CY9L",
                     "defenderTag": "#888RLG2VV",
-                    "stars": 2,
-                    "destructionPercentage": 98,
-                    "order": 39,
-                    "duration": 175
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 51,
+                    "duration": 111
                 }
             },
             {
@@ -629,14 +709,14 @@
                         "duration": 129
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#YL0VJ2YY",
+                    "attackerTag": "#Q92RUPUJ",
                     "defenderTag": "#88UUQP9V",
-                    "stars": 2,
-                    "destructionPercentage": 89,
-                    "order": 32,
-                    "duration": 139
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 47,
+                    "duration": 113
                 }
             },
             {
@@ -692,6 +772,14 @@
                         "destructionPercentage": 77,
                         "order": 38,
                         "duration": 156
+                    },
+                    {
+                        "attackerTag": "#UGCYLPR",
+                        "defenderTag": "#2PULPGL90",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 50,
+                        "duration": 178
                     }
                 ],
                 "opponentAttacks": 1,
@@ -815,7 +903,15 @@
                 "name": "\u2667\u2605TROYA\u2606\u2663$",
                 "townhallLevel": 18,
                 "mapPosition": 10,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#V0GYVCJ9",
+                    "defenderTag": "#P08RPPPCQ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 48,
+                    "duration": 144
+                }
             },
             {
                 "tag": "#PGRQYJCC",
@@ -973,7 +1069,15 @@
                 "name": "LORD OF WAR",
                 "townhallLevel": 18,
                 "mapPosition": 2,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#L2PQ9QLUC",
+                    "defenderTag": "#88CLCJ2CG",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 49,
+                    "duration": 142
+                }
             },
             {
                 "tag": "#R0R0JURR",
