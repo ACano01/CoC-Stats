@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260515T070000.000Z",
     "endTime": "20260518T070000.000Z",
-    "capitalTotalLoot": 220457,
+    "capitalTotalLoot": 232649,
     "raidsCompleted": 2,
-    "totalAttacks": 53,
-    "enemyDistrictsDestroyed": 20,
+    "totalAttacks": 56,
+    "enemyDistrictsDestroyed": 21,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -64,6 +64,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 2538
+        },
+        {
+            "tag": "#L2PQ9QLUC",
+            "name": "BossHogg",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12192
         },
         {
             "tag": "#PQC82LLR",
@@ -718,9 +726,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/i7RtQyberuJPDtY3TXBK2nkTozDoy_exZJbw36y2jLg.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 9,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -850,10 +858,36 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12192,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 99,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
@@ -870,7 +904,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/gFnvgG1a1L66eV4e6wYK3xGiJs9lW6hHaSKCaJ1xl2E.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 8,
             "districtCount": 9,
             "districtsDestroyed": 1,
             "districts": [
@@ -1002,10 +1036,28 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 84,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 8980,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#288RGVLYG",
+                                "name": "\uc544\uc2f8\ub77c\ube44\uc544"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#288RGVLYG",
+                                "name": "\uc544\uc2f8\ub77c\ube44\uc544"
+                            },
+                            "destructionPercent": 51,
+                            "stars": 2
+                        }
+                    ]
                 }
             ]
         }
