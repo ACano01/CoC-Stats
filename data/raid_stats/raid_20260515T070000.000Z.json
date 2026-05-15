@@ -2,20 +2,68 @@
     "state": "ongoing",
     "startTime": "20260515T070000.000Z",
     "endTime": "20260518T070000.000Z",
-    "capitalTotalLoot": 35584,
-    "raidsCompleted": 0,
-    "totalAttacks": 9,
-    "enemyDistrictsDestroyed": 3,
+    "capitalTotalLoot": 138485,
+    "raidsCompleted": 1,
+    "totalAttacks": 34,
+    "enemyDistrictsDestroyed": 12,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
         {
-            "tag": "#LGUV2YP0",
-            "name": "Big Bry68",
+            "tag": "#9C229UGJ",
+            "name": "Chase",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 23817
+        },
+        {
+            "tag": "#2PULPGL90",
+            "name": "M M 1960",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 2450
+        },
+        {
+            "tag": "#U90CYLQ2",
+            "name": "Ben",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 6319
+        },
+        {
+            "tag": "#YL0VJ2YY",
+            "name": "Choong",
             "attacks": 3,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11918
+            "capitalResourcesLooted": 10945
+        },
+        {
+            "tag": "#LGUV2YP0",
+            "name": "Big Bry68",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 21779
+        },
+        {
+            "tag": "#PQC82LLR",
+            "name": "DocPeejay",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 28866
+        },
+        {
+            "tag": "#UQQ0LJLP",
+            "name": "mike",
+            "attacks": 4,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 20643
         },
         {
             "tag": "#Y8PJCG8L",
@@ -38,36 +86,114 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/kbUyFjEvddIETidLB3w0pPCKliBJEyvUm3lsZZwLYxw.png"
                 }
             },
-            "attackCount": 9,
+            "attackCount": 27,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13559,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LGUV2YP0",
+                                "name": "Big Bry68"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LGUV2YP0",
+                                "name": "Big Bry68"
+                            },
+                            "destructionPercent": 22,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11493,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 68,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PULPGL90",
+                                "name": "M M 1960"
+                            },
+                            "destructionPercent": 25,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10193,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -108,10 +234,36 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12251,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LGUV2YP0",
+                                "name": "Big Bry68"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 85,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 41,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -152,10 +304,36 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11709,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
@@ -189,6 +367,192 @@
                             },
                             "destructionPercent": 40,
                             "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12108,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 92,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2QU9GVRQ0",
+                "name": "Single Boys",
+                "level": 14,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/gOlpxV1DF-1sLWssYCQwNYUIwUt6BrPORCWJ43Ap7KY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/gOlpxV1DF-1sLWssYCQwNYUIwUt6BrPORCWJ43Ap7KY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/gOlpxV1DF-1sLWssYCQwNYUIwUt6BrPORCWJ43Ap7KY.png"
+                }
+            },
+            "attackCount": 7,
+            "districtCount": 9,
+            "districtsDestroyed": 3,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9886,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UQQ0LJLP",
+                                "name": "mike"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UQQ0LJLP",
+                                "name": "mike"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10945,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 99,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10757,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UQQ0LJLP",
+                                "name": "mike"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UQQ0LJLP",
+                                "name": "mike"
+                            },
+                            "destructionPercent": 72,
+                            "stars": 2
                         }
                     ]
                 },
