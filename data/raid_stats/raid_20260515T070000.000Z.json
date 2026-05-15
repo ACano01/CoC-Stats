@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260515T070000.000Z",
     "endTime": "20260518T070000.000Z",
-    "capitalTotalLoot": 23666,
+    "capitalTotalLoot": 35584,
     "raidsCompleted": 0,
-    "totalAttacks": 6,
-    "enemyDistrictsDestroyed": 2,
+    "totalAttacks": 9,
+    "enemyDistrictsDestroyed": 3,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#LGUV2YP0",
+            "name": "Big Bry68",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11918
+        },
         {
             "tag": "#Y8PJCG8L",
             "name": "Chmmr",
@@ -30,9 +38,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/kbUyFjEvddIETidLB3w0pPCKliBJEyvUm3lsZZwLYxw.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 9,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -109,10 +117,36 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11918,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LGUV2YP0",
+                                "name": "Big Bry68"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LGUV2YP0",
+                                "name": "Big Bry68"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LGUV2YP0",
+                                "name": "Big Bry68"
+                            },
+                            "destructionPercent": 24,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
