@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260515T070000.000Z",
     "endTime": "20260518T070000.000Z",
-    "capitalTotalLoot": 266526,
+    "capitalTotalLoot": 289067,
     "raidsCompleted": 2,
-    "totalAttacks": 64,
-    "enemyDistrictsDestroyed": 24,
+    "totalAttacks": 70,
+    "enemyDistrictsDestroyed": 26,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -88,6 +88,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 30122
+        },
+        {
+            "tag": "#8RJ8CC8LU",
+            "name": "COBRA",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 22541
         },
         {
             "tag": "#GU2UVG9CV",
@@ -734,9 +742,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/i7RtQyberuJPDtY3TXBK2nkTozDoy_exZJbw36y2jLg.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 23,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
@@ -751,19 +759,71 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11811,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 32,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10730,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 87,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -982,9 +1042,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/gFnvgG1a1L66eV4e6wYK3xGiJs9lW6hHaSKCaJ1xl2E.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 14,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -1026,29 +1086,73 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 55,
+                    "stars": 2,
+                    "attackCount": 1,
+                    "totalLooted": 6095,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#990V2UVJR",
+                                "name": "\ud0a4\ub860"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11867,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#990V2UVJR",
+                                "name": "\ud0a4\ub860"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#990V2UVJR",
+                                "name": "\ud0a4\ub860"
+                            },
+                            "destructionPercent": 75,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#990V2UVJR",
+                                "name": "\ud0a4\ub860"
+                            },
+                            "destructionPercent": 24,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 59,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 5760,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11580,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#990V2UVJR",
+                                "name": "\ud0a4\ub860"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#GGP8CJPJY",
@@ -1114,11 +1218,19 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 84,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 8980,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12114,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#990V2UVJR",
+                                "name": "\ud0a4\ub860"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#288RGVLYG",
