@@ -15,15 +15,25 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 22,
-        "stars": 46,
-        "destructionPercentage": 63.16,
+        "attacks": 25,
+        "stars": 51,
+        "destructionPercentage": 70.04,
         "members": [
             {
                 "tag": "#9C229UGJ",
                 "name": "Chase",
                 "townhallLevel": 18,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#9C229UGJ",
+                        "defenderTag": "#QR8LVPJCC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 45,
+                        "duration": 117
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#9CUPL9UQ0",
@@ -141,6 +151,24 @@
                 "name": "Big Bry68",
                 "townhallLevel": 18,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#LGUV2YP0",
+                        "defenderTag": "#QJ0YVVPJ8",
+                        "stars": 1,
+                        "destructionPercentage": 60,
+                        "order": 43,
+                        "duration": 110
+                    },
+                    {
+                        "attackerTag": "#LGUV2YP0",
+                        "defenderTag": "#280UGL8GG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 44,
+                        "duration": 150
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -752,7 +780,15 @@
                         "duration": 140
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LGUV2YP0",
+                    "defenderTag": "#QJ0YVVPJ8",
+                    "stars": 1,
+                    "destructionPercentage": 60,
+                    "order": 43,
+                    "duration": 110
+                }
             },
             {
                 "tag": "#UJQ2CGG2",
@@ -851,7 +887,15 @@
                 "name": "Jefe",
                 "townhallLevel": 18,
                 "mapPosition": 3,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9C229UGJ",
+                    "defenderTag": "#QR8LVPJCC",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 45,
+                    "duration": 117
+                }
             },
             {
                 "tag": "#YCR9ULLP0",
@@ -920,14 +964,14 @@
                 "name": "Alonso.CR\u2665",
                 "townhallLevel": 15,
                 "mapPosition": 24,
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#LPU0GGCJQ",
+                    "attackerTag": "#LGUV2YP0",
                     "defenderTag": "#280UGL8GG",
-                    "stars": 2,
-                    "destructionPercentage": 88,
-                    "order": 19,
-                    "duration": 180
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 44,
+                    "duration": 150
                 }
             },
             {
