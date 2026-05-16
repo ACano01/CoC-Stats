@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 41,
+        "attacks": 43,
         "stars": 75,
         "destructionPercentage": 100.0,
         "members": [
@@ -141,7 +141,7 @@
                         "duration": 171
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#QJ0YVVPJ8",
                     "defenderTag": "#YQYVJ92C",
@@ -468,6 +468,14 @@
                         "destructionPercentage": 73,
                         "order": 54,
                         "duration": 127
+                    },
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#YCR9ULLP0",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 76,
+                        "duration": 138
                     }
                 ],
                 "opponentAttacks": 1,
@@ -493,6 +501,14 @@
                         "destructionPercentage": 100,
                         "order": 72,
                         "duration": 150
+                    },
+                    {
+                        "attackerTag": "#L2PQ9QLUC",
+                        "defenderTag": "#RU9LVV9C",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 77,
+                        "duration": 124
                     }
                 ],
                 "opponentAttacks": 2,
@@ -690,7 +706,15 @@
                 "name": "Joey Salads",
                 "townhallLevel": 13,
                 "mapPosition": 25,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#UJQ2CGG2",
+                    "defenderTag": "#LRR0LP2J0",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 80,
+                    "duration": 118
+                }
             },
             {
                 "tag": "#2VYVULCVL",
@@ -715,14 +739,14 @@
                         "duration": 159
                     }
                 ],
-                "opponentAttacks": 5,
+                "opponentAttacks": 6,
                 "bestOpponentAttack": {
-                    "attackerTag": "#RU9LVV9C",
+                    "attackerTag": "#L2RJ9QPL2",
                     "defenderTag": "#2VYVULCVL",
-                    "stars": 2,
-                    "destructionPercentage": 94,
-                    "order": 31,
-                    "duration": 119
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 78,
+                    "duration": 164
                 }
             },
             {
@@ -769,9 +793,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png"
         },
         "clanLevel": 19,
-        "attacks": 34,
-        "stars": 70,
-        "destructionPercentage": 95.36,
+        "attacks": 38,
+        "stars": 74,
+        "destructionPercentage": 99.6,
         "members": [
             {
                 "tag": "#RU9LVV9C",
@@ -796,7 +820,7 @@
                         "duration": 82
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
                     "defenderTag": "#RU9LVV9C",
@@ -958,6 +982,24 @@
                 "name": "zPapiDanger-",
                 "townhallLevel": 18,
                 "mapPosition": 6,
+                "attacks": [
+                    {
+                        "attackerTag": "#L2RJ9QPL2",
+                        "defenderTag": "#2VYVULCVL",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 78,
+                        "duration": 164
+                    },
+                    {
+                        "attackerTag": "#L2RJ9QPL2",
+                        "defenderTag": "#YQYVJ92C",
+                        "stars": 2,
+                        "destructionPercentage": 89,
+                        "order": 81,
+                        "duration": 180
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#UQQ0LJLP",
@@ -1039,6 +1081,24 @@
                 "name": "Luis armando",
                 "townhallLevel": 17,
                 "mapPosition": 16,
+                "attacks": [
+                    {
+                        "attackerTag": "#UJQ2CGG2",
+                        "defenderTag": "#YQYVJ92C",
+                        "stars": 2,
+                        "destructionPercentage": 52,
+                        "order": 79,
+                        "duration": 105
+                    },
+                    {
+                        "attackerTag": "#UJQ2CGG2",
+                        "defenderTag": "#LRR0LP2J0",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 80,
+                        "duration": 118
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#99VJ2VVPQ",
@@ -1244,7 +1304,7 @@
                         "duration": 160
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#L2PQ9QLUC",
                     "defenderTag": "#YCR9ULLP0",
