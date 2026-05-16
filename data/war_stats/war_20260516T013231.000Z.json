@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 32,
-        "stars": 66,
-        "destructionPercentage": 88.84,
+        "attacks": 35,
+        "stars": 70,
+        "destructionPercentage": 94.68,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -123,6 +123,14 @@
                         "destructionPercentage": 100,
                         "order": 47,
                         "duration": 152
+                    },
+                    {
+                        "attackerTag": "#YQYVJ92C",
+                        "defenderTag": "#2U20GL8UP",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 55,
+                        "duration": 171
                     }
                 ],
                 "opponentAttacks": 1,
@@ -363,6 +371,14 @@
                         "destructionPercentage": 100,
                         "order": 36,
                         "duration": 101
+                    },
+                    {
+                        "attackerTag": "#99VC2CU9",
+                        "defenderTag": "#LL0QP2J2",
+                        "stars": 2,
+                        "destructionPercentage": 94,
+                        "order": 56,
+                        "duration": 119
                     }
                 ],
                 "opponentAttacks": 1,
@@ -493,6 +509,14 @@
                         "stars": 2,
                         "destructionPercentage": 88,
                         "order": 19,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#LPU0GGCJQ",
+                        "defenderTag": "#LL0QP2J2",
+                        "stars": 0,
+                        "destructionPercentage": 7,
+                        "order": 57,
                         "duration": 180
                     }
                 ],
@@ -843,14 +867,14 @@
                 "name": "brian",
                 "townhallLevel": 15,
                 "mapPosition": 22,
-                "opponentAttacks": 1,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#9C9GUPV9R",
+                    "attackerTag": "#99VC2CU9",
                     "defenderTag": "#LL0QP2J2",
-                    "stars": 1,
-                    "destructionPercentage": 48,
-                    "order": 53,
-                    "duration": 79
+                    "stars": 2,
+                    "destructionPercentage": 94,
+                    "order": 56,
+                    "duration": 119
                 }
             },
             {
@@ -1064,7 +1088,15 @@
                 "name": "Darkstin",
                 "townhallLevel": 18,
                 "mapPosition": 2,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YQYVJ92C",
+                    "defenderTag": "#2U20GL8UP",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 55,
+                    "duration": 171
+                }
             },
             {
                 "tag": "#9YPCRYLQJ",
