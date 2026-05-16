@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260515T070000.000Z",
     "endTime": "20260518T070000.000Z",
-    "capitalTotalLoot": 313578,
+    "capitalTotalLoot": 324216,
     "raidsCompleted": 3,
-    "totalAttacks": 76,
-    "enemyDistrictsDestroyed": 28,
+    "totalAttacks": 78,
+    "enemyDistrictsDestroyed": 29,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -112,6 +112,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 23666
+        },
+        {
+            "tag": "#GY98LJ8P9",
+            "name": "SheepdogDLLJA",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10638
         },
         {
             "tag": "#2VYVULCVL",
@@ -1082,9 +1090,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/7L0jQ3HJwLwXXx-4GNgxwMZzO4aOATWCHODmBe_YGb0.png"
                 }
             },
-            "attackCount": 2,
+            "attackCount": 4,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -1126,10 +1134,28 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10638,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -1200,18 +1226,28 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/gFnvgG1a1L66eV4e6wYK3xGiJs9lW6hHaSKCaJ1xl2E.png"
                 }
             },
-            "attackCount": 20,
+            "attackCount": 26,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
+                    "destructionPercent": 11,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 2300,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#JYYG9PUJ",
+                                "name": "chani3"
+                            },
+                            "destructionPercent": 11,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1252,11 +1288,27 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 32,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3575,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10691,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#JYYG9PUJ",
+                                "name": "chani3"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#JYYG9PUJ",
+                                "name": "chani3"
+                            },
+                            "destructionPercent": 91,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#GJP2LRGYQ",
@@ -1271,10 +1323,36 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11712,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#JYYG9PUJ",
+                                "name": "chani3"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#JYYG9PUJ",
+                                "name": "chani3"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#JYYG9PUJ",
+                                "name": "chani3"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
