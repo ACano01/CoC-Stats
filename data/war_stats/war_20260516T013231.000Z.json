@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 21,
+        "attacks": 22,
         "stars": 46,
         "destructionPercentage": 63.16,
         "members": [
@@ -403,6 +403,14 @@
                         "destructionPercentage": 100,
                         "order": 2,
                         "duration": 161
+                    },
+                    {
+                        "attackerTag": "#8RJ8CC8LU",
+                        "defenderTag": "#280UGL8GG",
+                        "stars": 1,
+                        "destructionPercentage": 88,
+                        "order": 39,
+                        "duration": 179
                     }
                 ],
                 "opponentAttacks": 0
@@ -878,7 +886,7 @@
                 "name": "Alonso.CR\u2665",
                 "townhallLevel": 15,
                 "mapPosition": 24,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#LPU0GGCJQ",
                     "defenderTag": "#280UGL8GG",
