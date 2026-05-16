@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260515T070000.000Z",
     "endTime": "20260518T070000.000Z",
-    "capitalTotalLoot": 372654,
+    "capitalTotalLoot": 376654,
     "raidsCompleted": 4,
-    "totalAttacks": 88,
+    "totalAttacks": 89,
     "enemyDistrictsDestroyed": 33,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -84,10 +84,10 @@
         {
             "tag": "#L2PQ9QLUC",
             "name": "BossHogg",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 23027
+            "capitalResourcesLooted": 27027
         },
         {
             "tag": "#PQC82LLR",
@@ -1106,7 +1106,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/7L0jQ3HJwLwXXx-4GNgxwMZzO4aOATWCHODmBe_YGb0.png"
                 }
             },
-            "attackCount": 14,
+            "attackCount": 15,
             "districtCount": 9,
             "districtsDestroyed": 6,
             "districts": [
@@ -1231,10 +1231,20 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
+                    "destructionPercent": 47,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 4000,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
