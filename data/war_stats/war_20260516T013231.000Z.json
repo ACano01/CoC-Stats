@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 27,
-        "stars": 56,
-        "destructionPercentage": 75.64,
+        "attacks": 29,
+        "stars": 60,
+        "destructionPercentage": 80.0,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -82,6 +82,24 @@
                 "name": "Ben",
                 "townhallLevel": 16,
                 "mapPosition": 17,
+                "attacks": [
+                    {
+                        "attackerTag": "#U90CYLQ2",
+                        "defenderTag": "#PQU02Y8RV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 49,
+                        "duration": 171
+                    },
+                    {
+                        "attackerTag": "#U90CYLQ2",
+                        "defenderTag": "#P9UUY8920",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 50,
+                        "duration": 175
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -751,14 +769,14 @@
                 "name": "Rider:')",
                 "townhallLevel": 16,
                 "mapPosition": 20,
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
-                    "attackerTag": "#800CC2CCG",
+                    "attackerTag": "#U90CYLQ2",
                     "defenderTag": "#P9UUY8920",
-                    "stars": 2,
-                    "destructionPercentage": 91,
-                    "order": 32,
-                    "duration": 161
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 50,
+                    "duration": 175
                 }
             },
             {
@@ -924,7 +942,15 @@
                         "duration": 122
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#U90CYLQ2",
+                    "defenderTag": "#PQU02Y8RV",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 49,
+                    "duration": 171
+                }
             },
             {
                 "tag": "#QR8LVPJCC",
