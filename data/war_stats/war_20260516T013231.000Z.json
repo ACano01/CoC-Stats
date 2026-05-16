@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 29,
-        "stars": 60,
-        "destructionPercentage": 80.0,
+        "attacks": 30,
+        "stars": 63,
+        "destructionPercentage": 84.0,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -100,7 +100,15 @@
                         "duration": 175
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GR9G08UG0",
+                    "defenderTag": "#U90CYLQ2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 51,
+                    "duration": 110
+                }
             },
             {
                 "tag": "#YQYVJ92C",
@@ -132,6 +140,16 @@
                 "name": "RYouANacho",
                 "townhallLevel": 14,
                 "mapPosition": 24,
+                "attacks": [
+                    {
+                        "attackerTag": "#9C9GUPV9R",
+                        "defenderTag": "#GR9CPYL0L",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 52,
+                        "duration": 88
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -603,9 +621,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png"
         },
         "clanLevel": 19,
-        "attacks": 21,
-        "stars": 46,
-        "destructionPercentage": 63.36,
+        "attacks": 22,
+        "stars": 49,
+        "destructionPercentage": 67.36,
         "members": [
             {
                 "tag": "#RU9LVV9C",
@@ -1049,6 +1067,16 @@
                 "name": "miall",
                 "townhallLevel": 16,
                 "mapPosition": 19,
+                "attacks": [
+                    {
+                        "attackerTag": "#GR9G08UG0",
+                        "defenderTag": "#U90CYLQ2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 51,
+                        "duration": 110
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PYVCVQP9",
@@ -1082,7 +1110,15 @@
                         "duration": 140
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9C9GUPV9R",
+                    "defenderTag": "#GR9CPYL0L",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 52,
+                    "duration": 88
+                }
             },
             {
                 "tag": "#8C9YR08CY",
