@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 30,
-        "stars": 63,
-        "destructionPercentage": 84.0,
+        "attacks": 32,
+        "stars": 66,
+        "destructionPercentage": 88.84,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -148,6 +148,14 @@
                         "destructionPercentage": 100,
                         "order": 52,
                         "duration": 88
+                    },
+                    {
+                        "attackerTag": "#9C9GUPV9R",
+                        "defenderTag": "#LL0QP2J2",
+                        "stars": 1,
+                        "destructionPercentage": 48,
+                        "order": 53,
+                        "duration": 79
                     }
                 ],
                 "opponentAttacks": 0
@@ -372,6 +380,16 @@
                 "name": "YAGO",
                 "townhallLevel": 18,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#L0LYQLC0L",
+                        "stars": 2,
+                        "destructionPercentage": 73,
+                        "order": 54,
+                        "duration": 127
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#QJ0YVVPJ8",
@@ -714,7 +732,15 @@
                         "duration": 111
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#V0GYVCJ9",
+                    "defenderTag": "#L0LYQLC0L",
+                    "stars": 2,
+                    "destructionPercentage": 73,
+                    "order": 54,
+                    "duration": 127
+                }
             },
             {
                 "tag": "#YUY2GQ0QR",
@@ -817,7 +843,15 @@
                 "name": "brian",
                 "townhallLevel": 15,
                 "mapPosition": 22,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9C9GUPV9R",
+                    "defenderTag": "#LL0QP2J2",
+                    "stars": 1,
+                    "destructionPercentage": 48,
+                    "order": 53,
+                    "duration": 79
+                }
             },
             {
                 "tag": "#QJ0YVVPJ8",
