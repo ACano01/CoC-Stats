@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260515T070000.000Z",
     "endTime": "20260518T070000.000Z",
-    "capitalTotalLoot": 547434,
+    "capitalTotalLoot": 557259,
     "raidsCompleted": 6,
-    "totalAttacks": 131,
+    "totalAttacks": 134,
     "enemyDistrictsDestroyed": 49,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -92,10 +92,10 @@
         {
             "tag": "#VPJYP29",
             "name": "Viking",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11751
+            "capitalResourcesLooted": 21576
         },
         {
             "tag": "#99VJ2VVPQ",
@@ -1762,7 +1762,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/h9UbmSZNly1er7-GrsvOExwMUEdrcyXnyNahPmDK4yQ.png"
                 }
             },
-            "attackCount": 11,
+            "attackCount": 14,
             "districtCount": 9,
             "districtsDestroyed": 4,
             "districts": [
@@ -1929,10 +1929,36 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 78,
+                    "stars": 2,
+                    "attackCount": 3,
+                    "totalLooted": 9825,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 61,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 22,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
