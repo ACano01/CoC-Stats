@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260515T070000.000Z",
     "endTime": "20260518T070000.000Z",
-    "capitalTotalLoot": 495229,
-    "raidsCompleted": 5,
-    "totalAttacks": 118,
-    "enemyDistrictsDestroyed": 44,
+    "capitalTotalLoot": 513506,
+    "raidsCompleted": 6,
+    "totalAttacks": 122,
+    "enemyDistrictsDestroyed": 46,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -48,6 +48,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 0,
             "capitalResourcesLooted": 11905
+        },
+        {
+            "tag": "#8LGRUUL9J",
+            "name": "violin",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 5550
         },
         {
             "tag": "#Y02J2VQ2",
@@ -160,6 +168,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 23666
+        },
+        {
+            "tag": "#YR922PJC0",
+            "name": "fadi",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12727
         },
         {
             "tag": "#GY98LJ8P9",
@@ -1422,19 +1438,35 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/uXVej2TjvjrKeeDStyL-QHyERNuKDohFOuKUGIy1K24.png"
                 }
             },
-            "attackCount": 23,
+            "attackCount": 25,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 78,
-                    "stars": 1,
-                    "attackCount": 4,
-                    "totalLooted": 7320,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 6,
+                    "totalLooted": 14120,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 99,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#9C9GUPV9R",
@@ -1708,6 +1740,122 @@
                             "stars": 0
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#VLPPUPUV",
+                "name": "The Undefeated",
+                "level": 25,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/h9UbmSZNly1er7-GrsvOExwMUEdrcyXnyNahPmDK4yQ.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/h9UbmSZNly1er7-GrsvOExwMUEdrcyXnyNahPmDK4yQ.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/h9UbmSZNly1er7-GrsvOExwMUEdrcyXnyNahPmDK4yQ.png"
+                }
+            },
+            "attackCount": 2,
+            "districtCount": 9,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11477,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 }
             ]
         }
