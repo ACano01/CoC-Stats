@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260515T070000.000Z",
     "endTime": "20260518T070000.000Z",
-    "capitalTotalLoot": 594899,
-    "raidsCompleted": 6,
-    "totalAttacks": 144,
-    "enemyDistrictsDestroyed": 53,
+    "capitalTotalLoot": 621330,
+    "raidsCompleted": 7,
+    "totalAttacks": 152,
+    "enemyDistrictsDestroyed": 55,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -154,6 +154,14 @@
             "capitalResourcesLooted": 28866
         },
         {
+            "tag": "#GVYR9GPJ9",
+            "name": "Sir Thor",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 21141
+        },
+        {
             "tag": "#UQQ0LJLP",
             "name": "mike",
             "attacks": 6,
@@ -164,10 +172,10 @@
         {
             "tag": "#LPU0GGCJQ",
             "name": "night dragon",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 13792
+            "capitalResourcesLooted": 19082
         },
         {
             "tag": "#8RJ8CC8LU",
@@ -1778,18 +1786,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/h9UbmSZNly1er7-GrsvOExwMUEdrcyXnyNahPmDK4yQ.png"
                 }
             },
-            "attackCount": 24,
+            "attackCount": 28,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13457,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GVYR9GPJ9",
+                                "name": "Sir Thor"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GVYR9GPJ9",
+                                "name": "Sir Thor"
+                            },
+                            "destructionPercent": 76,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -2068,6 +2110,140 @@
                             },
                             "destructionPercent": 50,
                             "stars": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#PU2LCG",
+                "name": "pendleburys",
+                "level": 12,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/n9t--Dxu0Ll6IYeQvdVjpXDgS8XEmp5xJvUkPxsa9K8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/n9t--Dxu0Ll6IYeQvdVjpXDgS8XEmp5xJvUkPxsa9K8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/n9t--Dxu0Ll6IYeQvdVjpXDgS8XEmp5xJvUkPxsa9K8.png"
+                }
+            },
+            "attackCount": 4,
+            "districtCount": 9,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 9,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 74,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 6755,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GVYR9GPJ9",
+                                "name": "Sir Thor"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GVYR9GPJ9",
+                                "name": "Sir Thor"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 6219,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GVYR9GPJ9",
+                                "name": "Sir Thor"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GVYR9GPJ9",
+                                "name": "Sir Thor"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 1
                         }
                     ]
                 }
@@ -2442,9 +2618,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/C0Egj53O_6pGpvp-z9wxTwCR0ydeuI1hbDVlZYsr60o.png"
                 }
             },
-            "attackCount": 7,
+            "attackCount": 13,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -2459,19 +2635,71 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11367,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9CRC2GLJ",
+                                "name": "Das Raaaapnees"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9CRC2GLJ",
+                                "name": "Das Raaaapnees"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9CRC2GLJ",
+                                "name": "Das Raaaapnees"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10838,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9CRC2GLJ",
+                                "name": "Das Raaaapnees"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9CRC2GLJ",
+                                "name": "Das Raaaapnees"
+                            },
+                            "destructionPercent": 85,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9CRC2GLJ",
+                                "name": "Das Raaaapnees"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
