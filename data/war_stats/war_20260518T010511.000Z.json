@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 40,
+        "attacks": 41,
         "stars": 75,
         "destructionPercentage": 100.0,
         "members": [
@@ -42,7 +42,15 @@
                         "duration": 114
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2YUQVR9J",
+                    "defenderTag": "#9C229UGJ",
+                    "stars": 2,
+                    "destructionPercentage": 97,
+                    "order": 68,
+                    "duration": 107
+                }
             },
             {
                 "tag": "#2PULPGL90",
@@ -67,7 +75,15 @@
                         "duration": 109
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8G0UYJYQ9",
+                    "defenderTag": "#2PULPGL90",
+                    "stars": 2,
+                    "destructionPercentage": 75,
+                    "order": 67,
+                    "duration": 55
+                }
             },
             {
                 "tag": "#U90CYLQ2",
@@ -125,14 +141,14 @@
                         "duration": 116
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#22JVQYCLC",
+                    "attackerTag": "#2QGJ2YCG",
                     "defenderTag": "#YQYVJ92C",
-                    "stars": 2,
-                    "destructionPercentage": 61,
-                    "order": 21,
-                    "duration": 92
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 71,
+                    "duration": 126
                 }
             },
             {
@@ -229,6 +245,14 @@
                         "destructionPercentage": 100,
                         "order": 5,
                         "duration": 179
+                    },
+                    {
+                        "attackerTag": "#800CC2CCG",
+                        "defenderTag": "#URUG0VR",
+                        "stars": 2,
+                        "destructionPercentage": 69,
+                        "order": 66,
+                        "duration": 140
                     }
                 ],
                 "opponentAttacks": 1,
@@ -436,7 +460,15 @@
                 "name": "BossHogg",
                 "townhallLevel": 18,
                 "mapPosition": 1,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8G0UYJYQ9",
+                    "defenderTag": "#L2PQ9QLUC",
+                    "stars": 2,
+                    "destructionPercentage": 72,
+                    "order": 70,
+                    "duration": 70
+                }
             },
             {
                 "tag": "#GVYR9GPJ9",
@@ -494,7 +526,15 @@
                         "duration": 116
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2YUQVR9J",
+                    "defenderTag": "#UQQ0LJLP",
+                    "stars": 2,
+                    "destructionPercentage": 78,
+                    "order": 69,
+                    "duration": 94
+                }
             },
             {
                 "tag": "#GCL9GGPYG",
@@ -735,9 +775,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/4vlpQWdltDL5Fdg00qi_YXNr-NToBM3nuTuaKng_o9s.png"
         },
         "clanLevel": 26,
-        "attacks": 25,
-        "stars": 59,
-        "destructionPercentage": 78.48,
+        "attacks": 30,
+        "stars": 68,
+        "destructionPercentage": 92.92,
         "members": [
             {
                 "tag": "#QQUUVYL9",
@@ -807,6 +847,16 @@
                 "name": "Mehdi",
                 "townhallLevel": 18,
                 "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#2QGJ2YCG",
+                        "defenderTag": "#YQYVJ92C",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 71,
+                        "duration": 126
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2VYVULCVL",
@@ -1012,7 +1062,7 @@
                 "name": "nerdsrus",
                 "townhallLevel": 18,
                 "mapPosition": 1,
-                "opponentAttacks": 7,
+                "opponentAttacks": 8,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
                     "defenderTag": "#URUG0VR",
@@ -1027,6 +1077,24 @@
                 "name": "farmer John II",
                 "townhallLevel": 17,
                 "mapPosition": 16,
+                "attacks": [
+                    {
+                        "attackerTag": "#2YUQVR9J",
+                        "defenderTag": "#9C229UGJ",
+                        "stars": 2,
+                        "destructionPercentage": 97,
+                        "order": 68,
+                        "duration": 107
+                    },
+                    {
+                        "attackerTag": "#2YUQVR9J",
+                        "defenderTag": "#UQQ0LJLP",
+                        "stars": 2,
+                        "destructionPercentage": 78,
+                        "order": 69,
+                        "duration": 94
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#99VJ2VVPQ",
@@ -1234,6 +1302,24 @@
                 "name": "farmer John",
                 "townhallLevel": 17,
                 "mapPosition": 15,
+                "attacks": [
+                    {
+                        "attackerTag": "#8G0UYJYQ9",
+                        "defenderTag": "#2PULPGL90",
+                        "stars": 2,
+                        "destructionPercentage": 75,
+                        "order": 67,
+                        "duration": 55
+                    },
+                    {
+                        "attackerTag": "#8G0UYJYQ9",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 2,
+                        "destructionPercentage": 72,
+                        "order": 70,
+                        "duration": 70
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2P8LYJCUR",
