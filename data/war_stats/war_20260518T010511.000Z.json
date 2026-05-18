@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 32,
+        "attacks": 35,
         "stars": 75,
         "destructionPercentage": 100.0,
         "members": [
@@ -99,6 +99,14 @@
                         "destructionPercentage": 100,
                         "order": 3,
                         "duration": 130
+                    },
+                    {
+                        "attackerTag": "#YQYVJ92C",
+                        "defenderTag": "#URUG0VR",
+                        "stars": 2,
+                        "destructionPercentage": 92,
+                        "order": 43,
+                        "duration": 116
                     }
                 ],
                 "opponentAttacks": 1,
@@ -314,6 +322,14 @@
                         "destructionPercentage": 100,
                         "order": 9,
                         "duration": 102
+                    },
+                    {
+                        "attackerTag": "#99VC2CU9",
+                        "defenderTag": "#URUG0VR",
+                        "stars": 2,
+                        "destructionPercentage": 58,
+                        "order": 46,
+                        "duration": 65
                     }
                 ],
                 "opponentAttacks": 1,
@@ -339,6 +355,14 @@
                         "destructionPercentage": 100,
                         "order": 24,
                         "duration": 106
+                    },
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#URUG0VR",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 45,
+                        "duration": 103
                     }
                 ],
                 "opponentAttacks": 0
@@ -480,7 +504,15 @@
                         "duration": 88
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#JGJCPJ8Y",
+                    "defenderTag": "#8RJ8CC8LU",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 44,
+                    "duration": 97
+                }
             },
             {
                 "tag": "#GU2UVG9CV",
@@ -583,9 +615,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/4vlpQWdltDL5Fdg00qi_YXNr-NToBM3nuTuaKng_o9s.png"
         },
         "clanLevel": 26,
-        "attacks": 10,
-        "stars": 25,
-        "destructionPercentage": 34.8,
+        "attacks": 11,
+        "stars": 28,
+        "destructionPercentage": 38.8,
         "members": [
             {
                 "tag": "#QQUUVYL9",
@@ -715,6 +747,14 @@
                         "destructionPercentage": 81,
                         "order": 18,
                         "duration": 114
+                    },
+                    {
+                        "attackerTag": "#JGJCPJ8Y",
+                        "defenderTag": "#8RJ8CC8LU",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 44,
+                        "duration": 97
                     }
                 ],
                 "opponentAttacks": 1,
@@ -780,7 +820,7 @@
                 "name": "nerdsrus",
                 "townhallLevel": 18,
                 "mapPosition": 1,
-                "opponentAttacks": 2,
+                "opponentAttacks": 5,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
                     "defenderTag": "#URUG0VR",
