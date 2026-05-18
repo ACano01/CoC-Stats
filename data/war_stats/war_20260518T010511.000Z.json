@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 15,
-        "stars": 38,
-        "destructionPercentage": 51.64,
+        "attacks": 16,
+        "stars": 41,
+        "destructionPercentage": 55.64,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -251,6 +251,16 @@
                 "name": "YAGO",
                 "townhallLevel": 18,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#VCYL9J9R",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 24,
+                        "duration": 106
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -437,7 +447,15 @@
                 "name": "THE GREAT ONE",
                 "townhallLevel": 18,
                 "mapPosition": 11,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#V0GYVCJ9",
+                    "defenderTag": "#VCYL9J9R",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 24,
+                    "duration": 106
+                }
             },
             {
                 "tag": "#Y220UL99",
