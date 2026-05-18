@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 22,
-        "stars": 59,
-        "destructionPercentage": 79.64,
+        "attacks": 24,
+        "stars": 62,
+        "destructionPercentage": 83.64,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -230,6 +230,16 @@
                 "name": "brandondepalma",
                 "townhallLevel": 18,
                 "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#9G92CY9L",
+                        "defenderTag": "#QYVU29L2C",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 32,
+                        "duration": 114
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -326,6 +336,14 @@
                         "destructionPercentage": 100,
                         "order": 26,
                         "duration": 95
+                    },
+                    {
+                        "attackerTag": "#UQQ0LJLP",
+                        "defenderTag": "#URUG0VR",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 33,
+                        "duration": 116
                     }
                 ],
                 "opponentAttacks": 0
@@ -662,7 +680,7 @@
                 "name": "nerdsrus",
                 "townhallLevel": 18,
                 "mapPosition": 1,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
                     "defenderTag": "#URUG0VR",
@@ -722,7 +740,15 @@
                 "name": "Brittany",
                 "townhallLevel": 18,
                 "mapPosition": 6,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9G92CY9L",
+                    "defenderTag": "#QYVU29L2C",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 32,
+                    "duration": 114
+                }
             },
             {
                 "tag": "#QPGRRJULL",
