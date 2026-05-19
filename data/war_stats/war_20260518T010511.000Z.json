@@ -1,5 +1,5 @@
 {
-    "state": "inWar",
+    "state": "warEnded",
     "teamSize": 25,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -75,14 +75,14 @@
                         "duration": 109
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#8G0UYJYQ9",
+                    "attackerTag": "#2QGJ2YCG",
                     "defenderTag": "#2PULPGL90",
-                    "stars": 2,
-                    "destructionPercentage": 75,
-                    "order": 67,
-                    "duration": 55
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 72,
+                    "duration": 126
                 }
             },
             {
@@ -673,14 +673,14 @@
                         "duration": 112
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#QPGRRJULL",
+                    "attackerTag": "#Y220UL99",
                     "defenderTag": "#GU2UVG9CV",
-                    "stars": 2,
-                    "destructionPercentage": 71,
-                    "order": 60,
-                    "duration": 101
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 73,
+                    "duration": 112
                 }
             },
             {
@@ -754,14 +754,14 @@
                         "duration": 140
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#22JVQYCLC",
+                    "attackerTag": "#Y220UL99",
                     "defenderTag": "#2P8LYJCUR",
                     "stars": 2,
-                    "destructionPercentage": 61,
-                    "order": 19,
-                    "duration": 85
+                    "destructionPercentage": 69,
+                    "order": 74,
+                    "duration": 143
                 }
             }
         ]
@@ -775,9 +775,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/4vlpQWdltDL5Fdg00qi_YXNr-NToBM3nuTuaKng_o9s.png"
         },
         "clanLevel": 26,
-        "attacks": 30,
-        "stars": 68,
-        "destructionPercentage": 92.92,
+        "attacks": 33,
+        "stars": 70,
+        "destructionPercentage": 95.4,
         "members": [
             {
                 "tag": "#QQUUVYL9",
@@ -832,6 +832,24 @@
                 "name": "JP",
                 "townhallLevel": 18,
                 "mapPosition": 3,
+                "attacks": [
+                    {
+                        "attackerTag": "#Y220UL99",
+                        "defenderTag": "#GU2UVG9CV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 73,
+                        "duration": 112
+                    },
+                    {
+                        "attackerTag": "#Y220UL99",
+                        "defenderTag": "#2P8LYJCUR",
+                        "stars": 2,
+                        "destructionPercentage": 69,
+                        "order": 74,
+                        "duration": 143
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#VPJYP29",
@@ -854,6 +872,14 @@
                         "stars": 3,
                         "destructionPercentage": 100,
                         "order": 71,
+                        "duration": 126
+                    },
+                    {
+                        "attackerTag": "#2QGJ2YCG",
+                        "defenderTag": "#2PULPGL90",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 72,
                         "duration": 126
                     }
                 ],
