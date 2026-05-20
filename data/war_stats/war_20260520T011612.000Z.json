@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 34,
+        "attacks": 35,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -141,7 +141,7 @@
                         "duration": 175
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#2G02GJ9Y",
                     "defenderTag": "#YQYVJ92C",
@@ -164,6 +164,14 @@
                         "destructionPercentage": 57,
                         "order": 4,
                         "duration": 116
+                    },
+                    {
+                        "attackerTag": "#YL0VJ2YY",
+                        "defenderTag": "#9G2V9JU98",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 59,
+                        "duration": 107
                     }
                 ],
                 "opponentAttacks": 2,
@@ -609,14 +617,14 @@
                         "duration": 130
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#29JQGQ98J",
+                    "attackerTag": "#CGLQ90VU",
                     "defenderTag": "#2P8LYJCUR",
                     "stars": 2,
-                    "destructionPercentage": 94,
-                    "order": 23,
-                    "duration": 168
+                    "destructionPercentage": 95,
+                    "order": 61,
+                    "duration": 155
                 }
             }
         ]
@@ -630,9 +638,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/_Bxn5nQxF6xt8CHGbAfF1ZbZE0DVuzH4maJzdEt_H4w.png"
         },
         "clanLevel": 30,
-        "attacks": 24,
+        "attacks": 26,
         "stars": 51,
-        "destructionPercentage": 92.8,
+        "destructionPercentage": 92.85,
         "members": [
             {
                 "tag": "#P9JP08V9Y",
@@ -679,6 +687,24 @@
                 "name": "Davaston",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#CGLQ90VU",
+                        "defenderTag": "#YQYVJ92C",
+                        "stars": 1,
+                        "destructionPercentage": 94,
+                        "order": 60,
+                        "duration": 126
+                    },
+                    {
+                        "attackerTag": "#CGLQ90VU",
+                        "defenderTag": "#2P8LYJCUR",
+                        "stars": 2,
+                        "destructionPercentage": 95,
+                        "order": 61,
+                        "duration": 155
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#VPJYP29",
@@ -1111,7 +1137,7 @@
                         "duration": 81
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#800CC2CCG",
                     "defenderTag": "#9G2V9JU98",
