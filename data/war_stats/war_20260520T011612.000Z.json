@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 20,
-        "stars": 51,
-        "destructionPercentage": 85.0,
+        "attacks": 21,
+        "stars": 54,
+        "destructionPercentage": 90.0,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -384,6 +384,16 @@
                 "name": "family buffalo",
                 "townhallLevel": 18,
                 "mapPosition": 1,
+                "attacks": [
+                    {
+                        "attackerTag": "#2VYVULCVL",
+                        "defenderTag": "#QGPPYRQU2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 33,
+                        "duration": 148
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#YPCGRC28U",
@@ -724,7 +734,15 @@
                         "duration": 132
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2VYVULCVL",
+                    "defenderTag": "#QGPPYRQU2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 33,
+                    "duration": 148
+                }
             },
             {
                 "tag": "#YC9LJUGGG",
