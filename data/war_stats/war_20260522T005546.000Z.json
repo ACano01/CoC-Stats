@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 37,
+        "attacks": 38,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -42,14 +42,14 @@
                         "duration": 158
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#9P8LQRVRQ",
+                    "attackerTag": "#L9QC8V29",
                     "defenderTag": "#9C229UGJ",
-                    "stars": 1,
-                    "destructionPercentage": 92,
-                    "order": 44,
-                    "duration": 127
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 66,
+                    "duration": 143
                 }
             },
             {
@@ -362,6 +362,14 @@
                         "destructionPercentage": 100,
                         "order": 24,
                         "duration": 83
+                    },
+                    {
+                        "attackerTag": "#99VC2CU9",
+                        "defenderTag": "#P009UU0Q",
+                        "stars": 2,
+                        "destructionPercentage": 75,
+                        "order": 68,
+                        "duration": 91
                     }
                 ],
                 "opponentAttacks": 2,
@@ -397,14 +405,14 @@
                         "duration": 151
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#RGLP9Y9G",
+                    "attackerTag": "#22V9UCQVJ",
                     "defenderTag": "#V0GYVCJ9",
                     "stars": 2,
-                    "destructionPercentage": 68,
-                    "order": 19,
-                    "duration": 167
+                    "destructionPercentage": 94,
+                    "order": 67,
+                    "duration": 159
                 }
             },
             {
@@ -664,9 +672,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/sM5SiO_bYkTQlr-kDoDmq6riuo9wSqS4dhb44NpGTPg.png"
         },
         "clanLevel": 23,
-        "attacks": 27,
-        "stars": 57,
-        "destructionPercentage": 98.0,
+        "attacks": 30,
+        "stars": 59,
+        "destructionPercentage": 99.7,
         "members": [
             {
                 "tag": "#YC2VRRUV",
@@ -721,6 +729,24 @@
                 "name": "Jim",
                 "townhallLevel": 18,
                 "mapPosition": 11,
+                "attacks": [
+                    {
+                        "attackerTag": "#L9QC8V29",
+                        "defenderTag": "#V0GYVCJ9",
+                        "stars": 2,
+                        "destructionPercentage": 87,
+                        "order": 65,
+                        "duration": 172
+                    },
+                    {
+                        "attackerTag": "#L9QC8V29",
+                        "defenderTag": "#9C229UGJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 66,
+                        "duration": 143
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2P8LYJCUR",
@@ -769,7 +795,7 @@
                         "duration": 147
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#L2PQ9QLUC",
                     "defenderTag": "#P009UU0Q",
@@ -966,6 +992,16 @@
                 "name": "mia g 4",
                 "townhallLevel": 18,
                 "mapPosition": 6,
+                "attacks": [
+                    {
+                        "attackerTag": "#22V9UCQVJ",
+                        "defenderTag": "#V0GYVCJ9",
+                        "stars": 2,
+                        "destructionPercentage": 94,
+                        "order": 67,
+                        "duration": 159
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
