@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
-    "capitalTotalLoot": 149493,
+    "capitalTotalLoot": 179257,
     "raidsCompleted": 1,
-    "totalAttacks": 36,
-    "enemyDistrictsDestroyed": 14,
+    "totalAttacks": 44,
+    "enemyDistrictsDestroyed": 17,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -50,12 +50,28 @@
             "capitalResourcesLooted": 11724
         },
         {
+            "tag": "#PQC82LLR",
+            "name": "DocPeejay",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 21984
+        },
+        {
             "tag": "#UQQ0LJLP",
             "name": "mike",
             "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 24384
+        },
+        {
+            "tag": "#GY98LJ8P9",
+            "name": "SheepdogDLLJA",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7780
         },
         {
             "tag": "#2P8LYJCUR",
@@ -362,9 +378,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/KYbgkRm21lGH393Z9rTIHXhqcnjrnz2prPeDMB5SBqc.png"
                 }
             },
-            "attackCount": 15,
+            "attackCount": 23,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
@@ -414,20 +430,62 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10706,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 42,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 3735,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11548,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 83,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#2P8LYJCUR",
@@ -477,10 +535,36 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11245,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -594,7 +678,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/pK-pgMD4j0-JkV8K29sX1lL5d1dZ9TXIlYQ0AERpsxQ.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 12,
             "districtCount": 9,
             "districtsDestroyed": 3,
             "districts": [
@@ -646,10 +730,44 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 46,
+                    "stars": 1,
+                    "attackCount": 4,
+                    "totalLooted": 3560,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q9L9CG2LQ",
+                                "name": "gerard"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q9L9CG2LQ",
+                                "name": "gerard"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q9L9CG2LQ",
+                                "name": "gerard"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q9L9CG2LQ",
+                                "name": "gerard"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
