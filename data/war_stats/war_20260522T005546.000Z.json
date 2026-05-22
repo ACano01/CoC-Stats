@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 11,
-        "stars": 28,
-        "destructionPercentage": 47.55,
+        "attacks": 17,
+        "stars": 35,
+        "destructionPercentage": 60.8,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -64,6 +64,16 @@
                 "name": "Ben",
                 "townhallLevel": 16,
                 "mapPosition": 14,
+                "attacks": [
+                    {
+                        "attackerTag": "#U90CYLQ2",
+                        "defenderTag": "#9JVRLLYCV",
+                        "stars": 2,
+                        "destructionPercentage": 90,
+                        "order": 28,
+                        "duration": 106
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -86,6 +96,14 @@
                         "destructionPercentage": 81,
                         "order": 3,
                         "duration": 166
+                    },
+                    {
+                        "attackerTag": "#YL0VJ2YY",
+                        "defenderTag": "#9JVRLLYCV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 32,
+                        "duration": 124
                     }
                 ],
                 "opponentAttacks": 1,
@@ -202,7 +220,15 @@
                         "duration": 83
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9LVCRYLJG",
+                    "defenderTag": "#99VC2CU9",
+                    "stars": 2,
+                    "destructionPercentage": 85,
+                    "order": 29,
+                    "duration": 139
+                }
             },
             {
                 "tag": "#V0GYVCJ9",
@@ -259,6 +285,24 @@
                 "name": "Sir Thor",
                 "townhallLevel": 9,
                 "mapPosition": 20,
+                "attacks": [
+                    {
+                        "attackerTag": "#GVYR9GPJ9",
+                        "defenderTag": "#L928Q8R00",
+                        "stars": 0,
+                        "destructionPercentage": 31,
+                        "order": 26,
+                        "duration": 69
+                    },
+                    {
+                        "attackerTag": "#GVYR9GPJ9",
+                        "defenderTag": "#8RVCV9000",
+                        "stars": 0,
+                        "destructionPercentage": 13,
+                        "order": 27,
+                        "duration": 65
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#L928Q8R00",
@@ -289,7 +333,15 @@
                 "name": "Katara",
                 "townhallLevel": 14,
                 "mapPosition": 18,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9LVCRYLJG",
+                    "defenderTag": "#GCL9GGPYG",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 25,
+                    "duration": 105
+                }
             },
             {
                 "tag": "#2PYVCVQP9",
@@ -336,6 +388,24 @@
                 "name": "Joey Salads",
                 "townhallLevel": 13,
                 "mapPosition": 19,
+                "attacks": [
+                    {
+                        "attackerTag": "#LRR0LP2J0",
+                        "defenderTag": "#L928Q8R00",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 30,
+                        "duration": 137
+                    },
+                    {
+                        "attackerTag": "#LRR0LP2J0",
+                        "defenderTag": "#8RVCV9000",
+                        "stars": 1,
+                        "destructionPercentage": 65,
+                        "order": 31,
+                        "duration": 156
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -364,9 +434,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/sM5SiO_bYkTQlr-kDoDmq6riuo9wSqS4dhb44NpGTPg.png"
         },
         "clanLevel": 23,
-        "attacks": 13,
-        "stars": 30,
-        "destructionPercentage": 51.85,
+        "attacks": 15,
+        "stars": 35,
+        "destructionPercentage": 61.1,
         "members": [
             {
                 "tag": "#YC2VRRUV",
@@ -635,6 +705,24 @@
                 "name": "aditya",
                 "townhallLevel": 15,
                 "mapPosition": 17,
+                "attacks": [
+                    {
+                        "attackerTag": "#9LVCRYLJG",
+                        "defenderTag": "#GCL9GGPYG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 25,
+                        "duration": 105
+                    },
+                    {
+                        "attackerTag": "#9LVCRYLJG",
+                        "defenderTag": "#99VC2CU9",
+                        "stars": 2,
+                        "destructionPercentage": 85,
+                        "order": 29,
+                        "duration": 139
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -677,21 +765,45 @@
                         "duration": 29
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LRR0LP2J0",
+                    "defenderTag": "#L928Q8R00",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 30,
+                    "duration": 137
+                }
             },
             {
                 "tag": "#9JVRLLYCV",
                 "name": "colin",
                 "townhallLevel": 16,
                 "mapPosition": 16,
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YL0VJ2YY",
+                    "defenderTag": "#9JVRLLYCV",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 32,
+                    "duration": 124
+                }
             },
             {
                 "tag": "#8RVCV9000",
                 "name": "Vergil",
                 "townhallLevel": 14,
                 "mapPosition": 18,
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LRR0LP2J0",
+                    "defenderTag": "#8RVCV9000",
+                    "stars": 1,
+                    "destructionPercentage": 65,
+                    "order": 31,
+                    "duration": 156
+                }
             },
             {
                 "tag": "#L2Q8RGCCY",
