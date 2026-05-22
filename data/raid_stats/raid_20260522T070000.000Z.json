@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
-    "capitalTotalLoot": 192795,
+    "capitalTotalLoot": 231967,
     "raidsCompleted": 2,
-    "totalAttacks": 48,
-    "enemyDistrictsDestroyed": 18,
+    "totalAttacks": 56,
+    "enemyDistrictsDestroyed": 20,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#QC92VLPP",
             "name": "King Hova",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 13538
+            "capitalResourcesLooted": 22833
         },
         {
             "tag": "#L2PQ9QLUC",
@@ -72,6 +72,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 24384
+        },
+        {
+            "tag": "#8RJ8CC8LU",
+            "name": "COBRA",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 29877
         },
         {
             "tag": "#GY98LJ8P9",
@@ -718,9 +726,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/GhTb7BEM_hjxWW-KNl61Fo-NovEHFfqF8Er6zfI5dRI.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 8,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -753,19 +761,47 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 87,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 9295,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 87,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 32,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 67,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 6510,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 67,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -780,19 +816,63 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11487,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11880,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 83,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
@@ -818,9 +898,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/pK-pgMD4j0-JkV8K29sX1lL5d1dZ9TXIlYQ0AERpsxQ.png"
                 }
             },
-            "attackCount": 12,
+            "attackCount": 18,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -870,11 +950,27 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 46,
-                    "stars": 1,
-                    "attackCount": 4,
-                    "totalLooted": 3560,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 6,
+                    "totalLooted": 10679,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2PGRJPVG",
+                                "name": "Lambal76"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PGRJPVG",
+                                "name": "Lambal76"
+                            },
+                            "destructionPercent": 75,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#Q9L9CG2LQ",
@@ -913,10 +1009,20 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 26,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 3150,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2PGRJPVG",
+                                "name": "Lambal76"
+                            },
+                            "destructionPercent": 26,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -993,10 +1099,36 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11948,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2PGRJPVG",
+                                "name": "Lambal76"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PGRJPVG",
+                                "name": "Lambal76"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PGRJPVG",
+                                "name": "Lambal76"
+                            },
+                            "destructionPercent": 19,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
