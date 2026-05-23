@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
-    "capitalTotalLoot": 452600,
+    "capitalTotalLoot": 459490,
     "raidsCompleted": 5,
-    "totalAttacks": 107,
+    "totalAttacks": 109,
     "enemyDistrictsDestroyed": 42,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -88,6 +88,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 11724
+        },
+        {
+            "tag": "#GULJYQPR0",
+            "name": "jj.2",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 6890
         },
         {
             "tag": "#LYRG2GUJ",
@@ -1366,7 +1374,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/ttZDNqstBS-vq7JpE-ZKaEjXzTXzxzsQAaWTpcH_Oms.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 19,
             "districtCount": 9,
             "districtsDestroyed": 6,
             "districts": [
@@ -1594,10 +1602,28 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 60,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 6890,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GULJYQPR0",
+                                "name": "jj.2"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GULJYQPR0",
+                                "name": "jj.2"
+                            },
+                            "destructionPercent": 13,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
