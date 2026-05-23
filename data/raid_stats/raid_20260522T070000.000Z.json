@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
-    "capitalTotalLoot": 522827,
+    "capitalTotalLoot": 540917,
     "raidsCompleted": 6,
-    "totalAttacks": 125,
-    "enemyDistrictsDestroyed": 48,
+    "totalAttacks": 129,
+    "enemyDistrictsDestroyed": 51,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -36,10 +36,10 @@
         {
             "tag": "#Y02J2VQ2",
             "name": "jj",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 14111
+            "capitalResourcesLooted": 26552
         },
         {
             "tag": "#YL0VJ2YY",
@@ -164,10 +164,10 @@
         {
             "tag": "#YR922PJC0",
             "name": "fadi",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 22916
+            "capitalResourcesLooted": 28565
         },
         {
             "tag": "#GY98LJ8P9",
@@ -1730,9 +1730,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/6dehQP0wzodCaubiIvgH6vab6rKYrY8DtytwuM0eGLE.png"
                 }
             },
-            "attackCount": 7,
+            "attackCount": 11,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -1792,20 +1792,46 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 8614,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y02J2VQ2",
+                                "name": "jj"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y02J2VQ2",
+                                "name": "jj"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 3,
-                    "destructionPercent": 64,
-                    "stars": 2,
-                    "attackCount": 1,
-                    "totalLooted": 4685,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 8512,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y02J2VQ2",
+                                "name": "jj"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#9G92CY9L",
@@ -1874,10 +1900,20 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 1,
+                    "totalLooted": 5649,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        }
+                    ]
                 }
             ]
         }
