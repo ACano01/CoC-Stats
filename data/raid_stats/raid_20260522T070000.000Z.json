@@ -1978,9 +1978,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/OEIdhe42VA9InoxLY6AcgPgJxLbHPPU5lWcdBuW4KS0.png"
                 }
             },
-            "attackCount": 5,
+            "attackCount": 11,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -2013,19 +2013,63 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11673,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LJRVYGGLJ",
+                                "name": "\u2764\u0623\u0628\u0648 \u0627\u0644\u0648\u0641\u0647\u2764"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LJRVYGGLJ",
+                                "name": "\u2764\u0623\u0628\u0648 \u0627\u0644\u0648\u0641\u0647\u2764"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LJRVYGGLJ",
+                                "name": "\u2764\u0623\u0628\u0648 \u0627\u0644\u0648\u0641\u0647\u2764"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 77,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 8785,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LJRVYGGLJ",
+                                "name": "\u2764\u0623\u0628\u0648 \u0627\u0644\u0648\u0641\u0647\u2764"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LJRVYGGLJ",
+                                "name": "\u2764\u0623\u0628\u0648 \u0627\u0644\u0648\u0641\u0647\u2764"
+                            },
+                            "destructionPercent": 51,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -2040,10 +2084,20 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 52,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 4245,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LJRVYGGLJ",
+                                "name": "\u2764\u0623\u0628\u0648 \u0627\u0644\u0648\u0641\u0647\u2764"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
