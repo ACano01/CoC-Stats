@@ -3,7 +3,7 @@
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
     "capitalTotalLoot": 289303,
-    "raidsCompleted": 2,
+    "raidsCompleted": 3,
     "totalAttacks": 70,
     "enemyDistrictsDestroyed": 26,
     "offensiveReward": 0,
@@ -1036,18 +1036,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/pK-pgMD4j0-JkV8K29sX1lL5d1dZ9TXIlYQ0AERpsxQ.png"
                 }
             },
-            "attackCount": 24,
+            "attackCount": 31,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13646,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q9L9CG2LQ",
+                                "name": "gerard"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2RP9LP9G",
+                                "name": "yves 1000"
+                            },
+                            "destructionPercent": 86,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2RP9LP9G",
+                                "name": "yves 1000"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2RP9LP9G",
+                                "name": "yves 1000"
+                            },
+                            "destructionPercent": 16,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1209,11 +1243,35 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 30,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3570,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11513,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2RP9LP9G",
+                                "name": "yves 1000"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2RP9LP9G",
+                                "name": "yves 1000"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2RP9LP9G",
+                                "name": "yves 1000"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#QYCYRUU2",
