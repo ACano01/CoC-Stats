@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
-    "capitalTotalLoot": 289303,
-    "raidsCompleted": 3,
-    "totalAttacks": 70,
-    "enemyDistrictsDestroyed": 26,
+    "capitalTotalLoot": 327652,
+    "raidsCompleted": 4,
+    "totalAttacks": 78,
+    "enemyDistrictsDestroyed": 30,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#9C229UGJ",
+            "name": "Chase",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 28959
+        },
         {
             "tag": "#2PULPGL90",
             "name": "M M 1960",
@@ -100,10 +108,10 @@
         {
             "tag": "#GY98LJ8P9",
             "name": "SheepdogDLLJA",
-            "attacks": 2,
+            "attacks": 4,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 7780
+            "capitalResourcesLooted": 17170
         },
         {
             "tag": "#2P8LYJCUR",
@@ -742,19 +750,35 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/GhTb7BEM_hjxWW-KNl61Fo-NovEHFfqF8Er6zfI5dRI.png"
                 }
             },
-            "attackCount": 22,
+            "attackCount": 24,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 43,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 4040,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 13430,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#V0GYVCJ9",
@@ -1018,6 +1042,160 @@
                             },
                             "destructionPercent": 22,
                             "stars": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2GYQU08RV",
+                "name": "Klan #2GYQU08RV",
+                "level": 11,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ClNiMpVTrMXr_nr8mq-__midwbG5Y-VjjkwdQ05_Mos.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ClNiMpVTrMXr_nr8mq-__midwbG5Y-VjjkwdQ05_Mos.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ClNiMpVTrMXr_nr8mq-__midwbG5Y-VjjkwdQ05_Mos.png"
+                }
+            },
+            "attackCount": 6,
+            "districtCount": 9,
+            "districtsDestroyed": 3,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 62,
+                    "stars": 2,
+                    "attackCount": 1,
+                    "totalLooted": 5085,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 8652,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9613,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 1,
+                    "totalLooted": 5609,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
                         }
                     ]
                 }
