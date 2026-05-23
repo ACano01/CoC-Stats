@@ -1,5 +1,5 @@
 {
-    "state": "inWar",
+    "state": "warEnded",
     "teamSize": 20,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -174,7 +174,7 @@
                         "duration": 124
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#9P8LQRVRQ",
                     "defenderTag": "#YL0VJ2YY",
@@ -207,7 +207,7 @@
                         "duration": 117
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#J90RLPQ0",
                     "defenderTag": "#Q92RUPUJ",
@@ -273,7 +273,7 @@
                         "duration": 118
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#J0J92PLP",
                     "defenderTag": "#VPJYP29",
@@ -405,14 +405,14 @@
                         "duration": 151
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
-                    "attackerTag": "#22V9UCQVJ",
+                    "attackerTag": "#YQPY2U0J",
                     "defenderTag": "#V0GYVCJ9",
-                    "stars": 2,
-                    "destructionPercentage": 94,
-                    "order": 67,
-                    "duration": 159
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 69,
+                    "duration": 147
                 }
             },
             {
@@ -504,7 +504,7 @@
                         "duration": 112
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#UGCQUQ8Q",
                     "defenderTag": "#UQQ0LJLP",
@@ -672,9 +672,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/sM5SiO_bYkTQlr-kDoDmq6riuo9wSqS4dhb44NpGTPg.png"
         },
         "clanLevel": 23,
-        "attacks": 30,
-        "stars": 59,
-        "destructionPercentage": 99.7,
+        "attacks": 35,
+        "stars": 60,
+        "destructionPercentage": 100.0,
         "members": [
             {
                 "tag": "#YC2VRRUV",
@@ -714,6 +714,24 @@
                 "name": "Frankie",
                 "townhallLevel": 18,
                 "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#YQPY2U0J",
+                        "defenderTag": "#V0GYVCJ9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 69,
+                        "duration": 147
+                    },
+                    {
+                        "attackerTag": "#YQPY2U0J",
+                        "defenderTag": "#Q92RUPUJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 72,
+                        "duration": 102
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#UQQ0LJLP",
@@ -762,6 +780,24 @@
                 "name": "big bank",
                 "townhallLevel": 18,
                 "mapPosition": 3,
+                "attacks": [
+                    {
+                        "attackerTag": "#V0Y280CU",
+                        "defenderTag": "#VPJYP29",
+                        "stars": 2,
+                        "destructionPercentage": 81,
+                        "order": 70,
+                        "duration": 114
+                    },
+                    {
+                        "attackerTag": "#V0Y280CU",
+                        "defenderTag": "#UQQ0LJLP",
+                        "stars": 2,
+                        "destructionPercentage": 74,
+                        "order": 73,
+                        "duration": 104
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#L2PQ9QLUC",
@@ -1000,6 +1036,14 @@
                         "destructionPercentage": 94,
                         "order": 67,
                         "duration": 159
+                    },
+                    {
+                        "attackerTag": "#22V9UCQVJ",
+                        "defenderTag": "#YL0VJ2YY",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 71,
+                        "duration": 147
                     }
                 ],
                 "opponentAttacks": 1,
