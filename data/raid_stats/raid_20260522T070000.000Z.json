@@ -2294,9 +2294,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/OEIdhe42VA9InoxLY6AcgPgJxLbHPPU5lWcdBuW4KS0.png"
                 }
             },
-            "attackCount": 11,
+            "attackCount": 14,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -2364,11 +2364,19 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 77,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 8785,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12251,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#RLGUPL09",
+                                "name": "Basha"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#LJRVYGGLJ",
@@ -2400,11 +2408,27 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 52,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 4245,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11943,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#RLGUPL09",
+                                "name": "Basha"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#RLGUPL09",
+                                "name": "Basha"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#LJRVYGGLJ",
