@@ -2882,7 +2882,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/OEIdhe42VA9InoxLY6AcgPgJxLbHPPU5lWcdBuW4KS0.png"
                 }
             },
-            "attackCount": 18,
+            "attackCount": 20,
             "districtCount": 9,
             "districtsDestroyed": 5,
             "districts": [
@@ -3005,10 +3005,28 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 95,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 10255,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q0GGQRPY",
+                                "name": "Hussieny"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q0GGQRPY",
+                                "name": "Hussieny"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
