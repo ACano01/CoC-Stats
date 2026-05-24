@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
-    "capitalTotalLoot": 694523,
+    "capitalTotalLoot": 717613,
     "raidsCompleted": 8,
-    "totalAttacks": 163,
-    "enemyDistrictsDestroyed": 64,
+    "totalAttacks": 167,
+    "enemyDistrictsDestroyed": 66,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -204,10 +204,10 @@
         {
             "tag": "#8GVP0V8CJ",
             "name": "ZAC JB.",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 10514
+            "capitalResourcesLooted": 33604
         },
         {
             "tag": "#Y8PJCG8L",
@@ -2354,9 +2354,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/Ua4DYaCsmIvlkNcTdkMJf-loeaZIEi27lAKO_PJeyNE.png"
                 }
             },
-            "attackCount": 3,
+            "attackCount": 7,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -2416,10 +2416,28 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11687,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 55,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -2443,11 +2461,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 49,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 5305,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11498,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#U90CYLQ2",
@@ -2462,10 +2488,20 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
+                    "destructionPercent": 37,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 5210,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
