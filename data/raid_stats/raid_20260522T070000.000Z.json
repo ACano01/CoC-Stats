@@ -3,7 +3,7 @@
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
     "capitalTotalLoot": 717613,
-    "raidsCompleted": 8,
+    "raidsCompleted": 9,
     "totalAttacks": 167,
     "enemyDistrictsDestroyed": 66,
     "offensiveReward": 0,
@@ -3136,18 +3136,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/EDLZxG4C7bq14nUq1ED1WkSVq9bVBBDjczzOohH24DA.png"
                 }
             },
-            "attackCount": 21,
+            "attackCount": 28,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13763,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GGQPUP2GP",
+                                "name": "\u548f\u6b4c\u6613\u5de7"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GR0U9VUGR",
+                                "name": "\u6b63\u4e1a\u6625\u51ac"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GR0U9VUGR",
+                                "name": "\u6b63\u4e1a\u6625\u51ac"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GR0U9VUGR",
+                                "name": "\u6b63\u4e1a\u6625\u51ac"
+                            },
+                            "destructionPercent": 15,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -3398,10 +3432,36 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11769,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GR0U9VUGR",
+                                "name": "\u6b63\u4e1a\u6625\u51ac"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GR0U9VUGR",
+                                "name": "\u6b63\u4e1a\u6625\u51ac"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GR0U9VUGR",
+                                "name": "\u6b63\u4e1a\u6625\u51ac"
+                            },
+                            "destructionPercent": 26,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
