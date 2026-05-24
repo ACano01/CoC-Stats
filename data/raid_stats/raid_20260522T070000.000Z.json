@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
-    "capitalTotalLoot": 600336,
+    "capitalTotalLoot": 637337,
     "raidsCompleted": 7,
-    "totalAttacks": 143,
-    "enemyDistrictsDestroyed": 56,
+    "totalAttacks": 150,
+    "enemyDistrictsDestroyed": 59,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -36,10 +36,10 @@
         {
             "tag": "#8LGRUUL9J",
             "name": "violin",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 8940
+            "capitalResourcesLooted": 28099
         },
         {
             "tag": "#Y02J2VQ2",
@@ -184,6 +184,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 26636
+        },
+        {
+            "tag": "#Y8PJCG8L",
+            "name": "Chmmr",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 17842
         },
         {
             "tag": "#YR922PJC0",
@@ -2022,9 +2030,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/OCYaQO_vnvhox_gBOTNdg0OMNs2cgsaPw8V-XuMaxfM.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 13,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -2039,11 +2047,27 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 49,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 4675,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12018,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 88,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#VPJYP29",
@@ -2067,19 +2091,55 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11337,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11816,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 41,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -2094,10 +2154,20 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 58,
+                    "stars": 2,
+                    "attackCount": 1,
+                    "totalLooted": 6505,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 58,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
