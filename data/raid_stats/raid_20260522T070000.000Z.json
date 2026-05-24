@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
-    "capitalTotalLoot": 637337,
+    "capitalTotalLoot": 642277,
     "raidsCompleted": 7,
-    "totalAttacks": 150,
-    "enemyDistrictsDestroyed": 59,
+    "totalAttacks": 151,
+    "enemyDistrictsDestroyed": 60,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -188,10 +188,10 @@
         {
             "tag": "#Y8PJCG8L",
             "name": "Chmmr",
-            "attacks": 3,
+            "attacks": 4,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 17842
+            "capitalResourcesLooted": 22782
         },
         {
             "tag": "#YR922PJC0",
@@ -2030,9 +2030,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/OCYaQO_vnvhox_gBOTNdg0OMNs2cgsaPw8V-XuMaxfM.png"
                 }
             },
-            "attackCount": 13,
+            "attackCount": 14,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -2154,11 +2154,19 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 58,
-                    "stars": 2,
-                    "attackCount": 1,
-                    "totalLooted": 6505,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11445,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#Y8PJCG8L",
@@ -2610,7 +2618,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/OEIdhe42VA9InoxLY6AcgPgJxLbHPPU5lWcdBuW4KS0.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 18,
             "districtCount": 9,
             "districtsDestroyed": 5,
             "districts": [
@@ -2636,11 +2644,19 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 27,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 2790,
+                    "destructionPercent": 91,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 8740,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q0GGQRPY",
+                                "name": "Hussieny"
+                            },
+                            "destructionPercent": 91,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#8PULR92LU",
