@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
-    "capitalTotalLoot": 572391,
+    "capitalTotalLoot": 600336,
     "raidsCompleted": 7,
-    "totalAttacks": 137,
-    "enemyDistrictsDestroyed": 54,
+    "totalAttacks": 143,
+    "enemyDistrictsDestroyed": 56,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -80,6 +80,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 26902
+        },
+        {
+            "tag": "#VPJYP29",
+            "name": "Viking",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 27945
         },
         {
             "tag": "#99VJ2VVPQ",
@@ -2014,9 +2022,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/OCYaQO_vnvhox_gBOTNdg0OMNs2cgsaPw8V-XuMaxfM.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 6,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -2031,10 +2039,20 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 49,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 4675,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 49,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -2085,19 +2103,63 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11471,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11799,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 75,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 23,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
