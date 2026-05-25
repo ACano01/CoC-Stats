@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 18,
-        "stars": 37,
-        "destructionPercentage": 71.05,
+        "attacks": 19,
+        "stars": 38,
+        "destructionPercentage": 71.45,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -114,6 +114,14 @@
                         "destructionPercentage": 77,
                         "order": 21,
                         "duration": 114
+                    },
+                    {
+                        "attackerTag": "#YL0VJ2YY",
+                        "defenderTag": "#289GV980P",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 24,
+                        "duration": 144
                     }
                 ],
                 "opponentAttacks": 0
@@ -238,7 +246,15 @@
                 "name": "YAGO",
                 "townhallLevel": 18,
                 "mapPosition": 7,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LPLYGVYCU",
+                    "defenderTag": "#V0GYVCJ9",
+                    "stars": 2,
+                    "destructionPercentage": 90,
+                    "order": 23,
+                    "duration": 177
+                }
             },
             {
                 "tag": "#L2PQ9QLUC",
@@ -374,9 +390,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/_mgxINqEqZt84OKlDO4Tu_mcZgjseQhIMufmjc5hrQY.png"
         },
         "clanLevel": 31,
-        "attacks": 4,
-        "stars": 9,
-        "destructionPercentage": 18.75,
+        "attacks": 5,
+        "stars": 11,
+        "destructionPercentage": 23.25,
         "members": [
             {
                 "tag": "#82VURRY0",
@@ -572,6 +588,16 @@
                 "name": "JJQR",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#LPLYGVYCU",
+                        "defenderTag": "#V0GYVCJ9",
+                        "stars": 2,
+                        "destructionPercentage": 90,
+                        "order": 23,
+                        "duration": 177
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#9C229UGJ",
@@ -657,14 +683,14 @@
                 "name": "Chief Wiggum",
                 "townhallLevel": 16,
                 "mapPosition": 18,
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#800CC2CCG",
+                    "attackerTag": "#YL0VJ2YY",
                     "defenderTag": "#289GV980P",
-                    "stars": 2,
-                    "destructionPercentage": 92,
-                    "order": 17,
-                    "duration": 142
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 24,
+                    "duration": 144
                 }
             },
             {
