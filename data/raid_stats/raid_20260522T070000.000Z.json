@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260522T070000.000Z",
     "endTime": "20260525T070000.000Z",
-    "capitalTotalLoot": 717613,
+    "capitalTotalLoot": 736631,
     "raidsCompleted": 9,
-    "totalAttacks": 167,
-    "enemyDistrictsDestroyed": 66,
+    "totalAttacks": 172,
+    "enemyDistrictsDestroyed": 68,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -32,6 +32,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 28611
+        },
+        {
+            "tag": "#YQYVJ92C",
+            "name": "SochieLife",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12045
         },
         {
             "tag": "#8LGRUUL9J",
@@ -228,10 +236,10 @@
         {
             "tag": "#GY98LJ8P9",
             "name": "SheepdogDLLJA",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 17170
+            "capitalResourcesLooted": 24143
         },
         {
             "tag": "#2VYVULCVL",
@@ -2354,9 +2362,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/Ua4DYaCsmIvlkNcTdkMJf-loeaZIEi27lAKO_PJeyNE.png"
                 }
             },
-            "attackCount": 7,
+            "attackCount": 12,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -2452,10 +2460,36 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12045,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YQYVJ92C",
+                                "name": "SochieLife"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YQYVJ92C",
+                                "name": "SochieLife"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YQYVJ92C",
+                                "name": "SochieLife"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
@@ -2488,11 +2522,27 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 37,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 5210,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12183,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 97,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#8GVP0V8CJ",
@@ -2882,9 +2932,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/OEIdhe42VA9InoxLY6AcgPgJxLbHPPU5lWcdBuW4KS0.png"
                 }
             },
-            "attackCount": 20,
+            "attackCount": 22,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -2908,11 +2958,19 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 91,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 8740,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10490,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8PULR92LU",
+                                "name": "\u0639\u0628\u062f\u0627\u0644\u0644\u0647"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#Q0GGQRPY",
@@ -3005,11 +3063,19 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 95,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 10255,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11957,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8PULR92LU",
+                                "name": "\u0639\u0628\u062f\u0627\u0644\u0644\u0647"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#Q0GGQRPY",
