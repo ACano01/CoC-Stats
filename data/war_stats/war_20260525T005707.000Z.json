@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 28,
-        "stars": 53,
-        "destructionPercentage": 89.85,
+        "attacks": 32,
+        "stars": 60,
+        "destructionPercentage": 100.0,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -123,6 +123,14 @@
                         "destructionPercentage": 100,
                         "order": 40,
                         "duration": 144
+                    },
+                    {
+                        "attackerTag": "#YQYVJ92C",
+                        "defenderTag": "#82PJGY8U",
+                        "stars": 2,
+                        "destructionPercentage": 71,
+                        "order": 68,
+                        "duration": 101
                     }
                 ],
                 "opponentAttacks": 1,
@@ -158,7 +166,7 @@
                         "duration": 144
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#8Q0LJCQ0",
                     "defenderTag": "#YL0VJ2YY",
@@ -272,6 +280,16 @@
                 "name": "Viking",
                 "townhallLevel": 18,
                 "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#VPJYP29",
+                        "defenderTag": "#2Y9U9RUJU",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 64,
+                        "duration": 128
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2CYJ2QUG9",
@@ -305,7 +323,7 @@
                         "duration": 80
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#G92LC8UUV",
                     "defenderTag": "#99VJ2VVPQ",
@@ -328,6 +346,14 @@
                         "destructionPercentage": 100,
                         "order": 20,
                         "duration": 165
+                    },
+                    {
+                        "attackerTag": "#QC92VLPP",
+                        "defenderTag": "#RGURPRVP",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 65,
+                        "duration": 116
                     }
                 ],
                 "opponentAttacks": 1,
@@ -534,6 +560,16 @@
                 "name": "Viking 2",
                 "townhallLevel": 18,
                 "mapPosition": 10,
+                "attacks": [
+                    {
+                        "attackerTag": "#GU2UVG9CV",
+                        "defenderTag": "#2GUJCVCR",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 66,
+                        "duration": 103
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#G92LC8UUV",
@@ -588,7 +624,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/_mgxINqEqZt84OKlDO4Tu_mcZgjseQhIMufmjc5hrQY.png"
         },
         "clanLevel": 31,
-        "attacks": 34,
+        "attacks": 36,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -597,6 +633,24 @@
                 "name": "mry64",
                 "townhallLevel": 17,
                 "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#82VURRY0",
+                        "defenderTag": "#99VJ2VVPQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 63,
+                        "duration": 125
+                    },
+                    {
+                        "attackerTag": "#82VURRY0",
+                        "defenderTag": "#YL0VJ2YY",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 67,
+                        "duration": 146
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#99VJ2VVPQ",
@@ -696,14 +750,14 @@
                         "duration": 132
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#800CC2CCG",
+                    "attackerTag": "#QC92VLPP",
                     "defenderTag": "#RGURPRVP",
-                    "stars": 2,
-                    "destructionPercentage": 97,
-                    "order": 16,
-                    "duration": 180
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 65,
+                    "duration": 116
                 }
             },
             {
@@ -820,7 +874,7 @@
                         "duration": 142
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#9C229UGJ",
                     "defenderTag": "#82PJGY8U",
@@ -886,7 +940,15 @@
                         "duration": 125
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GU2UVG9CV",
+                    "defenderTag": "#2GUJCVCR",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 66,
+                    "duration": 103
+                }
             },
             {
                 "tag": "#Y2CCGGV2Y",
@@ -959,7 +1021,15 @@
                         "duration": 180
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#VPJYP29",
+                    "defenderTag": "#2Y9U9RUJU",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 64,
+                    "duration": 128
+                }
             },
             {
                 "tag": "#LPLYGVYCU",
