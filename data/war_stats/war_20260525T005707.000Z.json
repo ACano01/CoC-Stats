@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 32,
+        "attacks": 35,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -288,6 +288,14 @@
                         "destructionPercentage": 100,
                         "order": 64,
                         "duration": 128
+                    },
+                    {
+                        "attackerTag": "#VPJYP29",
+                        "defenderTag": "#82PJGY8U",
+                        "stars": 2,
+                        "destructionPercentage": 95,
+                        "order": 69,
+                        "duration": 180
                     }
                 ],
                 "opponentAttacks": 1,
@@ -323,7 +331,7 @@
                         "duration": 80
                     }
                 ],
-                "opponentAttacks": 4,
+                "opponentAttacks": 5,
                 "bestOpponentAttack": {
                     "attackerTag": "#G92LC8UUV",
                     "defenderTag": "#99VJ2VVPQ",
@@ -437,6 +445,14 @@
                         "destructionPercentage": 100,
                         "order": 2,
                         "duration": 151
+                    },
+                    {
+                        "attackerTag": "#L2PQ9QLUC",
+                        "defenderTag": "#82PJGY8U",
+                        "stars": 2,
+                        "destructionPercentage": 82,
+                        "order": 72,
+                        "duration": 180
                     }
                 ],
                 "opponentAttacks": 1,
@@ -568,6 +584,14 @@
                         "destructionPercentage": 100,
                         "order": 66,
                         "duration": 103
+                    },
+                    {
+                        "attackerTag": "#GU2UVG9CV",
+                        "defenderTag": "#82PJGY8U",
+                        "stars": 1,
+                        "destructionPercentage": 79,
+                        "order": 70,
+                        "duration": 117
                     }
                 ],
                 "opponentAttacks": 1,
@@ -624,7 +648,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/_mgxINqEqZt84OKlDO4Tu_mcZgjseQhIMufmjc5hrQY.png"
         },
         "clanLevel": 31,
-        "attacks": 36,
+        "attacks": 37,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -874,7 +898,7 @@
                         "duration": 142
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 6,
                 "bestOpponentAttack": {
                     "attackerTag": "#9C229UGJ",
                     "defenderTag": "#82PJGY8U",
@@ -988,6 +1012,16 @@
                 "name": "maynard",
                 "townhallLevel": 17,
                 "mapPosition": 16,
+                "attacks": [
+                    {
+                        "attackerTag": "#RQURG088",
+                        "defenderTag": "#99VJ2VVPQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 71,
+                        "duration": 128
+                    }
+                ],
                 "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#Q92RUPUJ",
