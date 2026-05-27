@@ -1,5 +1,5 @@
 {
-    "state": "preparation",
+    "state": "inWar",
     "teamSize": 20,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -29,7 +29,7 @@
             {
                 "tag": "#U90CYLQ2",
                 "name": "Ben",
-                "townhallLevel": 16,
+                "townhallLevel": 17,
                 "mapPosition": 14,
                 "opponentAttacks": 0
             },
