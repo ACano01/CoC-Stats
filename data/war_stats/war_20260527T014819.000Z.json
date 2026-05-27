@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 33,
+        "attacks": 34,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -495,6 +495,14 @@
                         "destructionPercentage": 100,
                         "order": 23,
                         "duration": 120
+                    },
+                    {
+                        "attackerTag": "#LPU0GGCJQ",
+                        "defenderTag": "#GCYUL990Q",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 59,
+                        "duration": 148
                     }
                 ],
                 "opponentAttacks": 1,
@@ -912,7 +920,7 @@
                 "name": "TP\u274cKARDING III",
                 "townhallLevel": 16,
                 "mapPosition": 19,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#99VC2CU9",
                     "defenderTag": "#GCYUL990Q",
