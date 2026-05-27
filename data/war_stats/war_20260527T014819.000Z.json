@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 11,
-        "stars": 24,
-        "destructionPercentage": 43.4,
+        "attacks": 15,
+        "stars": 31,
+        "destructionPercentage": 55.3,
         "members": [
             {
                 "tag": "#2PULPGL90",
@@ -123,6 +123,16 @@
                 "name": "Big Bry68",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#LGUV2YP0",
+                        "defenderTag": "#22R9R8PVU",
+                        "stars": 2,
+                        "destructionPercentage": 55,
+                        "order": 17,
+                        "duration": 88
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -145,6 +155,24 @@
                 "name": "Viking",
                 "townhallLevel": 18,
                 "mapPosition": 3,
+                "attacks": [
+                    {
+                        "attackerTag": "#VPJYP29",
+                        "defenderTag": "#20LU989L0",
+                        "stars": 2,
+                        "destructionPercentage": 83,
+                        "order": 14,
+                        "duration": 137
+                    },
+                    {
+                        "attackerTag": "#VPJYP29",
+                        "defenderTag": "#28G9JLVUG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 16,
+                        "duration": 155
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -207,6 +235,16 @@
                 "name": "mike",
                 "townhallLevel": 18,
                 "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#UQQ0LJLP",
+                        "defenderTag": "#28G9JLVUG",
+                        "stars": 2,
+                        "destructionPercentage": 91,
+                        "order": 15,
+                        "duration": 160
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -457,7 +495,15 @@
                 "name": "TP \u274c Sam\u2764\ufe0f",
                 "townhallLevel": 18,
                 "mapPosition": 8,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LGUV2YP0",
+                    "defenderTag": "#22R9R8PVU",
+                    "stars": 2,
+                    "destructionPercentage": 55,
+                    "order": 17,
+                    "duration": 88
+                }
             },
             {
                 "tag": "#2UV0VYQ9P",
@@ -486,7 +532,15 @@
                 "name": "TP\u274c\u2026ICEICEICE\u2026",
                 "townhallLevel": 18,
                 "mapPosition": 5,
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#VPJYP29",
+                    "defenderTag": "#28G9JLVUG",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 16,
+                    "duration": 155
+                }
             },
             {
                 "tag": "#JRUU0R0",
@@ -508,7 +562,15 @@
                 "name": "TP \u274c ZiLD",
                 "townhallLevel": 18,
                 "mapPosition": 4,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#VPJYP29",
+                    "defenderTag": "#20LU989L0",
+                    "stars": 2,
+                    "destructionPercentage": 83,
+                    "order": 14,
+                    "duration": 137
+                }
             },
             {
                 "tag": "#2J0CJRGV",
