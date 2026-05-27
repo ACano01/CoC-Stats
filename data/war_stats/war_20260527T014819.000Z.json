@@ -141,7 +141,7 @@
                         "duration": 124
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#2UV0VYQ9P",
                     "defenderTag": "#Q92RUPUJ",
@@ -414,7 +414,7 @@
                         "duration": 131
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#2UV0VYQ9P",
                     "defenderTag": "#L2PQ9QLUC",
@@ -640,7 +640,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/mJclkJA_BiCrGlYiUwxcYW3rVvLzPXApxdeXqIL4SRI.png"
         },
         "clanLevel": 11,
-        "attacks": 25,
+        "attacks": 30,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -771,6 +771,14 @@
                         "destructionPercentage": 100,
                         "order": 28,
                         "duration": 152
+                    },
+                    {
+                        "attackerTag": "#GJP9PLUUC",
+                        "defenderTag": "#Q92RUPUJ",
+                        "stars": 1,
+                        "destructionPercentage": 14,
+                        "order": 64,
+                        "duration": 24
                     }
                 ],
                 "opponentAttacks": 1,
@@ -935,6 +943,24 @@
                 "name": "t.e.t.z",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#9Q9GLC0G",
+                        "defenderTag": "#Q92RUPUJ",
+                        "stars": 1,
+                        "destructionPercentage": 90,
+                        "order": 60,
+                        "duration": 95
+                    },
+                    {
+                        "attackerTag": "#9Q9GLC0G",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 1,
+                        "destructionPercentage": 16,
+                        "order": 61,
+                        "duration": 22
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
@@ -1145,6 +1171,24 @@
                 "name": "K4rding",
                 "townhallLevel": 18,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#2J0CJRGV",
+                        "defenderTag": "#Q92RUPUJ",
+                        "stars": 1,
+                        "destructionPercentage": 11,
+                        "order": 62,
+                        "duration": 16
+                    },
+                    {
+                        "attackerTag": "#2J0CJRGV",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 1,
+                        "destructionPercentage": 14,
+                        "order": 63,
+                        "duration": 20
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#L2PQ9QLUC",
