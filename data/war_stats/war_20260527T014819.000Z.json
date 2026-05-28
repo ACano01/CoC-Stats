@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 34,
+        "attacks": 35,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -141,7 +141,7 @@
                         "duration": 124
                     }
                 ],
-                "opponentAttacks": 4,
+                "opponentAttacks": 5,
                 "bestOpponentAttack": {
                     "attackerTag": "#2UV0VYQ9P",
                     "defenderTag": "#Q92RUPUJ",
@@ -346,6 +346,14 @@
                         "destructionPercentage": 100,
                         "order": 5,
                         "duration": 91
+                    },
+                    {
+                        "attackerTag": "#99VC2CU9",
+                        "defenderTag": "#2UV0VYQ9P",
+                        "stars": 2,
+                        "destructionPercentage": 61,
+                        "order": 65,
+                        "duration": 95
                     }
                 ],
                 "opponentAttacks": 1,
@@ -414,7 +422,7 @@
                         "duration": 131
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#2UV0VYQ9P",
                     "defenderTag": "#L2PQ9QLUC",
@@ -640,7 +648,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/mJclkJA_BiCrGlYiUwxcYW3rVvLzPXApxdeXqIL4SRI.png"
         },
         "clanLevel": 11,
-        "attacks": 30,
+        "attacks": 32,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -1042,7 +1050,7 @@
                         "duration": 167
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
                     "defenderTag": "#2UV0VYQ9P",
@@ -1204,6 +1212,24 @@
                 "name": "manunungkit",
                 "townhallLevel": 17,
                 "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#2G0LVUC99",
+                        "defenderTag": "#Q92RUPUJ",
+                        "stars": 1,
+                        "destructionPercentage": 19,
+                        "order": 66,
+                        "duration": 49
+                    },
+                    {
+                        "attackerTag": "#2G0LVUC99",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 1,
+                        "destructionPercentage": 27,
+                        "order": 67,
+                        "duration": 58
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#99VJ2VVPQ",
