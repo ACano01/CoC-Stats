@@ -244,7 +244,15 @@
                 "name": "Sir Thor",
                 "townhallLevel": 9,
                 "mapPosition": 20,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GVUJ2G9VC",
+                    "defenderTag": "#GVYR9GPJ9",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 18,
+                    "duration": 44
+                }
             },
             {
                 "tag": "#2PYVCVQP9",
@@ -268,7 +276,7 @@
                 "name": "night dragon",
                 "townhallLevel": 15,
                 "mapPosition": 19,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#GCCP80GYQ",
                     "defenderTag": "#LPU0GGCJQ",
@@ -300,7 +308,15 @@
                 "name": "family buffalo",
                 "townhallLevel": 18,
                 "mapPosition": 4,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QGGVRUULJ",
+                    "defenderTag": "#2VYVULCVL",
+                    "stars": 2,
+                    "destructionPercentage": 85,
+                    "order": 17,
+                    "duration": 154
+                }
             },
             {
                 "tag": "#2P8LYJCUR",
@@ -320,9 +336,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/cP2NT1K7A6g0K_OjWqzi7-_RV-rsLUC7YD8BvhCiRdc.png"
         },
         "clanLevel": 24,
-        "attacks": 1,
-        "stars": 2,
-        "destructionPercentage": 4.6,
+        "attacks": 4,
+        "stars": 7,
+        "destructionPercentage": 13.85,
         "members": [
             {
                 "tag": "#YY29L0U2G",
@@ -403,6 +419,24 @@
                 "name": "\ub315\ucf54\ub9ac",
                 "townhallLevel": 12,
                 "mapPosition": 20,
+                "attacks": [
+                    {
+                        "attackerTag": "#GVUJ2G9VC",
+                        "defenderTag": "#GVYR9GPJ9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 18,
+                        "duration": 44
+                    },
+                    {
+                        "attackerTag": "#GVUJ2G9VC",
+                        "defenderTag": "#LPU0GGCJQ",
+                        "stars": 1,
+                        "destructionPercentage": 50,
+                        "order": 19,
+                        "duration": 125
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -410,6 +444,16 @@
                 "name": "\ud070\ub09c\uc7c1\uc774",
                 "townhallLevel": 17,
                 "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#QGGVRUULJ",
+                        "defenderTag": "#2VYVULCVL",
+                        "stars": 2,
+                        "destructionPercentage": 85,
+                        "order": 17,
+                        "duration": 154
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#99VJ2VVPQ",
