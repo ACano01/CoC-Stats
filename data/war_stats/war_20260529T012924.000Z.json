@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 29,
+        "attacks": 32,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -42,7 +42,15 @@
                         "duration": 129
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GJYLVUJCY",
+                    "defenderTag": "#9C229UGJ",
+                    "stars": 2,
+                    "destructionPercentage": 97,
+                    "order": 42,
+                    "duration": 122
+                }
             },
             {
                 "tag": "#2PULPGL90",
@@ -122,6 +130,14 @@
                         "destructionPercentage": 66,
                         "order": 11,
                         "duration": 92
+                    },
+                    {
+                        "attackerTag": "#Q92RUPUJ",
+                        "defenderTag": "#GJYLVUJCY",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 41,
+                        "duration": 109
                     }
                 ],
                 "opponentAttacks": 1,
@@ -338,6 +354,14 @@
                         "destructionPercentage": 62,
                         "order": 28,
                         "duration": 113
+                    },
+                    {
+                        "attackerTag": "#L2PQ9QLUC",
+                        "defenderTag": "#YCU8CG92V",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 44,
+                        "duration": 141
                     }
                 ],
                 "opponentAttacks": 1,
@@ -384,6 +408,14 @@
                         "stars": 3,
                         "destructionPercentage": 100,
                         "order": 8,
+                        "duration": 141
+                    },
+                    {
+                        "attackerTag": "#2PYVCVQP9",
+                        "defenderTag": "#222PY0PQJ",
+                        "stars": 2,
+                        "destructionPercentage": 66,
+                        "order": 43,
                         "duration": 141
                     }
                 ],
@@ -508,9 +540,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/cP2NT1K7A6g0K_OjWqzi7-_RV-rsLUC7YD8BvhCiRdc.png"
         },
         "clanLevel": 24,
-        "attacks": 11,
-        "stars": 24,
-        "destructionPercentage": 42.75,
+        "attacks": 12,
+        "stars": 26,
+        "destructionPercentage": 47.6,
         "members": [
             {
                 "tag": "#YY29L0U2G",
@@ -580,7 +612,7 @@
                 "name": "REV UpandAway",
                 "townhallLevel": 18,
                 "mapPosition": 2,
-                "opponentAttacks": 4,
+                "opponentAttacks": 5,
                 "bestOpponentAttack": {
                     "attackerTag": "#V0GYVCJ9",
                     "defenderTag": "#222PY0PQJ",
@@ -610,7 +642,7 @@
                 "name": "freeman",
                 "townhallLevel": 18,
                 "mapPosition": 1,
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
                     "defenderTag": "#YCU8CG92V",
@@ -792,9 +824,17 @@
                         "destructionPercentage": 100,
                         "order": 40,
                         "duration": 92
+                    },
+                    {
+                        "attackerTag": "#GJYLVUJCY",
+                        "defenderTag": "#9C229UGJ",
+                        "stars": 2,
+                        "destructionPercentage": 97,
+                        "order": 42,
+                        "duration": 122
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#V0GYVCJ9",
                     "defenderTag": "#GJYLVUJCY",
