@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 32,
+        "attacks": 34,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -442,6 +442,14 @@
                         "destructionPercentage": 100,
                         "order": 22,
                         "duration": 102
+                    },
+                    {
+                        "attackerTag": "#LPU0GGCJQ",
+                        "defenderTag": "#GCCP80GYQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 46,
+                        "duration": 117
                     }
                 ],
                 "opponentAttacks": 2,
@@ -492,6 +500,14 @@
                         "destructionPercentage": 100,
                         "order": 23,
                         "duration": 102
+                    },
+                    {
+                        "attackerTag": "#2VYVULCVL",
+                        "defenderTag": "#PG8LGLURP",
+                        "stars": 2,
+                        "destructionPercentage": 76,
+                        "order": 45,
+                        "duration": 103
                     }
                 ],
                 "opponentAttacks": 1,
@@ -879,7 +895,7 @@
                 "name": "Hyen",
                 "townhallLevel": 18,
                 "mapPosition": 4,
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#9C229UGJ",
                     "defenderTag": "#PG8LGLURP",
@@ -912,7 +928,7 @@
                         "duration": 106
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#99VC2CU9",
                     "defenderTag": "#GCCP80GYQ",
