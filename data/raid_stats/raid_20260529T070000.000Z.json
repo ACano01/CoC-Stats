@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260529T070000.000Z",
     "endTime": "20260601T070000.000Z",
-    "capitalTotalLoot": 447506,
-    "raidsCompleted": 5,
-    "totalAttacks": 107,
-    "enemyDistrictsDestroyed": 43,
+    "capitalTotalLoot": 495340,
+    "raidsCompleted": 6,
+    "totalAttacks": 122,
+    "enemyDistrictsDestroyed": 46,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -36,18 +36,18 @@
         {
             "tag": "#UUC9PCQ",
             "name": "Beat my Wifi",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 10098
+            "capitalResourcesLooted": 29663
         },
         {
             "tag": "#8LGRUUL9J",
             "name": "violin",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 22522
+            "capitalResourcesLooted": 24267
         },
         {
             "tag": "#Y02J2VQ2",
@@ -56,6 +56,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 18564
+        },
+        {
+            "tag": "#YL0VJ2YY",
+            "name": "Choong",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 14876
         },
         {
             "tag": "#Q92RUPUJ",
@@ -152,6 +160,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 22407
+        },
+        {
+            "tag": "#GU2UVG9CV",
+            "name": "Viking 2",
+            "attacks": 4,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11648
         },
         {
             "tag": "#2VYVULCVL",
@@ -1334,18 +1350,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/5yK5e_ZhV9KfC06E8N9XFhgdiukZBDTI7WsTxv1p7M8.png"
                 }
             },
-            "attackCount": 21,
+            "attackCount": 29,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13595,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 69,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 32,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 14,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1386,10 +1436,44 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 10526,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 70,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 34,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -1597,6 +1681,166 @@
                                 "name": "TMac"
                             },
                             "destructionPercent": 33,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#UR80JR0P",
+                "name": "EGYPT",
+                "level": 22,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/9gu7ZfUljm0fX4EftXljEz2w3cvSqH68XTvkKSjjtqk.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/9gu7ZfUljm0fX4EftXljEz2w3cvSqH68XTvkKSjjtqk.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/9gu7ZfUljm0fX4EftXljEz2w3cvSqH68XTvkKSjjtqk.png"
+                }
+            },
+            "attackCount": 7,
+            "districtCount": 9,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 84,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 10320,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 27,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11648,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 23,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 18,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 25,
+                    "stars": 0,
+                    "attackCount": 1,
+                    "totalLooted": 1745,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 25,
                             "stars": 0
                         }
                     ]
@@ -1956,9 +2200,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/l94CXuoGxAIOXnyouQyzyY10ayzuB3KdFAdw62hfMVo.png"
                 }
             },
-            "attackCount": 7,
+            "attackCount": 15,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -2026,10 +2270,28 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 69,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 7760,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#28R92CQ80",
+                                "name": "hadi 0511"
+                            },
+                            "destructionPercent": 69,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28R92CQ80",
+                                "name": "hadi 0511"
+                            },
+                            "destructionPercent": 49,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -2089,19 +2351,71 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 28,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 3725,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q2J2808UJ",
+                                "name": "anji"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q2J2808UJ",
+                                "name": "anji"
+                            },
+                            "destructionPercent": 12,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11568,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q2J2808UJ",
+                                "name": "anji"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q2J2808UJ",
+                                "name": "anji"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q2J2808UJ",
+                                "name": "anji"
+                            },
+                            "destructionPercent": 49,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q2J2808UJ",
+                                "name": "anji"
+                            },
+                            "destructionPercent": 31,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
