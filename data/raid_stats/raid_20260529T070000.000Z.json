@@ -2394,7 +2394,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/l94CXuoGxAIOXnyouQyzyY10ayzuB3KdFAdw62hfMVo.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 20,
             "districtCount": 9,
             "districtsDestroyed": 5,
             "districts": [
@@ -2411,10 +2411,28 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 64,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 7735,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#28R92CQ80",
+                                "name": "hadi 0511"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28R92CQ80",
+                                "name": "hadi 0511"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -2499,11 +2517,19 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 27,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 3970,
+                    "destructionPercent": 95,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 11190,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2L2GL90Y9",
+                                "name": "DK_\u2b55\ufe0fD\u00f6rk"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#L8L02YCCQ",
