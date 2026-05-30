@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260529T070000.000Z",
     "endTime": "20260601T070000.000Z",
-    "capitalTotalLoot": 602636,
+    "capitalTotalLoot": 613176,
     "raidsCompleted": 8,
-    "totalAttacks": 152,
+    "totalAttacks": 154,
     "enemyDistrictsDestroyed": 56,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -172,10 +172,10 @@
         {
             "tag": "#2PYVCVQP9",
             "name": "Carsten",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 13086
+            "capitalResourcesLooted": 23626
         },
         {
             "tag": "#8RJ8CC8LU",
@@ -2102,7 +2102,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/QYZijtGY8yFqMdG8WDUvmWOicT2CCT2RH938cd5gki4.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 8,
             "districtCount": 9,
             "districtsDestroyed": 2,
             "districts": [
@@ -2199,10 +2199,28 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 93,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 10540,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2PYVCVQP9",
+                                "name": "Carsten"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PYVCVQP9",
+                                "name": "Carsten"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
