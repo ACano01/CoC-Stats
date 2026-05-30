@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260529T070000.000Z",
     "endTime": "20260601T070000.000Z",
-    "capitalTotalLoot": 539197,
+    "capitalTotalLoot": 561040,
     "raidsCompleted": 6,
-    "totalAttacks": 135,
-    "enemyDistrictsDestroyed": 50,
+    "totalAttacks": 141,
+    "enemyDistrictsDestroyed": 52,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -184,6 +184,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 12099
+        },
+        {
+            "tag": "#YR922PJC0",
+            "name": "fadi",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 21843
         },
         {
             "tag": "#2VYVULCVL",
@@ -1714,9 +1722,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/9gu7ZfUljm0fX4EftXljEz2w3cvSqH68XTvkKSjjtqk.png"
                 }
             },
-            "attackCount": 20,
+            "attackCount": 26,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -1731,29 +1739,81 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 62,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 7685,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 32,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10658,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 87,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 41,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 70,
-                    "stars": 1,
-                    "attackCount": 2,
-                    "totalLooted": 7735,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11235,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#P9LC88QJ",
