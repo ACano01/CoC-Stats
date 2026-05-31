@@ -2612,28 +2612,46 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/l94CXuoGxAIOXnyouQyzyY10ayzuB3KdFAdw62hfMVo.png"
                 }
             },
-            "attackCount": 24,
+            "attackCount": 26,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 25,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 2440,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GYUGVYCC",
+                                "name": "gogoxD"
+                            },
+                            "destructionPercent": 25,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 64,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 7735,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11541,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GYUGVYCC",
+                                "name": "gogoxD"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#28R92CQ80",
