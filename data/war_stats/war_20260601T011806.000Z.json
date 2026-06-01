@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 35,
+        "attacks": 37,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -156,6 +156,14 @@
                         "destructionPercentage": 63,
                         "order": 3,
                         "duration": 85
+                    },
+                    {
+                        "attackerTag": "#YULUPURY",
+                        "defenderTag": "#YQUQGPJGC",
+                        "stars": 1,
+                        "destructionPercentage": 41,
+                        "order": 63,
+                        "duration": 84
                     }
                 ],
                 "opponentAttacks": 1,
@@ -290,7 +298,7 @@
                         "duration": 166
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#CCCY899L",
                     "defenderTag": "#9G92CY9L",
@@ -323,7 +331,7 @@
                         "duration": 130
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#8LR8RULJG",
                     "defenderTag": "#QC92VLPP",
@@ -346,6 +354,14 @@
                         "destructionPercentage": 100,
                         "order": 42,
                         "duration": 156
+                    },
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#UYVYPP8L",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 64,
+                        "duration": 178
                     }
                 ],
                 "opponentAttacks": 1,
@@ -648,7 +664,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3e_l1TYH0k9BMuoNGKsFq5NuX7eOW1Wta8RAIAuZuIM.png"
         },
         "clanLevel": 24,
-        "attacks": 26,
+        "attacks": 28,
         "stars": 55,
         "destructionPercentage": 94.85,
         "members": [
@@ -692,7 +708,7 @@
                         "duration": 119
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#VPJYP29",
                     "defenderTag": "#UYVYPP8L",
@@ -806,6 +822,14 @@
                         "destructionPercentage": 100,
                         "order": 16,
                         "duration": 73
+                    },
+                    {
+                        "attackerTag": "#G80RJJ89",
+                        "defenderTag": "#QC92VLPP",
+                        "stars": 1,
+                        "destructionPercentage": 96,
+                        "order": 62,
+                        "duration": 129
                     }
                 ],
                 "opponentAttacks": 1,
@@ -969,7 +993,7 @@
                 "name": "Oiler Jr",
                 "townhallLevel": 16,
                 "mapPosition": 20,
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#99VJ2VVPQ",
                     "defenderTag": "#YQUQGPJGC",
@@ -1058,6 +1082,14 @@
                         "destructionPercentage": 93,
                         "order": 59,
                         "duration": 144
+                    },
+                    {
+                        "attackerTag": "#QGQYLU2QG",
+                        "defenderTag": "#9G92CY9L",
+                        "stars": 1,
+                        "destructionPercentage": 90,
+                        "order": 65,
+                        "duration": 137
                     }
                 ],
                 "opponentAttacks": 3,
