@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 19,
-        "stars": 44,
-        "destructionPercentage": 77.2,
+        "attacks": 25,
+        "stars": 49,
+        "destructionPercentage": 83.25,
         "members": [
             {
                 "tag": "#9C229UGJ",
@@ -82,6 +82,14 @@
                         "destructionPercentage": 69,
                         "order": 24,
                         "duration": 110
+                    },
+                    {
+                        "attackerTag": "#YL0VJ2YY",
+                        "defenderTag": "#QCQ882YJ",
+                        "stars": 2,
+                        "destructionPercentage": 69,
+                        "order": 34,
+                        "duration": 124
                     }
                 ],
                 "opponentAttacks": 1,
@@ -272,7 +280,15 @@
                 "name": "YAGO",
                 "townhallLevel": 18,
                 "mapPosition": 8,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#JY8PC",
+                    "defenderTag": "#V0GYVCJ9",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 35,
+                    "duration": 110
+                }
             },
             {
                 "tag": "#892LGGLYY",
@@ -287,6 +303,14 @@
                         "destructionPercentage": 100,
                         "order": 18,
                         "duration": 91
+                    },
+                    {
+                        "attackerTag": "#892LGGLYY",
+                        "defenderTag": "#Q2UV9GLVC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 37,
+                        "duration": 87
                     }
                 ],
                 "opponentAttacks": 1,
@@ -354,6 +378,16 @@
                 "name": "night dragon",
                 "townhallLevel": 15,
                 "mapPosition": 19,
+                "attacks": [
+                    {
+                        "attackerTag": "#LPU0GGCJQ",
+                        "defenderTag": "#YQUQGPJGC",
+                        "stars": 1,
+                        "destructionPercentage": 70,
+                        "order": 36,
+                        "duration": 142
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -369,6 +403,14 @@
                         "destructionPercentage": 60,
                         "order": 1,
                         "duration": 76
+                    },
+                    {
+                        "attackerTag": "#8RJ8CC8LU",
+                        "defenderTag": "#YQUQGPJGC",
+                        "stars": 2,
+                        "destructionPercentage": 70,
+                        "order": 39,
+                        "duration": 100
                     }
                 ],
                 "opponentAttacks": 1,
@@ -394,6 +436,14 @@
                         "destructionPercentage": 100,
                         "order": 31,
                         "duration": 103
+                    },
+                    {
+                        "attackerTag": "#GU2UVG9CV",
+                        "defenderTag": "#LY99LYVYC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 33,
+                        "duration": 107
                     }
                 ],
                 "opponentAttacks": 0
@@ -433,6 +483,14 @@
                         "destructionPercentage": 100,
                         "order": 4,
                         "duration": 122
+                    },
+                    {
+                        "attackerTag": "#2P8LYJCUR",
+                        "defenderTag": "#C0UQQUGL",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 38,
+                        "duration": 107
                     }
                 ],
                 "opponentAttacks": 0
@@ -448,9 +506,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3e_l1TYH0k9BMuoNGKsFq5NuX7eOW1Wta8RAIAuZuIM.png"
         },
         "clanLevel": 24,
-        "attacks": 13,
-        "stars": 35,
-        "destructionPercentage": 59.55,
+        "attacks": 14,
+        "stars": 38,
+        "destructionPercentage": 64.55,
         "members": [
             {
                 "tag": "#890L2P2U",
@@ -497,6 +555,16 @@
                 "name": "Infernal Doom",
                 "townhallLevel": 18,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#JY8PC",
+                        "defenderTag": "#V0GYVCJ9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 35,
+                        "duration": 110
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#9C229UGJ",
@@ -522,7 +590,7 @@
                         "duration": 128
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PYVCVQP9",
                     "defenderTag": "#QCQ882YJ",
@@ -631,14 +699,14 @@
                 "name": "Leroy Brown",
                 "townhallLevel": 18,
                 "mapPosition": 12,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#YL0VJ2YY",
+                    "attackerTag": "#GU2UVG9CV",
                     "defenderTag": "#LY99LYVYC",
-                    "stars": 2,
-                    "destructionPercentage": 69,
-                    "order": 24,
-                    "duration": 110
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 33,
+                    "duration": 107
                 }
             },
             {
@@ -656,14 +724,14 @@
                         "duration": 105
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#800CC2CCG",
+                    "attackerTag": "#2P8LYJCUR",
                     "defenderTag": "#C0UQQUGL",
-                    "stars": 2,
-                    "destructionPercentage": 81,
-                    "order": 19,
-                    "duration": 131
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 38,
+                    "duration": 107
                 }
             },
             {
@@ -671,7 +739,15 @@
                 "name": "Oiler Jr",
                 "townhallLevel": 16,
                 "mapPosition": 20,
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8RJ8CC8LU",
+                    "defenderTag": "#YQUQGPJGC",
+                    "stars": 2,
+                    "destructionPercentage": 70,
+                    "order": 39,
+                    "duration": 100
+                }
             },
             {
                 "tag": "#Q2UV9GLVC",
@@ -688,14 +764,14 @@
                         "duration": 149
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#2PYVCVQP9",
+                    "attackerTag": "#892LGGLYY",
                     "defenderTag": "#Q2UV9GLVC",
-                    "stars": 2,
-                    "destructionPercentage": 99,
-                    "order": 21,
-                    "duration": 179
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 37,
+                    "duration": 87
                 }
             },
             {
