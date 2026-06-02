@@ -1,5 +1,5 @@
 {
-    "state": "inWar",
+    "state": "warEnded",
     "teamSize": 20,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -108,7 +108,7 @@
                         "duration": 124
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#LRL2G0288",
                     "defenderTag": "#YL0VJ2YY",
@@ -570,7 +570,7 @@
                         "duration": 107
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#890L2P2U",
                     "defenderTag": "#GU2UVG9CV",
@@ -651,7 +651,7 @@
                         "duration": 107
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#JY8PC",
                     "defenderTag": "#2P8LYJCUR",
@@ -672,7 +672,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3e_l1TYH0k9BMuoNGKsFq5NuX7eOW1Wta8RAIAuZuIM.png"
         },
         "clanLevel": 24,
-        "attacks": 28,
+        "attacks": 31,
         "stars": 55,
         "destructionPercentage": 94.85,
         "members": [
@@ -880,6 +880,16 @@
                 "name": "Nate",
                 "townhallLevel": 18,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#L0L9GGVR",
+                        "defenderTag": "#2P8LYJCUR",
+                        "stars": 1,
+                        "destructionPercentage": 58,
+                        "order": 67,
+                        "duration": 79
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#V0GYVCJ9",
@@ -895,6 +905,24 @@
                 "name": "Aaron",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#Q8QPY2L2",
+                        "defenderTag": "#YL0VJ2YY",
+                        "stars": 2,
+                        "destructionPercentage": 64,
+                        "order": 68,
+                        "duration": 68
+                    },
+                    {
+                        "attackerTag": "#Q8QPY2L2",
+                        "defenderTag": "#GU2UVG9CV",
+                        "stars": 2,
+                        "destructionPercentage": 58,
+                        "order": 69,
+                        "duration": 71
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
