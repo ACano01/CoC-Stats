@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260605T070000.000Z",
     "endTime": "20260608T070000.000Z",
-    "capitalTotalLoot": 322619,
+    "capitalTotalLoot": 346189,
     "raidsCompleted": 3,
-    "totalAttacks": 74,
-    "enemyDistrictsDestroyed": 30,
+    "totalAttacks": 79,
+    "enemyDistrictsDestroyed": 32,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -58,6 +58,14 @@
             "capitalResourcesLooted": 28183
         },
         {
+            "tag": "#YULUPURY",
+            "name": "SoccerShaw12",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11928
+        },
+        {
             "tag": "#P9LC88QJ",
             "name": "DaTicket13",
             "attacks": 2,
@@ -84,10 +92,10 @@
         {
             "tag": "#9G92CY9L",
             "name": "brandondepalma",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 16060
+            "capitalResourcesLooted": 27702
         },
         {
             "tag": "#QC92VLPP",
@@ -1042,9 +1050,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/YqqHg5smNyrT3r8xu9rpaEtIJMZPEkV2AiI5OuEaNxw.png"
                 }
             },
-            "attackCount": 7,
+            "attackCount": 12,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -1175,19 +1183,63 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11642,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9G92CY9L",
+                                "name": "brandondepalma"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9G92CY9L",
+                                "name": "brandondepalma"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11928,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
@@ -1204,9 +1256,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/zSjznrBxOv7QSfw4pgGF17bc0uFDQ-zX0POfvYuR0iU.png"
                 }
             },
-            "attackCount": 7,
+            "attackCount": 11,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -1239,11 +1291,19 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 28,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3185,
+                    "destructionPercent": 86,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 9330,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8Y00YYLQ",
+                                "name": "piggy"
+                            },
+                            "destructionPercent": 86,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#QVYCLVV89",
@@ -1258,10 +1318,36 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11936,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8Y00YYLQ",
+                                "name": "piggy"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8Y00YYLQ",
+                                "name": "piggy"
+                            },
+                            "destructionPercent": 65,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8Y00YYLQ",
+                                "name": "piggy"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
