@@ -1,0 +1,516 @@
+{
+    "state": "ongoing",
+    "startTime": "20260605T070000.000Z",
+    "endTime": "20260608T070000.000Z",
+    "capitalTotalLoot": 122744,
+    "raidsCompleted": 1,
+    "totalAttacks": 29,
+    "enemyDistrictsDestroyed": 12,
+    "offensiveReward": 0,
+    "defensiveReward": 0,
+    "members": [
+        {
+            "tag": "#GPGY2CU",
+            "name": "RedHawk44",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 9544
+        },
+        {
+            "tag": "#8LGRUUL9J",
+            "name": "violin",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 15918
+        },
+        {
+            "tag": "#VPJYP29",
+            "name": "Viking",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 27737
+        },
+        {
+            "tag": "#LYRG2GUJ",
+            "name": "Ragnar",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 23247
+        },
+        {
+            "tag": "#GU2UVG9CV",
+            "name": "Viking 2",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 22148
+        },
+        {
+            "tag": "#2P8LYJCUR",
+            "name": "nofreelunch",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 24150
+        }
+    ],
+    "attackLog": [
+        {
+            "defender": {
+                "tag": "#JYJ2YQ9G",
+                "name": "Royal Champions",
+                "level": 19,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/e2yQ3gqV4MS5iKL2aMnjdzL0M956OX3qnWtVPyvUad8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/e2yQ3gqV4MS5iKL2aMnjdzL0M956OX3qnWtVPyvUad8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/e2yQ3gqV4MS5iKL2aMnjdzL0M956OX3qnWtVPyvUad8.png"
+                }
+            },
+            "attackCount": 22,
+            "districtCount": 9,
+            "districtsDestroyed": 9,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13351,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 98,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2P8LYJCUR",
+                                "name": "nofreelunch"
+                            },
+                            "destructionPercent": 68,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2P8LYJCUR",
+                                "name": "nofreelunch"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11739,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2P8LYJCUR",
+                                "name": "nofreelunch"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2P8LYJCUR",
+                                "name": "nofreelunch"
+                            },
+                            "destructionPercent": 67,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2P8LYJCUR",
+                                "name": "nofreelunch"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10051,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 92,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9544,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9482,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 8816,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9141,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2P8LYJCUR",
+                                "name": "nofreelunch"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9439,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 58,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 8002,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 81,
+                            "stars": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2PVQ28U80",
+                "name": "Marvel Clan",
+                "level": 17,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/2dQi0R9qUnyM9_O22W2LmOYkJ7iu7rK06dQoOu6_3AU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/2dQi0R9qUnyM9_O22W2LmOYkJ7iu7rK06dQoOu6_3AU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/2dQi0R9qUnyM9_O22W2LmOYkJ7iu7rK06dQoOu6_3AU.png"
+                }
+            },
+            "attackCount": 7,
+            "districtCount": 9,
+            "districtsDestroyed": 3,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11168,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11056,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10955,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "defenseLog": []
+}
