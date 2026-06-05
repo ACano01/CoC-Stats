@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260605T070000.000Z",
     "endTime": "20260608T070000.000Z",
-    "capitalTotalLoot": 346189,
+    "capitalTotalLoot": 385947,
     "raidsCompleted": 3,
-    "totalAttacks": 79,
-    "enemyDistrictsDestroyed": 32,
+    "totalAttacks": 90,
+    "enemyDistrictsDestroyed": 35,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -124,10 +124,10 @@
         {
             "tag": "#LPU0GGCJQ",
             "name": "night dragon",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11272
+            "capitalResourcesLooted": 25342
         },
         {
             "tag": "#GU2UVG9CV",
@@ -138,12 +138,28 @@
             "capitalResourcesLooted": 22148
         },
         {
+            "tag": "#GPJ2L2Y0P",
+            "name": "The Big Linc",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 21298
+        },
+        {
             "tag": "#GY98LJ8P9",
             "name": "SheepdogDLLJA",
             "attacks": 1,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 7520
+        },
+        {
+            "tag": "#2VYVULCVL",
+            "name": "family buffalo",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 4390
         },
         {
             "tag": "#2P8LYJCUR",
@@ -1050,27 +1066,63 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/YqqHg5smNyrT3r8xu9rpaEtIJMZPEkV2AiI5OuEaNxw.png"
                 }
             },
-            "attackCount": 12,
+            "attackCount": 23,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 53,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 4390,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 24,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11475,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -1130,19 +1182,79 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12188,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 41,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11705,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 81,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 23,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
