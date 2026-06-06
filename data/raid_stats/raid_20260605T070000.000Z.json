@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260605T070000.000Z",
     "endTime": "20260608T070000.000Z",
-    "capitalTotalLoot": 602257,
+    "capitalTotalLoot": 622833,
     "raidsCompleted": 7,
-    "totalAttacks": 141,
-    "enemyDistrictsDestroyed": 55,
+    "totalAttacks": 146,
+    "enemyDistrictsDestroyed": 56,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -20,10 +20,10 @@
         {
             "tag": "#9C229UGJ",
             "name": "Chase",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 12152
+            "capitalResourcesLooted": 21517
         },
         {
             "tag": "#2PULPGL90",
@@ -76,10 +76,10 @@
         {
             "tag": "#YULUPURY",
             "name": "SoccerShaw12",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11928
+            "capitalResourcesLooted": 23139
         },
         {
             "tag": "#P9LC88QJ",
@@ -2046,9 +2046,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/HI0yF5aDEX_bWWwytnjxko4i5sJ2RoLs9tQ1Xotok_0.png"
                 }
             },
-            "attackCount": 3,
+            "attackCount": 8,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -2134,19 +2134,63 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11211,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 91,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 51,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 82,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 9365,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
@@ -2512,7 +2556,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/x7DZBr86eolINqlW1u3R_jLRS0MeLz3oMAMhE5Y_uXY.png"
                 }
             },
-            "attackCount": 1,
+            "attackCount": 2,
             "districtCount": 9,
             "districtsDestroyed": 0,
             "districts": [
@@ -2583,11 +2627,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 18,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 2060,
+                    "destructionPercent": 82,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 8610,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GQYPY0URL",
+                                "name": "farshad#2"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#GQYPY0URL",
