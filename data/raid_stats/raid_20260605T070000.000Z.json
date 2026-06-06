@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260605T070000.000Z",
     "endTime": "20260608T070000.000Z",
-    "capitalTotalLoot": 648282,
-    "raidsCompleted": 7,
-    "totalAttacks": 153,
-    "enemyDistrictsDestroyed": 59,
+    "capitalTotalLoot": 658887,
+    "raidsCompleted": 8,
+    "totalAttacks": 155,
+    "enemyDistrictsDestroyed": 60,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -52,10 +52,10 @@
         {
             "tag": "#UUC9PCQ",
             "name": "Beat my Wifi",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 15476
+            "capitalResourcesLooted": 26081
         },
         {
             "tag": "#8LGRUUL9J",
@@ -2054,9 +2054,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/HI0yF5aDEX_bWWwytnjxko4i5sJ2RoLs9tQ1Xotok_0.png"
                 }
             },
-            "attackCount": 15,
+            "attackCount": 17,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -2159,10 +2159,28 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10605,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -2624,18 +2642,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/x7DZBr86eolINqlW1u3R_jLRS0MeLz3oMAMhE5Y_uXY.png"
                 }
             },
-            "attackCount": 16,
+            "attackCount": 29,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13478,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q8UPU99RL",
+                                "name": "J. O.K.E.R.2020"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q8UPU99RL",
+                                "name": "J. O.K.E.R.2020"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QYJ2YG8J2",
+                                "name": "sardar"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QYJ2YG8J2",
+                                "name": "sardar"
+                            },
+                            "destructionPercent": 11,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -2676,20 +2728,62 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10376,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QYJ2YG8J2",
+                                "name": "sardar"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QYJ2YG8J2",
+                                "name": "sardar"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QYJ2YG8J2",
+                                "name": "sardar"
+                            },
+                            "destructionPercent": 31,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 30,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 2930,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11553,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QC082YRL0",
+                                "name": "sorna"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC082YRL0",
+                                "name": "sorna"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#QYJ2YG8J2",
@@ -2739,10 +2833,44 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11288,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QC082YRL0",
+                                "name": "sorna"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC082YRL0",
+                                "name": "sorna"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC082YRL0",
+                                "name": "sorna"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC082YRL0",
+                                "name": "sorna"
+                            },
+                            "destructionPercent": 26,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
