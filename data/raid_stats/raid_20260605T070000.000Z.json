@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260605T070000.000Z",
     "endTime": "20260608T070000.000Z",
-    "capitalTotalLoot": 634542,
+    "capitalTotalLoot": 637006,
     "raidsCompleted": 7,
-    "totalAttacks": 149,
-    "enemyDistrictsDestroyed": 57,
+    "totalAttacks": 150,
+    "enemyDistrictsDestroyed": 58,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -148,10 +148,10 @@
         {
             "tag": "#V0GYVCJ9",
             "name": "YAGO",
-            "attacks": 1,
+            "attacks": 2,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 1069
+            "capitalResourcesLooted": 3533
         },
         {
             "tag": "#LYRG2GUJ",
@@ -2054,9 +2054,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/HI0yF5aDEX_bWWwytnjxko4i5sJ2RoLs9tQ1Xotok_0.png"
                 }
             },
-            "attackCount": 11,
+            "attackCount": 12,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -2177,11 +2177,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 82,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 9365,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11829,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#9C229UGJ",
@@ -2590,7 +2598,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/x7DZBr86eolINqlW1u3R_jLRS0MeLz3oMAMhE5Y_uXY.png"
                 }
             },
-            "attackCount": 2,
+            "attackCount": 5,
             "districtCount": 9,
             "districtsDestroyed": 0,
             "districts": [
@@ -2634,10 +2642,20 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 30,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 3720,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GQYPY0URL",
+                                "name": "farshad#2"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -2688,10 +2706,28 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 79,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 8065,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GQYPY0URL",
+                                "name": "farshad#2"
+                            },
+                            "destructionPercent": 79,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GQYPY0URL",
+                                "name": "farshad#2"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        }
+                    ]
                 }
             ]
         }
