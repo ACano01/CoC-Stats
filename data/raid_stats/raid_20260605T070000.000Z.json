@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260605T070000.000Z",
     "endTime": "20260608T070000.000Z",
-    "capitalTotalLoot": 637006,
+    "capitalTotalLoot": 648282,
     "raidsCompleted": 7,
-    "totalAttacks": 150,
-    "enemyDistrictsDestroyed": 58,
+    "totalAttacks": 153,
+    "enemyDistrictsDestroyed": 59,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -148,10 +148,10 @@
         {
             "tag": "#V0GYVCJ9",
             "name": "YAGO",
-            "attacks": 2,
+            "attacks": 5,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 3533
+            "capitalResourcesLooted": 14809
         },
         {
             "tag": "#LYRG2GUJ",
@@ -2054,9 +2054,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/HI0yF5aDEX_bWWwytnjxko4i5sJ2RoLs9tQ1Xotok_0.png"
                 }
             },
-            "attackCount": 12,
+            "attackCount": 15,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -2124,10 +2124,36 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11276,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 98,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -2598,9 +2624,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/x7DZBr86eolINqlW1u3R_jLRS0MeLz3oMAMhE5Y_uXY.png"
                 }
             },
-            "attackCount": 5,
+            "attackCount": 16,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -2615,10 +2641,36 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11616,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8U8ULVULG",
+                                "name": "saeid"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8U8ULVULG",
+                                "name": "saeid"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8U8ULVULG",
+                                "name": "saeid"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -2633,20 +2685,46 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
+                    "destructionPercent": 30,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 2930,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QYJ2YG8J2",
+                                "name": "sardar"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 30,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3720,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11768,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QUGQL9UG2",
+                                "name": "MATIN"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QUGQL9UG2",
+                                "name": "MATIN"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#GQYPY0URL",
@@ -2670,20 +2748,54 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11331,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8U8ULVULG",
+                                "name": "saeid"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8U8ULVULG",
+                                "name": "saeid"
+                            },
+                            "destructionPercent": 56,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8U8ULVULG",
+                                "name": "saeid"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 82,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 8610,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11783,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QUGQL9UG2",
+                                "name": "MATIN"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#GQYPY0URL",
@@ -2706,11 +2818,19 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 79,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 8065,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11955,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QUGQL9UG2",
+                                "name": "MATIN"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#GQYPY0URL",
