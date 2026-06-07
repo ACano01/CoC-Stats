@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260605T070000.000Z",
     "endTime": "20260608T070000.000Z",
-    "capitalTotalLoot": 694815,
+    "capitalTotalLoot": 718931,
     "raidsCompleted": 9,
-    "totalAttacks": 164,
-    "enemyDistrictsDestroyed": 63,
+    "totalAttacks": 168,
+    "enemyDistrictsDestroyed": 65,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -60,10 +60,10 @@
         {
             "tag": "#8LGRUUL9J",
             "name": "violin",
-            "attacks": 3,
+            "attacks": 5,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 15918
+            "capitalResourcesLooted": 27995
         },
         {
             "tag": "#YL0VJ2YY",
@@ -160,6 +160,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 14809
+        },
+        {
+            "tag": "#L2PQ9QLUC",
+            "name": "BossHogg",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12039
         },
         {
             "tag": "#LYRG2GUJ",
@@ -2394,9 +2402,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/rrA9NZKBgBcN7kDf1P8Y19f0LNBciE1T1yHj4IYF_F8.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 4,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -2465,19 +2473,55 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 12077,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 12039,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 2
+                        }
+                    ]
                 }
             ]
         }
