@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260605T070000.000Z",
     "endTime": "20260608T070000.000Z",
-    "capitalTotalLoot": 787925,
-    "raidsCompleted": 9,
-    "totalAttacks": 185,
-    "enemyDistrictsDestroyed": 71,
+    "capitalTotalLoot": 839458,
+    "raidsCompleted": 10,
+    "totalAttacks": 196,
+    "enemyDistrictsDestroyed": 75,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#U90CYLQ2",
             "name": "Ben",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 20088
+            "capitalResourcesLooted": 30273
         },
         {
             "tag": "#UUC9PCQ",
@@ -180,10 +180,10 @@
         {
             "tag": "#V0CC0YR8",
             "name": "Wes",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11900
+            "capitalResourcesLooted": 23400
         },
         {
             "tag": "#GULJYQPR0",
@@ -216,6 +216,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 25489
+        },
+        {
+            "tag": "#GCL9GGPYG",
+            "name": "Katara",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 29848
         },
         {
             "tag": "#LPU0GGCJQ",
@@ -2434,18 +2442,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/rrA9NZKBgBcN7kDf1P8Y19f0LNBciE1T1yHj4IYF_F8.png"
                 }
             },
-            "attackCount": 21,
+            "attackCount": 25,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13550,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 87,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 3,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -2699,6 +2741,168 @@
                                 "name": "BossHogg"
                             },
                             "destructionPercent": 64,
+                            "stars": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#20LCG9RQ",
+                "name": "Dusty Monkeys",
+                "level": 28,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/uBOSIr9ZyqPTHCVMzXbZPYPc2TpHcLLfBpRKwKA4ij8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/uBOSIr9ZyqPTHCVMzXbZPYPc2TpHcLLfBpRKwKA4ij8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/uBOSIr9ZyqPTHCVMzXbZPYPc2TpHcLLfBpRKwKA4ij8.png"
+                }
+            },
+            "attackCount": 7,
+            "districtCount": 9,
+            "districtsDestroyed": 3,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10185,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9790,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 51,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10643,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 56,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 71,
+                    "stars": 2,
+                    "attackCount": 1,
+                    "totalLooted": 7365,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 71,
                             "stars": 2
                         }
                     ]
