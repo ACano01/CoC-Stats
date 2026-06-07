@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260605T070000.000Z",
     "endTime": "20260608T070000.000Z",
-    "capitalTotalLoot": 839458,
+    "capitalTotalLoot": 843888,
     "raidsCompleted": 10,
-    "totalAttacks": 196,
+    "totalAttacks": 197,
     "enemyDistrictsDestroyed": 75,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -60,10 +60,10 @@
         {
             "tag": "#8LGRUUL9J",
             "name": "violin",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 27995
+            "capitalResourcesLooted": 32425
         },
         {
             "tag": "#Y02J2VQ2",
@@ -2758,7 +2758,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/uBOSIr9ZyqPTHCVMzXbZPYPc2TpHcLLfBpRKwKA4ij8.png"
                 }
             },
-            "attackCount": 7,
+            "attackCount": 8,
             "districtCount": 9,
             "districtsDestroyed": 3,
             "districts": [
@@ -2784,10 +2784,20 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 64,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 4430,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
