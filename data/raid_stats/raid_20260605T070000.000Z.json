@@ -3628,9 +3628,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/aswvamt4LKsQA1QqNowrv1qLDGNveT2xZcfoYZGMzLg.png"
                 }
             },
-            "attackCount": 1,
+            "attackCount": 7,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -3709,19 +3709,71 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12113,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PVJ9U2P0R",
+                                "name": "FIRELORD1111"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PVJ9U2P0R",
+                                "name": "FIRELORD1111"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PVJ9U2P0R",
+                                "name": "FIRELORD1111"
+                            },
+                            "destructionPercent": 36,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12156,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PVJ9U2P0R",
+                                "name": "FIRELORD1111"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PVJ9U2P0R",
+                                "name": "FIRELORD1111"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PVJ9U2P0R",
+                                "name": "FIRELORD1111"
+                            },
+                            "destructionPercent": 54,
+                            "stars": 2
+                        }
+                    ]
                 }
             ]
         }
