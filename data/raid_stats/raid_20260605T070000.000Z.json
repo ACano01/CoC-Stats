@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260605T070000.000Z",
     "endTime": "20260608T070000.000Z",
-    "capitalTotalLoot": 843888,
+    "capitalTotalLoot": 848741,
     "raidsCompleted": 10,
-    "totalAttacks": 197,
-    "enemyDistrictsDestroyed": 75,
+    "totalAttacks": 198,
+    "enemyDistrictsDestroyed": 76,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -164,10 +164,10 @@
         {
             "tag": "#V0GYVCJ9",
             "name": "YAGO",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 14809
+            "capitalResourcesLooted": 19662
         },
         {
             "tag": "#L2PQ9QLUC",
@@ -2758,9 +2758,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/uBOSIr9ZyqPTHCVMzXbZPYPc2TpHcLLfBpRKwKA4ij8.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 9,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -2784,11 +2784,19 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 64,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 4430,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9283,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#8LGRUUL9J",
