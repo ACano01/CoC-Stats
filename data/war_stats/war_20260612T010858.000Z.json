@@ -1,0 +1,389 @@
+{
+    "state": "preparation",
+    "teamSize": 25,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "preparationStartTime": "20260611T020858.000Z",
+    "startTime": "20260612T010858.000Z",
+    "endTime": "20260613T010858.000Z",
+    "clan": {
+        "tag": "#CPJQ2JV",
+        "name": "Christ",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
+        },
+        "clanLevel": 33,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#GPGY2CU",
+                "name": "RedHawk44",
+                "townhallLevel": 18,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9C229UGJ",
+                "name": "Chase",
+                "townhallLevel": 18,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YQYVJ92C",
+                "name": "SochieLife",
+                "townhallLevel": 18,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#UUC9PCQ",
+                "name": "Beat my Wifi",
+                "townhallLevel": 18,
+                "mapPosition": 11,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YL0VJ2YY",
+                "name": "Choong",
+                "townhallLevel": 18,
+                "mapPosition": 13,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#Q92RUPUJ",
+                "name": "- nancy 95",
+                "townhallLevel": 18,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YULUPURY",
+                "name": "SoccerShaw12",
+                "townhallLevel": 17,
+                "mapPosition": 19,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#800CC2CCG",
+                "name": "also Carsten",
+                "townhallLevel": 17,
+                "mapPosition": 17,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#VPJYP29",
+                "name": "Viking",
+                "townhallLevel": 18,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#99VJ2VVPQ",
+                "name": "The Sage",
+                "townhallLevel": 18,
+                "mapPosition": 15,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QC92VLPP",
+                "name": "King Hova",
+                "townhallLevel": 18,
+                "mapPosition": 14,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#V0GYVCJ9",
+                "name": "YAGO",
+                "townhallLevel": 18,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#L2PQ9QLUC",
+                "name": "BossHogg",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LYRG2GUJ",
+                "name": "Ragnar",
+                "townhallLevel": 16,
+                "mapPosition": 18,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9RPGYU9G2",
+                "name": "Levi",
+                "townhallLevel": 14,
+                "mapPosition": 22,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#UQQ0LJLP",
+                "name": "mike",
+                "townhallLevel": 18,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2PYVCVQP9",
+                "name": "Carsten",
+                "townhallLevel": 17,
+                "mapPosition": 16,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LPU0GGCJQ",
+                "name": "night dragon",
+                "townhallLevel": 15,
+                "mapPosition": 21,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GU2UVG9CV",
+                "name": "Viking 2",
+                "townhallLevel": 18,
+                "mapPosition": 12,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8GVP0V8CJ",
+                "name": "ZAC JB.",
+                "townhallLevel": 15,
+                "mapPosition": 20,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LRR0LP2J0",
+                "name": "Joey Salads",
+                "townhallLevel": 13,
+                "mapPosition": 23,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GPJ2L2Y0P",
+                "name": "The Big Linc",
+                "townhallLevel": 11,
+                "mapPosition": 25,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2VYVULCVL",
+                "name": "family buffalo",
+                "townhallLevel": 18,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LR0990Y9V",
+                "name": "Irene*",
+                "townhallLevel": 12,
+                "mapPosition": 24,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2P8LYJCUR",
+                "name": "nofreelunch",
+                "townhallLevel": 18,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            }
+        ]
+    },
+    "opponent": {
+        "tag": "#LJ80CV9L",
+        "name": "HOUSE OF PAIN",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/HJyAb7UmMVBMk5l_tW89JiIt6yvi-FfFsTHg3BA0oa0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/HJyAb7UmMVBMk5l_tW89JiIt6yvi-FfFsTHg3BA0oa0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/HJyAb7UmMVBMk5l_tW89JiIt6yvi-FfFsTHg3BA0oa0.png"
+        },
+        "clanLevel": 21,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#YLJLJQL09",
+                "name": "Ricky Bobby",
+                "townhallLevel": 18,
+                "mapPosition": 12,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LLYCP8VR2",
+                "name": "9MM",
+                "townhallLevel": 16,
+                "mapPosition": 21,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#200PG290P",
+                "name": "tatt360",
+                "townhallLevel": 18,
+                "mapPosition": 16,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#29YPQ2VUY",
+                "name": "Gratzi",
+                "townhallLevel": 16,
+                "mapPosition": 20,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2Y2LLV0YU",
+                "name": "FTPATS!",
+                "townhallLevel": 18,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#CQQLUCPR",
+                "name": "GerthBrooks",
+                "townhallLevel": 15,
+                "mapPosition": 25,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LGCUCURC0",
+                "name": "Knob Creek",
+                "townhallLevel": 18,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#C9QRPVYL",
+                "name": "mike honcho",
+                "townhallLevel": 18,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8JJQQQCJJ",
+                "name": "Mattatoar",
+                "townhallLevel": 18,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LRUGJVRVG",
+                "name": "Shepnuts",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#P0LRQVYR",
+                "name": "Ace of Spades",
+                "townhallLevel": 18,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GUQQ8JGY",
+                "name": "Ballbuster",
+                "townhallLevel": 18,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GYJU0C89Y",
+                "name": "Jordan",
+                "townhallLevel": 16,
+                "mapPosition": 19,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#282CLC8G2",
+                "name": "Fr8shaker77",
+                "townhallLevel": 18,
+                "mapPosition": 15,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YP0PC2VL",
+                "name": "ThatManDylan",
+                "townhallLevel": 18,
+                "mapPosition": 13,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8C2R9LJG9",
+                "name": "xJoe_Gamer2.0x",
+                "townhallLevel": 17,
+                "mapPosition": 18,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8GGCR20L0",
+                "name": "EldritchKnight",
+                "townhallLevel": 17,
+                "mapPosition": 17,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#Q2LGLQY08",
+                "name": "Brixz",
+                "townhallLevel": 18,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#P0QQ00U9C",
+                "name": "LiL Sammi",
+                "townhallLevel": 15,
+                "mapPosition": 23,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#292LY9GUC",
+                "name": "MAYANK",
+                "townhallLevel": 18,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8Q2PJVV8V",
+                "name": "RogueJuanis",
+                "townhallLevel": 18,
+                "mapPosition": 11,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#22QLPG8YR",
+                "name": "Stone",
+                "townhallLevel": 18,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LVY0P8CR8",
+                "name": "Clasher",
+                "townhallLevel": 18,
+                "mapPosition": 14,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YY08CPRU2",
+                "name": "kviirzs",
+                "townhallLevel": 17,
+                "mapPosition": 22,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LLC0PGL0Y",
+                "name": "Snacker",
+                "townhallLevel": 15,
+                "mapPosition": 24,
+                "opponentAttacks": 0
+            }
+        ]
+    }
+}
