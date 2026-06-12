@@ -1,5 +1,5 @@
 {
-    "state": "preparation",
+    "state": "inWar",
     "teamSize": 25,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 3,
+        "stars": 5,
+        "destructionPercentage": 9.24,
         "members": [
             {
                 "tag": "#GPGY2CU",
@@ -52,6 +52,16 @@
                 "name": "Choong",
                 "townhallLevel": 18,
                 "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#YL0VJ2YY",
+                        "defenderTag": "#282CLC8G2",
+                        "stars": 2,
+                        "destructionPercentage": 72,
+                        "order": 3,
+                        "duration": 162
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -143,6 +153,16 @@
                 "name": "night dragon",
                 "townhallLevel": 15,
                 "mapPosition": 21,
+                "attacks": [
+                    {
+                        "attackerTag": "#LPU0GGCJQ",
+                        "defenderTag": "#P0QQ00U9C",
+                        "stars": 2,
+                        "destructionPercentage": 84,
+                        "order": 5,
+                        "duration": 165
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -171,13 +191,31 @@
                 "name": "The Big Linc",
                 "townhallLevel": 11,
                 "mapPosition": 25,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#CQQLUCPR",
+                    "defenderTag": "#GPJ2L2Y0P",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 1,
+                    "duration": 63
+                }
             },
             {
                 "tag": "#2VYVULCVL",
                 "name": "family buffalo",
                 "townhallLevel": 18,
                 "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#2VYVULCVL",
+                        "defenderTag": "#C9QRPVYL",
+                        "stars": 1,
+                        "destructionPercentage": 75,
+                        "order": 4,
+                        "duration": 101
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -185,7 +223,15 @@
                 "name": "Irene*",
                 "townhallLevel": 12,
                 "mapPosition": 24,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#CQQLUCPR",
+                    "defenderTag": "#LR0990Y9V",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 2,
+                    "duration": 64
+                }
             },
             {
                 "tag": "#2P8LYJCUR",
@@ -205,9 +251,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HJyAb7UmMVBMk5l_tW89JiIt6yvi-FfFsTHg3BA0oa0.png"
         },
         "clanLevel": 21,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 2,
+        "stars": 6,
+        "destructionPercentage": 8.0,
         "members": [
             {
                 "tag": "#YLJLJQL09",
@@ -249,6 +295,24 @@
                 "name": "GerthBrooks",
                 "townhallLevel": 15,
                 "mapPosition": 25,
+                "attacks": [
+                    {
+                        "attackerTag": "#CQQLUCPR",
+                        "defenderTag": "#GPJ2L2Y0P",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 1,
+                        "duration": 63
+                    },
+                    {
+                        "attackerTag": "#CQQLUCPR",
+                        "defenderTag": "#LR0990Y9V",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 2,
+                        "duration": 64
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -263,7 +327,15 @@
                 "name": "mike honcho",
                 "townhallLevel": 18,
                 "mapPosition": 7,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2VYVULCVL",
+                    "defenderTag": "#C9QRPVYL",
+                    "stars": 1,
+                    "destructionPercentage": 75,
+                    "order": 4,
+                    "duration": 101
+                }
             },
             {
                 "tag": "#8JJQQQCJJ",
@@ -305,7 +377,15 @@
                 "name": "Fr8shaker77",
                 "townhallLevel": 18,
                 "mapPosition": 15,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YL0VJ2YY",
+                    "defenderTag": "#282CLC8G2",
+                    "stars": 2,
+                    "destructionPercentage": 72,
+                    "order": 3,
+                    "duration": 162
+                }
             },
             {
                 "tag": "#YP0PC2VL",
@@ -340,7 +420,15 @@
                 "name": "LiL Sammi",
                 "townhallLevel": 15,
                 "mapPosition": 23,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LPU0GGCJQ",
+                    "defenderTag": "#P0QQ00U9C",
+                    "stars": 2,
+                    "destructionPercentage": 84,
+                    "order": 5,
+                    "duration": 165
+                }
             },
             {
                 "tag": "#292LY9GUC",
