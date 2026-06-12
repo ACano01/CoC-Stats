@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260612T070000.000Z",
     "endTime": "20260615T070000.000Z",
-    "capitalTotalLoot": 160015,
+    "capitalTotalLoot": 173859,
     "raidsCompleted": 1,
-    "totalAttacks": 37,
-    "enemyDistrictsDestroyed": 16,
+    "totalAttacks": 42,
+    "enemyDistrictsDestroyed": 17,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#GPGY2CU",
+            "name": "RedHawk44",
+            "attacks": 5,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 13844
+        },
         {
             "tag": "#2PULPGL90",
             "name": "M M 1960",
@@ -370,28 +378,70 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/BYyPvlLSxIwo7PeDpnU5bx_sfHVlKjxnaGjakQmOP2k.png"
                 }
             },
-            "attackCount": 16,
+            "attackCount": 21,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 59,
+                    "stars": 1,
+                    "attackCount": 3,
+                    "totalLooted": 5670,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 15,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 39,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3230,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11404,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#9RPGYU9G2",
@@ -614,9 +664,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/AuNHOnyqUqJf-M_d0Yya4EUiLKDy53ITcNqukVDA9XY.png"
                 }
             },
-            "attackCount": 13,
+            "attackCount": 17,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -640,11 +690,27 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 49,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 2935,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10517,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LYQYUGV8U",
+                                "name": "mohamed"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYQYUGV8U",
+                                "name": "mohamed"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#Y0G2J0URG",
@@ -659,11 +725,27 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 30,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3615,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11550,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LYQYUGV8U",
+                                "name": "mohamed"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYQYUGV8U",
+                                "name": "mohamed"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#Y0G2J0URG",
