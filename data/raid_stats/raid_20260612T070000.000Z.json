@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260612T070000.000Z",
     "endTime": "20260615T070000.000Z",
-    "capitalTotalLoot": 256847,
-    "raidsCompleted": 2,
-    "totalAttacks": 60,
-    "enemyDistrictsDestroyed": 24,
+    "capitalTotalLoot": 371842,
+    "raidsCompleted": 3,
+    "totalAttacks": 85,
+    "enemyDistrictsDestroyed": 35,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -52,10 +52,10 @@
         {
             "tag": "#99VJ2VVPQ",
             "name": "The Sage",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 19342
+            "capitalResourcesLooted": 29757
         },
         {
             "tag": "#9G92CY9L",
@@ -82,6 +82,22 @@
             "capitalResourcesLooted": 28437
         },
         {
+            "tag": "#LYRG2GUJ",
+            "name": "Ragnar",
+            "attacks": 5,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 22789
+        },
+        {
+            "tag": "#PQC82LLR",
+            "name": "DocPeejay",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 30999
+        },
+        {
             "tag": "#9RPGYU9G2",
             "name": "Levi",
             "attacks": 6,
@@ -96,6 +112,22 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 23254
+        },
+        {
+            "tag": "#Y8PJCG8L",
+            "name": "Chmmr",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 25596
+        },
+        {
+            "tag": "#GPJ2L2Y0P",
+            "name": "The Big Linc",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 25196
         },
         {
             "tag": "#LR0990Y9V",
@@ -702,18 +734,44 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/hphRSHn3C9PSVShGcmoqIAFj0uTw4CRiyErI9XXMt4k.png"
                 }
             },
-            "attackCount": 16,
+            "attackCount": 22,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 13583,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -835,10 +893,28 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10415,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#99VJ2VVPQ",
+                                "name": "The Sage"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#99VJ2VVPQ",
+                                "name": "The Sage"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -871,11 +947,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 98,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 10270,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11577,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#QC92VLPP",
@@ -930,6 +1014,274 @@
                     ]
                 }
             ]
+        },
+        {
+            "defender": {
+                "tag": "#2QP9J92Q9",
+                "name": "HITMAN",
+                "level": 21,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fXUc2t8gP9r1fVib77CcE3EUrAEvdp_Ss9wjn2FQRIQ.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fXUc2t8gP9r1fVib77CcE3EUrAEvdp_Ss9wjn2FQRIQ.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fXUc2t8gP9r1fVib77CcE3EUrAEvdp_Ss9wjn2FQRIQ.png"
+                }
+            },
+            "attackCount": 19,
+            "districtCount": 9,
+            "districtsDestroyed": 8,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 42,
+                    "stars": 0,
+                    "attackCount": 1,
+                    "totalLooted": 4180,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11430,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 69,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9853,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10266,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 56,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10880,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQC82LLR",
+                                "name": "DocPeejay"
+                            },
+                            "destructionPercent": 58,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10135,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10706,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 56,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11359,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 29,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10881,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "defenseLog": [
@@ -944,7 +1296,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/AuNHOnyqUqJf-M_d0Yya4EUiLKDy53ITcNqukVDA9XY.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 19,
             "districtCount": 9,
             "districtsDestroyed": 5,
             "districts": [
@@ -1040,10 +1392,28 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 90,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 9735,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LYQYUGV8U",
+                                "name": "mohamed"
+                            },
+                            "destructionPercent": 90,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYQYUGV8U",
+                                "name": "mohamed"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
