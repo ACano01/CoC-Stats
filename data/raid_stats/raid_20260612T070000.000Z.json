@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260612T070000.000Z",
     "endTime": "20260615T070000.000Z",
-    "capitalTotalLoot": 638625,
+    "capitalTotalLoot": 662312,
     "raidsCompleted": 7,
-    "totalAttacks": 138,
-    "enemyDistrictsDestroyed": 60,
+    "totalAttacks": 146,
+    "enemyDistrictsDestroyed": 62,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -76,10 +76,10 @@
         {
             "tag": "#P9LC88QJ",
             "name": "DaTicket13",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 20400
+            "capitalResourcesLooted": 29425
         },
         {
             "tag": "#99VJ2VVPQ",
@@ -160,6 +160,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 31428
+        },
+        {
+            "tag": "#8GVP0V8CJ",
+            "name": "ZAC JB.",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 14662
         },
         {
             "tag": "#Y8PJCG8L",
@@ -1918,36 +1926,106 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/NmLXdLAhWu9fEzOOHbFd8QE9Whx-KSV0y5BQm8JFjAc.png"
                 }
             },
-            "attackCount": 12,
+            "attackCount": 20,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
+                    "destructionPercent": 18,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 2,
+                    "totalLooted": 2610,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 18,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 13,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10990,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 72,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 32,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10087,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
