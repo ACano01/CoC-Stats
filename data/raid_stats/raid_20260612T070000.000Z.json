@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260612T070000.000Z",
     "endTime": "20260615T070000.000Z",
-    "capitalTotalLoot": 454185,
-    "raidsCompleted": 4,
-    "totalAttacks": 102,
-    "enemyDistrictsDestroyed": 43,
+    "capitalTotalLoot": 472789,
+    "raidsCompleted": 5,
+    "totalAttacks": 106,
+    "enemyDistrictsDestroyed": 44,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -108,10 +108,10 @@
         {
             "tag": "#LPU0GGCJQ",
             "name": "night dragon",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 23254
+            "capitalResourcesLooted": 27224
         },
         {
             "tag": "#8RJ8CC8LU",
@@ -140,10 +140,10 @@
         {
             "tag": "#2VYVULCVL",
             "name": "family buffalo",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 14310
+            "capitalResourcesLooted": 28944
         },
         {
             "tag": "#LR0990Y9V",
@@ -1326,18 +1326,36 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/aDY7uvJbGNjoMcb91me9wLyqXIx3C7jisDNlGDB6324.png"
                 }
             },
-            "attackCount": 15,
+            "attackCount": 19,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 63,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 7700,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1459,10 +1477,28 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10904,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -1560,18 +1596,60 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/AuNHOnyqUqJf-M_d0Yya4EUiLKDy53ITcNqukVDA9XY.png"
                 }
             },
-            "attackCount": 25,
+            "attackCount": 32,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 13952,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LJRPP8L0Q",
+                                "name": "\u0645\u062d\u0645\u062f"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LJRPP8L0Q",
+                                "name": "\u0645\u062d\u0645\u062f"
+                            },
+                            "destructionPercent": 79,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LJRPP8L0Q",
+                                "name": "\u0645\u062d\u0645\u062f"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2VUR9V2UY",
+                                "name": "khaled"
+                            },
+                            "destructionPercent": 49,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2VUR9V2UY",
+                                "name": "khaled"
+                            },
+                            "destructionPercent": 11,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1682,11 +1760,19 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 90,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 9735,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12047,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2VUR9V2UY",
+                                "name": "khaled"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#LYQYUGV8U",
@@ -1709,11 +1795,19 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 82,
-                    "stars": 2,
-                    "attackCount": 3,
-                    "totalLooted": 8815,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11822,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2VUR9V2UY",
+                                "name": "khaled"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#VRP8V99U",
@@ -1874,18 +1968,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/2guiUlcpiLuzzs-eJY6ECbj23V7TOxbcDVP8msAIOb4.png"
                 }
             },
-            "attackCount": 20,
+            "attackCount": 30,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 59,
+                    "stars": 2,
+                    "attackCount": 4,
+                    "totalLooted": 8620,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QG8QQ9J9G",
+                                "name": "The Mauler"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QG8QQ9J9G",
+                                "name": "The Mauler"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QG8QQ9J9G",
+                                "name": "The Mauler"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QG8QQ9J9G",
+                                "name": "The Mauler"
+                            },
+                            "destructionPercent": 11,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1926,11 +2054,19 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 95,
-                    "stars": 2,
-                    "attackCount": 3,
-                    "totalLooted": 9415,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 10832,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#29YJUYVGQ",
+                                "name": "The Punisher"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#QR8RY2VY0",
@@ -1996,11 +2132,19 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 89,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 9925,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12143,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#29YJUYVGQ",
+                                "name": "The Punisher"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#QJYLV9PCC",
@@ -2128,10 +2272,44 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11988,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#29YJUYVGQ",
+                                "name": "The Punisher"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29YJUYVGQ",
+                                "name": "The Punisher"
+                            },
+                            "destructionPercent": 90,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29YJUYVGQ",
+                                "name": "The Punisher"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29YJUYVGQ",
+                                "name": "The Punisher"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
