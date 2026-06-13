@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260612T070000.000Z",
     "endTime": "20260615T070000.000Z",
-    "capitalTotalLoot": 371842,
-    "raidsCompleted": 3,
-    "totalAttacks": 85,
-    "enemyDistrictsDestroyed": 35,
+    "capitalTotalLoot": 439825,
+    "raidsCompleted": 4,
+    "totalAttacks": 99,
+    "enemyDistrictsDestroyed": 41,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#Q92RUPUJ",
             "name": "- nancy 95",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 10873
+            "capitalResourcesLooted": 28088
         },
         {
             "tag": "#99VJ2VVPQ",
@@ -84,10 +84,10 @@
         {
             "tag": "#LYRG2GUJ",
             "name": "Ragnar",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 22789
+            "capitalResourcesLooted": 27819
         },
         {
             "tag": "#PQC82LLR",
@@ -114,6 +114,14 @@
             "capitalResourcesLooted": 23254
         },
         {
+            "tag": "#8RJ8CC8LU",
+            "name": "COBRA",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 31428
+        },
+        {
             "tag": "#Y8PJCG8L",
             "name": "Chmmr",
             "attacks": 6,
@@ -128,6 +136,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 25196
+        },
+        {
+            "tag": "#2VYVULCVL",
+            "name": "family buffalo",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 14310
         },
         {
             "tag": "#LR0990Y9V",
@@ -1026,19 +1042,35 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/fXUc2t8gP9r1fVib77CcE3EUrAEvdp_Ss9wjn2FQRIQ.png"
                 }
             },
-            "attackCount": 19,
+            "attackCount": 21,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 42,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 4180,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 13418,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYRG2GUJ",
+                                "name": "Ragnar"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#GPJ2L2Y0P",
@@ -1282,21 +1314,19 @@
                     ]
                 }
             ]
-        }
-    ],
-    "defenseLog": [
+        },
         {
-            "attacker": {
-                "tag": "#PJR02R0G",
-                "name": "EGYPT",
-                "level": 18,
+            "defender": {
+                "tag": "#2GRUVYY88",
+                "name": "Romania Power",
+                "level": 19,
                 "badgeUrls": {
-                    "small": "https://api-assets.clashofclans.com/badges/70/AuNHOnyqUqJf-M_d0Yya4EUiLKDy53ITcNqukVDA9XY.png",
-                    "large": "https://api-assets.clashofclans.com/badges/512/AuNHOnyqUqJf-M_d0Yya4EUiLKDy53ITcNqukVDA9XY.png",
-                    "medium": "https://api-assets.clashofclans.com/badges/200/AuNHOnyqUqJf-M_d0Yya4EUiLKDy53ITcNqukVDA9XY.png"
+                    "small": "https://api-assets.clashofclans.com/badges/70/aDY7uvJbGNjoMcb91me9wLyqXIx3C7jisDNlGDB6324.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/aDY7uvJbGNjoMcb91me9wLyqXIx3C7jisDNlGDB6324.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/aDY7uvJbGNjoMcb91me9wLyqXIx3C7jisDNlGDB6324.png"
                 }
             },
-            "attackCount": 19,
+            "attackCount": 12,
             "districtCount": 9,
             "districtsDestroyed": 5,
             "districts": [
@@ -1313,10 +1343,244 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
+                    "destructionPercent": 69,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 6875,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 69,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
                     "destructionPercent": 0,
                     "stars": 0,
                     "attackCount": 0,
                     "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10003,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10102,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10734,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10691,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10340,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "defenseLog": [
+        {
+            "attacker": {
+                "tag": "#PJR02R0G",
+                "name": "EGYPT",
+                "level": 18,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/AuNHOnyqUqJf-M_d0Yya4EUiLKDy53ITcNqukVDA9XY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/AuNHOnyqUqJf-M_d0Yya4EUiLKDy53ITcNqukVDA9XY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/AuNHOnyqUqJf-M_d0Yya4EUiLKDy53ITcNqukVDA9XY.png"
+                }
+            },
+            "attackCount": 25,
+            "districtCount": 9,
+            "districtsDestroyed": 6,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11718,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VRP8V99U",
+                                "name": "soltan"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VRP8V99U",
+                                "name": "soltan"
+                            },
+                            "destructionPercent": 72,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VRP8V99U",
+                                "name": "soltan"
+                            },
+                            "destructionPercent": 34,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -1419,10 +1683,36 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 82,
+                    "stars": 2,
+                    "attackCount": 3,
+                    "totalLooted": 8815,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VRP8V99U",
+                                "name": "soltan"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VRP8V99U",
+                                "name": "soltan"
+                            },
+                            "destructionPercent": 51,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VRP8V99U",
+                                "name": "soltan"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
