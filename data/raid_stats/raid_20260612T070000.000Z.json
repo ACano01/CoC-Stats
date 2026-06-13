@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260612T070000.000Z",
     "endTime": "20260615T070000.000Z",
-    "capitalTotalLoot": 703816,
+    "capitalTotalLoot": 708451,
     "raidsCompleted": 8,
-    "totalAttacks": 157,
+    "totalAttacks": 158,
     "enemyDistrictsDestroyed": 66,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -60,10 +60,10 @@
         {
             "tag": "#Y02J2VQ2",
             "name": "jj",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 21403
+            "capitalResourcesLooted": 26038
         },
         {
             "tag": "#YL0VJ2YY",
@@ -2250,7 +2250,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/02YHz3PDwyU0QcovDhSrpMYSpym3mLnLr1d0mw7g8fo.png"
                 }
             },
-            "attackCount": 7,
+            "attackCount": 8,
             "districtCount": 9,
             "districtsDestroyed": 3,
             "districts": [
@@ -2348,10 +2348,20 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 45,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 4635,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y02J2VQ2",
+                                "name": "jj"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
