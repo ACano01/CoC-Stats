@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260612T070000.000Z",
     "endTime": "20260615T070000.000Z",
-    "capitalTotalLoot": 769605,
+    "capitalTotalLoot": 801255,
     "raidsCompleted": 11,
-    "totalAttacks": 172,
-    "enemyDistrictsDestroyed": 72,
+    "totalAttacks": 178,
+    "enemyDistrictsDestroyed": 75,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -184,6 +184,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 31428
+        },
+        {
+            "tag": "#GU2UVG9CV",
+            "name": "Viking 2",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 31650
         },
         {
             "tag": "#8GVP0V8CJ",
@@ -2558,9 +2566,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/xJqHsFhtIakWBl2OV9hvBf3dwCu3FokuXNbGc9hohuU.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 6,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -2575,10 +2583,28 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10610,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -2629,19 +2655,55 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10777,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 49,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10263,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
