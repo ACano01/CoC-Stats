@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260612T070000.000Z",
     "endTime": "20260615T070000.000Z",
-    "capitalTotalLoot": 887110,
+    "capitalTotalLoot": 892410,
     "raidsCompleted": 12,
-    "totalAttacks": 196,
+    "totalAttacks": 197,
     "enemyDistrictsDestroyed": 83,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -148,10 +148,10 @@
         {
             "tag": "#V0CC0YR8",
             "name": "Wes",
-            "attacks": 3,
+            "attacks": 4,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 12204
+            "capitalResourcesLooted": 17504
         },
         {
             "tag": "#GULJYQPR0",
@@ -2874,7 +2874,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/fhY5ozXxawOMP6uVfcnB4DlQglzakcjNejiWzfRmBvs.png"
                 }
             },
-            "attackCount": 5,
+            "attackCount": 6,
             "districtCount": 9,
             "districtsDestroyed": 2,
             "districts": [
@@ -2936,10 +2936,20 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
+                    "destructionPercent": 44,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 5300,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
