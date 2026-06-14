@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260612T070000.000Z",
     "endTime": "20260615T070000.000Z",
-    "capitalTotalLoot": 874906,
+    "capitalTotalLoot": 887110,
     "raidsCompleted": 12,
-    "totalAttacks": 193,
-    "enemyDistrictsDestroyed": 82,
+    "totalAttacks": 196,
+    "enemyDistrictsDestroyed": 83,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -144,6 +144,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 28437
+        },
+        {
+            "tag": "#V0CC0YR8",
+            "name": "Wes",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12204
         },
         {
             "tag": "#GULJYQPR0",
@@ -2866,9 +2874,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/fhY5ozXxawOMP6uVfcnB4DlQglzakcjNejiWzfRmBvs.png"
                 }
             },
-            "attackCount": 2,
+            "attackCount": 5,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -2964,10 +2972,36 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12204,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 94,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
