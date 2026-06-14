@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260612T070000.000Z",
     "endTime": "20260615T070000.000Z",
-    "capitalTotalLoot": 708451,
+    "capitalTotalLoot": 717965,
     "raidsCompleted": 8,
-    "totalAttacks": 158,
-    "enemyDistrictsDestroyed": 66,
+    "totalAttacks": 160,
+    "enemyDistrictsDestroyed": 67,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#UUC9PCQ",
             "name": "Beat my Wifi",
-            "attacks": 2,
+            "attacks": 4,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 10905
+            "capitalResourcesLooted": 20419
         },
         {
             "tag": "#8LGRUUL9J",
@@ -2250,9 +2250,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/02YHz3PDwyU0QcovDhSrpMYSpym3mLnLr1d0mw7g8fo.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 10,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -2276,10 +2276,28 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9514,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
