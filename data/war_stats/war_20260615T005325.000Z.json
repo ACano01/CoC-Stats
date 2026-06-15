@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 39,
-        "stars": 72,
-        "destructionPercentage": 98.96,
+        "attacks": 41,
+        "stars": 74,
+        "destructionPercentage": 99.12,
         "members": [
             {
                 "tag": "#GPGY2CU",
@@ -212,6 +212,14 @@
                         "destructionPercentage": 97,
                         "order": 62,
                         "duration": 180
+                    },
+                    {
+                        "attackerTag": "#Q92RUPUJ",
+                        "defenderTag": "#P0RRQ2Y09",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 70,
+                        "duration": 95
                     }
                 ],
                 "opponentAttacks": 1,
@@ -376,6 +384,14 @@
                         "destructionPercentage": 100,
                         "order": 57,
                         "duration": 124
+                    },
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#VQRVYPU8",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 71,
+                        "duration": 125
                     }
                 ],
                 "opponentAttacks": 3,
@@ -1035,14 +1051,14 @@
                 "name": "duckByrd",
                 "townhallLevel": 17,
                 "mapPosition": 13,
-                "opponentAttacks": 5,
+                "opponentAttacks": 6,
                 "bestOpponentAttack": {
-                    "attackerTag": "#QC92VLPP",
+                    "attackerTag": "#Q92RUPUJ",
                     "defenderTag": "#P0RRQ2Y09",
-                    "stars": 2,
-                    "destructionPercentage": 98,
-                    "order": 58,
-                    "duration": 179
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 70,
+                    "duration": 95
                 }
             },
             {
@@ -1264,14 +1280,14 @@
                         "duration": 92
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
-                    "attackerTag": "#2PULPGL90",
+                    "attackerTag": "#V0GYVCJ9",
                     "defenderTag": "#VQRVYPU8",
-                    "stars": 2,
-                    "destructionPercentage": 98,
-                    "order": 67,
-                    "duration": 149
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 71,
+                    "duration": 125
                 }
             },
             {
