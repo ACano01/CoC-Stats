@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 38,
+        "attacks": 39,
         "stars": 75,
         "destructionPercentage": 100.0,
         "members": [
@@ -214,6 +214,14 @@
                         "destructionPercentage": 87,
                         "order": 34,
                         "duration": 163
+                    },
+                    {
+                        "attackerTag": "#Q92RUPUJ",
+                        "defenderTag": "#LU22Y0U0",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 69,
+                        "duration": 137
                     }
                 ],
                 "opponentAttacks": 4,
@@ -274,14 +282,14 @@
                         "duration": 137
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#YLVCQRUL9",
+                    "attackerTag": "#8PJUG8YRV",
                     "defenderTag": "#800CC2CCG",
-                    "stars": 0,
-                    "destructionPercentage": 40,
-                    "order": 44,
-                    "duration": 70
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 70,
+                    "duration": 157
                 }
             },
             {
@@ -547,7 +555,15 @@
                         "duration": 180
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8PJUG8YRV",
+                    "defenderTag": "#2PYVCVQP9",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 71,
+                    "duration": 138
+                }
             },
             {
                 "tag": "#LPU0GGCJQ",
@@ -749,9 +765,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/fEeLngqqex4Q8wgOlaKI4E3q9cKyVn26DxY48Kdx0LY.png"
         },
         "clanLevel": 20,
-        "attacks": 30,
-        "stars": 69,
-        "destructionPercentage": 93.6,
+        "attacks": 32,
+        "stars": 75,
+        "destructionPercentage": 100.0,
         "members": [
             {
                 "tag": "#QVYVG2VUV",
@@ -978,7 +994,7 @@
                         "duration": 175
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#V0GYVCJ9",
                     "defenderTag": "#LU22Y0U0",
@@ -1302,6 +1318,24 @@
                 "name": "Sajad hamad \u2764",
                 "townhallLevel": 18,
                 "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#8PJUG8YRV",
+                        "defenderTag": "#800CC2CCG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 70,
+                        "duration": 157
+                    },
+                    {
+                        "attackerTag": "#8PJUG8YRV",
+                        "defenderTag": "#2PYVCVQP9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 71,
+                        "duration": 138
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#GU2UVG9CV",
