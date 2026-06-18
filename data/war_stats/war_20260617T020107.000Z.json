@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 45,
+        "attacks": 48,
         "stars": 75,
         "destructionPercentage": 100.0,
         "members": [
@@ -618,6 +618,24 @@
                 "name": "night dragon",
                 "townhallLevel": 15,
                 "mapPosition": 22,
+                "attacks": [
+                    {
+                        "attackerTag": "#LPU0GGCJQ",
+                        "defenderTag": "#GJC8G89RG",
+                        "stars": 0,
+                        "destructionPercentage": 16,
+                        "order": 84,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#LPU0GGCJQ",
+                        "defenderTag": "#G8YQJ98U9",
+                        "stars": 0,
+                        "destructionPercentage": 5,
+                        "order": 85,
+                        "duration": 180
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#G2GCR28YU",
@@ -732,6 +750,14 @@
                         "destructionPercentage": 100,
                         "order": 62,
                         "duration": 113
+                    },
+                    {
+                        "attackerTag": "#2VYVULCVL",
+                        "defenderTag": "#8J2028VR2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 86,
+                        "duration": 93
                     }
                 ],
                 "opponentAttacks": 2,
@@ -1126,7 +1152,7 @@
                         "duration": 165
                     }
                 ],
-                "opponentAttacks": 5,
+                "opponentAttacks": 6,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
                     "defenderTag": "#8J2028VR2",
@@ -1207,7 +1233,7 @@
                 "name": "\u0627\u0644\u0634\u064a\u062e",
                 "townhallLevel": 11,
                 "mapPosition": 25,
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#8GVP0V8CJ",
                     "defenderTag": "#GJC8G89RG",
@@ -1526,7 +1552,7 @@
                 "name": "\u0627\u0644\u0634\u0628\u062d",
                 "townhallLevel": 17,
                 "mapPosition": 15,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#99VJ2VVPQ",
                     "defenderTag": "#G8YQJ98U9",
