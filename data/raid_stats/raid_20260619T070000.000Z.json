@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260619T070000.000Z",
     "endTime": "20260622T070000.000Z",
-    "capitalTotalLoot": 548649,
-    "raidsCompleted": 6,
-    "totalAttacks": 124,
-    "enemyDistrictsDestroyed": 51,
+    "capitalTotalLoot": 570369,
+    "raidsCompleted": 7,
+    "totalAttacks": 128,
+    "enemyDistrictsDestroyed": 53,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -108,10 +108,10 @@
         {
             "tag": "#V0GYVCJ9",
             "name": "YAGO",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 10315
+            "capitalResourcesLooted": 32035
         },
         {
             "tag": "#L2PQ9QLUC",
@@ -1658,9 +1658,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/lt7cN7e8Lul6bZUWJTlJsc1Usb8VpbNTkixwtrUZM7Y.png"
                 }
             },
-            "attackCount": 16,
+            "attackCount": 20,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
@@ -1675,10 +1675,28 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11511,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -1808,10 +1826,28 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10209,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
@@ -2412,18 +2448,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/brBxLFbQYNePHtjYca9I8P-wu5yn5Caw7WDkcDYuNog.png"
                 }
             },
-            "attackCount": 24,
+            "attackCount": 31,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13391,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GCQ0G88GP",
+                                "name": "john"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GCQ0G88GP",
+                                "name": "john"
+                            },
+                            "destructionPercent": 72,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GCQ0G88GP",
+                                "name": "john"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GCQ0G88GP",
+                                "name": "john"
+                            },
+                            "destructionPercent": 19,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -2464,11 +2534,27 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 38,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 2885,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10652,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GCQ0G88GP",
+                                "name": "john"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q2ULR99QC",
+                                "name": "tradepro"
+                            },
+                            "destructionPercent": 75,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#LC0VUV2RY",
@@ -2561,11 +2647,19 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 93,
-                    "stars": 2,
-                    "attackCount": 3,
-                    "totalLooted": 10225,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11903,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GCQ0G88GP",
+                                "name": "john"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#LC0VUV2RY",
