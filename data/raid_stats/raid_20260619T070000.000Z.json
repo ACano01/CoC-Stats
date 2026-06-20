@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260619T070000.000Z",
     "endTime": "20260622T070000.000Z",
-    "capitalTotalLoot": 457770,
-    "raidsCompleted": 5,
-    "totalAttacks": 100,
-    "enemyDistrictsDestroyed": 43,
+    "capitalTotalLoot": 548649,
+    "raidsCompleted": 6,
+    "totalAttacks": 124,
+    "enemyDistrictsDestroyed": 51,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -20,10 +20,10 @@
         {
             "tag": "#9C229UGJ",
             "name": "Chase",
-            "attacks": 2,
+            "attacks": 3,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 9887
+            "capitalResourcesLooted": 11686
         },
         {
             "tag": "#2PULPGL90",
@@ -50,6 +50,14 @@
             "capitalResourcesLooted": 23858
         },
         {
+            "tag": "#Q92RUPUJ",
+            "name": "- nancy 95",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 25656
+        },
+        {
             "tag": "#VPJYP29",
             "name": "Viking",
             "attacks": 4,
@@ -74,6 +82,22 @@
             "capitalResourcesLooted": 19391
         },
         {
+            "tag": "#YU899GQ8",
+            "name": "You'llNeedJesus",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 19893
+        },
+        {
+            "tag": "#QC92VLPP",
+            "name": "King Hova",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 20867
+        },
+        {
             "tag": "#99VC2CU9",
             "name": "Polaris",
             "attacks": 2,
@@ -92,10 +116,10 @@
         {
             "tag": "#L2PQ9QLUC",
             "name": "BossHogg",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 10839
+            "capitalResourcesLooted": 30724
         },
         {
             "tag": "#PQC82LLR",
@@ -132,10 +156,10 @@
         {
             "tag": "#Y8PJCG8L",
             "name": "Chmmr",
-            "attacks": 2,
+            "attacks": 3,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 7962
+            "capitalResourcesLooted": 10741
         },
         {
             "tag": "#GPJ2L2Y0P",
@@ -1318,18 +1342,60 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/I0YuFDBTfCj1ZKE4nDsTt7phTAwcmcRPMtYCxvtwYik.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 25,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 13825,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YU899GQ8",
+                                "name": "You'llNeedJesus"
+                            },
+                            "destructionPercent": 72,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YU899GQ8",
+                                "name": "You'llNeedJesus"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YU899GQ8",
+                                "name": "You'llNeedJesus"
+                            },
+                            "destructionPercent": 25,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1548,10 +1614,274 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10953,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YU899GQ8",
+                                "name": "You'llNeedJesus"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YU899GQ8",
+                                "name": "You'llNeedJesus"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YU899GQ8",
+                                "name": "You'llNeedJesus"
+                            },
+                            "destructionPercent": 22,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#22YYR8VY",
+                "name": "RO Knights",
+                "level": 26,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lt7cN7e8Lul6bZUWJTlJsc1Usb8VpbNTkixwtrUZM7Y.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lt7cN7e8Lul6bZUWJTlJsc1Usb8VpbNTkixwtrUZM7Y.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lt7cN7e8Lul6bZUWJTlJsc1Usb8VpbNTkixwtrUZM7Y.png"
+                }
+            },
+            "attackCount": 16,
+            "districtCount": 9,
+            "districtsDestroyed": 6,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
                     "destructionPercent": 0,
                     "stars": 0,
                     "attackCount": 0,
                     "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10670,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 75,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11607,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 79,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10731,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10150,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11409,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PJCG8L",
+                                "name": "Chmmr"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11534,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 89,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
@@ -2065,6 +2395,312 @@
                                 "name": "$N!P\u20acR"
                             },
                             "destructionPercent": 44,
+                            "stars": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "attacker": {
+                "tag": "#2G2LLLQCU",
+                "name": "KHMER CLAN",
+                "level": 24,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/brBxLFbQYNePHtjYca9I8P-wu5yn5Caw7WDkcDYuNog.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/brBxLFbQYNePHtjYca9I8P-wu5yn5Caw7WDkcDYuNog.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/brBxLFbQYNePHtjYca9I8P-wu5yn5Caw7WDkcDYuNog.png"
+                }
+            },
+            "attackCount": 24,
+            "districtCount": 9,
+            "districtsDestroyed": 6,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11673,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#28VG2RQ98",
+                                "name": "attack all day"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28VG2RQ98",
+                                "name": "attack all day"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28VG2RQ98",
+                                "name": "attack all day"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 38,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 2885,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC0VUV2RY",
+                                "name": "home"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11400,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QLY808PJ9",
+                                "name": "neathhh"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QLY808PJ9",
+                                "name": "neathhh"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QLY808PJ9",
+                                "name": "neathhh"
+                            },
+                            "destructionPercent": 22,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 12017,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QLY808PJ9",
+                                "name": "neathhh"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GJQVG0YUL",
+                                "name": "Zorro2"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GJQVG0YUL",
+                                "name": "Zorro2"
+                            },
+                            "destructionPercent": 24,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GJQVG0YUL",
+                                "name": "Zorro2"
+                            },
+                            "destructionPercent": 20,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 93,
+                    "stars": 2,
+                    "attackCount": 3,
+                    "totalLooted": 10225,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC0VUV2RY",
+                                "name": "home"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QLY808PJ9",
+                                "name": "neathhh"
+                            },
+                            "destructionPercent": 81,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QLY808PJ9",
+                                "name": "neathhh"
+                            },
+                            "destructionPercent": 27,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11727,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GJQVG0YUL",
+                                "name": "Zorro2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GJQVG0YUL",
+                                "name": "Zorro2"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#JGVC2PU",
+                                "name": "Meng Meng"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11984,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GJQVG0YUL",
+                                "name": "Zorro2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQCJPUPJ",
+                                "name": "Fake-Real"
+                            },
+                            "destructionPercent": 69,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQCJPUPJ",
+                                "name": "Fake-Real"
+                            },
+                            "destructionPercent": 12,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQCJPUPJ",
+                                "name": "Fake-Real"
+                            },
+                            "destructionPercent": 0,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12054,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QGQCJPUPJ",
+                                "name": "Fake-Real"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQCJPUPJ",
+                                "name": "Fake-Real"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQCJPUPJ",
+                                "name": "Fake-Real"
+                            },
+                            "destructionPercent": 46,
                             "stars": 1
                         }
                     ]
