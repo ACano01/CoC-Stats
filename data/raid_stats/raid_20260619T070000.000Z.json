@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260619T070000.000Z",
     "endTime": "20260622T070000.000Z",
-    "capitalTotalLoot": 910257,
+    "capitalTotalLoot": 933601,
     "raidsCompleted": 11,
-    "totalAttacks": 207,
-    "enemyDistrictsDestroyed": 83,
+    "totalAttacks": 213,
+    "enemyDistrictsDestroyed": 85,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -240,6 +240,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 26053
+        },
+        {
+            "tag": "#8GVP0V8CJ",
+            "name": "ZAC JB.",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 23344
         },
         {
             "tag": "#Y8PJCG8L",
@@ -2954,9 +2962,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/gnodriQr7_tCzr4ygw26ZS2GYntJ3mmxFJJPK97Uguk.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 12,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -2980,28 +2988,82 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
+                    "destructionPercent": 45,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 2985,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10164,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 94,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10195,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8GVP0V8CJ",
+                                "name": "ZAC JB."
+                            },
+                            "destructionPercent": 41,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
