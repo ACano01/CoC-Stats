@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260619T070000.000Z",
     "endTime": "20260622T070000.000Z",
-    "capitalTotalLoot": 657965,
+    "capitalTotalLoot": 684272,
     "raidsCompleted": 8,
-    "totalAttacks": 148,
-    "enemyDistrictsDestroyed": 60,
+    "totalAttacks": 156,
+    "enemyDistrictsDestroyed": 62,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -60,10 +60,10 @@
         {
             "tag": "#VPJYP29",
             "name": "Viking",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 19822
+            "capitalResourcesLooted": 29292
         },
         {
             "tag": "#99VJ2VVPQ",
@@ -144,6 +144,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 27255
+        },
+        {
+            "tag": "#9UR8QJUQU",
+            "name": "Pastor Brent",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 16837
         },
         {
             "tag": "#LPU0GGCJQ",
@@ -1974,18 +1982,44 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/f9vHoDnVp-Qe6ZahiERCOjw9U3JXcEJP1CqNREjQaNw.png"
                 }
             },
-            "attackCount": 16,
+            "attackCount": 24,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 46,
+                    "stars": 1,
+                    "attackCount": 3,
+                    "totalLooted": 8140,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9UR8QJUQU",
+                                "name": "Pastor Brent"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9UR8QJUQU",
+                                "name": "Pastor Brent"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9UR8QJUQU",
+                                "name": "Pastor Brent"
+                            },
+                            "destructionPercent": 5,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -2018,11 +2052,27 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 50,
-                    "stars": 2,
-                    "attackCount": 1,
-                    "totalLooted": 4725,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10730,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9UR8QJUQU",
+                                "name": "Pastor Brent"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9UR8QJUQU",
+                                "name": "Pastor Brent"
+                            },
+                            "destructionPercent": 88,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#LYRG2GUJ",
@@ -2196,10 +2246,36 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12162,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9UR8QJUQU",
+                                "name": "Pastor Brent"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 90,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 21,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
