@@ -3316,6 +3316,150 @@
                     ]
                 }
             ]
+        },
+        {
+            "attacker": {
+                "tag": "#QLJGC090",
+                "name": "SHADiN Bangla71",
+                "level": 29,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/8w-vUf_TH9ChMkoX-DL3iZieAVaZYb8dkmmrtahwVWs.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/8w-vUf_TH9ChMkoX-DL3iZieAVaZYb8dkmmrtahwVWs.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/8w-vUf_TH9ChMkoX-DL3iZieAVaZYb8dkmmrtahwVWs.png"
+                }
+            },
+            "attackCount": 5,
+            "districtCount": 9,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 87,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 9540,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LCVY8Q8QQ",
+                                "name": "Mahfuz Zun"
+                            },
+                            "destructionPercent": 87,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCVY8Q8QQ",
+                                "name": "Mahfuz Zun"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 72,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 9900,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LCVY8Q8QQ",
+                                "name": "Mahfuz Zun"
+                            },
+                            "destructionPercent": 72,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCVY8Q8QQ",
+                                "name": "Mahfuz Zun"
+                            },
+                            "destructionPercent": 15,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 44,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 4680,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LCVY8Q8QQ",
+                                "name": "Mahfuz Zun"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 1
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
