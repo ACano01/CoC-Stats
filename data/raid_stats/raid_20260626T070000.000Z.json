@@ -3,7 +3,7 @@
     "startTime": "20260626T070000.000Z",
     "endTime": "20260629T070000.000Z",
     "capitalTotalLoot": 0,
-    "raidsCompleted": 0,
+    "raidsCompleted": 1,
     "totalAttacks": 0,
     "enemyDistrictsDestroyed": 0,
     "offensiveReward": 0,
@@ -22,46 +22,140 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/aC-r9cPxFqof5zzRda8cbZVhNplSdSTVtVyL7uPQGfs.png"
                 }
             },
-            "attackCount": 5,
+            "attackCount": 27,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13844,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2YUGJLRV",
+                                "name": "vlastavlasta"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YQQ99RRU",
+                                "name": "mirko"
+                            },
+                            "destructionPercent": 87,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YQQ99RRU",
+                                "name": "mirko"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YQQ99RRU",
+                                "name": "mirko"
+                            },
+                            "destructionPercent": 25,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11334,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R0G002GLJ",
+                                "name": "beluci"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R0G002GLJ",
+                                "name": "beluci"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PJP8L2R",
+                                "name": "lumpi"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10865,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PJP8L2R",
+                                "name": "lumpi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PJP8L2R",
+                                "name": "lumpi"
+                            },
+                            "destructionPercent": 96,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8URPCRPU",
+                                "name": "luka"
+                            },
+                            "destructionPercent": 32,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 51,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 6775,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11481,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LPQG2JLR",
+                                "name": "Rajola"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#LPQG2JLR",
@@ -84,19 +178,63 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11657,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8URPCRPU",
+                                "name": "luka"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8URPCRPU",
+                                "name": "luka"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8URPCRPU",
+                                "name": "luka"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11444,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8URPCRPU",
+                                "name": "luka"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8URPCRPU",
+                                "name": "luka"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -137,19 +275,71 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11951,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PJP8L2R",
+                                "name": "lumpi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PJP8L2R",
+                                "name": "lumpi"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PJP8L2R",
+                                "name": "lumpi"
+                            },
+                            "destructionPercent": 16,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11799,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YQQ99RRU",
+                                "name": "mirko"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YQQ99RRU",
+                                "name": "mirko"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YQQ99RRU",
+                                "name": "mirko"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
