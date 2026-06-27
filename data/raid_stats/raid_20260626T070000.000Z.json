@@ -1856,9 +1856,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/MKphkSe09k50z08813znupXf2EEM0-FyOUuAW22DCnk.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 19,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -1873,11 +1873,19 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 35,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3020,
+                    "destructionPercent": 74,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 7190,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UG88U8YY",
+                                "name": "IMMORTAL"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#JUQV0U8P",
@@ -1892,11 +1900,27 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 44,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 3710,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10778,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UG88U8YY",
+                                "name": "IMMORTAL"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UG88U8YY",
+                                "name": "IMMORTAL"
+                            },
+                            "destructionPercent": 85,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#JUQV0U8P",
@@ -1930,19 +1954,63 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 12254,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PULRG8Y9Q",
+                                "name": "\u611b|\u2022\u029f\u1d07\u1d20\u026a"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PULRG8Y9Q",
+                                "name": "\u611b|\u2022\u029f\u1d07\u1d20\u026a"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QV0QP9JG9",
+                                "name": "\u271e\u271eChrollo\u271e\u271e"
+                            },
+                            "destructionPercent": 17,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QV0QP9JG9",
+                                "name": "\u271e\u271eChrollo\u271e\u271e"
+                            },
+                            "destructionPercent": 15,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 33,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 4260,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UG88U8YY",
+                                "name": "IMMORTAL"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -1983,19 +2051,63 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 97,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 10910,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QV0QP9JG9",
+                                "name": "\u271e\u271eChrollo\u271e\u271e"
+                            },
+                            "destructionPercent": 97,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QV0QP9JG9",
+                                "name": "\u271e\u271eChrollo\u271e\u271e"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11868,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UG88U8YY",
+                                "name": "IMMORTAL"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UG88U8YY",
+                                "name": "IMMORTAL"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PULRG8Y9Q",
+                                "name": "\u611b|\u2022\u029f\u1d07\u1d20\u026a"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 2
+                        }
+                    ]
                 }
             ]
         }
