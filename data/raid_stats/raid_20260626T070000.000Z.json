@@ -2,13 +2,29 @@
     "state": "ongoing",
     "startTime": "20260626T070000.000Z",
     "endTime": "20260629T070000.000Z",
-    "capitalTotalLoot": 419051,
+    "capitalTotalLoot": 443164,
     "raidsCompleted": 6,
-    "totalAttacks": 99,
-    "enemyDistrictsDestroyed": 41,
+    "totalAttacks": 107,
+    "enemyDistrictsDestroyed": 43,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#GPGY2CU",
+            "name": "RedHawk44",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 17113
+        },
+        {
+            "tag": "#9C229UGJ",
+            "name": "Chase",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 7000
+        },
         {
             "tag": "#2PULPGL90",
             "name": "M M 1960",
@@ -1350,9 +1366,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 16,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -1367,10 +1383,28 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 55,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 7000,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 20,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -1438,19 +1472,71 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 5225,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11888,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 24,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
