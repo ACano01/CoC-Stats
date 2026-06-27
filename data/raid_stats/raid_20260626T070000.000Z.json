@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260626T070000.000Z",
     "endTime": "20260629T070000.000Z",
-    "capitalTotalLoot": 518093,
+    "capitalTotalLoot": 550158,
     "raidsCompleted": 7,
-    "totalAttacks": 124,
-    "enemyDistrictsDestroyed": 50,
+    "totalAttacks": 131,
+    "enemyDistrictsDestroyed": 53,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -60,10 +60,10 @@
         {
             "tag": "#800CC2CCG",
             "name": "also Carsten",
-            "attacks": 1,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 3548
+            "capitalResourcesLooted": 25133
         },
         {
             "tag": "#VPJYP29",
@@ -132,10 +132,10 @@
         {
             "tag": "#2PYVCVQP9",
             "name": "Carsten",
-            "attacks": 0,
+            "attacks": 2,
             "attackLimit": 5,
-            "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 0
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10480
         },
         {
             "tag": "#LPU0GGCJQ",
@@ -1682,9 +1682,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/3-FLyA2phCuYB396yQarrFN9asnvm0nU3U5WPy3ANNs.png"
                 }
             },
-            "attackCount": 12,
+            "attackCount": 19,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
@@ -1699,19 +1699,63 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11937,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#800CC2CCG",
+                                "name": "also Carsten"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#800CC2CCG",
+                                "name": "also Carsten"
+                            },
+                            "destructionPercent": 89,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#800CC2CCG",
+                                "name": "also Carsten"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9648,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#800CC2CCG",
+                                "name": "also Carsten"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#800CC2CCG",
+                                "name": "also Carsten"
+                            },
+                            "destructionPercent": 41,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -1744,10 +1788,28 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10480,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2PYVCVQP9",
+                                "name": "Carsten"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PYVCVQP9",
+                                "name": "Carsten"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
