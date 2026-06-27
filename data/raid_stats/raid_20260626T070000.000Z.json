@@ -3,7 +3,7 @@
     "startTime": "20260626T070000.000Z",
     "endTime": "20260629T070000.000Z",
     "capitalTotalLoot": 419051,
-    "raidsCompleted": 5,
+    "raidsCompleted": 6,
     "totalAttacks": 99,
     "enemyDistrictsDestroyed": 41,
     "offensiveReward": 0,
@@ -1856,28 +1856,70 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/MKphkSe09k50z08813znupXf2EEM0-FyOUuAW22DCnk.png"
                 }
             },
-            "attackCount": 19,
+            "attackCount": 29,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13610,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R02UQCV8V",
+                                "name": "Therizino 3"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R02UQCV8V",
+                                "name": "Therizino 3"
+                            },
+                            "destructionPercent": 61,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R02UQCV8V",
+                                "name": "Therizino 3"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R02UQCV8V",
+                                "name": "Therizino 3"
+                            },
+                            "destructionPercent": 16,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 74,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 7190,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11811,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GGUYU9P00",
+                                "name": "Therizino 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#UG88U8YY",
@@ -1935,11 +1977,27 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 35,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 4315,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11820,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GGUYU9P00",
+                                "name": "Therizino 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GGUYU9P00",
+                                "name": "Therizino 2"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#JUQV0U8P",
@@ -1997,11 +2055,27 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 33,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 4260,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11417,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GGUYU9P00",
+                                "name": "Therizino 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GGUYU9P00",
+                                "name": "Therizino 2"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#UG88U8YY",
@@ -2051,11 +2125,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 97,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 10910,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12146,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GGUYU9P00",
+                                "name": "Therizino 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#QV0QP9JG9",
