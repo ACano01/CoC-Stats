@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260626T070000.000Z",
     "endTime": "20260629T070000.000Z",
-    "capitalTotalLoot": 572327,
+    "capitalTotalLoot": 590326,
     "raidsCompleted": 8,
-    "totalAttacks": 137,
-    "enemyDistrictsDestroyed": 54,
+    "totalAttacks": 143,
+    "enemyDistrictsDestroyed": 56,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -32,6 +32,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 30691
+        },
+        {
+            "tag": "#U90CYLQ2",
+            "name": "Ben",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 17999
         },
         {
             "tag": "#Y02J2VQ2",
@@ -1982,9 +1990,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/NQd9TWNnoGj05GiRq0iAqCET3cjT93Ew6YeNCGHWU3I.png"
                 }
             },
-            "attackCount": 3,
+            "attackCount": 9,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -1999,11 +2007,19 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 74,
-                    "stars": 2,
-                    "attackCount": 3,
-                    "totalLooted": 8655,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 12054,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#YR922PJC0",
@@ -2043,10 +2059,44 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11820,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 90,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -2070,10 +2120,20 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
+                    "destructionPercent": 36,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 2780,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#U90CYLQ2",
+                                "name": "Ben"
+                            },
+                            "destructionPercent": 36,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
