@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260626T070000.000Z",
     "endTime": "20260629T070000.000Z",
-    "capitalTotalLoot": 765640,
+    "capitalTotalLoot": 790757,
     "raidsCompleted": 10,
-    "totalAttacks": 188,
-    "enemyDistrictsDestroyed": 72,
+    "totalAttacks": 194,
+    "enemyDistrictsDestroyed": 74,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -16,6 +16,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 19342
+        },
+        {
+            "tag": "#Y8PCJG2PY",
+            "name": "Nitroneous",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 25117
         },
         {
             "tag": "#GPGY2CU",
@@ -2718,9 +2726,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/BVbY_TTRPImVudZQBmNDN7B9aDqq8iLr_CN0o9u_zMA.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 6,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -2780,28 +2788,82 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10803,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 27,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10699,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 49,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 35,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 3615,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
