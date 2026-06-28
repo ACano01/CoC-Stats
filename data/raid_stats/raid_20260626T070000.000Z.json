@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260626T070000.000Z",
     "endTime": "20260629T070000.000Z",
-    "capitalTotalLoot": 790757,
+    "capitalTotalLoot": 839039,
     "raidsCompleted": 10,
-    "totalAttacks": 194,
-    "enemyDistrictsDestroyed": 74,
+    "totalAttacks": 205,
+    "enemyDistrictsDestroyed": 79,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -146,6 +146,14 @@
             "capitalResourcesLooted": 27529
         },
         {
+            "tag": "#L2PQ9QLUC",
+            "name": "BossHogg",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10125
+        },
+        {
             "tag": "#V0CC0YR8",
             "name": "Wes",
             "attacks": 6,
@@ -168,6 +176,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 20113
+        },
+        {
+            "tag": "#9RPGYU9G2",
+            "name": "Levi",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 24047
         },
         {
             "tag": "#UQQ0LJLP",
@@ -244,10 +260,10 @@
         {
             "tag": "#GPJ2L2Y0P",
             "name": "The Big Linc",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11979
+            "capitalResourcesLooted": 26089
         },
         {
             "tag": "#YR922PJC0",
@@ -2726,9 +2742,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/BVbY_TTRPImVudZQBmNDN7B9aDqq8iLr_CN0o9u_zMA.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 17,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -2752,37 +2768,125 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9695,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10359,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 92,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11103,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 69,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10125,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 41,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -2850,11 +2954,19 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 35,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3615,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10615,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#Y8PCJG2PY",
