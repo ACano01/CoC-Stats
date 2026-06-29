@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 43,
+        "attacks": 46,
         "stars": 75,
         "destructionPercentage": 100.0,
         "members": [
@@ -32,6 +32,14 @@
                         "destructionPercentage": 85,
                         "order": 62,
                         "duration": 141
+                    },
+                    {
+                        "attackerTag": "#GPGY2CU",
+                        "defenderTag": "#UUJCRU82",
+                        "stars": 2,
+                        "destructionPercentage": 72,
+                        "order": 88,
+                        "duration": 137
                     }
                 ],
                 "opponentAttacks": 1,
@@ -222,6 +230,14 @@
                         "destructionPercentage": 93,
                         "order": 17,
                         "duration": 153
+                    },
+                    {
+                        "attackerTag": "#Q92RUPUJ",
+                        "defenderTag": "#YPP90UVJ",
+                        "stars": 2,
+                        "destructionPercentage": 90,
+                        "order": 87,
+                        "duration": 130
                     }
                 ],
                 "opponentAttacks": 2,
@@ -592,6 +608,14 @@
                         "destructionPercentage": 36,
                         "order": 56,
                         "duration": 80
+                    },
+                    {
+                        "attackerTag": "#YV00VUPP9",
+                        "defenderTag": "#98U0JUG0",
+                        "stars": 1,
+                        "destructionPercentage": 27,
+                        "order": 86,
+                        "duration": 46
                     }
                 ],
                 "opponentAttacks": 1,
@@ -1020,7 +1044,7 @@
                         "duration": 138
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
                     "defenderTag": "#YPP90UVJ",
@@ -1299,7 +1323,7 @@
                         "duration": 152
                     }
                 ],
-                "opponentAttacks": 5,
+                "opponentAttacks": 6,
                 "bestOpponentAttack": {
                     "attackerTag": "#9C229UGJ",
                     "defenderTag": "#UUJCRU82",
@@ -1509,7 +1533,7 @@
                         "duration": 21
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#UUC9PCQ",
                     "defenderTag": "#98U0JUG0",
