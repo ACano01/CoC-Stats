@@ -3,7 +3,7 @@
     "startTime": "20260703T070000.000Z",
     "endTime": "20260706T070000.000Z",
     "capitalTotalLoot": 278188,
-    "raidsCompleted": 2,
+    "raidsCompleted": 3,
     "totalAttacks": 72,
     "enemyDistrictsDestroyed": 24,
     "offensiveReward": 0,
@@ -1048,18 +1048,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/Ea7F8E2bxX51KhoMpC-9d4Qx1gjt4uAemYgEyXg55ek.png"
                 }
             },
-            "attackCount": 29,
+            "attackCount": 33,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13409,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G8988L08U",
+                                "name": "nirjol"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G8988L08U",
+                                "name": "nirjol"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G8988L08U",
+                                "name": "nirjol"
+                            },
+                            "destructionPercent": 27,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G8988L08U",
+                                "name": "nirjol"
+                            },
+                            "destructionPercent": 18,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
