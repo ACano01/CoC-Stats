@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260703T070000.000Z",
     "endTime": "20260706T070000.000Z",
-    "capitalTotalLoot": 245918,
+    "capitalTotalLoot": 278188,
     "raidsCompleted": 2,
-    "totalAttacks": 65,
-    "enemyDistrictsDestroyed": 21,
+    "totalAttacks": 72,
+    "enemyDistrictsDestroyed": 24,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#Q92RUPUJ",
             "name": "- nancy 95",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 21146
+            "capitalResourcesLooted": 28081
         },
         {
             "tag": "#YULUPURY",
@@ -96,6 +96,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 24321
+        },
+        {
+            "tag": "#YR922PJC0",
+            "name": "fadi",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 25335
         },
         {
             "tag": "#LR0990Y9V",
@@ -806,9 +814,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/oMJBC3qn9OB0ZIQk-MLqh4lMM11-TJB6vDPcv_AyvG4.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 15,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -823,11 +831,27 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 24,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 1615,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11377,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q92RUPUJ",
+                                "name": "- nancy 95"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#Q92RUPUJ",
@@ -896,11 +920,27 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 39,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 2860,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10570,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#QC92VLPP",
@@ -915,19 +955,47 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9878,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 63,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 4920,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
@@ -980,9 +1048,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/Ea7F8E2bxX51KhoMpC-9d4Qx1gjt4uAemYgEyXg55ek.png"
                 }
             },
-            "attackCount": 23,
+            "attackCount": 29,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
@@ -1067,11 +1135,19 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 99,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 10870,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11784,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G8988L08U",
+                                "name": "nirjol"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#29CPQP0G",
@@ -1129,10 +1205,52 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 12014,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#28VURPLV",
+                                "name": "jrami"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28VURPLV",
+                                "name": "jrami"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28VURPLV",
+                                "name": "jrami"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28VURPLV",
+                                "name": "jrami"
+                            },
+                            "destructionPercent": 34,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8QLLJVR8C",
+                                "name": "Yam\u2728"
+                            },
+                            "destructionPercent": 19,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
