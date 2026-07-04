@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260703T070000.000Z",
     "endTime": "20260706T070000.000Z",
-    "capitalTotalLoot": 707322,
-    "raidsCompleted": 7,
-    "totalAttacks": 179,
-    "enemyDistrictsDestroyed": 62,
+    "capitalTotalLoot": 725234,
+    "raidsCompleted": 8,
+    "totalAttacks": 183,
+    "enemyDistrictsDestroyed": 63,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -114,6 +114,14 @@
             "capitalResourcesLooted": 23722
         },
         {
+            "tag": "#800CC2CCG",
+            "name": "also Carsten",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 6140
+        },
+        {
             "tag": "#VPJYP29",
             "name": "Viking",
             "attacks": 6,
@@ -196,10 +204,10 @@
         {
             "tag": "#2PYVCVQP9",
             "name": "Carsten",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11711
+            "capitalResourcesLooted": 23483
         },
         {
             "tag": "#8RJ8CC8LU",
@@ -2182,19 +2190,35 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/wzO9NyM2A0s-dwj4WMdoM1ItAUeoDlwjx4n6s50DWF8.png"
                 }
             },
-            "attackCount": 29,
+            "attackCount": 31,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 49,
+                    "destructionPercent": 100,
                     "stars": 0,
-                    "attackCount": 2,
-                    "totalLooted": 5240,
+                    "attackCount": 4,
+                    "totalLooted": 13772,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2PYVCVQP9",
+                                "name": "Carsten"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PYVCVQP9",
+                                "name": "Carsten"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#Y02J2VQ2",
@@ -2513,6 +2537,122 @@
                                 "name": "jj.2"
                             },
                             "destructionPercent": 14,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2L8YVUCCY",
+                "name": "BILLIONAIRES",
+                "level": 25,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/W2jtI7sMaZt7_su4P2FTDzSapOLh5bUZmpC3Qxg0dLg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/W2jtI7sMaZt7_su4P2FTDzSapOLh5bUZmpC3Qxg0dLg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/W2jtI7sMaZt7_su4P2FTDzSapOLh5bUZmpC3Qxg0dLg.png"
+                }
+            },
+            "attackCount": 2,
+            "districtCount": 9,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 85,
+                    "stars": 0,
+                    "attackCount": 2,
+                    "totalLooted": 9380,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#800CC2CCG",
+                                "name": "also Carsten"
+                            },
+                            "destructionPercent": 85,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2PYVCVQP9",
+                                "name": "Carsten"
+                            },
+                            "destructionPercent": 22,
                             "stars": 0
                         }
                     ]
