@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260703T070000.000Z",
     "endTime": "20260706T070000.000Z",
-    "capitalTotalLoot": 474258,
+    "capitalTotalLoot": 485933,
     "raidsCompleted": 5,
-    "totalAttacks": 121,
-    "enemyDistrictsDestroyed": 40,
+    "totalAttacks": 123,
+    "enemyDistrictsDestroyed": 41,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -40,6 +40,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 22480
+        },
+        {
+            "tag": "#8LGRUUL9J",
+            "name": "violin",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11675
         },
         {
             "tag": "#282P00908",
@@ -1502,9 +1510,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/u-ublBXwZlpr16QFdwXPtsCBSkwTXCTkOMYx0gg9cUY.png"
                 }
             },
-            "attackCount": 16,
+            "attackCount": 18,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -1687,10 +1695,28 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11675,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
@@ -2122,9 +2148,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/9H2ycX0FfIjMiYqISb8ENkJIltDB95QsrFhAMUvcE64.png"
                 }
             },
-            "attackCount": 2,
+            "attackCount": 8,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 1,
             "districts": [
                 {
                     "id": 70000000,
@@ -2184,29 +2210,81 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 66,
+                    "stars": 2,
+                    "attackCount": 3,
+                    "totalLooted": 6305,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GRLCRYGPJ",
+                                "name": "UNDEAD61"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GRLCRYGPJ",
+                                "name": "UNDEAD61"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GRLCRYGPJ",
+                                "name": "UNDEAD61"
+                            },
+                            "destructionPercent": 24,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
+                    "destructionPercent": 19,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 2,
+                    "totalLooted": 2450,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GRLCRYGPJ",
+                                "name": "UNDEAD61"
+                            },
+                            "destructionPercent": 19,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GRLCRYGPJ",
+                                "name": "UNDEAD61"
+                            },
+                            "destructionPercent": 11,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 71,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 7495,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11913,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GRLCRYGPJ",
+                                "name": "UNDEAD61"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#QJJ0RG80Y",
