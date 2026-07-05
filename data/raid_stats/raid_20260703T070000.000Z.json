@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260703T070000.000Z",
     "endTime": "20260706T070000.000Z",
-    "capitalTotalLoot": 839094,
+    "capitalTotalLoot": 850218,
     "raidsCompleted": 10,
-    "totalAttacks": 209,
-    "enemyDistrictsDestroyed": 73,
+    "totalAttacks": 211,
+    "enemyDistrictsDestroyed": 74,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -56,6 +56,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 5643
+        },
+        {
+            "tag": "#UUC9PCQ",
+            "name": "Beat my Wifi",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11124
         },
         {
             "tag": "#8LGRUUL9J",
@@ -2894,9 +2902,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/14mWwD6mGyvQcBj8GThLrujlclEWxi9fKiwgG65cEy8.png"
                 }
             },
-            "attackCount": 3,
+            "attackCount": 5,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -2929,10 +2937,28 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11124,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
