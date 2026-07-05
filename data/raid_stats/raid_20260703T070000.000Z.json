@@ -3148,7 +3148,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/9H2ycX0FfIjMiYqISb8ENkJIltDB95QsrFhAMUvcE64.png"
                 }
             },
-            "attackCount": 26,
+            "attackCount": 29,
             "districtCount": 9,
             "districtsDestroyed": 8,
             "districts": [
@@ -3156,10 +3156,36 @@
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 57,
+                    "stars": 1,
+                    "attackCount": 3,
+                    "totalLooted": 5410,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GJ0P800Q",
+                                "name": "XxchaosxX"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GJ0P800Q",
+                                "name": "XxchaosxX"
+                            },
+                            "destructionPercent": 25,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GJ0P800Q",
+                                "name": "XxchaosxX"
+                            },
+                            "destructionPercent": 9,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
