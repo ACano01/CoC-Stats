@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260703T070000.000Z",
     "endTime": "20260706T070000.000Z",
-    "capitalTotalLoot": 850218,
+    "capitalTotalLoot": 860663,
     "raidsCompleted": 10,
-    "totalAttacks": 211,
+    "totalAttacks": 213,
     "enemyDistrictsDestroyed": 74,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -228,10 +228,10 @@
         {
             "tag": "#LPU0GGCJQ",
             "name": "night dragon",
-            "attacks": 2,
+            "attacks": 4,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11285
+            "capitalResourcesLooted": 21730
         },
         {
             "tag": "#8RJ8CC8LU",
@@ -2902,7 +2902,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/14mWwD6mGyvQcBj8GThLrujlclEWxi9fKiwgG65cEy8.png"
                 }
             },
-            "attackCount": 5,
+            "attackCount": 7,
             "districtCount": 9,
             "districtsDestroyed": 2,
             "districts": [
@@ -2964,10 +2964,28 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 91,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 10445,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 91,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -3800,9 +3818,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/-HeHqZ9dQWF57Y3e-lYTcbSICM1tfO33l4Ut7FDTJe8.png"
                 }
             },
-            "attackCount": 9,
+            "attackCount": 15,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -3853,10 +3871,28 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 35,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 4315,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2LC02V29P",
+                                "name": "KEYSER SOZE"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2LC02V29P",
+                                "name": "KEYSER SOZE"
+                            },
+                            "destructionPercent": 16,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -3958,10 +3994,44 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 12093,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2LC02V29P",
+                                "name": "KEYSER SOZE"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2LC02V29P",
+                                "name": "KEYSER SOZE"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2LC02V29P",
+                                "name": "KEYSER SOZE"
+                            },
+                            "destructionPercent": 75,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2LC02V29P",
+                                "name": "KEYSER SOZE"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
