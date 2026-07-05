@@ -3208,7 +3208,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/9H2ycX0FfIjMiYqISb8ENkJIltDB95QsrFhAMUvcE64.png"
                 }
             },
-            "attackCount": 29,
+            "attackCount": 31,
             "districtCount": 9,
             "districtsDestroyed": 8,
             "districts": [
@@ -3216,11 +3216,27 @@
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 57,
-                    "stars": 1,
-                    "attackCount": 3,
-                    "totalLooted": 5410,
+                    "destructionPercent": 91,
+                    "stars": 2,
+                    "attackCount": 5,
+                    "totalLooted": 12070,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GUCQGPLP",
+                                "name": "serhatdedee"
+                            },
+                            "destructionPercent": 91,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GUCQGPLP",
+                                "name": "serhatdedee"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#GJ0P800Q",
@@ -3556,9 +3572,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/-HeHqZ9dQWF57Y3e-lYTcbSICM1tfO33l4Ut7FDTJe8.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 9,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -3582,10 +3598,28 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 53,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 4315,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#29YUCUGG0",
+                                "name": "Ketot"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29YUCUGG0",
+                                "name": "Ketot"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -3661,11 +3695,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 68,
-                    "stars": 1,
-                    "attackCount": 2,
-                    "totalLooted": 7460,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11591,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#29YUCUGG0",
+                                "name": "Ketot"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#VRQQVUGJ",
