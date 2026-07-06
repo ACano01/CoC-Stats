@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260703T070000.000Z",
     "endTime": "20260706T070000.000Z",
-    "capitalTotalLoot": 860663,
+    "capitalTotalLoot": 868219,
     "raidsCompleted": 10,
-    "totalAttacks": 213,
-    "enemyDistrictsDestroyed": 74,
+    "totalAttacks": 215,
+    "enemyDistrictsDestroyed": 75,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -228,10 +228,10 @@
         {
             "tag": "#LPU0GGCJQ",
             "name": "night dragon",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 21730
+            "capitalResourcesLooted": 29286
         },
         {
             "tag": "#8RJ8CC8LU",
@@ -2902,9 +2902,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/14mWwD6mGyvQcBj8GThLrujlclEWxi9fKiwgG65cEy8.png"
                 }
             },
-            "attackCount": 7,
+            "attackCount": 9,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -2964,11 +2964,19 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 91,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 10445,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12311,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#LPU0GGCJQ",
@@ -3027,11 +3035,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 48,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 5250,
+                    "destructionPercent": 95,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 10940,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LPU0GGCJQ",
+                                "name": "night dragon"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#V0GYVCJ9",
@@ -3818,9 +3834,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/-HeHqZ9dQWF57Y3e-lYTcbSICM1tfO33l4Ut7FDTJe8.png"
                 }
             },
-            "attackCount": 15,
+            "attackCount": 21,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -3835,20 +3851,54 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 62,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 6290,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#JPYCYQ2R",
+                                "name": "Vindacator"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#JPYCYQ2R",
+                                "name": "Vindacator"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 53,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 4315,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 10652,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#JPYCYQ2R",
+                                "name": "Vindacator"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#JPYCYQ2R",
+                                "name": "Vindacator"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#29YUCUGG0",
@@ -3871,11 +3921,27 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 35,
-                    "stars": 1,
-                    "attackCount": 2,
-                    "totalLooted": 4315,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11376,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#JPYCYQ2R",
+                                "name": "Vindacator"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#JPYCYQ2R",
+                                "name": "Vindacator"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#2LC02V29P",
