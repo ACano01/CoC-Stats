@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
-    "capitalTotalLoot": 239463,
+    "capitalTotalLoot": 274695,
     "raidsCompleted": 3,
-    "totalAttacks": 55,
-    "enemyDistrictsDestroyed": 22,
+    "totalAttacks": 64,
+    "enemyDistrictsDestroyed": 26,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -50,12 +50,36 @@
             "capitalResourcesLooted": 17510
         },
         {
+            "tag": "#QC92VLPP",
+            "name": "King Hova",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10854
+        },
+        {
             "tag": "#V0GYVCJ9",
             "name": "YAGO",
             "attacks": 1,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 2181
+        },
+        {
+            "tag": "#PQC82LLR",
+            "name": "DocPeejay",
+            "attacks": 0,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 0
+        },
+        {
+            "tag": "#9RPGYU9G2",
+            "name": "Levi",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 24378
         },
         {
             "tag": "#LPU0GGCJQ",
@@ -710,18 +734,28 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/8-Jk2aWuIVLZoFkDKKN-TToInby_VXpJIb-Ed7bSSxU.png"
                 }
             },
-            "attackCount": 9,
+            "attackCount": 18,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
+                    "destructionPercent": 23,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 2560,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 23,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -781,10 +815,28 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9121,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -844,20 +896,54 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10716,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 94,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 3,
-                    "destructionPercent": 52,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 5130,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9671,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9RPGYU9G2",
+                                "name": "Levi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#90J9U9U2J",
@@ -872,10 +958,28 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 8294,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 2
+                        }
+                    ]
                 }
             ]
         }
