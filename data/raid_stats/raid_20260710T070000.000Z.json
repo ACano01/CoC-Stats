@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
-    "capitalTotalLoot": 50693,
-    "raidsCompleted": 0,
-    "totalAttacks": 11,
-    "enemyDistrictsDestroyed": 4,
+    "capitalTotalLoot": 69323,
+    "raidsCompleted": 1,
+    "totalAttacks": 16,
+    "enemyDistrictsDestroyed": 6,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#YL0VJ2YY",
+            "name": "Choong",
+            "attacks": 4,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 16742
+        },
         {
             "tag": "#8GVP0V8CJ",
             "name": "ZAC JB.",
@@ -20,10 +28,10 @@
         {
             "tag": "#LR0990Y9V",
             "name": "Irene*",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 20717
+            "capitalResourcesLooted": 22605
         }
     ],
     "attackLog": [
@@ -38,9 +46,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/Zx20uVyCHdXgv9_uB0W5TifagzGDyzYMYcraYSzH5LI.png"
                 }
             },
-            "attackCount": 11,
+            "attackCount": 16,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -117,11 +125,19 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 83,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 8445,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10333,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LR0990Y9V",
+                                "name": "Irene*"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#8GVP0V8CJ",
@@ -180,10 +196,36 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10747,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 0,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
@@ -216,10 +258,20 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 59,
+                    "stars": 2,
+                    "attackCount": 1,
+                    "totalLooted": 5995,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 2
+                        }
+                    ]
                 }
             ]
         }
@@ -236,19 +288,27 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/0jzAHixS8VrUhVMW_UqJr52vCkExiwwMh5rTjnIRLXQ.png"
                 }
             },
-            "attackCount": 30,
+            "attackCount": 31,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 95,
-                    "stars": 1,
-                    "attackCount": 4,
-                    "totalLooted": 11890,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 13982,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YCYPP80YG",
+                                "name": "\u0635\u0642\u0631 \u0646\u064a\u0646\u0648\u0649"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#Q00999VP9",
