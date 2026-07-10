@@ -2,20 +2,36 @@
     "state": "ongoing",
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
-    "capitalTotalLoot": 69323,
+    "capitalTotalLoot": 92099,
     "raidsCompleted": 1,
-    "totalAttacks": 16,
-    "enemyDistrictsDestroyed": 6,
+    "totalAttacks": 23,
+    "enemyDistrictsDestroyed": 8,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
         {
-            "tag": "#YL0VJ2YY",
-            "name": "Choong",
-            "attacks": 4,
+            "tag": "#GPGY2CU",
+            "name": "RedHawk44",
+            "attacks": 3,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 16742
+            "capitalResourcesLooted": 9185
+        },
+        {
+            "tag": "#YL0VJ2YY",
+            "name": "Choong",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 24063
+        },
+        {
+            "tag": "#9G92CY9L",
+            "name": "brandondepalma",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 6270
         },
         {
             "tag": "#8GVP0V8CJ",
@@ -46,18 +62,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/Zx20uVyCHdXgv9_uB0W5TifagzGDyzYMYcraYSzH5LI.png"
                 }
             },
-            "attackCount": 16,
+            "attackCount": 23,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 65,
+                    "stars": 2,
+                    "attackCount": 4,
+                    "totalLooted": 9090,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9G92CY9L",
+                                "name": "brandondepalma"
+                            },
+                            "destructionPercent": 65,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9G92CY9L",
+                                "name": "brandondepalma"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 19,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -187,10 +237,28 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9335,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 31,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -258,11 +326,19 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 59,
-                    "stars": 2,
-                    "attackCount": 1,
-                    "totalLooted": 5995,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10346,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#YL0VJ2YY",
