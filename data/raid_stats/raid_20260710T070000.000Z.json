@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
-    "capitalTotalLoot": 445215,
+    "capitalTotalLoot": 466697,
     "raidsCompleted": 5,
-    "totalAttacks": 98,
-    "enemyDistrictsDestroyed": 41,
+    "totalAttacks": 102,
+    "enemyDistrictsDestroyed": 43,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -58,6 +58,14 @@
             "capitalResourcesLooted": 25902
         },
         {
+            "tag": "#VPJYP29",
+            "name": "Viking",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10430
+        },
+        {
             "tag": "#99VJ2VVPQ",
             "name": "The Sage",
             "attacks": 6,
@@ -92,10 +100,10 @@
         {
             "tag": "#L2PQ9QLUC",
             "name": "BossHogg",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 22176
+            "capitalResourcesLooted": 33228
         },
         {
             "tag": "#PQC82LLR",
@@ -1342,9 +1350,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/fCX4HxdELatZJaniSvw661FDNgRjHa_s8c0jbOrhpRo.png"
                 }
             },
-            "attackCount": 11,
+            "attackCount": 15,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -1486,10 +1494,28 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10430,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
@@ -1522,10 +1548,28 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11052,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L2PQ9QLUC",
+                                "name": "BossHogg"
+                            },
+                            "destructionPercent": 70,
+                            "stars": 2
+                        }
+                    ]
                 }
             ]
         }
