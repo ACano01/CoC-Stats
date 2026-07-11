@@ -3,7 +3,7 @@
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
     "capitalTotalLoot": 827224,
-    "raidsCompleted": 9,
+    "raidsCompleted": 10,
     "totalAttacks": 182,
     "enemyDistrictsDestroyed": 77,
     "offensiveReward": 0,
@@ -3144,19 +3144,27 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/ttRj2CdYboCJ7NSxlwXvBIXbLDM__qpYEwHVwQFl0-Y.png"
                 }
             },
-            "attackCount": 30,
+            "attackCount": 31,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 90,
-                    "stars": 1,
-                    "attackCount": 4,
-                    "totalLooted": 11770,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 13847,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QR8Y0RVLQ",
+                                "name": "NetKer"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#222UPL0QJ",
