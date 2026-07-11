@@ -2452,27 +2452,79 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/ttRj2CdYboCJ7NSxlwXvBIXbLDM__qpYEwHVwQFl0-Y.png"
                 }
             },
-            "attackCount": 22,
+            "attackCount": 28,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
+                    "destructionPercent": 39,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 2,
+                    "totalLooted": 4420,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#288Y2R0VV",
+                                "name": "remi45"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#288Y2R0VV",
+                                "name": "remi45"
+                            },
+                            "destructionPercent": 15,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 12042,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#288Y2R0VV",
+                                "name": "remi45"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#288Y2R0VV",
+                                "name": "remi45"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#288Y2R0VV",
+                                "name": "remi45"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#288Y2R0VV",
+                                "name": "remi45"
+                            },
+                            "destructionPercent": 24,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
