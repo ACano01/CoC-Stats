@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
-    "capitalTotalLoot": 1010512,
+    "capitalTotalLoot": 1034070,
     "raidsCompleted": 12,
-    "totalAttacks": 227,
-    "enemyDistrictsDestroyed": 92,
+    "totalAttacks": 233,
+    "enemyDistrictsDestroyed": 94,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -154,6 +154,14 @@
             "capitalResourcesLooted": 21455
         },
         {
+            "tag": "#99VC2CU9",
+            "name": "Polaris",
+            "attacks": 0,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 0
+        },
+        {
             "tag": "#V0GYVCJ9",
             "name": "YAGO",
             "attacks": 6,
@@ -288,6 +296,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 23752
+        },
+        {
+            "tag": "#YR922PJC0",
+            "name": "fadi",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 23558
         },
         {
             "tag": "#GY98LJ8P9",
@@ -3246,9 +3262,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/u4E58ygSudnfAsYlycPyRJWDdwUJEB0ELWs_o6Uo9YY.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 14,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -3333,10 +3349,36 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11688,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -3351,10 +3393,36 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11870,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -4144,7 +4212,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/zijn_xagjUXDhNlxlXZhwv6xQZAvqd-sD0o4_Uwi_HA.png"
                 }
             },
-            "attackCount": 31,
+            "attackCount": 32,
             "districtCount": 9,
             "districtsDestroyed": 8,
             "districts": [
@@ -4152,11 +4220,19 @@
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 29,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 1790,
+                    "destructionPercent": 62,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 4790,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QYQJCLJU8",
+                                "name": "Tangledangle69"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#QVCVPCYR2",
