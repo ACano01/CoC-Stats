@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
-    "capitalTotalLoot": 827224,
+    "capitalTotalLoot": 841314,
     "raidsCompleted": 10,
-    "totalAttacks": 182,
-    "enemyDistrictsDestroyed": 77,
+    "totalAttacks": 186,
+    "enemyDistrictsDestroyed": 78,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -100,10 +100,10 @@
         {
             "tag": "#VPJYP29",
             "name": "Viking",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 10430
+            "capitalResourcesLooted": 24520
         },
         {
             "tag": "#99VJ2VVPQ",
@@ -2590,9 +2590,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/tkvSnLi3_Z7CXR7jYZWUWA4BMM51AqsYnkmtqQyBIoQ.png"
                 }
             },
-            "attackCount": 10,
+            "attackCount": 14,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -2607,19 +2607,55 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
+                    "destructionPercent": 48,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 3255,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10835,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 98,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 32,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
