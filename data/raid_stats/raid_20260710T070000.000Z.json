@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
-    "capitalTotalLoot": 841314,
+    "capitalTotalLoot": 858746,
     "raidsCompleted": 10,
-    "totalAttacks": 186,
-    "enemyDistrictsDestroyed": 78,
+    "totalAttacks": 190,
+    "enemyDistrictsDestroyed": 79,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -240,6 +240,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 25614
+        },
+        {
+            "tag": "#GPJ2L2Y0P",
+            "name": "The Big Linc",
+            "attacks": 4,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 17432
         },
         {
             "tag": "#GY98LJ8P9",
@@ -2590,9 +2598,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/tkvSnLi3_Z7CXR7jYZWUWA4BMM51AqsYnkmtqQyBIoQ.png"
                 }
             },
-            "attackCount": 14,
+            "attackCount": 18,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -2607,11 +2615,19 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 48,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 3255,
+                    "destructionPercent": 89,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 9125,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 89,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#VPJYP29",
@@ -2661,10 +2677,36 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11562,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
