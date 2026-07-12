@@ -2,20 +2,20 @@
     "state": "ongoing",
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
-    "capitalTotalLoot": 992464,
+    "capitalTotalLoot": 1010512,
     "raidsCompleted": 12,
-    "totalAttacks": 222,
-    "enemyDistrictsDestroyed": 90,
+    "totalAttacks": 227,
+    "enemyDistrictsDestroyed": 92,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
         {
             "tag": "#289RPC2GP",
             "name": "TMac",
-            "attacks": 1,
+            "attacks": 6,
             "attackLimit": 5,
-            "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 4715
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 22763
         },
         {
             "tag": "#Y8PCJG2PY",
@@ -3246,9 +3246,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/u4E58ygSudnfAsYlycPyRJWDdwUJEB0ELWs_o6Uo9YY.png"
                 }
             },
-            "attackCount": 3,
+            "attackCount": 8,
             "districtCount": 9,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -3263,11 +3263,27 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 42,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 4715,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12003,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#289RPC2GP",
@@ -3282,10 +3298,36 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10760,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
