@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
-    "capitalTotalLoot": 1034070,
-    "raidsCompleted": 12,
-    "totalAttacks": 233,
-    "enemyDistrictsDestroyed": 94,
+    "capitalTotalLoot": 1063116,
+    "raidsCompleted": 13,
+    "totalAttacks": 239,
+    "enemyDistrictsDestroyed": 97,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -60,10 +60,10 @@
         {
             "tag": "#8LGRUUL9J",
             "name": "violin",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 19911
+            "capitalResourcesLooted": 31977
         },
         {
             "tag": "#282P00908",
@@ -156,10 +156,10 @@
         {
             "tag": "#99VC2CU9",
             "name": "Polaris",
-            "attacks": 0,
+            "attacks": 4,
             "attackLimit": 5,
-            "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 0
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 16980
         },
         {
             "tag": "#V0GYVCJ9",
@@ -3262,9 +3262,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/u4E58ygSudnfAsYlycPyRJWDdwUJEB0ELWs_o6Uo9YY.png"
                 }
             },
-            "attackCount": 14,
+            "attackCount": 20,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -3428,11 +3428,19 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 58,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 6320,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11559,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#99VC2CU9",
+                                "name": "Polaris"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#GPJ2L2Y0P",
@@ -3455,19 +3463,63 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11741,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#99VC2CU9",
+                                "name": "Polaris"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#99VC2CU9",
+                                "name": "Polaris"
+                            },
+                            "destructionPercent": 61,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#99VC2CU9",
+                                "name": "Polaris"
+                            },
+                            "destructionPercent": 31,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 12066,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
@@ -4212,19 +4264,35 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/zijn_xagjUXDhNlxlXZhwv6xQZAvqd-sD0o4_Uwi_HA.png"
                 }
             },
-            "attackCount": 32,
+            "attackCount": 34,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 62,
-                    "stars": 1,
-                    "attackCount": 2,
-                    "totalLooted": 4790,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13802,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QYQJCLJU8",
+                                "name": "Tangledangle69"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QYQJCLJU8",
+                                "name": "Tangledangle69"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#QYQJCLJU8",
