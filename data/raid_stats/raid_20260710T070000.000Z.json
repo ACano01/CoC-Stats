@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260710T070000.000Z",
     "endTime": "20260713T070000.000Z",
-    "capitalTotalLoot": 957875,
+    "capitalTotalLoot": 968035,
     "raidsCompleted": 11,
-    "totalAttacks": 214,
-    "enemyDistrictsDestroyed": 88,
+    "totalAttacks": 216,
+    "enemyDistrictsDestroyed": 89,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -212,10 +212,10 @@
         {
             "tag": "#GCL9GGPYG",
             "name": "Katara",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 18228
+            "capitalResourcesLooted": 28388
         },
         {
             "tag": "#2PYVCVQP9",
@@ -2930,9 +2930,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png"
                 }
             },
-            "attackCount": 19,
+            "attackCount": 21,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
@@ -2974,10 +2974,28 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10160,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GCL9GGPYG",
+                                "name": "Katara"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
