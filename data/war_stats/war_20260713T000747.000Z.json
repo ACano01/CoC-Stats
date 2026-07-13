@@ -463,7 +463,7 @@
                         "duration": 125
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PUYPRJYU",
                     "defenderTag": "#L2PQ9QLUC",
@@ -628,7 +628,7 @@
                         "duration": 118
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#Q9UCG09PC",
                     "defenderTag": "#LPU0GGCJQ",
@@ -829,7 +829,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/rrA9NZKBgBcN7kDf1P8Y19f0LNBciE1T1yHj4IYF_F8.png"
         },
         "clanLevel": 25,
-        "attacks": 37,
+        "attacks": 39,
         "stars": 75,
         "destructionPercentage": 100.0,
         "members": [
@@ -838,6 +838,24 @@
                 "name": "rozpierdalacz",
                 "townhallLevel": 18,
                 "mapPosition": 16,
+                "attacks": [
+                    {
+                        "attackerTag": "#YGYCRVJJJ",
+                        "defenderTag": "#LPU0GGCJQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 85,
+                        "duration": 120
+                    },
+                    {
+                        "attackerTag": "#YGYCRVJJJ",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 2,
+                        "destructionPercentage": 82,
+                        "order": 86,
+                        "duration": 151
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#UUC9PCQ",
