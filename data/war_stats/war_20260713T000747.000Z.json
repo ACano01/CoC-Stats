@@ -174,7 +174,7 @@
                         "duration": 127
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#V29LL8GC",
                     "defenderTag": "#282P00908",
@@ -529,7 +529,7 @@
                         "duration": 82
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#UY2R2UJ0",
                     "defenderTag": "#UQQ0LJLP",
@@ -775,7 +775,7 @@
                         "duration": 101
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#Y8CQ2JJC",
                     "defenderTag": "#2VYVULCVL",
@@ -808,7 +808,7 @@
                         "duration": 102
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#Y8CQ2JJC",
                     "defenderTag": "#2P8LYJCUR",
@@ -829,7 +829,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/rrA9NZKBgBcN7kDf1P8Y19f0LNBciE1T1yHj4IYF_F8.png"
         },
         "clanLevel": 25,
-        "attacks": 39,
+        "attacks": 43,
         "stars": 75,
         "destructionPercentage": 100.0,
         "members": [
@@ -1036,6 +1036,24 @@
                 "name": "minamina",
                 "townhallLevel": 18,
                 "mapPosition": 11,
+                "attacks": [
+                    {
+                        "attackerTag": "#208PQ0VU9",
+                        "defenderTag": "#2VYVULCVL",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 87,
+                        "duration": 133
+                    },
+                    {
+                        "attackerTag": "#208PQ0VU9",
+                        "defenderTag": "#2P8LYJCUR",
+                        "stars": 2,
+                        "destructionPercentage": 79,
+                        "order": 88,
+                        "duration": 113
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#9G92CY9L",
@@ -1315,6 +1333,24 @@
                 "name": "Soumaya",
                 "townhallLevel": 18,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#YC89PLRL",
+                        "defenderTag": "#282P00908",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 89,
+                        "duration": 139
+                    },
+                    {
+                        "attackerTag": "#YC89PLRL",
+                        "defenderTag": "#UQQ0LJLP",
+                        "stars": 2,
+                        "destructionPercentage": 74,
+                        "order": 90,
+                        "duration": 116
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#9C229UGJ",
