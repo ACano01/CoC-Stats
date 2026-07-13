@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 23,
-        "stars": 50,
-        "destructionPercentage": 67.04,
+        "attacks": 28,
+        "stars": 62,
+        "destructionPercentage": 83.04,
         "members": [
             {
                 "tag": "#GPGY2CU",
@@ -132,7 +132,25 @@
                 "name": "!P A I N",
                 "townhallLevel": 18,
                 "mapPosition": 16,
-                "opponentAttacks": 0
+                "attacks": [
+                    {
+                        "attackerTag": "#282P00908",
+                        "defenderTag": "#UGUYP0G2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 45,
+                        "duration": 131
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LPV8Y22YJ",
+                    "defenderTag": "#282P00908",
+                    "stars": 1,
+                    "destructionPercentage": 73,
+                    "order": 43,
+                    "duration": 108
+                }
             },
             {
                 "tag": "#YL0VJ2YY",
@@ -229,14 +247,14 @@
                 "name": "The Sage",
                 "townhallLevel": 18,
                 "mapPosition": 17,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#2QJGQRJR0",
+                    "attackerTag": "#LPV8Y22YJ",
                     "defenderTag": "#99VJ2VVPQ",
                     "stars": 2,
-                    "destructionPercentage": 82,
-                    "order": 25,
-                    "duration": 159
+                    "destructionPercentage": 91,
+                    "order": 44,
+                    "duration": 153
                 }
             },
             {
@@ -361,6 +379,24 @@
                 "name": "mike",
                 "townhallLevel": 18,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#UQQ0LJLP",
+                        "defenderTag": "#JJP0QP90",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 41,
+                        "duration": 81
+                    },
+                    {
+                        "attackerTag": "#UQQ0LJLP",
+                        "defenderTag": "#V29LL8GC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 42,
+                        "duration": 82
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#UY2R2UJ0",
@@ -426,6 +462,16 @@
                 "name": "night dragon",
                 "townhallLevel": 15,
                 "mapPosition": 23,
+                "attacks": [
+                    {
+                        "attackerTag": "#LPU0GGCJQ",
+                        "defenderTag": "#GPUJ9PRGJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 40,
+                        "duration": 107
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -497,6 +543,16 @@
                 "name": "family buffalo",
                 "townhallLevel": 18,
                 "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#2VYVULCVL",
+                        "defenderTag": "#V29LL8GC",
+                        "stars": 1,
+                        "destructionPercentage": 70,
+                        "order": 39,
+                        "duration": 102
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#Y8CQ2JJC",
@@ -533,9 +589,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/rrA9NZKBgBcN7kDf1P8Y19f0LNBciE1T1yHj4IYF_F8.png"
         },
         "clanLevel": 25,
-        "attacks": 15,
-        "stars": 41,
-        "destructionPercentage": 55.28,
+        "attacks": 17,
+        "stars": 42,
+        "destructionPercentage": 58.56,
         "members": [
             {
                 "tag": "#YGYCRVJJJ",
@@ -725,13 +781,39 @@
                 "name": "kitch",
                 "townhallLevel": 18,
                 "mapPosition": 7,
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#UQQ0LJLP",
+                    "defenderTag": "#V29LL8GC",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 42,
+                    "duration": 82
+                }
             },
             {
                 "tag": "#LPV8Y22YJ",
                 "name": "\u6642|\u0280\u1d00\u026a\u0274\u30c4",
                 "townhallLevel": 18,
                 "mapPosition": 17,
+                "attacks": [
+                    {
+                        "attackerTag": "#LPV8Y22YJ",
+                        "defenderTag": "#282P00908",
+                        "stars": 1,
+                        "destructionPercentage": 73,
+                        "order": 43,
+                        "duration": 108
+                    },
+                    {
+                        "attackerTag": "#LPV8Y22YJ",
+                        "defenderTag": "#99VJ2VVPQ",
+                        "stars": 2,
+                        "destructionPercentage": 91,
+                        "order": 44,
+                        "duration": 153
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#YL0VJ2YY",
@@ -780,7 +862,15 @@
                         "duration": 130
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#282P00908",
+                    "defenderTag": "#UGUYP0G2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 45,
+                    "duration": 131
+                }
             },
             {
                 "tag": "#UY2R2UJ0",
@@ -852,7 +942,15 @@
                 "name": "\u26a1P A R A D O X\u26a1",
                 "townhallLevel": 12,
                 "mapPosition": 25,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LPU0GGCJQ",
+                    "defenderTag": "#GPUJ9PRGJ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 40,
+                    "duration": 107
+                }
             },
             {
                 "tag": "#Q9UCG09PC",
@@ -914,7 +1012,15 @@
                 "name": "kffco",
                 "townhallLevel": 18,
                 "mapPosition": 4,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#UQQ0LJLP",
+                    "defenderTag": "#JJP0QP90",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 41,
+                    "duration": 81
+                }
             },
             {
                 "tag": "#JJVULJUL",
