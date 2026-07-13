@@ -15,16 +15,24 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 15,
-        "stars": 38,
-        "destructionPercentage": 50.88,
+        "attacks": 16,
+        "stars": 41,
+        "destructionPercentage": 54.88,
         "members": [
             {
                 "tag": "#GPGY2CU",
                 "name": "RedHawk44",
                 "townhallLevel": 18,
                 "mapPosition": 11,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9C9P2Y88L",
+                    "defenderTag": "#GPGY2CU",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 26,
+                    "duration": 103
+                }
             },
             {
                 "tag": "#9C229UGJ",
@@ -49,7 +57,15 @@
                         "duration": 151
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9820U89Y",
+                    "defenderTag": "#9C229UGJ",
+                    "stars": 2,
+                    "destructionPercentage": 99,
+                    "order": 24,
+                    "duration": 180
+                }
             },
             {
                 "tag": "#2PULPGL90",
@@ -177,7 +193,15 @@
                 "name": "The Sage",
                 "townhallLevel": 18,
                 "mapPosition": 17,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2QJGQRJR0",
+                    "defenderTag": "#99VJ2VVPQ",
+                    "stars": 2,
+                    "destructionPercentage": 82,
+                    "order": 25,
+                    "duration": 159
+                }
             },
             {
                 "tag": "#9G92CY9L",
@@ -234,6 +258,16 @@
                 "name": "YAGO",
                 "townhallLevel": 18,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#Y8CQ2JJC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 28,
+                        "duration": 161
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#UGUYP0G2",
@@ -361,7 +395,15 @@
                 "name": "GRANDPAW\u2620\ufe0fJONES",
                 "townhallLevel": 18,
                 "mapPosition": 13,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9C9P2Y88L",
+                    "defenderTag": "#90J9U9U2J",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 27,
+                    "duration": 130
+                }
             },
             {
                 "tag": "#GPJ2L2Y0P",
@@ -411,9 +453,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/rrA9NZKBgBcN7kDf1P8Y19f0LNBciE1T1yHj4IYF_F8.png"
         },
         "clanLevel": 25,
-        "attacks": 8,
-        "stars": 24,
-        "destructionPercentage": 32.0,
+        "attacks": 12,
+        "stars": 34,
+        "destructionPercentage": 47.24,
         "members": [
             {
                 "tag": "#YGYCRVJJJ",
@@ -460,7 +502,15 @@
                         "duration": 174
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#V0GYVCJ9",
+                    "defenderTag": "#Y8CQ2JJC",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 28,
+                    "duration": 161
+                }
             },
             {
                 "tag": "#29VC8JJUG",
@@ -482,6 +532,16 @@
                 "name": "The Punisher",
                 "townhallLevel": 17,
                 "mapPosition": 20,
+                "attacks": [
+                    {
+                        "attackerTag": "#2QJGQRJR0",
+                        "defenderTag": "#99VJ2VVPQ",
+                        "stars": 2,
+                        "destructionPercentage": 82,
+                        "order": 25,
+                        "duration": 159
+                    }
+                ],
                 "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#99VC2CU9",
@@ -552,6 +612,24 @@
                 "name": "THE BEAST",
                 "townhallLevel": 18,
                 "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#9C9P2Y88L",
+                        "defenderTag": "#GPGY2CU",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 26,
+                        "duration": 103
+                    },
+                    {
+                        "attackerTag": "#9C9P2Y88L",
+                        "defenderTag": "#90J9U9U2J",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 27,
+                        "duration": 130
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -690,6 +768,16 @@
                 "name": "Derelicte",
                 "townhallLevel": 18,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#9820U89Y",
+                        "defenderTag": "#9C229UGJ",
+                        "stars": 2,
+                        "destructionPercentage": 99,
+                        "order": 24,
+                        "duration": 180
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
