@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 14,
-        "stars": 34,
-        "destructionPercentage": 58.45,
+        "attacks": 15,
+        "stars": 37,
+        "destructionPercentage": 63.45,
         "members": [
             {
                 "tag": "#GPGY2CU",
@@ -39,7 +39,25 @@
                 "name": "Chase",
                 "townhallLevel": 18,
                 "mapPosition": 7,
-                "opponentAttacks": 0
+                "attacks": [
+                    {
+                        "attackerTag": "#9C229UGJ",
+                        "defenderTag": "#PUUQ8CP8",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 32,
+                        "duration": 133
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YVP0RU8G",
+                    "defenderTag": "#9C229UGJ",
+                    "stars": 2,
+                    "destructionPercentage": 72,
+                    "order": 37,
+                    "duration": 102
+                }
             },
             {
                 "tag": "#2PULPGL90",
@@ -97,7 +115,7 @@
                         "duration": 133
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#Q9V20VJUG",
                     "defenderTag": "#UUC9PCQ",
@@ -167,14 +185,14 @@
                 "name": "The Sage",
                 "townhallLevel": 18,
                 "mapPosition": 14,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#LYGGPPPGG",
+                    "attackerTag": "#UVYCLU9V",
                     "defenderTag": "#99VJ2VVPQ",
                     "stars": 2,
-                    "destructionPercentage": 66,
-                    "order": 17,
-                    "duration": 173
+                    "destructionPercentage": 92,
+                    "order": 38,
+                    "duration": 180
                 }
             },
             {
@@ -232,7 +250,15 @@
                 "name": "YAGO",
                 "townhallLevel": 18,
                 "mapPosition": 8,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#92YL9C2J",
+                    "defenderTag": "#V0GYVCJ9",
+                    "stars": 2,
+                    "destructionPercentage": 81,
+                    "order": 34,
+                    "duration": 146
+                }
             },
             {
                 "tag": "#L2PQ9QLUC",
@@ -392,7 +418,15 @@
                 "name": "family buffalo",
                 "townhallLevel": 18,
                 "mapPosition": 5,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#92YL9C2J",
+                    "defenderTag": "#2VYVULCVL",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 33,
+                    "duration": 143
+                }
             },
             {
                 "tag": "#2P8LYJCUR",
@@ -409,7 +443,15 @@
                         "duration": 164
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#92L0Y0Y0J",
+                    "defenderTag": "#2P8LYJCUR",
+                    "stars": 2,
+                    "destructionPercentage": 79,
+                    "order": 35,
+                    "duration": 141
+                }
             }
         ]
     },
@@ -422,9 +464,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/L7pUOEcp239VXJ3T3LTI2dT3G6ePjKwtH1zxL8YH3sI.png"
         },
         "clanLevel": 29,
-        "attacks": 17,
-        "stars": 36,
-        "destructionPercentage": 63.95,
+        "attacks": 23,
+        "stars": 45,
+        "destructionPercentage": 81.85,
         "members": [
             {
                 "tag": "#8LUVV22J",
@@ -464,13 +506,31 @@
                 "name": "CONSTANTINO",
                 "townhallLevel": 18,
                 "mapPosition": 9,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9C229UGJ",
+                    "defenderTag": "#PUUQ8CP8",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 32,
+                    "duration": 133
+                }
             },
             {
                 "tag": "#UVYCLU9V",
                 "name": "sunnyd",
                 "townhallLevel": 18,
                 "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#UVYCLU9V",
+                        "defenderTag": "#99VJ2VVPQ",
+                        "stars": 2,
+                        "destructionPercentage": 92,
+                        "order": 38,
+                        "duration": 180
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -503,6 +563,16 @@
                 "name": "Death's Mask",
                 "townhallLevel": 18,
                 "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#YVP0RU8G",
+                        "defenderTag": "#9C229UGJ",
+                        "stars": 2,
+                        "destructionPercentage": 72,
+                        "order": 37,
+                        "duration": 102
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#UQQ0LJLP",
@@ -728,6 +798,24 @@
                 "name": "Conquistador\u2757\ufe0f",
                 "townhallLevel": 18,
                 "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#92YL9C2J",
+                        "defenderTag": "#2VYVULCVL",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 33,
+                        "duration": 143
+                    },
+                    {
+                        "attackerTag": "#92YL9C2J",
+                        "defenderTag": "#V0GYVCJ9",
+                        "stars": 2,
+                        "destructionPercentage": 81,
+                        "order": 34,
+                        "duration": 146
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -735,6 +823,24 @@
                 "name": "Braden's Dad",
                 "townhallLevel": 18,
                 "mapPosition": 15,
+                "attacks": [
+                    {
+                        "attackerTag": "#92L0Y0Y0J",
+                        "defenderTag": "#2P8LYJCUR",
+                        "stars": 2,
+                        "destructionPercentage": 79,
+                        "order": 35,
+                        "duration": 141
+                    },
+                    {
+                        "attackerTag": "#92L0Y0Y0J",
+                        "defenderTag": "#UUC9PCQ",
+                        "stars": 1,
+                        "destructionPercentage": 66,
+                        "order": 36,
+                        "duration": 111
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#UUC9PCQ",
