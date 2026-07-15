@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 11,
-        "stars": 29,
-        "destructionPercentage": 49.45,
+        "attacks": 14,
+        "stars": 34,
+        "destructionPercentage": 58.45,
         "members": [
             {
                 "tag": "#GPGY2CU",
@@ -279,6 +279,24 @@
                 "name": "mike",
                 "townhallLevel": 18,
                 "mapPosition": 3,
+                "attacks": [
+                    {
+                        "attackerTag": "#UQQ0LJLP",
+                        "defenderTag": "#YVP0RU8G",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 27,
+                        "duration": 110
+                    },
+                    {
+                        "attackerTag": "#UQQ0LJLP",
+                        "defenderTag": "#LGRYQLY28",
+                        "stars": 1,
+                        "destructionPercentage": 70,
+                        "order": 29,
+                        "duration": 91
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#YULVUUU2",
@@ -304,14 +322,14 @@
                         "duration": 115
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#LYGGPPPGG",
+                    "attackerTag": "#G8G8Q2CVP",
                     "defenderTag": "#2PYVCVQP9",
-                    "stars": 2,
-                    "destructionPercentage": 96,
-                    "order": 18,
-                    "duration": 180
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 28,
+                    "duration": 129
                 }
             },
             {
@@ -319,14 +337,14 @@
                 "name": "night dragon",
                 "townhallLevel": 15,
                 "mapPosition": 20,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#Q9V20VJUG",
+                    "attackerTag": "#8LUVV22J",
                     "defenderTag": "#LPU0GGCJQ",
-                    "stars": 1,
-                    "destructionPercentage": 82,
-                    "order": 24,
-                    "duration": 126
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 26,
+                    "duration": 85
                 }
             },
             {
@@ -334,13 +352,31 @@
                 "name": "Viking 2",
                 "townhallLevel": 18,
                 "mapPosition": 12,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8LUVV22J",
+                    "defenderTag": "#GU2UVG9CV",
+                    "stars": 2,
+                    "destructionPercentage": 73,
+                    "order": 30,
+                    "duration": 113
+                }
             },
             {
                 "tag": "#8GVP0V8CJ",
                 "name": "ZAC JB.",
                 "townhallLevel": 16,
                 "mapPosition": 17,
+                "attacks": [
+                    {
+                        "attackerTag": "#8GVP0V8CJ",
+                        "defenderTag": "#20P8QV9PJ",
+                        "stars": 2,
+                        "destructionPercentage": 80,
+                        "order": 31,
+                        "duration": 160
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#L8PJ9P0Y8",
@@ -386,15 +422,33 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/L7pUOEcp239VXJ3T3LTI2dT3G6ePjKwtH1zxL8YH3sI.png"
         },
         "clanLevel": 29,
-        "attacks": 14,
-        "stars": 31,
-        "destructionPercentage": 59.2,
+        "attacks": 17,
+        "stars": 36,
+        "destructionPercentage": 63.95,
         "members": [
             {
                 "tag": "#8LUVV22J",
                 "name": "freeman",
                 "townhallLevel": 17,
                 "mapPosition": 17,
+                "attacks": [
+                    {
+                        "attackerTag": "#8LUVV22J",
+                        "defenderTag": "#LPU0GGCJQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 26,
+                        "duration": 85
+                    },
+                    {
+                        "attackerTag": "#8LUVV22J",
+                        "defenderTag": "#GU2UVG9CV",
+                        "stars": 2,
+                        "destructionPercentage": 73,
+                        "order": 30,
+                        "duration": 113
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PYVCVQP9",
@@ -449,7 +503,15 @@
                 "name": "Death's Mask",
                 "townhallLevel": 18,
                 "mapPosition": 5,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#UQQ0LJLP",
+                    "defenderTag": "#YVP0RU8G",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 27,
+                    "duration": 110
+                }
             },
             {
                 "tag": "#CPG9CVR8",
@@ -489,6 +551,14 @@
                         "destructionPercentage": 100,
                         "order": 7,
                         "duration": 87
+                    },
+                    {
+                        "attackerTag": "#G8G8Q2CVP",
+                        "defenderTag": "#2PYVCVQP9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 28,
+                        "duration": 129
                     }
                 ],
                 "opponentAttacks": 0
@@ -513,7 +583,15 @@
                 "name": "gman",
                 "townhallLevel": 18,
                 "mapPosition": 10,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8GVP0V8CJ",
+                    "defenderTag": "#20P8QV9PJ",
+                    "stars": 2,
+                    "destructionPercentage": 80,
+                    "order": 31,
+                    "duration": 160
+                }
             },
             {
                 "tag": "#P9JQC2GC",
@@ -672,7 +750,7 @@
                 "name": "Big Z",
                 "townhallLevel": 18,
                 "mapPosition": 2,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#UUC9PCQ",
                     "defenderTag": "#LGRYQLY28",
