@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 30,
+        "attacks": 31,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -355,6 +355,16 @@
                 "name": "BossHogg",
                 "townhallLevel": 18,
                 "mapPosition": 1,
+                "attacks": [
+                    {
+                        "attackerTag": "#L2PQ9QLUC",
+                        "defenderTag": "#QQCVGPC0",
+                        "stars": 2,
+                        "destructionPercentage": 97,
+                        "order": 66,
+                        "duration": 180
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#QQCVGPC0",
@@ -496,14 +506,14 @@
                         "duration": 101
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#8LUVV22J",
+                    "attackerTag": "#YVP0RU8G",
                     "defenderTag": "#GU2UVG9CV",
                     "stars": 2,
-                    "destructionPercentage": 73,
-                    "order": 30,
-                    "duration": 113
+                    "destructionPercentage": 82,
+                    "order": 65,
+                    "duration": 151
                 }
             },
             {
@@ -608,9 +618,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/L7pUOEcp239VXJ3T3LTI2dT3G6ePjKwtH1zxL8YH3sI.png"
         },
         "clanLevel": 29,
-        "attacks": 34,
+        "attacks": 35,
         "stars": 53,
-        "destructionPercentage": 92.6,
+        "destructionPercentage": 93.05,
         "members": [
             {
                 "tag": "#8LUVV22J",
@@ -749,6 +759,14 @@
                         "destructionPercentage": 72,
                         "order": 37,
                         "duration": 102
+                    },
+                    {
+                        "attackerTag": "#YVP0RU8G",
+                        "defenderTag": "#GU2UVG9CV",
+                        "stars": 2,
+                        "destructionPercentage": 82,
+                        "order": 65,
+                        "duration": 151
                     }
                 ],
                 "opponentAttacks": 1,
@@ -964,7 +982,7 @@
                         "duration": 109
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
                     "defenderTag": "#QQCVGPC0",
