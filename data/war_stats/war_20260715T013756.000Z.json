@@ -24,14 +24,14 @@
                 "name": "RedHawk44",
                 "townhallLevel": 18,
                 "mapPosition": 11,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#8QG02G9VY",
+                    "attackerTag": "#P9JQC2GC",
                     "defenderTag": "#GPGY2CU",
-                    "stars": 2,
-                    "destructionPercentage": 75,
-                    "order": 4,
-                    "duration": 160
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 41,
+                    "duration": 124
                 }
             },
             {
@@ -115,14 +115,14 @@
                         "duration": 133
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#Q9V20VJUG",
+                    "attackerTag": "#UVYCLU9V",
                     "defenderTag": "#UUC9PCQ",
-                    "stars": 1,
-                    "destructionPercentage": 66,
-                    "order": 25,
-                    "duration": 124
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 39,
+                    "duration": 134
                 }
             },
             {
@@ -210,7 +210,15 @@
                         "duration": 162
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#P9JQC2GC",
+                    "defenderTag": "#9G92CY9L",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 40,
+                    "duration": 147
+                }
             },
             {
                 "tag": "#99VC2CU9",
@@ -464,9 +472,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/L7pUOEcp239VXJ3T3LTI2dT3G6ePjKwtH1zxL8YH3sI.png"
         },
         "clanLevel": 29,
-        "attacks": 23,
-        "stars": 45,
-        "destructionPercentage": 81.85,
+        "attacks": 26,
+        "stars": 51,
+        "destructionPercentage": 89.8,
         "members": [
             {
                 "tag": "#8LUVV22J",
@@ -529,6 +537,14 @@
                         "destructionPercentage": 92,
                         "order": 38,
                         "duration": 180
+                    },
+                    {
+                        "attackerTag": "#UVYCLU9V",
+                        "defenderTag": "#UUC9PCQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 39,
+                        "duration": 134
                     }
                 ],
                 "opponentAttacks": 0
@@ -668,6 +684,24 @@
                 "name": "DrumKiller",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#P9JQC2GC",
+                        "defenderTag": "#9G92CY9L",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 40,
+                        "duration": 147
+                    },
+                    {
+                        "attackerTag": "#P9JQC2GC",
+                        "defenderTag": "#GPGY2CU",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 41,
+                        "duration": 124
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
