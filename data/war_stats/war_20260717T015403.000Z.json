@@ -15,15 +15,25 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 12,
-        "stars": 33,
-        "destructionPercentage": 55.0,
+        "attacks": 14,
+        "stars": 39,
+        "destructionPercentage": 65.0,
         "members": [
             {
                 "tag": "#GPGY2CU",
                 "name": "RedHawk44",
                 "townhallLevel": 18,
                 "mapPosition": 11,
+                "attacks": [
+                    {
+                        "attackerTag": "#GPGY2CU",
+                        "defenderTag": "#Q0PUQ0LC0",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 23,
+                        "duration": 144
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -209,6 +219,16 @@
                 "name": "YAGO",
                 "townhallLevel": 18,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#28LRU9J99",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 21,
+                        "duration": 157
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -273,7 +293,15 @@
                         "duration": 87
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#Q0PUQ0LC0",
+                    "defenderTag": "#GU2UVG9CV",
+                    "stars": 2,
+                    "destructionPercentage": 78,
+                    "order": 22,
+                    "duration": 81
+                }
             },
             {
                 "tag": "#8GVP0V8CJ",
@@ -350,9 +378,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HMq0O5cVAL-i-IMGeth_YnqtyWqc_kKoKJBefnNpBEc.png"
         },
         "clanLevel": 31,
-        "attacks": 8,
-        "stars": 20,
-        "destructionPercentage": 36.85,
+        "attacks": 9,
+        "stars": 22,
+        "destructionPercentage": 40.75,
         "members": [
             {
                 "tag": "#VPPLRYL8",
@@ -522,7 +550,15 @@
                         "duration": 129
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#V0GYVCJ9",
+                    "defenderTag": "#28LRU9J99",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 21,
+                    "duration": 157
+                }
             },
             {
                 "tag": "#800L9QVUR",
@@ -554,7 +590,25 @@
                 "name": "Tesla",
                 "townhallLevel": 18,
                 "mapPosition": 12,
-                "opponentAttacks": 0
+                "attacks": [
+                    {
+                        "attackerTag": "#Q0PUQ0LC0",
+                        "defenderTag": "#GU2UVG9CV",
+                        "stars": 2,
+                        "destructionPercentage": 78,
+                        "order": 22,
+                        "duration": 81
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GPGY2CU",
+                    "defenderTag": "#Q0PUQ0LC0",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 23,
+                    "duration": 144
+                }
             },
             {
                 "tag": "#20YVL2GYL",
