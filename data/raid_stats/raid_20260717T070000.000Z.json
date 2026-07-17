@@ -1,0 +1,355 @@
+{
+    "state": "ongoing",
+    "startTime": "20260717T070000.000Z",
+    "endTime": "20260720T070000.000Z",
+    "capitalTotalLoot": 0,
+    "raidsCompleted": 0,
+    "totalAttacks": 0,
+    "enemyDistrictsDestroyed": 0,
+    "offensiveReward": 0,
+    "defensiveReward": 0,
+    "members": [],
+    "attackLog": [],
+    "defenseLog": [
+        {
+            "attacker": {
+                "tag": "#2YUUR90LG",
+                "name": "walang jowa",
+                "level": 21,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png"
+                }
+            },
+            "attackCount": 28,
+            "districtCount": 9,
+            "districtsDestroyed": 8,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 22,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 2990,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QR9VC8VLQ",
+                                "name": "broken arrow"
+                            },
+                            "destructionPercent": 22,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QR9VC8VLQ",
+                                "name": "broken arrow"
+                            },
+                            "destructionPercent": 13,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11787,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8V8CUJLQ",
+                                "name": "..::Arci.M::.."
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8V8CUJLQ",
+                                "name": "..::Arci.M::.."
+                            },
+                            "destructionPercent": 83,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2C0VCQVU",
+                                "name": "XinXeki\u2122"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10193,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2C0VCQVU",
+                                "name": "XinXeki\u2122"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2C0VCQVU",
+                                "name": "XinXeki\u2122"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11610,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LL0VJV009",
+                                "name": "lalay_koh"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LL0VJV009",
+                                "name": "lalay_koh"
+                            },
+                            "destructionPercent": 76,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LL0VJV009",
+                                "name": "lalay_koh"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LL0VJV009",
+                                "name": "lalay_koh"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12326,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LL0VJV009",
+                                "name": "lalay_koh"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L8PVRJ098",
+                                "name": "wow ka"
+                            },
+                            "destructionPercent": 97,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L8PVRJ098",
+                                "name": "wow ka"
+                            },
+                            "destructionPercent": 17,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11915,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#L8PVRJ098",
+                                "name": "wow ka"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L8PVRJ098",
+                                "name": "wow ka"
+                            },
+                            "destructionPercent": 89,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L8PVRJ098",
+                                "name": "wow ka"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11727,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2C0VCQVU",
+                                "name": "XinXeki\u2122"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2C0VCQVU",
+                                "name": "XinXeki\u2122"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2C0VCQVU",
+                                "name": "XinXeki\u2122"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 12143,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LL0VJV009",
+                                "name": "lalay_koh"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#L8PVRJ098",
+                                "name": "wow ka"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2C2R29RRG",
+                                "name": "aiwell"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2C2R29RRG",
+                                "name": "aiwell"
+                            },
+                            "destructionPercent": 23,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 11916,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2C2R29RRG",
+                                "name": "aiwell"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2C2R29RRG",
+                                "name": "aiwell"
+                            },
+                            "destructionPercent": 85,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2C2R29RRG",
+                                "name": "aiwell"
+                            },
+                            "destructionPercent": 56,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2C2R29RRG",
+                                "name": "aiwell"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
