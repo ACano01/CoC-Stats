@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 14,
-        "stars": 39,
-        "destructionPercentage": 65.0,
+        "attacks": 16,
+        "stars": 44,
+        "destructionPercentage": 74.75,
         "members": [
             {
                 "tag": "#GPGY2CU",
@@ -41,6 +41,16 @@
                 "name": "Chase",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#9C229UGJ",
+                        "defenderTag": "#92CJYV0UQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 24,
+                        "duration": 165
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -170,6 +180,16 @@
                 "name": "brandondepalma",
                 "townhallLevel": 18,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#9G92CY9L",
+                        "defenderTag": "#J9G8G0GP",
+                        "stars": 2,
+                        "destructionPercentage": 95,
+                        "order": 25,
+                        "duration": 180
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#28LRU9J99",
@@ -462,7 +482,15 @@
                 "name": "EZCletus",
                 "townhallLevel": 18,
                 "mapPosition": 10,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9G92CY9L",
+                    "defenderTag": "#J9G8G0GP",
+                    "stars": 2,
+                    "destructionPercentage": 95,
+                    "order": 25,
+                    "duration": 180
+                }
             },
             {
                 "tag": "#2PR2R2CPC",
@@ -706,7 +734,15 @@
                 "name": "Deebo!",
                 "townhallLevel": 18,
                 "mapPosition": 8,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9C229UGJ",
+                    "defenderTag": "#92CJYV0UQ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 24,
+                    "duration": 165
+                }
             }
         ]
     }
