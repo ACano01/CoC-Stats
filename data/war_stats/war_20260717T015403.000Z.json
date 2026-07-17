@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 28,
+        "attacks": 30,
         "stars": 60,
         "destructionPercentage": 100.0,
         "members": [
@@ -32,6 +32,14 @@
                         "destructionPercentage": 100,
                         "order": 23,
                         "duration": 144
+                    },
+                    {
+                        "attackerTag": "#GPGY2CU",
+                        "defenderTag": "#YCPCV8VL",
+                        "stars": 2,
+                        "destructionPercentage": 75,
+                        "order": 63,
+                        "duration": 127
                     }
                 ],
                 "opponentAttacks": 1,
@@ -322,6 +330,14 @@
                         "destructionPercentage": 100,
                         "order": 15,
                         "duration": 104
+                    },
+                    {
+                        "attackerTag": "#99VC2CU9",
+                        "defenderTag": "#CCQUPQU9",
+                        "stars": 2,
+                        "destructionPercentage": 70,
+                        "order": 64,
+                        "duration": 97
                     }
                 ],
                 "opponentAttacks": 1,
@@ -650,7 +666,7 @@
                         "duration": 90
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#UQQ0LJLP",
                     "defenderTag": "#CCQUPQU9",
@@ -708,7 +724,7 @@
                         "duration": 158
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#VPJYP29",
                     "defenderTag": "#YCPCV8VL",
