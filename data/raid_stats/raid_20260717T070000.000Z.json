@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 73223,
+    "capitalTotalLoot": 99564,
     "raidsCompleted": 1,
-    "totalAttacks": 17,
-    "enemyDistrictsDestroyed": 6,
+    "totalAttacks": 26,
+    "enemyDistrictsDestroyed": 8,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#GPGY2CU",
+            "name": "RedHawk44",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 19321
+        },
         {
             "tag": "#2PULPGL90",
             "name": "M M 1960",
@@ -16,6 +24,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 24632
+        },
+        {
+            "tag": "#YL0VJ2YY",
+            "name": "Choong",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 7020
         },
         {
             "tag": "#VPJYP29",
@@ -54,18 +70,60 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/iuO1vfXLuwJ50oDnnMN5EK4NrptlJF5QYQJVbUEKhkM.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 26,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 69,
+                    "stars": 1,
+                    "attackCount": 5,
+                    "totalLooted": 7930,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 69,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 16,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 7,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 6,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -230,10 +288,36 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11607,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 22,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
@@ -274,11 +358,19 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 51,
-                    "stars": 2,
-                    "attackCount": 1,
-                    "totalLooted": 4785,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11589,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPGY2CU",
+                                "name": "RedHawk44"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#2PULPGL90",
