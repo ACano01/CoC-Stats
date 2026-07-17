@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 152840,
+    "capitalTotalLoot": 174910,
     "raidsCompleted": 2,
-    "totalAttacks": 39,
-    "enemyDistrictsDestroyed": 13,
+    "totalAttacks": 45,
+    "enemyDistrictsDestroyed": 15,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -40,6 +40,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 11885
+        },
+        {
+            "tag": "#QC92VLPP",
+            "name": "King Hova",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 22070
         },
         {
             "tag": "#V0GYVCJ9",
@@ -418,9 +426,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/E5_ZDFPxv7-cfxA6L5Y1oEFolEls2gv2IP5BtZO1XLY.png"
                 }
             },
-            "attackCount": 12,
+            "attackCount": 18,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -444,19 +452,71 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10790,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11280,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 67,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QC92VLPP",
+                                "name": "King Hova"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
