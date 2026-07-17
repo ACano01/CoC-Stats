@@ -105,7 +105,15 @@
                 "name": "- nancy 95",
                 "townhallLevel": 18,
                 "mapPosition": 4,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#800L9QVUR",
+                    "defenderTag": "#Q92RUPUJ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 20,
+                    "duration": 151
+                }
             },
             {
                 "tag": "#VPJYP29",
@@ -122,7 +130,15 @@
                         "duration": 80
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#800L9QVUR",
+                    "defenderTag": "#VPJYP29",
+                    "stars": 2,
+                    "destructionPercentage": 69,
+                    "order": 19,
+                    "duration": 141
+                }
             },
             {
                 "tag": "#99VJ2VVPQ",
@@ -334,9 +350,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HMq0O5cVAL-i-IMGeth_YnqtyWqc_kKoKJBefnNpBEc.png"
         },
         "clanLevel": 31,
-        "attacks": 6,
-        "stars": 15,
-        "destructionPercentage": 28.4,
+        "attacks": 8,
+        "stars": 20,
+        "destructionPercentage": 36.85,
         "members": [
             {
                 "tag": "#VPPLRYL8",
@@ -513,6 +529,24 @@
                 "name": "NoMercy",
                 "townhallLevel": 18,
                 "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#800L9QVUR",
+                        "defenderTag": "#VPJYP29",
+                        "stars": 2,
+                        "destructionPercentage": 69,
+                        "order": 19,
+                        "duration": 141
+                    },
+                    {
+                        "attackerTag": "#800L9QVUR",
+                        "defenderTag": "#Q92RUPUJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 20,
+                        "duration": 151
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
