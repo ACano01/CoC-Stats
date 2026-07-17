@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 8,
-        "stars": 23,
-        "destructionPercentage": 39.45,
+        "attacks": 12,
+        "stars": 33,
+        "destructionPercentage": 55.0,
         "members": [
             {
                 "tag": "#GPGY2CU",
@@ -71,6 +71,14 @@
                         "destructionPercentage": 100,
                         "order": 1,
                         "duration": 88
+                    },
+                    {
+                        "attackerTag": "#UUC9PCQ",
+                        "defenderTag": "#L0LGQYGU",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 18,
+                        "duration": 95
                     }
                 ],
                 "opponentAttacks": 0
@@ -168,6 +176,16 @@
                 "name": "Polaris",
                 "townhallLevel": 16,
                 "mapPosition": 18,
+                "attacks": [
+                    {
+                        "attackerTag": "#99VC2CU9",
+                        "defenderTag": "#8VP88JUGQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 15,
+                        "duration": 104
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -246,6 +264,16 @@
                 "name": "ZAC JB.",
                 "townhallLevel": 16,
                 "mapPosition": 17,
+                "attacks": [
+                    {
+                        "attackerTag": "#8GVP0V8CJ",
+                        "defenderTag": "#2VR980L28",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 17,
+                        "duration": 133
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#20YVL2GYL",
@@ -275,6 +303,16 @@
                 "name": "nofreelunch",
                 "townhallLevel": 18,
                 "mapPosition": 10,
+                "attacks": [
+                    {
+                        "attackerTag": "#2P8LYJCUR",
+                        "defenderTag": "#LPLP88JV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 16,
+                        "duration": 134
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#28LRU9J99",
@@ -365,7 +403,15 @@
                 "name": "officernasty",
                 "townhallLevel": 18,
                 "mapPosition": 11,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2P8LYJCUR",
+                    "defenderTag": "#LPLP88JV",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 16,
+                    "duration": 134
+                }
             },
             {
                 "tag": "#J9G8G0GP",
@@ -394,14 +440,14 @@
                 "name": "Tank",
                 "townhallLevel": 18,
                 "mapPosition": 15,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#YL0VJ2YY",
+                    "attackerTag": "#UUC9PCQ",
                     "defenderTag": "#L0LGQYGU",
-                    "stars": 2,
-                    "destructionPercentage": 89,
-                    "order": 6,
-                    "duration": 161
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 18,
+                    "duration": 95
                 }
             },
             {
@@ -513,7 +559,15 @@
                 "name": "Morpheus",
                 "townhallLevel": 16,
                 "mapPosition": 18,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8GVP0V8CJ",
+                    "defenderTag": "#2VR980L28",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 17,
+                    "duration": 133
+                }
             },
             {
                 "tag": "#GUPP89UG",
@@ -527,7 +581,15 @@
                 "name": "Jeff-The-Gamer2",
                 "townhallLevel": 16,
                 "mapPosition": 19,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#99VC2CU9",
+                    "defenderTag": "#8VP88JUGQ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 15,
+                    "duration": 104
+                }
             },
             {
                 "tag": "#80L0Y98V9",
