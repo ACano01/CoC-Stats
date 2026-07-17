@@ -150,7 +150,7 @@
                         "duration": 161
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#2GGLQV9Y",
                     "defenderTag": "#YL0VJ2YY",
@@ -200,14 +200,14 @@
                         "duration": 80
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#800L9QVUR",
+                    "attackerTag": "#2PR2R2CPC",
                     "defenderTag": "#VPJYP29",
-                    "stars": 2,
-                    "destructionPercentage": 69,
-                    "order": 19,
-                    "duration": 141
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 49,
+                    "duration": 145
                 }
             },
             {
@@ -275,14 +275,14 @@
                         "duration": 115
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#VPPLRYL8",
+                    "attackerTag": "#J9G8G0GP",
                     "defenderTag": "#QC92VLPP",
-                    "stars": 2,
-                    "destructionPercentage": 86,
-                    "order": 45,
-                    "duration": 180
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 46,
+                    "duration": 149
                 }
             },
             {
@@ -325,14 +325,14 @@
                         "duration": 157
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#2GGLQV9Y",
+                    "attackerTag": "#2PR2R2CPC",
                     "defenderTag": "#V0GYVCJ9",
-                    "stars": 2,
-                    "destructionPercentage": 66,
-                    "order": 44,
-                    "duration": 147
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 50,
+                    "duration": 155
                 }
             },
             {
@@ -542,9 +542,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HMq0O5cVAL-i-IMGeth_YnqtyWqc_kKoKJBefnNpBEc.png"
         },
         "clanLevel": 31,
-        "attacks": 23,
-        "stars": 50,
-        "destructionPercentage": 91.25,
+        "attacks": 28,
+        "stars": 53,
+        "destructionPercentage": 95.2,
         "members": [
             {
                 "tag": "#VPPLRYL8",
@@ -680,6 +680,24 @@
                 "name": "EZCletus",
                 "townhallLevel": 18,
                 "mapPosition": 10,
+                "attacks": [
+                    {
+                        "attackerTag": "#J9G8G0GP",
+                        "defenderTag": "#QC92VLPP",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 46,
+                        "duration": 149
+                    },
+                    {
+                        "attackerTag": "#J9G8G0GP",
+                        "defenderTag": "#YL0VJ2YY",
+                        "stars": 2,
+                        "destructionPercentage": 73,
+                        "order": 47,
+                        "duration": 105
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2P8LYJCUR",
@@ -695,6 +713,24 @@
                 "name": "Zeus",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#2PR2R2CPC",
+                        "defenderTag": "#VPJYP29",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 49,
+                        "duration": 145
+                    },
+                    {
+                        "attackerTag": "#2PR2R2CPC",
+                        "defenderTag": "#V0GYVCJ9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 50,
+                        "duration": 155
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
@@ -1036,6 +1072,14 @@
                         "destructionPercentage": 100,
                         "order": 42,
                         "duration": 110
+                    },
+                    {
+                        "attackerTag": "#92CJYV0UQ",
+                        "defenderTag": "#YL0VJ2YY",
+                        "stars": 2,
+                        "destructionPercentage": 66,
+                        "order": 48,
+                        "duration": 180
                     }
                 ],
                 "opponentAttacks": 1,
