@@ -59,14 +59,14 @@
                         "duration": 165
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#L0LGQYGU",
+                    "attackerTag": "#YCPCV8VL",
                     "defenderTag": "#9C229UGJ",
-                    "stars": 2,
-                    "destructionPercentage": 79,
-                    "order": 43,
-                    "duration": 111
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 51,
+                    "duration": 158
                 }
             },
             {
@@ -542,9 +542,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HMq0O5cVAL-i-IMGeth_YnqtyWqc_kKoKJBefnNpBEc.png"
         },
         "clanLevel": 31,
-        "attacks": 28,
-        "stars": 53,
-        "destructionPercentage": 95.2,
+        "attacks": 29,
+        "stars": 54,
+        "destructionPercentage": 96.25,
         "members": [
             {
                 "tag": "#VPPLRYL8",
@@ -632,6 +632,16 @@
                 "name": "Sir Fresh",
                 "townhallLevel": 18,
                 "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#YCPCV8VL",
+                        "defenderTag": "#9C229UGJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 51,
+                        "duration": 158
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#VPJYP29",
