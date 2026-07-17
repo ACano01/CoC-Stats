@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 99564,
-    "raidsCompleted": 1,
-    "totalAttacks": 26,
-    "enemyDistrictsDestroyed": 8,
+    "capitalTotalLoot": 152840,
+    "raidsCompleted": 2,
+    "totalAttacks": 39,
+    "enemyDistrictsDestroyed": 13,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -42,6 +42,14 @@
             "capitalResourcesLooted": 11885
         },
         {
+            "tag": "#V0GYVCJ9",
+            "name": "YAGO",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11892
+        },
+        {
             "tag": "#PQC82LLR",
             "name": "DocPeejay",
             "attacks": 6,
@@ -50,12 +58,20 @@
             "capitalResourcesLooted": 25325
         },
         {
-            "tag": "#YR922PJC0",
-            "name": "fadi",
-            "attacks": 2,
+            "tag": "#GPJ2L2Y0P",
+            "name": "The Big Linc",
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11381
+            "capitalResourcesLooted": 23588
+        },
+        {
+            "tag": "#YR922PJC0",
+            "name": "fadi",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 29177
         }
     ],
     "attackLog": [
@@ -70,19 +86,27 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/iuO1vfXLuwJ50oDnnMN5EK4NrptlJF5QYQJVbUEKhkM.png"
                 }
             },
-            "attackCount": 26,
+            "attackCount": 27,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 69,
-                    "stars": 1,
-                    "attackCount": 5,
-                    "totalLooted": 7930,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 6,
+                    "totalLooted": 13703,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#YL0VJ2YY",
@@ -378,6 +402,208 @@
                             },
                             "destructionPercent": 51,
                             "stars": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2Q0C22JRR",
+                "name": "HOUSE ATREIDES",
+                "level": 21,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/E5_ZDFPxv7-cfxA6L5Y1oEFolEls2gv2IP5BtZO1XLY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/E5_ZDFPxv7-cfxA6L5Y1oEFolEls2gv2IP5BtZO1XLY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/E5_ZDFPxv7-cfxA6L5Y1oEFolEls2gv2IP5BtZO1XLY.png"
+                }
+            },
+            "attackCount": 12,
+            "districtCount": 9,
+            "districtsDestroyed": 4,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12023,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 89,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YR922PJC0",
+                                "name": "fadi"
+                            },
+                            "destructionPercent": 34,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11892,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0GYVCJ9",
+                                "name": "YAGO"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11804,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11784,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 70,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPJ2L2Y0P",
+                                "name": "The Big Linc"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
                         }
                     ]
                 }
