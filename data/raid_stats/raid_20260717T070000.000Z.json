@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 664550,
+    "capitalTotalLoot": 672810,
     "raidsCompleted": 7,
-    "totalAttacks": 159,
-    "enemyDistrictsDestroyed": 57,
+    "totalAttacks": 161,
+    "enemyDistrictsDestroyed": 58,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -228,10 +228,10 @@
         {
             "tag": "#LR0990Y9V",
             "name": "Irene*",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 13628
+            "capitalResourcesLooted": 21888
         },
         {
             "tag": "#2P8LYJCUR",
@@ -2158,9 +2158,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/8u1LErlksIicA-R_7HOZh2rzgbv3EivMivd094Zfyhg.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 10,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -2255,11 +2255,27 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 43,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 3475,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11735,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LR0990Y9V",
+                                "name": "Irene*"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LR0990Y9V",
+                                "name": "Irene*"
+                            },
+                            "destructionPercent": 79,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#GU2UVG9CV",
