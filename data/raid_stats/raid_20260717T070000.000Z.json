@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 585140,
+    "capitalTotalLoot": 601414,
     "raidsCompleted": 6,
-    "totalAttacks": 141,
-    "enemyDistrictsDestroyed": 50,
+    "totalAttacks": 144,
+    "enemyDistrictsDestroyed": 52,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -80,6 +80,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 11885
+        },
+        {
+            "tag": "#99VJ2VVPQ",
+            "name": "The Sage",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 16274
         },
         {
             "tag": "#QC92VLPP",
@@ -1826,9 +1834,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
                 }
             },
-            "attackCount": 14,
+            "attackCount": 17,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
@@ -1852,10 +1860,28 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9629,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#99VJ2VVPQ",
+                                "name": "The Sage"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#99VJ2VVPQ",
+                                "name": "The Sage"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -1896,11 +1922,19 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 49,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 5270,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11915,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#99VJ2VVPQ",
+                                "name": "The Sage"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#Y02J2VQ2",
