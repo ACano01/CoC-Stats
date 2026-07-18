@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 672810,
+    "capitalTotalLoot": 682955,
     "raidsCompleted": 7,
-    "totalAttacks": 161,
-    "enemyDistrictsDestroyed": 58,
+    "totalAttacks": 163,
+    "enemyDistrictsDestroyed": 59,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#UUC9PCQ",
             "name": "Beat my Wifi",
-            "attacks": 3,
+            "attacks": 5,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11799
+            "capitalResourcesLooted": 21944
         },
         {
             "tag": "#Y02J2VQ2",
@@ -2158,9 +2158,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/8u1LErlksIicA-R_7HOZh2rzgbv3EivMivd094Zfyhg.png"
                 }
             },
-            "attackCount": 10,
+            "attackCount": 12,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -2184,10 +2184,28 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10145,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UUC9PCQ",
+                                "name": "Beat my Wifi"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -2718,9 +2736,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/BwVAW9MYBqXP1rdHJhnlaI8Yq5mDpadk_WqMfywOGFU.png"
                 }
             },
-            "attackCount": 20,
+            "attackCount": 21,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -2813,11 +2831,19 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 74,
-                    "stars": 1,
-                    "attackCount": 2,
-                    "totalLooted": 7425,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11415,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2U0L82RPL",
+                                "name": "Brazil*30"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#9QURQQU8U",
