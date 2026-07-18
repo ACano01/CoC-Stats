@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 640953,
+    "capitalTotalLoot": 664550,
     "raidsCompleted": 7,
-    "totalAttacks": 154,
-    "enemyDistrictsDestroyed": 55,
+    "totalAttacks": 159,
+    "enemyDistrictsDestroyed": 57,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -76,10 +76,10 @@
         {
             "tag": "#P9LC88QJ",
             "name": "DaTicket13",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 20808
+            "capitalResourcesLooted": 29459
         },
         {
             "tag": "#800CC2CCG",
@@ -172,10 +172,10 @@
         {
             "tag": "#GU2UVG9CV",
             "name": "Viking 2",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11196
+            "capitalResourcesLooted": 26142
         },
         {
             "tag": "#8GVP0V8CJ",
@@ -2158,9 +2158,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/8u1LErlksIicA-R_7HOZh2rzgbv3EivMivd094Zfyhg.png"
                 }
             },
-            "attackCount": 3,
+            "attackCount": 8,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -2193,11 +2193,27 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 40,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 2815,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11466,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#P9LC88QJ",
@@ -2239,10 +2255,20 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
+                    "destructionPercent": 43,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 3475,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -2257,10 +2283,28 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11471,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GU2UVG9CV",
+                                "name": "Viking 2"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
