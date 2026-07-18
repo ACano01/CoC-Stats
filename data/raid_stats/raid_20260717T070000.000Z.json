@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 450160,
+    "capitalTotalLoot": 508571,
     "raidsCompleted": 5,
-    "totalAttacks": 109,
-    "enemyDistrictsDestroyed": 38,
+    "totalAttacks": 123,
+    "enemyDistrictsDestroyed": 44,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -36,10 +36,10 @@
         {
             "tag": "#YL0VJ2YY",
             "name": "Choong",
-            "attacks": 3,
+            "attacks": 5,
             "attackLimit": 5,
             "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 7020
+            "capitalResourcesLooted": 16540
         },
         {
             "tag": "#Q92RUPUJ",
@@ -98,6 +98,14 @@
             "capitalResourcesLooted": 25325
         },
         {
+            "tag": "#YV00VUPP9",
+            "name": "Cobra Bit You",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 26992
+        },
+        {
             "tag": "#2PYVCVQP9",
             "name": "Carsten",
             "attacks": 6,
@@ -112,6 +120,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 23672
+        },
+        {
+            "tag": "#8RJ8CC8LU",
+            "name": "COBRA",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 21899
         },
         {
             "tag": "#8GVP0V8CJ",
@@ -1470,9 +1486,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/uhaWvboMiTMrYL-wELrIlsFM5_UGi2dNusb5MDImxVs.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 20,
             "districtCount": 9,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
@@ -1487,19 +1503,63 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11763,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YV00VUPP9",
+                                "name": "Cobra Bit You"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10271,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YV00VUPP9",
+                                "name": "Cobra Bit You"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YV00VUPP9",
+                                "name": "Cobra Bit You"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -1532,19 +1592,63 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10915,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YV00VUPP9",
+                                "name": "Cobra Bit You"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YV00VUPP9",
+                                "name": "Cobra Bit You"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11301,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -1577,11 +1681,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 90,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 9850,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12035,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8RJ8CC8LU",
+                                "name": "COBRA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#Y8PJCG8L",
@@ -1604,10 +1716,36 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11976,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YV00VUPP9",
+                                "name": "Cobra Bit You"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 83,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YL0VJ2YY",
+                                "name": "Choong"
+                            },
+                            "destructionPercent": 32,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
