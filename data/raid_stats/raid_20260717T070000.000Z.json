@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 763053,
+    "capitalTotalLoot": 769258,
     "raidsCompleted": 8,
-    "totalAttacks": 182,
+    "totalAttacks": 183,
     "enemyDistrictsDestroyed": 66,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -108,10 +108,10 @@
         {
             "tag": "#99VJ2VVPQ",
             "name": "The Sage",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 26502
+            "capitalResourcesLooted": 32707
         },
         {
             "tag": "#9G92CY9L",
@@ -2498,7 +2498,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/VaFlGUUN_BrEk7NzIWwk6qSgn8E3-c8CvRK-b7S9xfI.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 7,
             "districtCount": 9,
             "districtsDestroyed": 3,
             "districts": [
@@ -2524,10 +2524,20 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 63,
+                    "stars": 2,
+                    "attackCount": 1,
+                    "totalLooted": 6205,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#99VJ2VVPQ",
+                                "name": "The Sage"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
