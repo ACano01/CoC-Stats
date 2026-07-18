@@ -1,5 +1,5 @@
 {
-    "state": "inWar",
+    "state": "warEnded",
     "teamSize": 20,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -306,7 +306,7 @@
                         "duration": 141
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#28LRU9J99",
                     "defenderTag": "#9G92CY9L",
@@ -672,7 +672,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HMq0O5cVAL-i-IMGeth_YnqtyWqc_kKoKJBefnNpBEc.png"
         },
         "clanLevel": 31,
-        "attacks": 37,
+        "attacks": 38,
         "stars": 56,
         "destructionPercentage": 98.95,
         "members": [
@@ -1118,6 +1118,14 @@
                         "destructionPercentage": 100,
                         "order": 66,
                         "duration": 166
+                    },
+                    {
+                        "attackerTag": "#9GJQC80Q",
+                        "defenderTag": "#9G92CY9L",
+                        "stars": 2,
+                        "destructionPercentage": 62,
+                        "order": 76,
+                        "duration": 155
                     }
                 ],
                 "opponentAttacks": 3,
