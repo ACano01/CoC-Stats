@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 601414,
-    "raidsCompleted": 6,
-    "totalAttacks": 144,
-    "enemyDistrictsDestroyed": 52,
+    "capitalTotalLoot": 640953,
+    "raidsCompleted": 7,
+    "totalAttacks": 154,
+    "enemyDistrictsDestroyed": 55,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#289RPC2GP",
+            "name": "TMac",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 18731
+        },
         {
             "tag": "#GPGY2CU",
             "name": "RedHawk44",
@@ -64,6 +72,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 27479
+        },
+        {
+            "tag": "#P9LC88QJ",
+            "name": "DaTicket13",
+            "attacks": 4,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 20808
         },
         {
             "tag": "#800CC2CCG",
@@ -1834,27 +1850,87 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 24,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 13385,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 25,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11661,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#289RPC2GP",
+                                "name": "TMac"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -2068,6 +2144,132 @@
                             "stars": 1
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2LCLLGR8G",
+                "name": "\u0633\u062a\u0627\u0631\u06af\u0627\u0646",
+                "level": 26,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/8u1LErlksIicA-R_7HOZh2rzgbv3EivMivd094Zfyhg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/8u1LErlksIicA-R_7HOZh2rzgbv3EivMivd094Zfyhg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/8u1LErlksIicA-R_7HOZh2rzgbv3EivMivd094Zfyhg.png"
+                }
+            },
+            "attackCount": 3,
+            "districtCount": 9,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 40,
+                    "stars": 0,
+                    "attackCount": 1,
+                    "totalLooted": 2815,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11678,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9LC88QJ",
+                                "name": "DaTicket13"
+                            },
+                            "destructionPercent": 67,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 }
             ]
         }
