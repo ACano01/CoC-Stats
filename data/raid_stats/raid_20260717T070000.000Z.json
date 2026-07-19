@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 936290,
+    "capitalTotalLoot": 940720,
     "raidsCompleted": 12,
-    "totalAttacks": 221,
+    "totalAttacks": 222,
     "enemyDistrictsDestroyed": 82,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -28,10 +28,10 @@
         {
             "tag": "#9C229UGJ",
             "name": "Chase",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 22581
+            "capitalResourcesLooted": 27011
         },
         {
             "tag": "#2PULPGL90",
@@ -3122,7 +3122,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png"
                 }
             },
-            "attackCount": 2,
+            "attackCount": 3,
             "districtCount": 9,
             "districtsDestroyed": 1,
             "districts": [
@@ -3211,10 +3211,20 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
+                    "destructionPercent": 44,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 4430,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9C229UGJ",
+                                "name": "Chase"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000008,
