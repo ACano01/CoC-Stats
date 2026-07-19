@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 847744,
+    "capitalTotalLoot": 873909,
     "raidsCompleted": 11,
-    "totalAttacks": 201,
-    "enemyDistrictsDestroyed": 73,
+    "totalAttacks": 207,
+    "enemyDistrictsDestroyed": 76,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -88,6 +88,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 27479
+        },
+        {
+            "tag": "#YULUPURY",
+            "name": "SoccerShaw12",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 26165
         },
         {
             "tag": "#P9LC88QJ",
@@ -2822,9 +2830,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/4f6dbVpbPV6IuaPr7vNcgIGDmG7CKt_Wl7M5XPjICiQ.png"
                 }
             },
-            "attackCount": 3,
+            "attackCount": 9,
             "districtCount": 9,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -2848,10 +2856,28 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9284,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -2875,20 +2901,46 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9221,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 60,
-                    "stars": 2,
-                    "attackCount": 1,
-                    "totalLooted": 5835,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9820,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#9C229UGJ",
@@ -2930,10 +2982,20 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 40,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 3675,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#YULUPURY",
+                                "name": "SoccerShaw12"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
