@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 774263,
+    "capitalTotalLoot": 791006,
     "raidsCompleted": 8,
-    "totalAttacks": 184,
-    "enemyDistrictsDestroyed": 66,
+    "totalAttacks": 187,
+    "enemyDistrictsDestroyed": 68,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -52,10 +52,10 @@
         {
             "tag": "#8LGRUUL9J",
             "name": "violin",
-            "attacks": 1,
+            "attacks": 2,
             "attackLimit": 5,
-            "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 5005
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11284
         },
         {
             "tag": "#Y02J2VQ2",
@@ -136,6 +136,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 22070
+        },
+        {
+            "tag": "#99VC2CU9",
+            "name": "Polaris",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10464
         },
         {
             "tag": "#V0GYVCJ9",
@@ -2506,9 +2514,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/VaFlGUUN_BrEk7NzIWwk6qSgn8E3-c8CvRK-b7S9xfI.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 11,
             "districtCount": 9,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -2614,20 +2622,46 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10464,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#99VC2CU9",
+                                "name": "Polaris"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#99VC2CU9",
+                                "name": "Polaris"
+                            },
+                            "destructionPercent": 68,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 50,
-                    "stars": 2,
-                    "attackCount": 1,
-                    "totalLooted": 5005,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11284,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#8LGRUUL9J",
@@ -3440,27 +3474,79 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/5XBK973iVACMsPYwHx0nY0rxFLAt5wSnV4HrH8KzlyQ.png"
                 }
             },
-            "attackCount": 21,
+            "attackCount": 27,
             "districtCount": 9,
-            "districtsDestroyed": 7,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 52,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 6330,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#92LU9QYC8",
+                                "name": "\u25fbnook\u25fb"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#92LU9QYC8",
+                                "name": "\u25fbnook\u25fb"
+                            },
+                            "destructionPercent": 14,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 12060,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#92LU9QYC8",
+                                "name": "\u25fbnook\u25fb"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#92LU9QYC8",
+                                "name": "\u25fbnook\u25fb"
+                            },
+                            "destructionPercent": 99,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#92LU9QYC8",
+                                "name": "\u25fbnook\u25fb"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#92LU9QYC8",
+                                "name": "\u25fbnook\u25fb"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
