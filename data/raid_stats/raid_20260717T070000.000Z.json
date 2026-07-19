@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 916750,
-    "raidsCompleted": 11,
-    "totalAttacks": 217,
-    "enemyDistrictsDestroyed": 80,
+    "capitalTotalLoot": 936290,
+    "raidsCompleted": 12,
+    "totalAttacks": 221,
+    "enemyDistrictsDestroyed": 82,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -156,10 +156,10 @@
         {
             "tag": "#99VC2CU9",
             "name": "Polaris",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 10464
+            "capitalResourcesLooted": 30004
         },
         {
             "tag": "#V0GYVCJ9",
@@ -2838,19 +2838,35 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/4f6dbVpbPV6IuaPr7vNcgIGDmG7CKt_Wl7M5XPjICiQ.png"
                 }
             },
-            "attackCount": 19,
+            "attackCount": 21,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 31,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 2930,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 13246,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#99VC2CU9",
+                                "name": "Polaris"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#99VC2CU9",
+                                "name": "Polaris"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#V0CC0YR8",
@@ -3092,6 +3108,122 @@
                             "stars": 1
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#29RUY08P9",
+                "name": "\u00a5\u0641\u0631\u0633\u0627\u0646 \u0627\u0644\u0647\u064a\u0643\u0644\u2122\u00a5",
+                "level": 18,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png"
+                }
+            },
+            "attackCount": 2,
+            "districtCount": 9,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9224,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#99VC2CU9",
+                                "name": "Polaris"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#99VC2CU9",
+                                "name": "Polaris"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 }
             ]
         }
