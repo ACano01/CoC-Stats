@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 873909,
+    "capitalTotalLoot": 899203,
     "raidsCompleted": 11,
-    "totalAttacks": 207,
-    "enemyDistrictsDestroyed": 76,
+    "totalAttacks": 212,
+    "enemyDistrictsDestroyed": 78,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -60,10 +60,10 @@
         {
             "tag": "#8LGRUUL9J",
             "name": "violin",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11284
+            "capitalResourcesLooted": 29743
         },
         {
             "tag": "#Y02J2VQ2",
@@ -176,6 +176,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 11244
+        },
+        {
+            "tag": "#V0CC0YR8",
+            "name": "Wes",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 6835
         },
         {
             "tag": "#GULJYQPR0",
@@ -2830,9 +2838,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/4f6dbVpbPV6IuaPr7vNcgIGDmG7CKt_Wl7M5XPjICiQ.png"
                 }
             },
-            "attackCount": 9,
+            "attackCount": 14,
             "districtCount": 9,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
@@ -2883,19 +2891,47 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10084,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 72,
+                    "stars": 2,
+                    "attackCount": 1,
+                    "totalLooted": 6835,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 72,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -2982,11 +3018,27 @@
                     "id": 70000008,
                     "name": "Goblin Mines",
                     "districtHallLevel": 4,
-                    "destructionPercent": 40,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3675,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 12050,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8LGRUUL9J",
+                                "name": "violin"
+                            },
+                            "destructionPercent": 79,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#YULUPURY",
