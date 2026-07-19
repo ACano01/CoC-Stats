@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 791006,
-    "raidsCompleted": 8,
-    "totalAttacks": 187,
-    "enemyDistrictsDestroyed": 68,
+    "capitalTotalLoot": 825163,
+    "raidsCompleted": 9,
+    "totalAttacks": 196,
+    "enemyDistrictsDestroyed": 71,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -108,10 +108,10 @@
         {
             "tag": "#VPJYP29",
             "name": "Viking",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 11885
+            "capitalResourcesLooted": 20125
         },
         {
             "tag": "#99VJ2VVPQ",
@@ -256,6 +256,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 29177
+        },
+        {
+            "tag": "#GY98LJ8P9",
+            "name": "SheepdogDLLJA",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 25917
         },
         {
             "tag": "#2VYVULCVL",
@@ -2514,37 +2522,89 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/VaFlGUUN_BrEk7NzIWwk6qSgn8E3-c8CvRK-b7S9xfI.png"
                 }
             },
-            "attackCount": 11,
+            "attackCount": 20,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 37,
+                    "stars": 1,
+                    "attackCount": 3,
+                    "totalLooted": 8240,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 24,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VPJYP29",
+                                "name": "Viking"
+                            },
+                            "destructionPercent": 8,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 11280,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 54,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 5,
-                    "destructionPercent": 63,
-                    "stars": 2,
-                    "attackCount": 1,
-                    "totalLooted": 6205,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 9879,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#99VJ2VVPQ",
@@ -2586,10 +2646,36 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10963,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GY98LJ8P9",
+                                "name": "SheepdogDLLJA"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -3474,19 +3560,43 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/5XBK973iVACMsPYwHx0nY0rxFLAt5wSnV4HrH8KzlyQ.png"
                 }
             },
-            "attackCount": 27,
+            "attackCount": 30,
             "districtCount": 9,
-            "districtsDestroyed": 8,
+            "districtsDestroyed": 9,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 52,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 6330,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 13664,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q020JRUR0",
+                                "name": "viewly"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q020JRUR0",
+                                "name": "viewly"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Q020JRUR0",
+                                "name": "viewly"
+                            },
+                            "destructionPercent": 68,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#92LU9QYC8",
