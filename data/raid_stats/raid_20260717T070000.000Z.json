@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 940720,
+    "capitalTotalLoot": 946690,
     "raidsCompleted": 12,
-    "totalAttacks": 222,
+    "totalAttacks": 223,
     "enemyDistrictsDestroyed": 82,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -292,10 +292,10 @@
         {
             "tag": "#2VYVULCVL",
             "name": "family buffalo",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 23037
+            "capitalResourcesLooted": 29007
         },
         {
             "tag": "#LR0990Y9V",
@@ -3122,7 +3122,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png"
                 }
             },
-            "attackCount": 3,
+            "attackCount": 4,
             "districtCount": 9,
             "districtsDestroyed": 1,
             "districts": [
@@ -3211,11 +3211,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 44,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 4430,
+                    "destructionPercent": 98,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 10400,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2VYVULCVL",
+                                "name": "family buffalo"
+                            },
+                            "destructionPercent": 98,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#9C229UGJ",
