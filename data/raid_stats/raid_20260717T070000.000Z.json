@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 899203,
+    "capitalTotalLoot": 916750,
     "raidsCompleted": 11,
-    "totalAttacks": 212,
-    "enemyDistrictsDestroyed": 78,
+    "totalAttacks": 217,
+    "enemyDistrictsDestroyed": 80,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -180,10 +180,10 @@
         {
             "tag": "#V0CC0YR8",
             "name": "Wes",
-            "attacks": 1,
+            "attacks": 6,
             "attackLimit": 5,
-            "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 6835
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 24382
         },
         {
             "tag": "#GULJYQPR0",
@@ -2838,27 +2838,63 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/4f6dbVpbPV6IuaPr7vNcgIGDmG7CKt_Wl7M5XPjICiQ.png"
                 }
             },
-            "attackCount": 14,
+            "attackCount": 19,
             "districtCount": 9,
-            "districtsDestroyed": 6,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 10,
-                    "destructionPercent": 0,
+                    "destructionPercent": 31,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 2930,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 31,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11200,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 79,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -2918,11 +2954,19 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 5,
-                    "destructionPercent": 72,
-                    "stars": 2,
-                    "attackCount": 1,
-                    "totalLooted": 6835,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 10252,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V0CC0YR8",
+                                "name": "Wes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#V0CC0YR8",
