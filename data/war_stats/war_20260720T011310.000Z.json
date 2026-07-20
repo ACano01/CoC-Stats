@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 36,
+        "attacks": 42,
         "stars": 75,
         "destructionPercentage": 100.0,
         "members": [
@@ -115,6 +115,14 @@
                         "destructionPercentage": 100,
                         "order": 18,
                         "duration": 100
+                    },
+                    {
+                        "attackerTag": "#U90CYLQ2",
+                        "defenderTag": "#9RJVPL028",
+                        "stars": 2,
+                        "destructionPercentage": 65,
+                        "order": 72,
+                        "duration": 94
                     }
                 ],
                 "opponentAttacks": 1,
@@ -239,6 +247,14 @@
                         "destructionPercentage": 75,
                         "order": 4,
                         "duration": 104
+                    },
+                    {
+                        "attackerTag": "#YULUPURY",
+                        "defenderTag": "#9RJVPL028",
+                        "stars": 2,
+                        "destructionPercentage": 56,
+                        "order": 73,
+                        "duration": 86
                     }
                 ],
                 "opponentAttacks": 1,
@@ -297,6 +313,14 @@
                         "destructionPercentage": 100,
                         "order": 22,
                         "duration": 101
+                    },
+                    {
+                        "attackerTag": "#VPJYP29",
+                        "defenderTag": "#9RJVPL028",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 74,
+                        "duration": 103
                     }
                 ],
                 "opponentAttacks": 1,
@@ -479,14 +503,14 @@
                         "duration": 113
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
-                    "attackerTag": "#GQ29Y9JVL",
+                    "attackerTag": "#8C2U09LC",
                     "defenderTag": "#L2PQ9QLUC",
-                    "stars": 2,
-                    "destructionPercentage": 78,
-                    "order": 54,
-                    "duration": 135
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 69,
+                    "duration": 173
                 }
             },
             {
@@ -593,6 +617,14 @@
                         "destructionPercentage": 100,
                         "order": 23,
                         "duration": 87
+                    },
+                    {
+                        "attackerTag": "#GU2UVG9CV",
+                        "defenderTag": "#9RJVPL028",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 75,
+                        "duration": 103
                     }
                 ],
                 "opponentAttacks": 1,
@@ -716,6 +748,24 @@
                 "name": "nofreelunch",
                 "townhallLevel": 18,
                 "mapPosition": 11,
+                "attacks": [
+                    {
+                        "attackerTag": "#2P8LYJCUR",
+                        "defenderTag": "#9RJVPL028",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 70,
+                        "duration": 127
+                    },
+                    {
+                        "attackerTag": "#2P8LYJCUR",
+                        "defenderTag": "#8UCPQUJQ0",
+                        "stars": 2,
+                        "destructionPercentage": 90,
+                        "order": 71,
+                        "duration": 180
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#89RY2Y92L",
@@ -737,16 +787,26 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/uTmxGzEQgJVvn4yNWwoteQNaCn7LaEr3oMNxxZRwYIo.png"
         },
         "clanLevel": 22,
-        "attacks": 31,
-        "stars": 64,
-        "destructionPercentage": 92.48,
+        "attacks": 33,
+        "stars": 65,
+        "destructionPercentage": 93.36,
         "members": [
             {
                 "tag": "#9RJVPL028",
                 "name": "boconico",
                 "townhallLevel": 18,
                 "mapPosition": 1,
-                "opponentAttacks": 3,
+                "attacks": [
+                    {
+                        "attackerTag": "#9RJVPL028",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 2,
+                        "destructionPercentage": 96,
+                        "order": 68,
+                        "duration": 178
+                    }
+                ],
+                "opponentAttacks": 8,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
                     "defenderTag": "#9RJVPL028",
@@ -809,6 +869,16 @@
                 "name": "la12",
                 "townhallLevel": 18,
                 "mapPosition": 16,
+                "attacks": [
+                    {
+                        "attackerTag": "#8C2U09LC",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 69,
+                        "duration": 173
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#UUC9PCQ",
@@ -1390,7 +1460,7 @@
                         "duration": 180
                     }
                 ],
-                "opponentAttacks": 3,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#L2PQ9QLUC",
                     "defenderTag": "#8UCPQUJQ0",
