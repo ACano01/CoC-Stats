@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260717T070000.000Z",
     "endTime": "20260720T070000.000Z",
-    "capitalTotalLoot": 988275,
+    "capitalTotalLoot": 1007670,
     "raidsCompleted": 12,
-    "totalAttacks": 233,
-    "enemyDistrictsDestroyed": 86,
+    "totalAttacks": 239,
+    "enemyDistrictsDestroyed": 89,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -16,6 +16,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 18731
+        },
+        {
+            "tag": "#Y8PCJG2PY",
+            "name": "Nitroneous",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 19395
         },
         {
             "tag": "#GPGY2CU",
@@ -3130,9 +3138,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/vowXS9QDc_8W5_SvwI0iKaKtm4Q14vPUBJLrII_dPKU.png"
                 }
             },
-            "attackCount": 14,
+            "attackCount": 20,
             "districtCount": 9,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 8,
             "districts": [
                 {
                     "id": 70000000,
@@ -3147,11 +3155,27 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 5,
-                    "destructionPercent": 28,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 1535,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 10882,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 0
+                        },
                         {
                             "attacker": {
                                 "tag": "#GCL9GGPYG",
@@ -3255,10 +3279,36 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 9048,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 72,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 29,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -3291,11 +3341,19 @@
                     "id": 70000007,
                     "name": "Skeleton Park",
                     "districtHallLevel": 4,
-                    "destructionPercent": 98,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 10400,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 11400,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Y8PCJG2PY",
+                                "name": "Nitroneous"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#2VYVULCVL",
@@ -4466,6 +4524,122 @@
                             "stars": 0
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "attacker": {
+                "tag": "#2LRQU2U90",
+                "name": "\u0633\u0631\u0632\u0645\u06cc\u0646 \u0622\u0631\u06cc\u0627\u06cc\u06cc",
+                "level": 19,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/logqlifINuPgTJZ0Q5jRqyvTZp4Yg34OUZuHWD5YPyE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/logqlifINuPgTJZ0Q5jRqyvTZp4Yg34OUZuHWD5YPyE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/logqlifINuPgTJZ0Q5jRqyvTZp4Yg34OUZuHWD5YPyE.png"
+                }
+            },
+            "attackCount": 2,
+            "districtCount": 9,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 10,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 63,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 6945,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G99P8VJY2",
+                                "name": "Taha"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G99P8VJY2",
+                                "name": "Taha"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 5,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000007,
+                    "name": "Skeleton Park",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000008,
+                    "name": "Goblin Mines",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 }
             ]
         }
