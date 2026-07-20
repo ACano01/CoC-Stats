@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 29,
-        "stars": 69,
-        "destructionPercentage": 92.0,
+        "attacks": 32,
+        "stars": 75,
+        "destructionPercentage": 100.0,
         "members": [
             {
                 "tag": "#GPGY2CU",
@@ -208,7 +208,15 @@
                         "duration": 110
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GQ29Y9JVL",
+                    "defenderTag": "#Q92RUPUJ",
+                    "stars": 2,
+                    "destructionPercentage": 80,
+                    "order": 53,
+                    "duration": 180
+                }
             },
             {
                 "tag": "#YULUPURY",
@@ -330,6 +338,14 @@
                         "destructionPercentage": 100,
                         "order": 14,
                         "duration": 99
+                    },
+                    {
+                        "attackerTag": "#QC92VLPP",
+                        "defenderTag": "#GQLC9GGCR",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 57,
+                        "duration": 115
                     }
                 ],
                 "opponentAttacks": 1,
@@ -355,6 +371,14 @@
                         "destructionPercentage": 100,
                         "order": 17,
                         "duration": 96
+                    },
+                    {
+                        "attackerTag": "#99VC2CU9",
+                        "defenderTag": "#Q9U9JRCQV",
+                        "stars": 1,
+                        "destructionPercentage": 40,
+                        "order": 55,
+                        "duration": 74
                     }
                 ],
                 "opponentAttacks": 1,
@@ -405,9 +429,25 @@
                         "destructionPercentage": 100,
                         "order": 7,
                         "duration": 162
+                    },
+                    {
+                        "attackerTag": "#L2PQ9QLUC",
+                        "defenderTag": "#Q9U9JRCQV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 56,
+                        "duration": 113
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GQ29Y9JVL",
+                    "defenderTag": "#L2PQ9QLUC",
+                    "stars": 2,
+                    "destructionPercentage": 78,
+                    "order": 54,
+                    "duration": 135
+                }
             },
             {
                 "tag": "#UQQ0LJLP",
@@ -625,9 +665,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/uTmxGzEQgJVvn4yNWwoteQNaCn7LaEr3oMNxxZRwYIo.png"
         },
         "clanLevel": 22,
-        "attacks": 23,
-        "stars": 49,
-        "destructionPercentage": 68.96,
+        "attacks": 25,
+        "stars": 53,
+        "destructionPercentage": 75.28,
         "members": [
             {
                 "tag": "#9RJVPL028",
@@ -727,7 +767,15 @@
                 "name": "CHULUL",
                 "townhallLevel": 18,
                 "mapPosition": 9,
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#L2PQ9QLUC",
+                    "defenderTag": "#Q9U9JRCQV",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 56,
+                    "duration": 113
+                }
             },
             {
                 "tag": "#UV98QJQP",
@@ -1040,6 +1088,24 @@
                 "name": "Apholeitor",
                 "townhallLevel": 18,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#GQ29Y9JVL",
+                        "defenderTag": "#Q92RUPUJ",
+                        "stars": 2,
+                        "destructionPercentage": 80,
+                        "order": 53,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#GQ29Y9JVL",
+                        "defenderTag": "#L2PQ9QLUC",
+                        "stars": 2,
+                        "destructionPercentage": 78,
+                        "order": 54,
+                        "duration": 135
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PULPGL90",
@@ -1181,7 +1247,15 @@
                         "duration": 144
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QC92VLPP",
+                    "defenderTag": "#GQLC9GGCR",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 57,
+                    "duration": 115
+                }
             },
             {
                 "tag": "#8UCPQUJQ0",
