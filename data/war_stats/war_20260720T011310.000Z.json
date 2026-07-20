@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/oDK8tL42Qw0H_Aizg17tRIurLTWkjHKsKEPQ0UwiNdQ.png"
         },
         "clanLevel": 33,
-        "attacks": 20,
-        "stars": 50,
-        "destructionPercentage": 67.16,
+        "attacks": 22,
+        "stars": 54,
+        "destructionPercentage": 72.0,
         "members": [
             {
                 "tag": "#GPGY2CU",
@@ -131,6 +131,14 @@
                         "destructionPercentage": 97,
                         "order": 13,
                         "duration": 143
+                    },
+                    {
+                        "attackerTag": "#YL0VJ2YY",
+                        "defenderTag": "#2J92PGYJ9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 26,
+                        "duration": 165
                     }
                 ],
                 "opponentAttacks": 1,
@@ -290,6 +298,16 @@
                 "name": "YAGO",
                 "townhallLevel": 18,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#V0GYVCJ9",
+                        "defenderTag": "#GQRUCQG2P",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 28,
+                        "duration": 118
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -380,7 +398,15 @@
                         "duration": 168
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GJ2G20Y2U",
+                    "defenderTag": "#8GVP0V8CJ",
+                    "stars": 2,
+                    "destructionPercentage": 92,
+                    "order": 27,
+                    "duration": 175
+                }
             },
             {
                 "tag": "#90J9U9U2J",
@@ -429,9 +455,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/uTmxGzEQgJVvn4yNWwoteQNaCn7LaEr3oMNxxZRwYIo.png"
         },
         "clanLevel": 22,
-        "attacks": 5,
-        "stars": 10,
-        "destructionPercentage": 15.44,
+        "attacks": 6,
+        "stars": 12,
+        "destructionPercentage": 19.12,
         "members": [
             {
                 "tag": "#9RJVPL028",
@@ -468,14 +494,14 @@
                 "name": "Seb@s",
                 "townhallLevel": 18,
                 "mapPosition": 20,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#800CC2CCG",
+                    "attackerTag": "#YL0VJ2YY",
                     "defenderTag": "#2J92PGYJ9",
-                    "stars": 2,
-                    "destructionPercentage": 79,
-                    "order": 12,
-                    "duration": 136
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 26,
+                    "duration": 165
                 }
             },
             {
@@ -627,7 +653,15 @@
                 "name": "Sir Alex",
                 "townhallLevel": 18,
                 "mapPosition": 10,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#V0GYVCJ9",
+                    "defenderTag": "#GQRUCQG2P",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 28,
+                    "duration": 118
+                }
             },
             {
                 "tag": "#GG92PCGPC",
@@ -701,6 +735,16 @@
                 "name": "hellhound",
                 "townhallLevel": 17,
                 "mapPosition": 21,
+                "attacks": [
+                    {
+                        "attackerTag": "#GJ2G20Y2U",
+                        "defenderTag": "#8GVP0V8CJ",
+                        "stars": 2,
+                        "destructionPercentage": 92,
+                        "order": 27,
+                        "duration": 175
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#U90CYLQ2",
