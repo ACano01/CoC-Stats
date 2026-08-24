@@ -270,7 +270,7 @@ function handleInitialRoute() {
     if (hash === 'members') { switchView(hash, false); }
     else if (hash === 'stats') {
         switchView('stats', false);
-        renderCharts(fullWarHistory, document.getElementById('statsTimeRange')?.value || 'month');
+        renderCharts(fullWarHistory, document.getElementById('statsTimeRange')?.value || 'month', allMembers);
     }
     else if (hash.startsWith('raids')) {
         const parts = hash.split('/');
@@ -408,7 +408,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     document.getElementById('tab-stats')?.addEventListener('click', () => { 
         switchView('stats'); 
-        renderCharts(fullWarHistory, document.getElementById('statsTimeRange')?.value || 'month');
+        renderCharts(fullWarHistory, document.getElementById('statsTimeRange')?.value || 'month', allMembers);
     });
     document.getElementById('tab-raids')?.addEventListener('click', () => { switchView('raids'); switchRaidSubView('summary'); });
     document.getElementById('raid-subtab-summary')?.addEventListener('click', () => switchRaidSubView('summary'));
@@ -431,7 +431,7 @@ document.addEventListener('DOMContentLoaded', () => {
         switchRaidSubView(activeSubTab, false);
     });
 
-    document.getElementById('statsTimeRange')?.addEventListener('change', (e) => { renderCharts(fullWarHistory, e.target.value); });
+    document.getElementById('statsTimeRange')?.addEventListener('change', (e) => { renderCharts(fullWarHistory, e.target.value, allMembers); });
     document.getElementById('sortBy')?.addEventListener('change', updateDisplay);
     document.getElementById('backToWarList')?.addEventListener('click', showWarList);
     document.getElementById('resetMembersFilters')?.addEventListener('click', () => {

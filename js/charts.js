@@ -12,14 +12,14 @@ let efficiencyChart = null;
  * @param {Array} warHistory - Full list of war data.
  * @param {string} range - Filter type ('month', 'week', 'prev').
  */
-export function renderCharts(warHistory, range = 'month') {
+export function renderCharts(warHistory, range = 'all', allMembers = []) {
     if (!warHistory || warHistory.length === 0) return;
 
     // Filter history based on range
     const filteredHistory = filterHistoryByRange(warHistory, range);
     
     renderStarsTrend(filteredHistory);
-    renderTopPerformers(filteredHistory);
+    renderTopPerformers(filteredHistory, allMembers);
     renderEfficiencyChart(filteredHistory);
 }
 
@@ -95,15 +95,29 @@ function renderStarsTrend(warHistory) {
     });
 }
 
-function renderTopPerformers(warHistory) {
+function renderTopPerformers(warHistory, allMembers = []) {
     const container = document.getElementById('topPerformersContainer');
     if (!container) return;
     
-    const statsMap = {}; 
-    warHistory.forEach(war => {
+    const statsMap = {};
+
+allMembers.forEach(m => {
+    statsMap[m.tag] = {
+        name: m.name,
+        wars: 0,
+        s3: 0,
+        s2: 0,
+        s1: 0,
+        s0: 0,
+        totalStars: 0
+    };
+});
+
+warHistory.forEach(war => {
         if (!war.clan || !war.clan.members) return;
         war.clan.members.forEach(m => {
-            if (!statsMap[m.tag]) statsMap[m.tag] = { name: m.name, s3: 0, s2: 0, s1: 0, s0: 0, totalStars: 0 };
+            if (!statsMap[m.tag]) statsMap[m.tag] = { name: m.name, wars: 0, s3: 0, s2: 0, s1: 0, s0: 0, totalStars: 0 };
+            statsMap[m.tag].wars++;
             (m.attacks || []).forEach(atk => {
                 statsMap[m.tag].totalStars += atk.stars;
                 if (atk.stars === 3) statsMap[m.tag].s3++;
@@ -115,18 +129,22 @@ function renderTopPerformers(warHistory) {
     });
 
     const topPerformers = Object.values(statsMap)
-        .filter(p => (p.s3 + p.s2 + p.s1 + p.s0) > 0)
-        .sort((a, b) => b.totalStars - a.totalStars || b.s3 - a.s3)
-        .slice(0, 25);
+        .filter(p => p.wars > 0)
+        .sort((a, b) =>
+            b.wars - a.wars ||
+            b.totalStars - a.totalStars ||
+            b.s3 - a.s3 ||
+            a.name.localeCompare(b.name)
+        );
 
     if (topPerformers.length === 0) {
-        container.innerHTML = `<p class="text-center text-gray-600 py-10 text-[10px]">No attack data for this range.</p>`;
+        container.innerHTML = `<p class="text-center text-gray-600 py-10 text-[10px]">No war participation data for this range.</p>`;
         return;
     }
 
-    let html = `<table class="w-full text-[10px] text-left border-collapse"><thead><tr class="border-b border-gray-800 text-gray-500 uppercase font-black"><th class="py-2 pl-1">Player</th><th class="py-2 text-center text-green-500">3★</th><th class="py-2 text-center text-yellow-500">2★</th><th class="py-2 text-center text-red-500">1★</th><th class="py-2 text-center text-gray-500">0★</th><th class="py-2 text-right pr-1 gold">Total</th></tr></thead><tbody class="divide-y divide-gray-800/30">`;
+    let html = `<table class="w-full text-[10px] text-left border-collapse"><thead><tr class="border-b border-gray-800 text-gray-500 uppercase font-black"><th class="py-2 pl-1">Player</th><th class="py-2 text-center">Nº DE GUERRAS</th><th class="py-2 text-center text-green-500">3★</th><th class="py-2 text-center text-yellow-500">2★</th><th class="py-2 text-center text-red-500">1★</th><th class="py-2 text-center text-gray-500">0★</th><th class="py-2 text-right pr-1 gold">Total</th></tr></thead><tbody class="divide-y divide-gray-800/30">`;
     topPerformers.forEach(p => {
-        html += `<tr class="hover:bg-white/5 transition-colors"><td class="py-2 pl-1 font-bold text-gray-300">${p.name}</td><td class="py-2 text-center font-mono">${p.s3}</td><td class="py-2 text-center font-mono">${p.s2}</td><td class="py-2 text-center font-mono">${p.s1}</td><td class="py-2 text-center font-mono">${p.s0}</td><td class="py-2 text-right pr-1 font-bold gold">${p.totalStars}</td></tr>`;
+        html += `<tr class="hover:bg-white/5 transition-colors"><td class="py-2 pl-1 font-bold text-gray-300">${p.name}</td><td class="py-2 text-center font-mono">${p.wars}</td><td class="py-2 text-center font-mono">${p.s3}</td><td class="py-2 text-center font-mono">${p.s2}</td><td class="py-2 text-center font-mono">${p.s1}</td><td class="py-2 text-center font-mono">${p.s0}</td><td class="py-2 text-right pr-1 font-bold gold">${p.totalStars}</td></tr>`;
     });
     container.innerHTML = html + `</tbody></table>`;
 }
