@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260821T070000.000Z",
     "endTime": "20260824T070000.000Z",
-    "capitalTotalLoot": 190077,
-    "raidsCompleted": 4,
-    "totalAttacks": 99,
-    "enemyDistrictsDestroyed": 29,
+    "capitalTotalLoot": 201709,
+    "raidsCompleted": 5,
+    "totalAttacks": 105,
+    "enemyDistrictsDestroyed": 31,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -48,6 +48,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 7281
+        },
+        {
+            "tag": "#GLLQPY0U2",
+            "name": "TytyVas",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11632
         },
         {
             "tag": "#28UJLRYV9",
@@ -167,7 +175,7 @@
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 5,
                     "totalLooted": 8820,
                     "attacks": [
@@ -218,7 +226,7 @@
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 4,
                     "totalLooted": 7009,
                     "attacks": [
@@ -261,7 +269,7 @@
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 6710,
                     "attacks": [
@@ -296,7 +304,7 @@
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 6205,
                     "attacks": [
@@ -331,7 +339,7 @@
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 6799,
                     "attacks": [
@@ -366,7 +374,7 @@
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 4644,
                     "attacks": [
@@ -418,7 +426,7 @@
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 5,
                     "totalLooted": 8770,
                     "attacks": [
@@ -469,7 +477,7 @@
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 6553,
                     "attacks": [
@@ -504,7 +512,7 @@
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 6769,
                     "attacks": [
@@ -539,7 +547,7 @@
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 6177,
                     "attacks": [
@@ -574,7 +582,7 @@
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 6720,
                     "attacks": [
@@ -609,7 +617,7 @@
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 4704,
                     "attacks": [
@@ -661,7 +669,7 @@
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 5,
                     "totalLooted": 7778,
                     "attacks": [
@@ -712,7 +720,7 @@
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 7139,
                     "attacks": [
@@ -747,7 +755,7 @@
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 2,
                     "totalLooted": 5083,
                     "attacks": [
@@ -774,7 +782,7 @@
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 4,
                     "totalLooted": 6650,
                     "attacks": [
@@ -817,7 +825,7 @@
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 6829,
                     "attacks": [
@@ -852,7 +860,7 @@
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 1,
                     "totalLooted": 2356,
                     "attacks": [
@@ -888,7 +896,7 @@
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 6,
                     "totalLooted": 9016,
                     "attacks": [
@@ -947,7 +955,7 @@
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 6905,
                     "attacks": [
@@ -982,7 +990,7 @@
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 4,
                     "totalLooted": 6685,
                     "attacks": [
@@ -1025,7 +1033,7 @@
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 5887,
                     "attacks": [
@@ -1060,7 +1068,7 @@
                     "name": "Builder's Workshop",
                     "districtHallLevel": 1,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 2,
                     "totalLooted": 5224,
                     "attacks": [
@@ -1087,7 +1095,7 @@
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 5109,
                     "attacks": [
@@ -1130,19 +1138,27 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/9A98j57hR37825dUZKXWykd74KaPUNjBUg0lHg-vu68.png"
                 }
             },
-            "attackCount": 19,
+            "attackCount": 20,
             "districtCount": 6,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 98,
-                    "stars": 0,
-                    "attackCount": 5,
-                    "totalLooted": 7910,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 6,
+                    "totalLooted": 8973,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#9P2YYYQQV",
@@ -1190,7 +1206,7 @@
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 5,
                     "totalLooted": 7281,
                     "attacks": [
@@ -1241,7 +1257,7 @@
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 2,
                     "totalLooted": 5073,
                     "attacks": [
@@ -1268,7 +1284,7 @@
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 3,
                     "totalLooted": 6251,
                     "attacks": [
@@ -1303,7 +1319,7 @@
                     "name": "Builder's Workshop",
                     "districtHallLevel": 1,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 2,
                     "totalLooted": 5053,
                     "attacks": [
@@ -1330,7 +1346,7 @@
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
                     "destructionPercent": 100,
-                    "stars": 0,
+                    "stars": 3,
                     "attackCount": 2,
                     "totalLooted": 3968,
                     "attacks": [
@@ -1351,6 +1367,121 @@
                             "stars": 1
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2G88YQQLG",
+                "name": "B\u0130NB\u0130RGECE",
+                "level": 11,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/0gT279gqkgXde-_irSVWAaAA1GuhIBNX_PN7ymiUIjY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/0gT279gqkgXde-_irSVWAaAA1GuhIBNX_PN7ymiUIjY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/0gT279gqkgXde-_irSVWAaAA1GuhIBNX_PN7ymiUIjY.png"
+                }
+            },
+            "attackCount": 5,
+            "districtCount": 6,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 64,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 3570,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6999,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 79,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 26,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 }
             ]
         }
