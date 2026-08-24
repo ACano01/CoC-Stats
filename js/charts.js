@@ -133,7 +133,7 @@ function renderTopPerformers(warHistory, allMembers = []) {
         style.id = 'stats-ranking-scroll-style';
         style.textContent = `
             .stats-ranking-scroll {
-                max-height: 245px;
+                max-height: 370px;
                 overflow-y: auto;
                 overflow-x: hidden;
                 scrollbar-width: thin;
@@ -173,15 +173,19 @@ allMembers.forEach(m => {
         s2: 0,
         s1: 0,
         s0: 0,
-        totalStars: 0
+        totalStars: 0,
+        attacksMade: 0,
+        attacksPossible: 0
     };
 });
 
 warHistory.forEach(war => {
         if (!war.clan || !war.clan.members) return;
         war.clan.members.forEach(m => {
-            if (!statsMap[m.tag]) statsMap[m.tag] = { name: m.name, wars: 0, s3: 0, s2: 0, s1: 0, s0: 0, totalStars: 0 };
+            if (!statsMap[m.tag]) statsMap[m.tag] = { name: m.name, wars: 0, s3: 0, s2: 0, s1: 0, s0: 0, totalStars: 0, attacksMade: 0, attacksPossible: 0 };
             statsMap[m.tag].wars++;
+            statsMap[m.tag].attacksPossible += 2;
+            statsMap[m.tag].attacksMade += (m.attacks || []).length;
             (m.attacks || []).forEach(atk => {
                 statsMap[m.tag].totalStars += atk.stars;
                 if (atk.stars === 3) statsMap[m.tag].s3++;
@@ -205,9 +209,9 @@ warHistory.forEach(war => {
         return;
     }
 
-    let html = `<table class="w-full text-[10px] text-left border-collapse"><thead><tr class="border-b border-gray-800 text-gray-500 uppercase font-black"><th class="py-2 pl-1">Player</th><th class="py-2 text-center">Nº DE GUERRAS</th><th class="py-2 text-center text-green-500">3★</th><th class="py-2 text-center text-yellow-500">2★</th><th class="py-2 text-center text-red-500">1★</th><th class="py-2 text-center text-gray-500">0★</th><th class="py-2 text-right pr-1 gold">Total</th></tr></thead><tbody class="divide-y divide-gray-800/30">`;
+    let html = `<table class="w-full text-[10px] text-left border-collapse"><thead><tr class="border-b border-gray-800 text-gray-500 uppercase font-black"><th class="py-2 pl-1">Player</th><th class="py-2 text-center">Nº DE GUERRAS</th><th class="py-2 text-center">ATAQUES</th><th class="py-2 text-center text-green-500">3★</th><th class="py-2 text-center text-yellow-500">2★</th><th class="py-2 text-center text-red-500">1★</th><th class="py-2 text-center text-gray-500">0★</th></tr></thead><tbody class="divide-y divide-gray-800/30">`;
     topPerformers.forEach(p => {
-        html += `<tr class="hover:bg-white/5 transition-colors"><td class="py-2 pl-1 font-bold text-gray-300">${p.name}</td><td class="py-2 text-center font-mono">${p.wars}</td><td class="py-2 text-center font-mono">${p.s3}</td><td class="py-2 text-center font-mono">${p.s2}</td><td class="py-2 text-center font-mono">${p.s1}</td><td class="py-2 text-center font-mono">${p.s0}</td><td class="py-2 text-right pr-1 font-bold gold">${p.totalStars}</td></tr>`;
+        html += `<tr class="hover:bg-white/5 transition-colors"><td class="py-2 pl-1 font-bold text-gray-300">${p.name}</td><td class="py-2 text-center font-mono">${p.wars}</td><td class="py-2 text-center font-mono">${p.attacksMade}/${p.attacksPossible}</td><td class="py-2 text-center font-mono">${p.s3}</td><td class="py-2 text-center font-mono">${p.s2}</td><td class="py-2 text-center font-mono">${p.s1}</td><td class="py-2 text-center font-mono">${p.s0}</td></tr>`;
     });
     container.innerHTML = `<div class="stats-ranking-scroll">${html}</tbody></table></div>`;
 }
