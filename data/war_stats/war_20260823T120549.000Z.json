@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 15,
+        "attacks": 16,
         "stars": 30,
         "destructionPercentage": 100.0,
         "members": [
@@ -24,6 +24,16 @@
                 "name": "lord madara",
                 "townhallLevel": 13,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#29G0LRQYJ",
+                        "defenderTag": "#2QUC0CYGQ",
+                        "stars": 0,
+                        "destructionPercentage": 39,
+                        "order": 26,
+                        "duration": 68
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#GGU8JVVLV",
@@ -515,7 +525,7 @@
                         "duration": 80
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#CQVGC9UR",
                     "defenderTag": "#2QUC0CYGQ",
