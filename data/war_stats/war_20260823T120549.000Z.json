@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 13,
+        "attacks": 15,
         "stars": 30,
         "destructionPercentage": 100.0,
         "members": [
@@ -24,7 +24,15 @@
                 "name": "lord madara",
                 "townhallLevel": 13,
                 "mapPosition": 9,
-                "opponentAttacks": 0
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GGU8JVVLV",
+                    "defenderTag": "#29G0LRQYJ",
+                    "stars": 1,
+                    "destructionPercentage": 82,
+                    "order": 25,
+                    "duration": 142
+                }
             },
             {
                 "tag": "#CQVGC9UR",
@@ -81,6 +89,24 @@
                 "name": "TytyVas",
                 "townhallLevel": 15,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#GLLQPY0U2",
+                        "defenderTag": "#R0Q9PU9C8",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 20,
+                        "duration": 83
+                    },
+                    {
+                        "attackerTag": "#GLLQPY0U2",
+                        "defenderTag": "#GGU8JVVLV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 21,
+                        "duration": 90
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2QUC0CYGQ",
@@ -187,7 +213,15 @@
                         "duration": 149
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LPCPG0C29",
+                    "defenderTag": "#QR9QGU200",
+                    "stars": 2,
+                    "destructionPercentage": 81,
+                    "order": 22,
+                    "duration": 180
+                }
             },
             {
                 "tag": "#V8UC9Y2C",
@@ -237,14 +271,14 @@
                         "duration": 94
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#R0Q9PU9C8",
+                    "attackerTag": "#LPCPG0C29",
                     "defenderTag": "#9P2YYYQQV",
-                    "stars": 0,
-                    "destructionPercentage": 47,
-                    "order": 15,
-                    "duration": 81
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 24,
+                    "duration": 139
                 }
             }
         ]
@@ -258,9 +292,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/hdAUMq3ZDeNpWUr_W3afRnUHpOCh16q5dlL46xJhCQg.png"
         },
         "clanLevel": 6,
-        "attacks": 6,
-        "stars": 9,
-        "destructionPercentage": 38.5,
+        "attacks": 10,
+        "stars": 15,
+        "destructionPercentage": 60.1,
         "members": [
             {
                 "tag": "#8VYJ0JYR9",
@@ -297,7 +331,17 @@
                 "name": "Mr vagabond",
                 "townhallLevel": 12,
                 "mapPosition": 9,
-                "opponentAttacks": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#GGU8JVVLV",
+                        "defenderTag": "#29G0LRQYJ",
+                        "stars": 1,
+                        "destructionPercentage": 82,
+                        "order": 25,
+                        "duration": 142
+                    }
+                ],
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#LC0GPUPVJ",
                     "defenderTag": "#GGU8JVVLV",
@@ -347,7 +391,7 @@
                         "duration": 81
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#9P2YYYQQV",
                     "defenderTag": "#R0Q9PU9C8",
@@ -362,6 +406,16 @@
                 "name": "Ahmad Shabab",
                 "townhallLevel": 13,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#PPYL88V8C",
+                        "defenderTag": "#29G0LRQYJ",
+                        "stars": 1,
+                        "destructionPercentage": 56,
+                        "order": 23,
+                        "duration": 115
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#LC0GPUPVJ",
@@ -377,6 +431,24 @@
                 "name": "Archie is cool",
                 "townhallLevel": 13,
                 "mapPosition": 6,
+                "attacks": [
+                    {
+                        "attackerTag": "#LPCPG0C29",
+                        "defenderTag": "#QR9QGU200",
+                        "stars": 2,
+                        "destructionPercentage": 81,
+                        "order": 22,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#LPCPG0C29",
+                        "defenderTag": "#9P2YYYQQV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 24,
+                        "duration": 139
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#R222YP0QY",
