@@ -95,7 +95,36 @@ function renderStarsTrend(warHistory) {
     });
 }
 
+function ensureStatsRankingStyles() {
+    if (document.getElementById('stats-ranking-scroll-styles')) return;
+    const style = document.createElement('style');
+    style.id = 'stats-ranking-scroll-styles';
+    style.textContent = `
+        .stats-ranking-scroll {
+            max-height: 100%;
+            overflow-y: auto;
+            scrollbar-width: thin;
+            scrollbar-color: #3a3a3a transparent;
+        }
+        .stats-ranking-scroll::-webkit-scrollbar {
+            width: 5px;
+        }
+        .stats-ranking-scroll::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        .stats-ranking-scroll::-webkit-scrollbar-thumb {
+            background: #3a3a3a;
+            border-radius: 999px;
+        }
+        .stats-ranking-scroll::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+    `;
+    document.head.appendChild(style);
+}
+
 function renderTopPerformers(warHistory, allMembers = []) {
+    ensureStatsRankingStyles();
     const container = document.getElementById('topPerformersContainer');
     if (!container) return;
     
@@ -129,7 +158,6 @@ warHistory.forEach(war => {
     });
 
     const topPerformers = Object.values(statsMap)
-        .filter(p => p.wars > 0)
         .sort((a, b) =>
             b.wars - a.wars ||
             b.totalStars - a.totalStars ||
@@ -146,7 +174,7 @@ warHistory.forEach(war => {
     topPerformers.forEach(p => {
         html += `<tr class="hover:bg-white/5 transition-colors"><td class="py-2 pl-1 font-bold text-gray-300">${p.name}</td><td class="py-2 text-center font-mono">${p.wars}</td><td class="py-2 text-center font-mono">${p.s3}</td><td class="py-2 text-center font-mono">${p.s2}</td><td class="py-2 text-center font-mono">${p.s1}</td><td class="py-2 text-center font-mono">${p.s0}</td><td class="py-2 text-right pr-1 font-bold gold">${p.totalStars}</td></tr>`;
     });
-    container.innerHTML = html + `</tbody></table>`;
+    container.innerHTML = `<div class="stats-ranking-scroll">${html}</tbody></table></div>`;
 }
 
 function renderEfficiencyChart(warHistory) {
