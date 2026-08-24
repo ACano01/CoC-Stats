@@ -126,6 +126,41 @@ function ensureStatsRankingStyles() {
 function renderTopPerformers(warHistory, allMembers = []) {
     ensureStatsRankingStyles();
     const container = document.getElementById('topPerformersContainer');
+
+    // Scroll interno del ranking: mantiene el tamaño del panel y muestra el resto de miembros al desplazar.
+    if (!document.getElementById('stats-ranking-scroll-style')) {
+        const style = document.createElement('style');
+        style.id = 'stats-ranking-scroll-style';
+        style.textContent = `
+            .stats-ranking-scroll {
+                max-height: 245px;
+                overflow-y: auto;
+                overflow-x: hidden;
+                scrollbar-width: thin;
+                scrollbar-color: #444 #171717;
+            }
+            .stats-ranking-scroll::-webkit-scrollbar {
+                width: 5px;
+            }
+            .stats-ranking-scroll::-webkit-scrollbar-track {
+                background: #171717;
+            }
+            .stats-ranking-scroll::-webkit-scrollbar-thumb {
+                background: #444;
+                border-radius: 10px;
+            }
+            .stats-ranking-scroll::-webkit-scrollbar-thumb:hover {
+                background: #555;
+            }
+            .stats-ranking-scroll thead th {
+                position: sticky;
+                top: 0;
+                z-index: 2;
+                background: #171717;
+            }
+        `;
+        document.head.appendChild(style);
+    }
     if (!container) return;
     
     const statsMap = {};
