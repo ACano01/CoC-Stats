@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 10,
-        "stars": 28,
-        "destructionPercentage": 48.75,
+        "attacks": 11,
+        "stars": 30,
+        "destructionPercentage": 53.5,
         "members": [
             {
                 "tag": "#29G0LRQYJ",
@@ -64,14 +64,30 @@
                         "duration": 140
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QCPPRJGL9",
+                    "defenderTag": "#9QQVQ029G",
+                    "stars": 2,
+                    "destructionPercentage": 82,
+                    "order": 20,
+                    "duration": 157
+                }
             },
             {
                 "tag": "#LC9CG8YG8",
                 "name": "Jefferson",
                 "townhallLevel": 13,
                 "mapPosition": 17,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QVPCG9YR2",
+                    "defenderTag": "#LC9CG8YG8",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 22,
+                    "duration": 92
+                }
             },
             {
                 "tag": "#2LP899002",
@@ -179,7 +195,15 @@
                 "name": "flootshoter",
                 "townhallLevel": 13,
                 "mapPosition": 14,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QCPPRJGL9",
+                    "defenderTag": "#Q9UQ0QPGU",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 23,
+                    "duration": 155
+                }
             },
             {
                 "tag": "#R222YP0QY",
@@ -300,6 +324,16 @@
                 "name": "David /,,/",
                 "townhallLevel": 13,
                 "mapPosition": 15,
+                "attacks": [
+                    {
+                        "attackerTag": "#9P2YYYQQV",
+                        "defenderTag": "#PQC299PU0",
+                        "stars": 2,
+                        "destructionPercentage": 95,
+                        "order": 21,
+                        "duration": 108
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -320,9 +354,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/RZnbZqtdTsqeQQZ90caBqSunqQHs58PPHex5Jk_vu6o.png"
         },
         "clanLevel": 8,
-        "attacks": 9,
-        "stars": 18,
-        "destructionPercentage": 34.05,
+        "attacks": 12,
+        "stars": 26,
+        "destructionPercentage": 48.15,
         "members": [
             {
                 "tag": "#GYCJY9GQJ",
@@ -445,6 +479,16 @@
                 "name": "$Setiamuda$",
                 "townhallLevel": 13,
                 "mapPosition": 16,
+                "attacks": [
+                    {
+                        "attackerTag": "#QVPCG9YR2",
+                        "defenderTag": "#LC9CG8YG8",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 22,
+                        "duration": 92
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -517,13 +561,39 @@
                 "name": "Kimon",
                 "townhallLevel": 13,
                 "mapPosition": 15,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9P2YYYQQV",
+                    "defenderTag": "#PQC299PU0",
+                    "stars": 2,
+                    "destructionPercentage": 95,
+                    "order": 21,
+                    "duration": 108
+                }
             },
             {
                 "tag": "#QCPPRJGL9",
                 "name": "wusya14",
                 "townhallLevel": 13,
                 "mapPosition": 12,
+                "attacks": [
+                    {
+                        "attackerTag": "#QCPPRJGL9",
+                        "defenderTag": "#9QQVQ029G",
+                        "stars": 2,
+                        "destructionPercentage": 82,
+                        "order": 20,
+                        "duration": 157
+                    },
+                    {
+                        "attackerTag": "#QCPPRJGL9",
+                        "defenderTag": "#Q9UQ0QPGU",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 23,
+                        "duration": 155
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
