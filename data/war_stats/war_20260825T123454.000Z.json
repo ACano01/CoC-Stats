@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 7,
-        "stars": 20,
-        "destructionPercentage": 33.8,
+        "attacks": 8,
+        "stars": 23,
+        "destructionPercentage": 38.8,
         "members": [
             {
                 "tag": "#29G0LRQYJ",
@@ -62,14 +62,30 @@
                 "name": "ELmister",
                 "townhallLevel": 13,
                 "mapPosition": 11,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LVYCJLPU8",
+                    "defenderTag": "#2LP899002",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 11,
+                    "duration": 143
+                }
             },
             {
                 "tag": "#9920PURJR",
                 "name": "\u00bbGOKU\u00ab",
                 "townhallLevel": 15,
                 "mapPosition": 2,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8QCQJP09G",
+                    "defenderTag": "#9920PURJR",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 9,
+                    "duration": 118
+                }
             },
             {
                 "tag": "#P8PY8V2RP",
@@ -100,7 +116,15 @@
                 "name": "flexes",
                 "townhallLevel": 13,
                 "mapPosition": 9,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2J2U2VRYR",
+                    "defenderTag": "#28UJLRYV9",
+                    "stars": 2,
+                    "destructionPercentage": 70,
+                    "order": 12,
+                    "duration": 111
+                }
             },
             {
                 "tag": "#P9VR8JQ9",
@@ -185,6 +209,16 @@
                 "name": "jd",
                 "townhallLevel": 13,
                 "mapPosition": 10,
+                "attacks": [
+                    {
+                        "attackerTag": "#QR9QGU200",
+                        "defenderTag": "#LG8RVJ292",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 10,
+                        "duration": 153
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -209,7 +243,15 @@
                         "duration": 163
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GQ9QRY828",
+                    "defenderTag": "#C2GRCV8C",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 8,
+                    "duration": 127
+                }
             },
             {
                 "tag": "#9P2YYYQQV",
@@ -236,9 +278,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/RZnbZqtdTsqeQQZ90caBqSunqQHs58PPHex5Jk_vu6o.png"
         },
         "clanLevel": 8,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 4,
+        "stars": 11,
+        "destructionPercentage": 18.5,
         "members": [
             {
                 "tag": "#GYCJY9GQJ",
@@ -266,6 +308,16 @@
                 "name": "pegek",
                 "townhallLevel": 13,
                 "mapPosition": 11,
+                "attacks": [
+                    {
+                        "attackerTag": "#LVYCJLPU8",
+                        "defenderTag": "#2LP899002",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 11,
+                        "duration": 143
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -303,6 +355,16 @@
                 "name": "KING GOLEM",
                 "townhallLevel": 18,
                 "mapPosition": 1,
+                "attacks": [
+                    {
+                        "attackerTag": "#8QCQJP09G",
+                        "defenderTag": "#9920PURJR",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 9,
+                        "duration": 118
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -324,6 +386,16 @@
                 "name": "King Goblin",
                 "townhallLevel": 16,
                 "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#GQ9QRY828",
+                        "defenderTag": "#C2GRCV8C",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 8,
+                        "duration": 127
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#C2GRCV8C",
@@ -367,7 +439,15 @@
                 "name": "Alpenible",
                 "townhallLevel": 13,
                 "mapPosition": 10,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QR9QGU200",
+                    "defenderTag": "#LG8RVJ292",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 10,
+                    "duration": 153
+                }
             },
             {
                 "tag": "#U8UPC08U",
@@ -419,6 +499,16 @@
                 "name": "NJMX Boy",
                 "townhallLevel": 14,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#2J2U2VRYR",
+                        "defenderTag": "#28UJLRYV9",
+                        "stars": 2,
+                        "destructionPercentage": 70,
+                        "order": 12,
+                        "duration": 111
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
