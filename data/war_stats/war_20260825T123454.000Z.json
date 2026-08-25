@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 11,
-        "stars": 30,
-        "destructionPercentage": 53.5,
+        "attacks": 15,
+        "stars": 36,
+        "destructionPercentage": 67.95,
         "members": [
             {
                 "tag": "#29G0LRQYJ",
@@ -148,6 +148,16 @@
                 "name": "flexes",
                 "townhallLevel": 13,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#28UJLRYV9",
+                        "defenderTag": "#LVYCJLPU8",
+                        "stars": 2,
+                        "destructionPercentage": 94,
+                        "order": 27,
+                        "duration": 120
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#GV9JJV099",
@@ -260,6 +270,16 @@
                 "name": "Eriikaap",
                 "townhallLevel": 11,
                 "mapPosition": 19,
+                "attacks": [
+                    {
+                        "attackerTag": "#LCVUYUCU0",
+                        "defenderTag": "#QVPCG9YR2",
+                        "stars": 0,
+                        "destructionPercentage": 27,
+                        "order": 25,
+                        "duration": 43
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -341,6 +361,24 @@
                 "name": "Diego",
                 "townhallLevel": 13,
                 "mapPosition": 16,
+                "attacks": [
+                    {
+                        "attackerTag": "#QL02UP8YC",
+                        "defenderTag": "#GR88QRGQY",
+                        "stars": 2,
+                        "destructionPercentage": 98,
+                        "order": 24,
+                        "duration": 143
+                    },
+                    {
+                        "attackerTag": "#QL02UP8YC",
+                        "defenderTag": "#GY9GGY88J",
+                        "stars": 2,
+                        "destructionPercentage": 70,
+                        "order": 26,
+                        "duration": 93
+                    }
+                ],
                 "opponentAttacks": 0
             }
         ]
@@ -377,7 +415,15 @@
                 "name": "zackrus",
                 "townhallLevel": 13,
                 "mapPosition": 14,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QL02UP8YC",
+                    "defenderTag": "#GY9GGY88J",
+                    "stars": 2,
+                    "destructionPercentage": 70,
+                    "order": 26,
+                    "duration": 93
+                }
             },
             {
                 "tag": "#LVYCJLPU8",
@@ -402,7 +448,15 @@
                         "duration": 110
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#28UJLRYV9",
+                    "defenderTag": "#LVYCJLPU8",
+                    "stars": 2,
+                    "destructionPercentage": 94,
+                    "order": 27,
+                    "duration": 120
+                }
             },
             {
                 "tag": "#GCJ9L99JJ",
@@ -489,7 +543,15 @@
                         "duration": 92
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LCVUYUCU0",
+                    "defenderTag": "#QVPCG9YR2",
+                    "stars": 0,
+                    "destructionPercentage": 27,
+                    "order": 25,
+                    "duration": 43
+                }
             },
             {
                 "tag": "#GQ9QRY828",
@@ -554,7 +616,15 @@
                 "name": "abay",
                 "townhallLevel": 12,
                 "mapPosition": 17,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QL02UP8YC",
+                    "defenderTag": "#GR88QRGQY",
+                    "stars": 2,
+                    "destructionPercentage": 98,
+                    "order": 24,
+                    "duration": 143
+                }
             },
             {
                 "tag": "#PQC299PU0",
