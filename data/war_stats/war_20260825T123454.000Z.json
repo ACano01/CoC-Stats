@@ -225,7 +225,15 @@
                 "name": "chechu-20",
                 "townhallLevel": 14,
                 "mapPosition": 7,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GP8RLQ2GR",
+                    "defenderTag": "#P9VR8JQ9",
+                    "stars": 2,
+                    "destructionPercentage": 64,
+                    "order": 37,
+                    "duration": 118
+                }
             },
             {
                 "tag": "#LC0GPUPVJ",
@@ -250,7 +258,15 @@
                         "duration": 74
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GP8RLQ2GR",
+                    "defenderTag": "#LC0GPUPVJ",
+                    "stars": 2,
+                    "destructionPercentage": 96,
+                    "order": 38,
+                    "duration": 180
+                }
             },
             {
                 "tag": "#Q9UQ0QPGU",
@@ -470,9 +486,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/RZnbZqtdTsqeQQZ90caBqSunqQHs58PPHex5Jk_vu6o.png"
         },
         "clanLevel": 8,
-        "attacks": 12,
-        "stars": 26,
-        "destructionPercentage": 48.15,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 56.15,
         "members": [
             {
                 "tag": "#GYCJY9GQJ",
@@ -494,6 +510,24 @@
                 "name": "AnggipraditA",
                 "townhallLevel": 14,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#GP8RLQ2GR",
+                        "defenderTag": "#P9VR8JQ9",
+                        "stars": 2,
+                        "destructionPercentage": 64,
+                        "order": 37,
+                        "duration": 118
+                    },
+                    {
+                        "attackerTag": "#GP8RLQ2GR",
+                        "defenderTag": "#LC0GPUPVJ",
+                        "stars": 2,
+                        "destructionPercentage": 96,
+                        "order": 38,
+                        "duration": 180
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#V8UC9Y2C",
