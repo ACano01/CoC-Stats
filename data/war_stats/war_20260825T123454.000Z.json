@@ -178,7 +178,15 @@
                         "duration": 67
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PQC299PU0",
+                    "defenderTag": "#P8PY8V2RP",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 39,
+                    "duration": 102
+                }
             },
             {
                 "tag": "#GLLQPY0U2",
@@ -486,9 +494,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/RZnbZqtdTsqeQQZ90caBqSunqQHs58PPHex5Jk_vu6o.png"
         },
         "clanLevel": 8,
-        "attacks": 14,
-        "stars": 30,
-        "destructionPercentage": 56.15,
+        "attacks": 15,
+        "stars": 33,
+        "destructionPercentage": 61.15,
         "members": [
             {
                 "tag": "#GYCJY9GQJ",
@@ -775,6 +783,16 @@
                 "name": "Kimon",
                 "townhallLevel": 13,
                 "mapPosition": 15,
+                "attacks": [
+                    {
+                        "attackerTag": "#PQC299PU0",
+                        "defenderTag": "#P8PY8V2RP",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 39,
+                        "duration": 102
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2LP899002",
