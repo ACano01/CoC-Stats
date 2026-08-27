@@ -1,5 +1,5 @@
 {
-    "state": "preparation",
+    "state": "inWar",
     "teamSize": 15,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 3,
+        "destructionPercentage": 6.6666665,
         "members": [
             {
                 "tag": "#CQVGC9UR",
@@ -59,6 +59,16 @@
                 "name": "flexes",
                 "townhallLevel": 13,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#28UJLRYV9",
+                        "defenderTag": "#RJ0VGVV9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 1,
+                        "duration": 99
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -200,7 +210,15 @@
                 "name": "\u062d\u0633\u0646",
                 "townhallLevel": 13,
                 "mapPosition": 7,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#28UJLRYV9",
+                    "defenderTag": "#RJ0VGVV9",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 1,
+                    "duration": 99
+                }
             },
             {
                 "tag": "#20JPGP9JC",
