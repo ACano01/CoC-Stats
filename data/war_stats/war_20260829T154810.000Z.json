@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 20,
+        "attacks": 22,
         "stars": 43,
         "destructionPercentage": 99.6,
         "members": [
@@ -187,6 +187,16 @@
                 "name": "Simon",
                 "townhallLevel": 13,
                 "mapPosition": 15,
+                "attacks": [
+                    {
+                        "attackerTag": "#QPLQ2VG0Y",
+                        "defenderTag": "#9RGJRGGRQ",
+                        "stars": 0,
+                        "destructionPercentage": 32,
+                        "order": 26,
+                        "duration": 87
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -309,6 +319,16 @@
                 "name": "adri7447",
                 "townhallLevel": 15,
                 "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#C2GRCV8C",
+                        "defenderTag": "#9RGJRGGRQ",
+                        "stars": 0,
+                        "destructionPercentage": 40,
+                        "order": 25,
+                        "duration": 103
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -511,7 +531,7 @@
                 "name": "Clasher",
                 "townhallLevel": 18,
                 "mapPosition": 1,
-                "opponentAttacks": 2,
+                "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#CQVGC9UR",
                     "defenderTag": "#9RGJRGGRQ",
