@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260828T070000.000Z",
     "endTime": "20260831T070000.000Z",
-    "capitalTotalLoot": 227751,
-    "raidsCompleted": 6,
-    "totalAttacks": 119,
-    "enemyDistrictsDestroyed": 33,
+    "capitalTotalLoot": 252931,
+    "raidsCompleted": 7,
+    "totalAttacks": 131,
+    "enemyDistrictsDestroyed": 37,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#CQVGC9UR",
+            "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 14114
+        },
         {
             "tag": "#9QQVQ029G",
             "name": "Desert Shadow",
@@ -136,6 +144,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 13285
+        },
+        {
+            "tag": "#V8UC9Y2C",
+            "name": "Tuboescape",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11066
         },
         {
             "tag": "#GPYGUJ080",
@@ -1453,28 +1469,70 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/BmjOrBwWWtUh-oMV2WfH5u6vPiNA9LtAx2aIE_EXdnM.png"
                 }
             },
-            "attackCount": 13,
+            "attackCount": 20,
             "districtCount": 6,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 9101,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 99,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 56,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 24,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
-                    "destructionPercent": 97,
-                    "stars": 2,
-                    "attackCount": 3,
-                    "totalLooted": 5930,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 6989,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#Q9UQ0QPGU",
@@ -1618,10 +1676,143 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 4635,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#UUGQ0C8V",
+                "name": "Vj gadi bandu",
+                "level": 8,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/GZkzohgehgKFg0HdjNpBOC2QKLCGxdkGf-Z-mNtfRPQ.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/GZkzohgehgKFg0HdjNpBOC2QKLCGxdkGf-Z-mNtfRPQ.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/GZkzohgehgKFg0HdjNpBOC2QKLCGxdkGf-Z-mNtfRPQ.png"
+                }
+            },
+            "attackCount": 5,
+            "districtCount": 6,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
                     "destructionPercent": 0,
                     "stars": 0,
                     "attackCount": 0,
                     "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7010,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 86,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 63,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 3375,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 18,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
