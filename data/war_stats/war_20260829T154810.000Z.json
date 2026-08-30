@@ -460,7 +460,7 @@
                         "duration": 72
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#R00GUQ9PP",
                     "defenderTag": "#QL02UP8YC",
@@ -481,7 +481,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
         },
         "clanLevel": 6,
-        "attacks": 17,
+        "attacks": 18,
         "stars": 41,
         "destructionPercentage": 95.73333,
         "members": [
@@ -641,6 +641,16 @@
                 "name": "GENESIS 1:31",
                 "townhallLevel": 13,
                 "mapPosition": 12,
+                "attacks": [
+                    {
+                        "attackerTag": "#G9JC0Q808",
+                        "defenderTag": "#QL02UP8YC",
+                        "stars": 0,
+                        "destructionPercentage": 44,
+                        "order": 43,
+                        "duration": 115
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#9QQVQ029G",
