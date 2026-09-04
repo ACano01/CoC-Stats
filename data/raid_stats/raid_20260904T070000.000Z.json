@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260904T070000.000Z",
     "endTime": "20260907T070000.000Z",
-    "capitalTotalLoot": 194208,
-    "raidsCompleted": 4,
-    "totalAttacks": 92,
-    "enemyDistrictsDestroyed": 29,
+    "capitalTotalLoot": 214618,
+    "raidsCompleted": 5,
+    "totalAttacks": 102,
+    "enemyDistrictsDestroyed": 31,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -104,6 +104,22 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 10467
+        },
+        {
+            "tag": "#R222YP0QY",
+            "name": "N1co",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 14348
+        },
+        {
+            "tag": "#LC82R2YPV",
+            "name": "Manuel",
+            "attacks": 4,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 6062
         },
         {
             "tag": "#QR9QGU200",
@@ -1074,19 +1090,51 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/HsNG-jfrPx934ZyXZRu4ht6MeqV9OGONLSmByWj6MZc.png"
                 }
             },
-            "attackCount": 18,
+            "attackCount": 22,
             "districtCount": 6,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 39,
-                    "stars": 0,
-                    "attackCount": 2,
-                    "totalLooted": 3050,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 6,
+                    "totalLooted": 9112,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 97,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 51,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#LC0GPUPVJ",
@@ -1287,6 +1335,131 @@
                             "stars": 0
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#J8CRGJPC",
+                "name": "Darkness Ranger",
+                "level": 14,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/NG7nc0PqXTfot7LG_gMZpLfNGNyhH1SRGwmQHAK-xo8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/NG7nc0PqXTfot7LG_gMZpLfNGNyhH1SRGwmQHAK-xo8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/NG7nc0PqXTfot7LG_gMZpLfNGNyhH1SRGwmQHAK-xo8.png"
+                }
+            },
+            "attackCount": 6,
+            "districtCount": 6,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 46,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 3470,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 95,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 4390,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6488,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 }
             ]
         }
