@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260904T070000.000Z",
     "endTime": "20260907T070000.000Z",
-    "capitalTotalLoot": 288018,
+    "capitalTotalLoot": 290791,
     "raidsCompleted": 7,
-    "totalAttacks": 138,
-    "enemyDistrictsDestroyed": 43,
+    "totalAttacks": 140,
+    "enemyDistrictsDestroyed": 44,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -148,10 +148,10 @@
         {
             "tag": "#LC82R2YPV",
             "name": "Manuel",
-            "attacks": 4,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 6062
+            "capitalResourcesLooted": 8835
         },
         {
             "tag": "#QR9QGU200",
@@ -1867,9 +1867,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/zgLasXJy9w0Oe9PcRYKO2h_Mc6nQRMQUZENyTasm9gE.png"
                 }
             },
-            "attackCount": 4,
+            "attackCount": 6,
             "districtCount": 6,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 2,
             "districts": [
                 {
                     "id": 70000000,
@@ -1902,11 +1902,27 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
-                    "destructionPercent": 57,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3650,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6423,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 88,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#VVLQ80PL",
