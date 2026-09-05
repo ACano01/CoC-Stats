@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260904T070000.000Z",
     "endTime": "20260907T070000.000Z",
-    "capitalTotalLoot": 226300,
-    "raidsCompleted": 5,
-    "totalAttacks": 108,
-    "enemyDistrictsDestroyed": 34,
+    "capitalTotalLoot": 241055,
+    "raidsCompleted": 6,
+    "totalAttacks": 114,
+    "enemyDistrictsDestroyed": 36,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#29G0LRQYJ",
+            "name": "lord madara",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 14755
+        },
         {
             "tag": "#9QQVQ029G",
             "name": "Desert Shadow",
@@ -1365,18 +1373,44 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/NG7nc0PqXTfot7LG_gMZpLfNGNyhH1SRGwmQHAK-xo8.png"
                 }
             },
-            "attackCount": 12,
+            "attackCount": 16,
             "districtCount": 6,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 8743,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1487,11 +1521,19 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
-                    "destructionPercent": 82,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 4215,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 5852,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#GPYGUJ080",
@@ -1526,6 +1568,95 @@
                             },
                             "destructionPercent": 100,
                             "stars": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2YQPC08YV",
+                "name": "Petarung 4d",
+                "level": 9,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/T9rVV75Az6Z0o-U31x7U25FNaTFmvsCvCHch45AGyMg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/T9rVV75Az6Z0o-U31x7U25FNaTFmvsCvCHch45AGyMg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/T9rVV75Az6Z0o-U31x7U25FNaTFmvsCvCHch45AGyMg.png"
+                }
+            },
+            "attackCount": 2,
+            "districtCount": 6,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 93,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 4375,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 58,
+                            "stars": 1
                         }
                     ]
                 }
