@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260904T070000.000Z",
     "endTime": "20260907T070000.000Z",
-    "capitalTotalLoot": 273292,
-    "raidsCompleted": 6,
-    "totalAttacks": 132,
-    "enemyDistrictsDestroyed": 41,
+    "capitalTotalLoot": 288018,
+    "raidsCompleted": 7,
+    "totalAttacks": 138,
+    "enemyDistrictsDestroyed": 43,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -72,6 +72,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 8360
+        },
+        {
+            "tag": "#VVLQ80PL",
+            "name": "Lowmony",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 14726
         },
         {
             "tag": "#LCG8QUPVV",
@@ -1600,19 +1608,35 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/T9rVV75Az6Z0o-U31x7U25FNaTFmvsCvCHch45AGyMg.png"
                 }
             },
-            "attackCount": 20,
+            "attackCount": 22,
             "districtCount": 6,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 63,
-                    "stars": 1,
-                    "attackCount": 4,
-                    "totalLooted": 4880,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 6,
+                    "totalLooted": 8888,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VVLQ80PL",
+                                "name": "Lowmony"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VVLQ80PL",
+                                "name": "Lowmony"
+                            },
+                            "destructionPercent": 75,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#G98J2J8J2",
@@ -1829,6 +1853,113 @@
                             "stars": 1
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#29JJ8C808",
+                "name": "EVOS",
+                "level": 11,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/zgLasXJy9w0Oe9PcRYKO2h_Mc6nQRMQUZENyTasm9gE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/zgLasXJy9w0Oe9PcRYKO2h_Mc6nQRMQUZENyTasm9gE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/zgLasXJy9w0Oe9PcRYKO2h_Mc6nQRMQUZENyTasm9gE.png"
+                }
+            },
+            "attackCount": 4,
+            "districtCount": 6,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 57,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 3650,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VVLQ80PL",
+                                "name": "Lowmony"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7068,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#VVLQ80PL",
+                                "name": "Lowmony"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VVLQ80PL",
+                                "name": "Lowmony"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#VVLQ80PL",
+                                "name": "Lowmony"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 }
             ]
         }
