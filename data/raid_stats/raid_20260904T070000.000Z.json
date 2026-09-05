@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260904T070000.000Z",
     "endTime": "20260907T070000.000Z",
-    "capitalTotalLoot": 264932,
+    "capitalTotalLoot": 273292,
     "raidsCompleted": 6,
-    "totalAttacks": 126,
-    "enemyDistrictsDestroyed": 40,
+    "totalAttacks": 132,
+    "enemyDistrictsDestroyed": 41,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -64,6 +64,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 14692
+        },
+        {
+            "tag": "#G98J2J8J2",
+            "name": "Lolazo2",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 8360
         },
         {
             "tag": "#LCG8QUPVV",
@@ -1592,28 +1600,78 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/T9rVV75Az6Z0o-U31x7U25FNaTFmvsCvCHch45AGyMg.png"
                 }
             },
-            "attackCount": 14,
+            "attackCount": 20,
             "districtCount": 6,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 63,
+                    "stars": 1,
+                    "attackCount": 4,
+                    "totalLooted": 4880,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 31,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
-                    "destructionPercent": 45,
-                    "stars": 0,
-                    "attackCount": 2,
-                    "totalLooted": 3340,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 6820,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 86,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#9QQVQ029G",
