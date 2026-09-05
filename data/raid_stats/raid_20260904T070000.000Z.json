@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260904T070000.000Z",
     "endTime": "20260907T070000.000Z",
-    "capitalTotalLoot": 221000,
+    "capitalTotalLoot": 226300,
     "raidsCompleted": 5,
-    "totalAttacks": 105,
-    "enemyDistrictsDestroyed": 33,
+    "totalAttacks": 108,
+    "enemyDistrictsDestroyed": 34,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -136,6 +136,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 11192
+        },
+        {
+            "tag": "#GPYGUJ080",
+            "name": "skibidi Sigma",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 5300
         },
         {
             "tag": "#C2GRCV8C",
@@ -1357,9 +1365,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/NG7nc0PqXTfot7LG_gMZpLfNGNyhH1SRGwmQHAK-xo8.png"
                 }
             },
-            "attackCount": 9,
+            "attackCount": 12,
             "districtCount": 6,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -1409,11 +1417,19 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 2,
-                    "destructionPercent": 95,
-                    "stars": 1,
-                    "attackCount": 2,
-                    "totalLooted": 4390,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 5475,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#R222YP0QY",
@@ -1471,10 +1487,28 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 82,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 4215,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 82,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
