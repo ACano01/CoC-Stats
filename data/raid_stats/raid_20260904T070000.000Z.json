@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260904T070000.000Z",
     "endTime": "20260907T070000.000Z",
-    "capitalTotalLoot": 214618,
+    "capitalTotalLoot": 221000,
     "raidsCompleted": 5,
-    "totalAttacks": 102,
-    "enemyDistrictsDestroyed": 31,
+    "totalAttacks": 105,
+    "enemyDistrictsDestroyed": 33,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -144,6 +144,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 12420
+        },
+        {
+            "tag": "#GGRCJRLVV",
+            "name": "Catracho",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 6382
         },
         {
             "tag": "#QL02UP8YC",
@@ -1349,9 +1357,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/NG7nc0PqXTfot7LG_gMZpLfNGNyhH1SRGwmQHAK-xo8.png"
                 }
             },
-            "attackCount": 6,
+            "attackCount": 9,
             "districtCount": 6,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -1366,11 +1374,27 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
-                    "destructionPercent": 46,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 3470,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7256,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GGRCJRLVV",
+                                "name": "Catracho"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GGRCJRLVV",
+                                "name": "Catracho"
+                            },
+                            "destructionPercent": 86,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#R222YP0QY",
@@ -1456,10 +1480,20 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 1,
+                    "totalLooted": 2596,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GGRCJRLVV",
+                                "name": "Catracho"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        }
+                    ]
                 }
             ]
         }
