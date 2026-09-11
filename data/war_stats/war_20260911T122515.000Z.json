@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 9,
+        "attacks": 11,
         "stars": 26,
         "destructionPercentage": 89.9,
         "members": [
@@ -56,6 +56,24 @@
                 "name": "tito",
                 "townhallLevel": 15,
                 "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#GJVGU89YQ",
+                        "defenderTag": "#2JQ9PRU2Q",
+                        "stars": 1,
+                        "destructionPercentage": 88,
+                        "order": 10,
+                        "duration": 137
+                    },
+                    {
+                        "attackerTag": "#GJVGU89YQ",
+                        "defenderTag": "#98UUCPR9U",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 11,
+                        "duration": 126
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -228,7 +246,7 @@
                 "name": "ENGR. EJA",
                 "townhallLevel": 17,
                 "mapPosition": 2,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#C2GRCV8C",
                     "defenderTag": "#98UUCPR9U",
@@ -318,7 +336,7 @@
                 "name": "S O Y S O Y",
                 "townhallLevel": 15,
                 "mapPosition": 4,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#QGQQY2LJ0",
                     "defenderTag": "#2JQ9PRU2Q",
