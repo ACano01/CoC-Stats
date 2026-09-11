@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 47307,
-    "raidsCompleted": 1,
-    "totalAttacks": 24,
-    "enemyDistrictsDestroyed": 7,
+    "capitalTotalLoot": 87672,
+    "raidsCompleted": 2,
+    "totalAttacks": 44,
+    "enemyDistrictsDestroyed": 13,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -16,6 +16,38 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 12069
+        },
+        {
+            "tag": "#28UJLRYV9",
+            "name": "flexes",
+            "attacks": 3,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7240
+        },
+        {
+            "tag": "#QPLQ2VG0Y",
+            "name": "Simon",
+            "attacks": 5,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 8935
+        },
+        {
+            "tag": "#GQV80RLCU",
+            "name": "dani",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11012
+        },
+        {
+            "tag": "#QR9QGU200",
+            "name": "jd",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 13178
         },
         {
             "tag": "#GPYGUJ080",
@@ -297,7 +329,258 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/8E7rPqLWmDx-dHapxWgAm9yoCegZm-HH31shQjmXdfA.png"
                 }
             },
-            "attackCount": 4,
+            "attackCount": 21,
+            "districtCount": 6,
+            "districtsDestroyed": 6,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 8935,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QPLQ2VG0Y",
+                                "name": "Simon"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QPLQ2VG0Y",
+                                "name": "Simon"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QPLQ2VG0Y",
+                                "name": "Simon"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QPLQ2VG0Y",
+                                "name": "Simon"
+                            },
+                            "destructionPercent": 34,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QPLQ2VG0Y",
+                                "name": "Simon"
+                            },
+                            "destructionPercent": 21,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6728,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6392,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6450,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 90,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 7204,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8090UU9U2",
+                                "name": "McPollo"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8090UU9U2",
+                                "name": "McPollo"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8090UU9U2",
+                                "name": "McPollo"
+                            },
+                            "destructionPercent": 68,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8090UU9U2",
+                                "name": "McPollo"
+                            },
+                            "destructionPercent": 20,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 4620,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2G9R9PUPG",
+                "name": "El hangar",
+                "level": 8,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/-mz69f_i3pJODu32HOvMOpuoWJZmAKpY6qOVtr_DgI0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/-mz69f_i3pJODu32HOvMOpuoWJZmAKpY6qOVtr_DgI0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/-mz69f_i3pJODu32HOvMOpuoWJZmAKpY6qOVtr_DgI0.png"
+                }
+            },
+            "attackCount": 3,
             "districtCount": 6,
             "districtsDestroyed": 1,
             "districts": [
@@ -343,39 +626,31 @@
                     "districtHallLevel": 2,
                     "destructionPercent": 100,
                     "stars": 3,
-                    "attackCount": 4,
-                    "totalLooted": 7204,
+                    "attackCount": 3,
+                    "totalLooted": 7240,
                     "attacks": [
                         {
                             "attacker": {
-                                "tag": "#8090UU9U2",
-                                "name": "McPollo"
+                                "tag": "#28UJLRYV9",
+                                "name": "flexes"
                             },
                             "destructionPercent": 100,
                             "stars": 3
                         },
                         {
                             "attacker": {
-                                "tag": "#8090UU9U2",
-                                "name": "McPollo"
+                                "tag": "#28UJLRYV9",
+                                "name": "flexes"
                             },
-                            "destructionPercent": 95,
+                            "destructionPercent": 91,
                             "stars": 2
                         },
                         {
                             "attacker": {
-                                "tag": "#8090UU9U2",
-                                "name": "McPollo"
+                                "tag": "#28UJLRYV9",
+                                "name": "flexes"
                             },
-                            "destructionPercent": 68,
-                            "stars": 2
-                        },
-                        {
-                            "attacker": {
-                                "tag": "#8090UU9U2",
-                                "name": "McPollo"
-                            },
-                            "destructionPercent": 20,
+                            "destructionPercent": 35,
                             "stars": 0
                         }
                     ]
