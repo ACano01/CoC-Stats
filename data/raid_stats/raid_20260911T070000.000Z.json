@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 112069,
+    "capitalTotalLoot": 117419,
     "raidsCompleted": 2,
-    "totalAttacks": 56,
+    "totalAttacks": 59,
     "enemyDistrictsDestroyed": 17,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -42,6 +42,14 @@
             "capitalResourcesLooted": 7240
         },
         {
+            "tag": "#LQ9QQ9G29",
+            "name": "AngelRyes",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 1560
+        },
+        {
             "tag": "#QPLQ2VG0Y",
             "name": "Simon",
             "attacks": 5,
@@ -56,6 +64,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 11012
+        },
+        {
+            "tag": "#R222YP0QY",
+            "name": "N1co",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 3790
         },
         {
             "tag": "#QR9QGU200",
@@ -596,7 +612,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/-mz69f_i3pJODu32HOvMOpuoWJZmAKpY6qOVtr_DgI0.png"
                 }
             },
-            "attackCount": 15,
+            "attackCount": 18,
             "districtCount": 6,
             "districtsDestroyed": 5,
             "districts": [
@@ -604,10 +620,36 @@
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 81,
+                    "stars": 1,
+                    "attackCount": 3,
+                    "totalLooted": 5350,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 81,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 56,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
