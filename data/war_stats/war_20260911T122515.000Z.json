@@ -1,5 +1,5 @@
 {
-    "state": "inWar",
+    "state": "warEnded",
     "teamSize": 10,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 15,
+        "attacks": 17,
         "stars": 30,
         "destructionPercentage": 100.0,
         "members": [
@@ -132,6 +132,24 @@
                 "name": "Pepe27",
                 "townhallLevel": 14,
                 "mapPosition": 6,
+                "attacks": [
+                    {
+                        "attackerTag": "#UJYY2PPU",
+                        "defenderTag": "#YLRQ8RRY0",
+                        "stars": 1,
+                        "destructionPercentage": 99,
+                        "order": 21,
+                        "duration": 94
+                    },
+                    {
+                        "attackerTag": "#UJYY2PPU",
+                        "defenderTag": "#QRY89Y8GY",
+                        "stars": 1,
+                        "destructionPercentage": 95,
+                        "order": 22,
+                        "duration": 91
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -292,7 +310,7 @@
                 "name": "S O Y S O Y",
                 "townhallLevel": 14,
                 "mapPosition": 6,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#9QQVQ029G",
                     "defenderTag": "#YLRQ8RRY0",
@@ -398,7 +416,7 @@
                 "name": "S O Y S O Y",
                 "townhallLevel": 15,
                 "mapPosition": 3,
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#QGQQY2LJ0",
                     "defenderTag": "#QRY89Y8GY",
