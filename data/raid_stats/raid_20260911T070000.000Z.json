@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 141954,
+    "capitalTotalLoot": 157628,
     "raidsCompleted": 3,
-    "totalAttacks": 71,
-    "enemyDistrictsDestroyed": 21,
+    "totalAttacks": 79,
+    "enemyDistrictsDestroyed": 23,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -52,18 +52,18 @@
         {
             "tag": "#LQ9QQ9G29",
             "name": "AngelRyes",
-            "attacks": 1,
+            "attacks": 6,
             "attackLimit": 5,
-            "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 1560
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11834
         },
         {
             "tag": "#QPLQ2VG0Y",
             "name": "Simon",
-            "attacks": 5,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 8935
+            "capitalResourcesLooted": 11015
         },
         {
             "tag": "#GQV80RLCU",
@@ -96,6 +96,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 13178
+        },
+        {
+            "tag": "#QCUY9CLUV",
+            "name": "Tucky",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 3320
         },
         {
             "tag": "#GPYGUJ080",
@@ -879,27 +887,79 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/lW78lS0fwDOz_kIiFCHYtnimLFnLqfD50KD2x6dgFj4.png"
                 }
             },
-            "attackCount": 9,
+            "attackCount": 17,
             "districtCount": 6,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 72,
+                    "stars": 2,
+                    "attackCount": 3,
+                    "totalLooted": 5400,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QCUY9CLUV",
+                                "name": "Tucky"
+                            },
+                            "destructionPercent": 72,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QCUY9CLUV",
+                                "name": "Tucky"
+                            },
+                            "destructionPercent": 54,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QPLQ2VG0Y",
+                                "name": "Simon"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6770,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 68,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -1002,11 +1062,27 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
-                    "destructionPercent": 33,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 1320,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 4824,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#UY2YUV2R",
