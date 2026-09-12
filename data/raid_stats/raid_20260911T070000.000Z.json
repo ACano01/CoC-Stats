@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 178212,
-    "raidsCompleted": 4,
-    "totalAttacks": 88,
-    "enemyDistrictsDestroyed": 27,
+    "capitalTotalLoot": 205624,
+    "raidsCompleted": 5,
+    "totalAttacks": 100,
+    "enemyDistrictsDestroyed": 30,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -24,6 +24,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 12069
+        },
+        {
+            "tag": "#8VJ9U88VQ",
+            "name": "Dylan",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 13613
         },
         {
             "tag": "#UY2YUV2R",
@@ -56,6 +64,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 11834
+        },
+        {
+            "tag": "#P9VR8JQ9",
+            "name": "chechu-20",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 13799
         },
         {
             "tag": "#QPLQ2VG0Y",
@@ -1122,36 +1138,122 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/vEyefMkgVyog38sSbyqpr1GJyBQ2rlRJ8nUSlQ6cHtw.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 18,
             "districtCount": 6,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 9019,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P9VR8JQ9",
+                                "name": "chechu-20"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9VR8JQ9",
+                                "name": "chechu-20"
+                            },
+                            "destructionPercent": 86,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9VR8JQ9",
+                                "name": "chechu-20"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9VR8JQ9",
+                                "name": "chechu-20"
+                            },
+                            "destructionPercent": 11,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6865,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 81,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6748,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -1249,6 +1351,95 @@
                             "stars": 0
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#8VY2G89G",
+                "name": "MOSCOW",
+                "level": 14,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/KMoak8qV30x9ZqanmMcKfibWymtgkw3Bd53cslt6yvU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/KMoak8qV30x9ZqanmMcKfibWymtgkw3Bd53cslt6yvU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/KMoak8qV30x9ZqanmMcKfibWymtgkw3Bd53cslt6yvU.png"
+                }
+            },
+            "attackCount": 2,
+            "districtCount": 6,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 77,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 4780,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P9VR8JQ9",
+                                "name": "chechu-20"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P9VR8JQ9",
+                                "name": "chechu-20"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 }
             ]
         }
