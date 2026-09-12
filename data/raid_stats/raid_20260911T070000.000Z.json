@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 205624,
+    "capitalTotalLoot": 207732,
     "raidsCompleted": 5,
-    "totalAttacks": 100,
-    "enemyDistrictsDestroyed": 30,
+    "totalAttacks": 101,
+    "enemyDistrictsDestroyed": 31,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#9QQVQ029G",
+            "name": "Desert Shadow",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 2108
+        },
         {
             "tag": "#QGQQY2LJ0",
             "name": "hugonando125",
@@ -1365,9 +1373,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/KMoak8qV30x9ZqanmMcKfibWymtgkw3Bd53cslt6yvU.png"
                 }
             },
-            "attackCount": 2,
+            "attackCount": 3,
             "districtCount": 6,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 1,
             "districts": [
                 {
                     "id": 70000000,
@@ -1409,11 +1417,19 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
-                    "destructionPercent": 77,
-                    "stars": 1,
-                    "attackCount": 2,
-                    "totalLooted": 4780,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6888,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9QQVQ029G",
+                                "name": "Desert Shadow"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#P9VR8JQ9",
