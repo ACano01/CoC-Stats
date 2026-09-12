@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 207732,
+    "capitalTotalLoot": 225646,
     "raidsCompleted": 5,
-    "totalAttacks": 101,
-    "enemyDistrictsDestroyed": 31,
+    "totalAttacks": 110,
+    "enemyDistrictsDestroyed": 34,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -124,10 +124,10 @@
         {
             "tag": "#QCUY9CLUV",
             "name": "Tucky",
-            "attacks": 2,
+            "attacks": 5,
             "attackLimit": 5,
             "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 3320
+            "capitalResourcesLooted": 10755
         },
         {
             "tag": "#GPYGUJ080",
@@ -152,6 +152,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 14241
+        },
+        {
+            "tag": "#GGRCJRLVV",
+            "name": "Catracho",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10479
         },
         {
             "tag": "#QL02UP8YC",
@@ -1373,9 +1381,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/KMoak8qV30x9ZqanmMcKfibWymtgkw3Bd53cslt6yvU.png"
                 }
             },
-            "attackCount": 3,
+            "attackCount": 12,
             "districtCount": 6,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -1390,10 +1398,44 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 6790,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GGRCJRLVV",
+                                "name": "Catracho"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GGRCJRLVV",
+                                "name": "Catracho"
+                            },
+                            "destructionPercent": 69,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GGRCJRLVV",
+                                "name": "Catracho"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GGRCJRLVV",
+                                "name": "Catracho"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
@@ -1408,10 +1450,36 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6507,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GGRCJRLVV",
+                                "name": "Catracho"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QCUY9CLUV",
+                                "name": "Tucky"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QCUY9CLUV",
+                                "name": "Tucky"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -1452,10 +1520,28 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 4617,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GGRCJRLVV",
+                                "name": "Catracho"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QCUY9CLUV",
+                                "name": "Tucky"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
