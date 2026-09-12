@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 117419,
-    "raidsCompleted": 2,
-    "totalAttacks": 59,
-    "enemyDistrictsDestroyed": 17,
+    "capitalTotalLoot": 141954,
+    "raidsCompleted": 3,
+    "totalAttacks": 71,
+    "enemyDistrictsDestroyed": 21,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -24,6 +24,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 12069
+        },
+        {
+            "tag": "#UY2YUV2R",
+            "name": "ITACHI UCHIHA",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 4545
         },
         {
             "tag": "#VVLQ80PL",
@@ -68,10 +76,18 @@
         {
             "tag": "#R222YP0QY",
             "name": "N1co",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
-            "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 3790
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 13250
+        },
+        {
+            "tag": "#LC82R2YPV",
+            "name": "Manuel",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10530
         },
         {
             "tag": "#QR9QGU200",
@@ -612,19 +628,43 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/-mz69f_i3pJODu32HOvMOpuoWJZmAKpY6qOVtr_DgI0.png"
                 }
             },
-            "attackCount": 18,
+            "attackCount": 21,
             "districtCount": 6,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 81,
-                    "stars": 1,
-                    "attackCount": 3,
-                    "totalLooted": 5350,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 6,
+                    "totalLooted": 9310,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 99,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 92,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#LQ9QQ9G29",
@@ -827,7 +867,230 @@
                     ]
                 }
             ]
+        },
+        {
+            "defender": {
+                "tag": "#9LVLQQ00",
+                "name": "PEKKA INDO",
+                "level": 18,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lW78lS0fwDOz_kIiFCHYtnimLFnLqfD50KD2x6dgFj4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lW78lS0fwDOz_kIiFCHYtnimLFnLqfD50KD2x6dgFj4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lW78lS0fwDOz_kIiFCHYtnimLFnLqfD50KD2x6dgFj4.png"
+                }
+            },
+            "attackCount": 9,
+            "districtCount": 6,
+            "districtsDestroyed": 3,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6590,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 58,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 6095,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#R222YP0QY",
+                                "name": "N1co"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UY2YUV2R",
+                                "name": "ITACHI UCHIHA"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6570,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 19,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 33,
+                    "stars": 0,
+                    "attackCount": 1,
+                    "totalLooted": 1320,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UY2YUV2R",
+                                "name": "ITACHI UCHIHA"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
         }
     ],
-    "defenseLog": []
+    "defenseLog": [
+        {
+            "attacker": {
+                "tag": "#2GCV9YVQJ",
+                "name": "Waffle\u00a5",
+                "level": 8,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/rxgzky50Z5Iol9AaBv1p6z5CJgLMjT0qzYFVZofQNn0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/rxgzky50Z5Iol9AaBv1p6z5CJgLMjT0qzYFVZofQNn0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/rxgzky50Z5Iol9AaBv1p6z5CJgLMjT0qzYFVZofQNn0.png"
+                }
+            },
+            "attackCount": 0,
+            "districtCount": 6,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                }
+            ]
+        }
+    ]
 }
