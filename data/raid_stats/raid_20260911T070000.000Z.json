@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 268706,
-    "raidsCompleted": 6,
-    "totalAttacks": 131,
-    "enemyDistrictsDestroyed": 40,
+    "capitalTotalLoot": 281093,
+    "raidsCompleted": 7,
+    "totalAttacks": 137,
+    "enemyDistrictsDestroyed": 42,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -16,6 +16,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 2108
+        },
+        {
+            "tag": "#LCJPYLR0P",
+            "name": "Angel",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12387
         },
         {
             "tag": "#QGQQY2LJ0",
@@ -1648,18 +1656,44 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/HLgI-V67FZ5jjCQGramQyTeRnCHRaYydX4tm92vmP7I.png"
                 }
             },
-            "attackCount": 13,
+            "attackCount": 19,
             "districtCount": 6,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7227,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 88,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1808,6 +1842,103 @@
                             "stars": 0
                         }
                     ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 5160,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#JPVPGUV0",
+                "name": "THE UNBEATABLES",
+                "level": 14,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fzqJQIRs52PpRuACZQJ_gxrvZjpQYwyqJOc8zILpnwY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fzqJQIRs52PpRuACZQJ_gxrvZjpQYwyqJOc8zILpnwY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fzqJQIRs52PpRuACZQJ_gxrvZjpQYwyqJOc8zILpnwY.png"
+                }
+            },
+            "attackCount": 0,
+            "districtCount": 6,
+            "districtsDestroyed": 0,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 },
                 {
                     "id": 70000005,
