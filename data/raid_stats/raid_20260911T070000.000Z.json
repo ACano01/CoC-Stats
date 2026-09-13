@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 225646,
+    "capitalTotalLoot": 233916,
     "raidsCompleted": 5,
-    "totalAttacks": 110,
-    "enemyDistrictsDestroyed": 34,
+    "totalAttacks": 114,
+    "enemyDistrictsDestroyed": 35,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#UY2YUV2R",
             "name": "ITACHI UCHIHA",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
-            "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 4545
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12815
         },
         {
             "tag": "#VVLQ80PL",
@@ -1381,18 +1381,28 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/KMoak8qV30x9ZqanmMcKfibWymtgkw3Bd53cslt6yvU.png"
                 }
             },
-            "attackCount": 12,
+            "attackCount": 16,
             "districtCount": 6,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 0,
+                    "destructionPercent": 36,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 1920,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UY2YUV2R",
+                                "name": "ITACHI UCHIHA"
+                            },
+                            "destructionPercent": 36,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1441,10 +1451,36 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6350,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#UY2YUV2R",
+                                "name": "ITACHI UCHIHA"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UY2YUV2R",
+                                "name": "ITACHI UCHIHA"
+                            },
+                            "destructionPercent": 68,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#UY2YUV2R",
+                                "name": "ITACHI UCHIHA"
+                            },
+                            "destructionPercent": 32,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
