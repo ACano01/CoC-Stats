@@ -1,5 +1,5 @@
 {
-    "state": "preparation",
+    "state": "inWar",
     "teamSize": 10,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 2,
+        "stars": 3,
+        "destructionPercentage": 16.4,
         "members": [
             {
                 "tag": "#CQVGC9UR",
@@ -45,13 +45,39 @@
                 "name": "Lolazo2",
                 "townhallLevel": 16,
                 "mapPosition": 2,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2JPR2V22U",
+                    "defenderTag": "#G98J2J8J2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 1,
+                    "duration": 135
+                }
             },
             {
                 "tag": "#QPLQ2VG0Y",
                 "name": "Simon",
                 "townhallLevel": 13,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#QPLQ2VG0Y",
+                        "defenderTag": "#LJ98R22RJ",
+                        "stars": 2,
+                        "destructionPercentage": 83,
+                        "order": 2,
+                        "duration": 125
+                    },
+                    {
+                        "attackerTag": "#QPLQ2VG0Y",
+                        "defenderTag": "#LQC8RYCJQ",
+                        "stars": 1,
+                        "destructionPercentage": 81,
+                        "order": 3,
+                        "duration": 153
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -100,9 +126,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/xvNPzJSX8d2OyjgVnuFFtoLP9NmVzzgkqzKgHH_WJPA.png"
         },
         "clanLevel": 8,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 1,
+        "stars": 3,
+        "destructionPercentage": 10.0,
         "members": [
             {
                 "tag": "#JPQLCPRC",
@@ -123,13 +149,31 @@
                 "name": "SantutuCRcocbws",
                 "townhallLevel": 13,
                 "mapPosition": 10,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QPLQ2VG0Y",
+                    "defenderTag": "#LJ98R22RJ",
+                    "stars": 2,
+                    "destructionPercentage": 83,
+                    "order": 2,
+                    "duration": 125
+                }
             },
             {
                 "tag": "#2JPR2V22U",
                 "name": "DarienG07",
                 "townhallLevel": 16,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#2JPR2V22U",
+                        "defenderTag": "#G98J2J8J2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 1,
+                        "duration": 135
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -137,7 +181,15 @@
                 "name": "Gto Crow",
                 "townhallLevel": 13,
                 "mapPosition": 9,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QPLQ2VG0Y",
+                    "defenderTag": "#LQC8RYCJQ",
+                    "stars": 1,
+                    "destructionPercentage": 81,
+                    "order": 3,
+                    "duration": 153
+                }
             },
             {
                 "tag": "#Q092GRL0Y",
