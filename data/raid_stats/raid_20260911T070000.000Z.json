@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 233916,
-    "raidsCompleted": 5,
-    "totalAttacks": 114,
-    "enemyDistrictsDestroyed": 35,
+    "capitalTotalLoot": 262089,
+    "raidsCompleted": 6,
+    "totalAttacks": 127,
+    "enemyDistrictsDestroyed": 39,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -40,6 +40,22 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 13613
+        },
+        {
+            "tag": "#G98J2J8J2",
+            "name": "Lolazo2",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 4111
+        },
+        {
+            "tag": "#9920PURJR",
+            "name": "\u00bbGOKU\u00ab",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12022
         },
         {
             "tag": "#UY2YUV2R",
@@ -88,6 +104,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 11015
+        },
+        {
+            "tag": "#LC0GPUPVJ",
+            "name": "merka",
+            "attacks": 5,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12040
         },
         {
             "tag": "#GQV80RLCU",
@@ -1381,19 +1405,51 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/KMoak8qV30x9ZqanmMcKfibWymtgkw3Bd53cslt6yvU.png"
                 }
             },
-            "attackCount": 16,
+            "attackCount": 20,
             "districtCount": 6,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 6,
-                    "destructionPercent": 36,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 1920,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 9267,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 94,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 58,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#UY2YUV2R",
@@ -1578,6 +1634,155 @@
                             "stars": 1
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#8YLUVGLQ",
+                "name": "Blitz Japan",
+                "level": 8,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/HLgI-V67FZ5jjCQGramQyTeRnCHRaYydX4tm92vmP7I.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/HLgI-V67FZ5jjCQGramQyTeRnCHRaYydX4tm92vmP7I.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/HLgI-V67FZ5jjCQGramQyTeRnCHRaYydX4tm92vmP7I.png"
+                }
+            },
+            "attackCount": 9,
+            "districtCount": 6,
+            "districtsDestroyed": 3,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 6,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7030,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC0GPUPVJ",
+                                "name": "merka"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC0GPUPVJ",
+                                "name": "merka"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC0GPUPVJ",
+                                "name": "merka"
+                            },
+                            "destructionPercent": 37,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6749,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC0GPUPVJ",
+                                "name": "merka"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC0GPUPVJ",
+                                "name": "merka"
+                            },
+                            "destructionPercent": 38,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7047,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 15,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
                 }
             ]
         }
