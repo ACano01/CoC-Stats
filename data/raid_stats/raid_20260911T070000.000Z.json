@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 262089,
+    "capitalTotalLoot": 268706,
     "raidsCompleted": 6,
-    "totalAttacks": 127,
-    "enemyDistrictsDestroyed": 39,
+    "totalAttacks": 131,
+    "enemyDistrictsDestroyed": 40,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -44,10 +44,10 @@
         {
             "tag": "#G98J2J8J2",
             "name": "Lolazo2",
-            "attacks": 2,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 4111
+            "capitalResourcesLooted": 10728
         },
         {
             "tag": "#9920PURJR",
@@ -1648,9 +1648,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/HLgI-V67FZ5jjCQGramQyTeRnCHRaYydX4tm92vmP7I.png"
                 }
             },
-            "attackCount": 9,
+            "attackCount": 13,
             "districtCount": 6,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -1735,10 +1735,44 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 6617,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 90,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 79,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
