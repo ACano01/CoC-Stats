@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 281093,
+    "capitalTotalLoot": 299884,
     "raidsCompleted": 7,
-    "totalAttacks": 137,
-    "enemyDistrictsDestroyed": 42,
+    "totalAttacks": 145,
+    "enemyDistrictsDestroyed": 45,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#CQVGC9UR",
+            "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 13991
+        },
         {
             "tag": "#9QQVQ029G",
             "name": "Desert Shadow",
@@ -152,6 +160,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 13178
+        },
+        {
+            "tag": "#V8UC9Y2C",
+            "name": "Tuboescape",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 4800
         },
         {
             "tag": "#QCUY9CLUV",
@@ -1891,9 +1907,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/fzqJQIRs52PpRuACZQJ_gxrvZjpQYwyqJOc8zILpnwY.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 8,
             "districtCount": 6,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -1926,28 +1942,98 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6527,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 75,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7464,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 4800,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
