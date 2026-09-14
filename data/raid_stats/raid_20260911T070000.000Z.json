@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260911T070000.000Z",
     "endTime": "20260914T070000.000Z",
-    "capitalTotalLoot": 334485,
+    "capitalTotalLoot": 341807,
     "raidsCompleted": 8,
-    "totalAttacks": 161,
-    "enemyDistrictsDestroyed": 50,
+    "totalAttacks": 167,
+    "enemyDistrictsDestroyed": 51,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -88,6 +88,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 11106
+        },
+        {
+            "tag": "#GLLQPY0U2",
+            "name": "TytyVas",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7322
         },
         {
             "tag": "#28UJLRYV9",
@@ -2158,9 +2166,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/kNRJI4-tIx2Xm-1wnWchbq5XLP6DLdVzrSLkKWn8osQ.png"
                 }
             },
-            "attackCount": 5,
+            "attackCount": 11,
             "districtCount": 7,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -2228,11 +2236,27 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
-                    "destructionPercent": 42,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 2560,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6737,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#QGJJPGLV",
@@ -2247,10 +2271,44 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 73,
+                    "stars": 1,
+                    "attackCount": 4,
+                    "totalLooted": 3145,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 58,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 20,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
