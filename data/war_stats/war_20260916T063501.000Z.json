@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 20,
-        "stars": 46,
-        "destructionPercentage": 82.75,
+        "attacks": 24,
+        "stars": 52,
+        "destructionPercentage": 88.1,
         "members": [
             {
                 "tag": "#CQVGC9UR",
@@ -92,7 +92,15 @@
                         "duration": 124
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#98U0YUVR",
+                    "defenderTag": "#9QQVQ029G",
+                    "stars": 2,
+                    "destructionPercentage": 70,
+                    "order": 31,
+                    "duration": 116
+                }
             },
             {
                 "tag": "#GJVGU89YQ",
@@ -179,6 +187,24 @@
                 "name": "ITACHI UCHIHA",
                 "townhallLevel": 13,
                 "mapPosition": 14,
+                "attacks": [
+                    {
+                        "attackerTag": "#UY2YUV2R",
+                        "defenderTag": "#GLR2RV8J9",
+                        "stars": 2,
+                        "destructionPercentage": 63,
+                        "order": 33,
+                        "duration": 108
+                    },
+                    {
+                        "attackerTag": "#UY2YUV2R",
+                        "defenderTag": "#P9CQUGG0",
+                        "stars": 1,
+                        "destructionPercentage": 76,
+                        "order": 34,
+                        "duration": 108
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#GVG88VU8Q",
@@ -299,6 +325,24 @@
                 "name": "N1co",
                 "townhallLevel": 15,
                 "mapPosition": 3,
+                "attacks": [
+                    {
+                        "attackerTag": "#R222YP0QY",
+                        "defenderTag": "#LJ9CYG0V0",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 29,
+                        "duration": 107
+                    },
+                    {
+                        "attackerTag": "#R222YP0QY",
+                        "defenderTag": "#299U2C2UY",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 30,
+                        "duration": 99
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#UGPJQ00U",
@@ -314,7 +358,15 @@
                 "name": "Pepe27",
                 "townhallLevel": 14,
                 "mapPosition": 10,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#P0Q88QQL0",
+                    "defenderTag": "#UJYY2PPU",
+                    "stars": 2,
+                    "destructionPercentage": 67,
+                    "order": 32,
+                    "duration": 116
+                }
             },
             {
                 "tag": "#LC82R2YPV",
@@ -414,16 +466,16 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/SBZMHAoXuXEhq3UUXeroxveOHzkVxcIcvHP9DqthxEg.png"
         },
         "clanLevel": 10,
-        "attacks": 8,
-        "stars": 22,
-        "destructionPercentage": 37.85,
+        "attacks": 10,
+        "stars": 26,
+        "destructionPercentage": 44.7,
         "members": [
             {
                 "tag": "#P9CQUGG0",
                 "name": "\u0627\u0644\u0645\u062f\u0645\u0631",
                 "townhallLevel": 13,
                 "mapPosition": 12,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2URLVVQ8U",
                     "defenderTag": "#P9CQUGG0",
@@ -468,6 +520,16 @@
                 "name": "Azoomy",
                 "townhallLevel": 13,
                 "mapPosition": 14,
+                "attacks": [
+                    {
+                        "attackerTag": "#98U0YUVR",
+                        "defenderTag": "#9QQVQ029G",
+                        "stars": 2,
+                        "destructionPercentage": 70,
+                        "order": 31,
+                        "duration": 116
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#9QQVQ029G",
@@ -563,14 +625,14 @@
                 "name": "ivbs",
                 "townhallLevel": 13,
                 "mapPosition": 11,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#QGQQY2LJ0",
+                    "attackerTag": "#UY2YUV2R",
                     "defenderTag": "#GLR2RV8J9",
-                    "stars": 1,
-                    "destructionPercentage": 82,
-                    "order": 28,
-                    "duration": 65
+                    "stars": 2,
+                    "destructionPercentage": 63,
+                    "order": 33,
+                    "duration": 108
                 }
             },
             {
@@ -596,7 +658,15 @@
                         "duration": 79
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#R222YP0QY",
+                    "defenderTag": "#LJ9CYG0V0",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 29,
+                    "duration": 107
+                }
             },
             {
                 "tag": "#G0CURPVRP",
@@ -618,14 +688,14 @@
                 "name": "mohamed ka",
                 "townhallLevel": 15,
                 "mapPosition": 4,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#C2GRCV8C",
+                    "attackerTag": "#R222YP0QY",
                     "defenderTag": "#299U2C2UY",
-                    "stars": 1,
-                    "destructionPercentage": 74,
-                    "order": 14,
-                    "duration": 143
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 30,
+                    "duration": 99
                 }
             },
             {
@@ -726,6 +796,16 @@
                 "name": "#\u062d\u0645\u0648\u062f\u064a_\u0623\u0644_\u0647\u064a\u0628\u0647\"",
                 "townhallLevel": 13,
                 "mapPosition": 10,
+                "attacks": [
+                    {
+                        "attackerTag": "#P0Q88QQL0",
+                        "defenderTag": "#UJYY2PPU",
+                        "stars": 2,
+                        "destructionPercentage": 67,
+                        "order": 32,
+                        "duration": 116
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#QGQQY2LJ0",
