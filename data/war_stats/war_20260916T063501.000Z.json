@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 24,
-        "stars": 52,
-        "destructionPercentage": 88.1,
+        "attacks": 25,
+        "stars": 55,
+        "destructionPercentage": 93.1,
         "members": [
             {
                 "tag": "#CQVGC9UR",
@@ -253,7 +253,15 @@
                         "duration": 102
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YG99UJCY9",
+                    "defenderTag": "#2URLVVQ8U",
+                    "stars": 2,
+                    "destructionPercentage": 74,
+                    "order": 36,
+                    "duration": 144
+                }
             },
             {
                 "tag": "#P9VR8JQ9",
@@ -311,7 +319,15 @@
                         "duration": 105
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YG99UJCY9",
+                    "defenderTag": "#QPLQ2VG0Y",
+                    "stars": 2,
+                    "destructionPercentage": 72,
+                    "order": 35,
+                    "duration": 99
+                }
             },
             {
                 "tag": "#GQU0LLR2C",
@@ -403,6 +419,16 @@
                 "name": "skibidi Sigma",
                 "townhallLevel": 15,
                 "mapPosition": 11,
+                "attacks": [
+                    {
+                        "attackerTag": "#GPYGUJ080",
+                        "defenderTag": "#R09QLCQJ9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 37,
+                        "duration": 55
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -466,9 +492,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/SBZMHAoXuXEhq3UUXeroxveOHzkVxcIcvHP9DqthxEg.png"
         },
         "clanLevel": 10,
-        "attacks": 10,
-        "stars": 26,
-        "destructionPercentage": 44.7,
+        "attacks": 12,
+        "stars": 30,
+        "destructionPercentage": 52.0,
         "members": [
             {
                 "tag": "#P9CQUGG0",
@@ -505,6 +531,24 @@
                 "name": "ATOOQ",
                 "townhallLevel": 13,
                 "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#YG99UJCY9",
+                        "defenderTag": "#QPLQ2VG0Y",
+                        "stars": 2,
+                        "destructionPercentage": 72,
+                        "order": 35,
+                        "duration": 99
+                    },
+                    {
+                        "attackerTag": "#YG99UJCY9",
+                        "defenderTag": "#2URLVVQ8U",
+                        "stars": 2,
+                        "destructionPercentage": 74,
+                        "order": 36,
+                        "duration": 144
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2URLVVQ8U",
@@ -603,7 +647,15 @@
                         "duration": 94
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GPYGUJ080",
+                    "defenderTag": "#R09QLCQJ9",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 37,
+                    "duration": 55
+                }
             },
             {
                 "tag": "#G809PV22V",
