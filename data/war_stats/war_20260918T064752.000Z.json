@@ -222,7 +222,15 @@
                         "duration": 93
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QLC099JQV",
+                    "defenderTag": "#P9VR8JQ9",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 31,
+                    "duration": 82
+                }
             },
             {
                 "tag": "#QPLQ2VG0Y",
@@ -355,7 +363,15 @@
                         "duration": 82
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QLC099JQV",
+                    "defenderTag": "#V8UC9Y2C",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 32,
+                    "duration": 83
+                }
             },
             {
                 "tag": "#C2GRCV8C",
@@ -401,9 +417,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/HyJZRP7_vzk4tU1j6im_2dJPydH1nGfPtlUOrgRbteY.png"
         },
         "clanLevel": 10,
-        "attacks": 5,
-        "stars": 14,
-        "destructionPercentage": 30.0,
+        "attacks": 7,
+        "stars": 20,
+        "destructionPercentage": 43.333332,
         "members": [
             {
                 "tag": "#PVLRPCLQ0",
@@ -485,6 +501,24 @@
                 "name": "Moh-10",
                 "townhallLevel": 15,
                 "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#QLC099JQV",
+                        "defenderTag": "#P9VR8JQ9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 31,
+                        "duration": 82
+                    },
+                    {
+                        "attackerTag": "#QLC099JQV",
+                        "defenderTag": "#V8UC9Y2C",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 32,
+                        "duration": 83
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#LC0GPUPVJ",
