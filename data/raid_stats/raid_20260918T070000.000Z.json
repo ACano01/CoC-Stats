@@ -2,13 +2,21 @@
     "state": "ongoing",
     "startTime": "20260918T070000.000Z",
     "endTime": "20260921T070000.000Z",
-    "capitalTotalLoot": 178555,
+    "capitalTotalLoot": 181886,
     "raidsCompleted": 4,
-    "totalAttacks": 84,
-    "enemyDistrictsDestroyed": 28,
+    "totalAttacks": 85,
+    "enemyDistrictsDestroyed": 29,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
+        {
+            "tag": "#CQVGC9UR",
+            "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 3331
+        },
         {
             "tag": "#2YRRQYYRC",
             "name": "Carlos",
@@ -1182,9 +1190,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/dynGz2f3M8CoVJUphiUwtrNHQLs-2GOfLscAl5YQN3k.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 1,
             "districtCount": 7,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 1,
             "districts": [
                 {
                     "id": 70000000,
@@ -1244,10 +1252,20 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 1,
+                    "totalLooted": 3331,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        }
+                    ]
                 }
             ]
         }
