@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260918T070000.000Z",
     "endTime": "20260921T070000.000Z",
-    "capitalTotalLoot": 139867,
+    "capitalTotalLoot": 165301,
     "raidsCompleted": 3,
-    "totalAttacks": 66,
-    "enemyDistrictsDestroyed": 22,
+    "totalAttacks": 78,
+    "enemyDistrictsDestroyed": 25,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -40,6 +40,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 14397
+        },
+        {
+            "tag": "#LQ9QQ9G29",
+            "name": "AngelRyes",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 13401
         },
         {
             "tag": "#P9VR8JQ9",
@@ -80,6 +88,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 13432
+        },
+        {
+            "tag": "#GPYGUJ080",
+            "name": "skibidi Sigma",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12033
         },
         {
             "tag": "#C2GRCV8C",
@@ -896,9 +912,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/4MjjNAFqEbQzo9dK9XZeP9O4rIc2kxcAmJh3HVJNt-4.png"
                 }
             },
-            "attackCount": 3,
+            "attackCount": 15,
             "districtCount": 7,
-            "districtsDestroyed": 1,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -913,29 +929,81 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 91,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 5630,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 91,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 41,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 55,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 3655,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 3,
-                    "destructionPercent": 35,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 2110,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6120,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#QR9QGU200",
@@ -950,19 +1018,71 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7101,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 86,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 5038,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
