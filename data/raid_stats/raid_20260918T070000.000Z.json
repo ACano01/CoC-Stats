@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260918T070000.000Z",
     "endTime": "20260921T070000.000Z",
-    "capitalTotalLoot": 258892,
+    "capitalTotalLoot": 269182,
     "raidsCompleted": 5,
-    "totalAttacks": 126,
-    "enemyDistrictsDestroyed": 39,
+    "totalAttacks": 132,
+    "enemyDistrictsDestroyed": 41,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -152,6 +152,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 13432
+        },
+        {
+            "tag": "#V8UC9Y2C",
+            "name": "Tuboescape",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10290
         },
         {
             "tag": "#GPYGUJ080",
@@ -1532,18 +1540,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/-_JSuDcthLfsUeBRFV9fbPIIAqY6pGSci2Rk4I2l3dw.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 23,
             "districtCount": 7,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 7,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 91,
+                    "stars": 2,
+                    "attackCount": 4,
+                    "totalLooted": 8380,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 91,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 72,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 44,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 31,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1662,11 +1704,19 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 3,
-                    "destructionPercent": 90,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 5850,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7117,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#G98J2J8J2",
@@ -1689,11 +1739,19 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 2,
-                    "destructionPercent": 99,
-                    "stars": 2,
-                    "attackCount": 3,
-                    "totalLooted": 5910,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 6553,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#G98J2J8J2",
