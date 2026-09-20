@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260918T070000.000Z",
     "endTime": "20260921T070000.000Z",
-    "capitalTotalLoot": 281328,
+    "capitalTotalLoot": 291508,
     "raidsCompleted": 6,
-    "totalAttacks": 138,
-    "enemyDistrictsDestroyed": 44,
+    "totalAttacks": 144,
+    "enemyDistrictsDestroyed": 45,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -72,6 +72,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 7620
+        },
+        {
+            "tag": "#GLLQPY0U2",
+            "name": "TytyVas",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10180
         },
         {
             "tag": "#28UJLRYV9",
@@ -1834,9 +1842,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/-czGgSEhVQN3oape5tzYDcgWU0VgtV1sumeGiZ_14NM.png"
                 }
             },
-            "attackCount": 5,
+            "attackCount": 11,
             "districtCount": 7,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -1860,19 +1868,55 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
+                    "destructionPercent": 46,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 2795,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6080,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 26,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -1913,10 +1957,28 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
+                    "destructionPercent": 30,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 2,
+                    "totalLooted": 1305,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GLLQPY0U2",
+                                "name": "TytyVas"
+                            },
+                            "destructionPercent": 20,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
