@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 13,
-        "stars": 27,
-        "destructionPercentage": 69.13333,
+        "attacks": 18,
+        "stars": 38,
+        "destructionPercentage": 90.333336,
         "members": [
             {
                 "tag": "#CQVGC9UR",
@@ -32,6 +32,14 @@
                         "destructionPercentage": 100,
                         "order": 35,
                         "duration": 114
+                    },
+                    {
+                        "attackerTag": "#CQVGC9UR",
+                        "defenderTag": "#9LLLJ9VJG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 36,
+                        "duration": 100
                     }
                 ],
                 "opponentAttacks": 5,
@@ -274,6 +282,24 @@
                 "name": "Manuel",
                 "townhallLevel": 13,
                 "mapPosition": 14,
+                "attacks": [
+                    {
+                        "attackerTag": "#LC82R2YPV",
+                        "defenderTag": "#GPRLQU9R0",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 37,
+                        "duration": 127
+                    },
+                    {
+                        "attackerTag": "#LC82R2YPV",
+                        "defenderTag": "#R0JR0RQ0Y",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 39,
+                        "duration": 120
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#G000LJQPG",
@@ -289,6 +315,24 @@
                 "name": "Tuboescape",
                 "townhallLevel": 14,
                 "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#V8UC9Y2C",
+                        "defenderTag": "#2PGL29VU0",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 38,
+                        "duration": 147
+                    },
+                    {
+                        "attackerTag": "#V8UC9Y2C",
+                        "defenderTag": "#9C2LJJJVJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 40,
+                        "duration": 153
+                    }
+                ],
                 "opponentAttacks": 4,
                 "bestOpponentAttack": {
                     "attackerTag": "#G8JJQCJ28",
@@ -440,7 +484,15 @@
                         "duration": 124
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#CQVGC9UR",
+                    "defenderTag": "#9LLLJ9VJG",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 36,
+                    "duration": 100
+                }
             },
             {
                 "tag": "#2PGL29VU0",
@@ -465,14 +517,14 @@
                         "duration": 126
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#LC0GPUPVJ",
+                    "attackerTag": "#V8UC9Y2C",
                     "defenderTag": "#2PGL29VU0",
-                    "stars": 2,
-                    "destructionPercentage": 85,
-                    "order": 2,
-                    "duration": 95
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 38,
+                    "duration": 147
                 }
             },
             {
@@ -606,14 +658,14 @@
                         "duration": 165
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#P9VR8JQ9",
+                    "attackerTag": "#V8UC9Y2C",
                     "defenderTag": "#9C2LJJJVJ",
-                    "stars": 2,
-                    "destructionPercentage": 97,
-                    "order": 10,
-                    "duration": 135
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 40,
+                    "duration": 153
                 }
             },
             {
@@ -639,7 +691,15 @@
                         "duration": 56
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LC82R2YPV",
+                    "defenderTag": "#R0JR0RQ0Y",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 39,
+                    "duration": 120
+                }
             },
             {
                 "tag": "#P2UQYQP9U",
@@ -745,7 +805,15 @@
                 "name": "CHEEMA BAI",
                 "townhallLevel": 12,
                 "mapPosition": 15,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LC82R2YPV",
+                    "defenderTag": "#GPRLQU9R0",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 37,
+                    "duration": 127
+                }
             },
             {
                 "tag": "#LP0RV8YQL",
