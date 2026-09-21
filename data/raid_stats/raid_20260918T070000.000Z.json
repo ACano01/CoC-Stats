@@ -3,7 +3,7 @@
     "startTime": "20260918T070000.000Z",
     "endTime": "20260921T070000.000Z",
     "capitalTotalLoot": 306035,
-    "raidsCompleted": 6,
+    "raidsCompleted": 7,
     "totalAttacks": 152,
     "enemyDistrictsDestroyed": 48,
     "offensiveReward": 0,
@@ -2104,64 +2104,202 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/lQO4ZcWG4UVlZ-1xipcm9maUSYiatI_ZBHP9Tzym4SU.png"
                 }
             },
-            "attackCount": 2,
+            "attackCount": 20,
             "districtCount": 7,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 7,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 9562,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LJJRJ89JR",
+                                "name": "rehan@6"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LJJRJ89JR",
+                                "name": "rehan@6"
+                            },
+                            "destructionPercent": 88,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LJJRJ89JR",
+                                "name": "rehan@6"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LJJRJ89JR",
+                                "name": "rehan@6"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6881,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LYPJYGCY0",
+                                "name": "rehan@5"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYPJYGCY0",
+                                "name": "rehan@5"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYPJYGCY0",
+                                "name": "rehan@5"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6516,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LGVU0RQJC",
+                                "name": "Rehan@4"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LGVU0RQJC",
+                                "name": "Rehan@4"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LGVU0RQJC",
+                                "name": "Rehan@4"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6669,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LJJRJ89JR",
+                                "name": "rehan@6"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LGVU0RQJC",
+                                "name": "Rehan@4"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LGVU0RQJC",
+                                "name": "Rehan@4"
+                            },
+                            "destructionPercent": 50,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 6661,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LYPJYGCY0",
+                                "name": "rehan@5"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LYPJYGCY0",
+                                "name": "rehan@5"
+                            },
+                            "destructionPercent": 51,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 2,
-                    "destructionPercent": 98,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 4550,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 5223,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LYPJYGCY0",
+                                "name": "rehan@5"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#LG0GRV2GP",
@@ -2184,10 +2322,28 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 5580,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LJJRJ89JR",
+                                "name": "rehan@6"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LGVU0RQJC",
+                                "name": "Rehan@4"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 0
+                        }
+                    ]
                 }
             ]
         }
