@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 18,
-        "stars": 38,
-        "destructionPercentage": 90.333336,
+        "attacks": 20,
+        "stars": 39,
+        "destructionPercentage": 93.4,
         "members": [
             {
                 "tag": "#CQVGC9UR",
@@ -42,7 +42,7 @@
                         "duration": 100
                     }
                 ],
-                "opponentAttacks": 5,
+                "opponentAttacks": 6,
                 "bestOpponentAttack": {
                     "attackerTag": "#9LLLJ9VJG",
                     "defenderTag": "#CQVGC9UR",
@@ -252,7 +252,7 @@
                         "duration": 109
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#2L0V2LGL9",
                     "defenderTag": "#Q0UUJRGGV",
@@ -363,6 +363,24 @@
                 "name": "skibidi Sigma",
                 "townhallLevel": 16,
                 "mapPosition": 10,
+                "attacks": [
+                    {
+                        "attackerTag": "#GPYGUJ080",
+                        "defenderTag": "#G000LJQPG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 41,
+                        "duration": 134
+                    },
+                    {
+                        "attackerTag": "#GPYGUJ080",
+                        "defenderTag": "#G8JJQCJ28",
+                        "stars": 1,
+                        "destructionPercentage": 74,
+                        "order": 42,
+                        "duration": 169
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#LYG8PYR2J",
@@ -417,7 +435,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3lutpkgfBpQ0dPnwwRw2Yxtblp8TCWhSeGHST39_ea8.png"
         },
         "clanLevel": 14,
-        "attacks": 22,
+        "attacks": 24,
         "stars": 44,
         "destructionPercentage": 99.066666,
         "members": [
@@ -426,6 +444,24 @@
                 "name": "Pickard",
                 "townhallLevel": 18,
                 "mapPosition": 1,
+                "attacks": [
+                    {
+                        "attackerTag": "#22989YJJY",
+                        "defenderTag": "#CQVGC9UR",
+                        "stars": 1,
+                        "destructionPercentage": 95,
+                        "order": 43,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#22989YJJY",
+                        "defenderTag": "#Q0UUJRGGV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 44,
+                        "duration": 118
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#CQVGC9UR",
@@ -600,14 +636,14 @@
                         "duration": 117
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#P9VR8JQ9",
+                    "attackerTag": "#GPYGUJ080",
                     "defenderTag": "#G000LJQPG",
-                    "stars": 2,
-                    "destructionPercentage": 54,
-                    "order": 8,
-                    "duration": 89
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 41,
+                    "duration": 134
                 }
             },
             {
@@ -790,7 +826,7 @@
                         "duration": 114
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#C2GRCV8C",
                     "defenderTag": "#G8JJQCJ28",
