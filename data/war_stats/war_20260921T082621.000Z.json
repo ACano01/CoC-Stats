@@ -5,7 +5,7 @@
     "battleModifier": "none",
     "preparationStartTime": "20260920T092621.000Z",
     "startTime": "20260921T082621.000Z",
-    "endTime": "20260922T082621.000Z",
+    "endTime": "20260922T085657.000Z",
     "clan": {
         "tag": "#2C28CGJR8",
         "name": "PSOE",
@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 20,
+        "attacks": 22,
         "stars": 39,
         "destructionPercentage": 93.4,
         "members": [
@@ -186,6 +186,24 @@
                 "name": "Simon",
                 "townhallLevel": 13,
                 "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#QPLQ2VG0Y",
+                        "defenderTag": "#P2UQYQP9U",
+                        "stars": 1,
+                        "destructionPercentage": 68,
+                        "order": 45,
+                        "duration": 137
+                    },
+                    {
+                        "attackerTag": "#QPLQ2VG0Y",
+                        "defenderTag": "#G8JJQCJ28",
+                        "stars": 1,
+                        "destructionPercentage": 50,
+                        "order": 46,
+                        "duration": 136
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#2PGL29VU0",
@@ -760,7 +778,7 @@
                         "duration": 105
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#C2GRCV8C",
                     "defenderTag": "#P2UQYQP9U",
@@ -826,7 +844,7 @@
                         "duration": 114
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#C2GRCV8C",
                     "defenderTag": "#G8JJQCJ28",
