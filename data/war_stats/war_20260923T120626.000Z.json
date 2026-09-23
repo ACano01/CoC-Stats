@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 18,
-        "stars": 44,
-        "destructionPercentage": 99.8,
+        "attacks": 19,
+        "stars": 45,
+        "destructionPercentage": 100.0,
         "members": [
             {
                 "tag": "#CQVGC9UR",
@@ -147,6 +147,16 @@
                 "name": "TytyVas",
                 "townhallLevel": 15,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#GLLQPY0U2",
+                        "defenderTag": "#G92CQPQ0Q",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 32,
+                        "duration": 85
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -428,14 +438,14 @@
                 "name": "kaVs",
                 "townhallLevel": 14,
                 "mapPosition": 10,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#9QQVQ029G",
+                    "attackerTag": "#GLLQPY0U2",
                     "defenderTag": "#G92CQPQ0Q",
-                    "stars": 2,
-                    "destructionPercentage": 97,
-                    "order": 1,
-                    "duration": 132
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 32,
+                    "duration": 85
                 }
             },
             {
