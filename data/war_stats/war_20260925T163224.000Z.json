@@ -1,0 +1,249 @@
+{
+    "state": "preparation",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "preparationStartTime": "20260924T173224.000Z",
+    "startTime": "20260925T163224.000Z",
+    "endTime": "20260926T163224.000Z",
+    "clan": {
+        "tag": "#2C28CGJR8",
+        "name": "PSOE",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
+        },
+        "clanLevel": 9,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#CQVGC9UR",
+                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9QQVQ029G",
+                "name": "Desert Shadow",
+                "townhallLevel": 13,
+                "mapPosition": 11,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GJVGU89YQ",
+                "name": "tito",
+                "townhallLevel": 15,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QGQQY2LJ0",
+                "name": "hugonando125",
+                "townhallLevel": 14,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8090UU9U2",
+                "name": "McPollo",
+                "townhallLevel": 14,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GLLQPY0U2",
+                "name": "TytyVas",
+                "townhallLevel": 15,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2URLVVQ8U",
+                "name": "juanjo_310",
+                "townhallLevel": 13,
+                "mapPosition": 13,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#P9VR8JQ9",
+                "name": "chechu-20",
+                "townhallLevel": 14,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QPLQ2VG0Y",
+                "name": "Simon",
+                "townhallLevel": 13,
+                "mapPosition": 12,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R222YP0QY",
+                "name": "N1co",
+                "townhallLevel": 15,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#UJYY2PPU",
+                "name": "Pepe27",
+                "townhallLevel": 14,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LC82R2YPV",
+                "name": "Manuel",
+                "townhallLevel": 13,
+                "mapPosition": 15,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#V8UC9Y2C",
+                "name": "Tuboescape",
+                "townhallLevel": 14,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#C2GRCV8C",
+                "name": "adri7447",
+                "townhallLevel": 16,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QL02UP8YC",
+                "name": "Diego",
+                "townhallLevel": 13,
+                "mapPosition": 14,
+                "opponentAttacks": 0
+            }
+        ]
+    },
+    "opponent": {
+        "tag": "#2JQYL90JQ",
+        "name": "\u0643\u0627\u0628\u0648\u0633 \u0627\u0644\u062c\u0628\u0627\u0628\u0631\u0629",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/7AFZQIm_6SC6ax3pqUN-aVrLbCAJpCcX_ucvLkGqEnM.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/7AFZQIm_6SC6ax3pqUN-aVrLbCAJpCcX_ucvLkGqEnM.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/7AFZQIm_6SC6ax3pqUN-aVrLbCAJpCcX_ucvLkGqEnM.png"
+        },
+        "clanLevel": 10,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#GY9VRVVRQ",
+                "name": "\u0643\u0627\u0633\u0631 \u0627\u0644\u062c\u0628\u0627\u0628\u0631\u0629",
+                "townhallLevel": 14,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#G2P9QPYVU",
+                "name": "\u0622\u0644\u064e\u0645\u064b\u062c\u0651\u0647\u0651\u0648\u064c\u0644\u064e",
+                "townhallLevel": 14,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#G98JG8JUL",
+                "name": "\u0627\u0644\u062c\u0644\u0627\u062f",
+                "townhallLevel": 15,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GC0YGLJUR",
+                "name": "\u0645\u0631\u062a\u0636\u0649",
+                "townhallLevel": 13,
+                "mapPosition": 13,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GUPJURV92",
+                "name": "wafa",
+                "townhallLevel": 14,
+                "mapPosition": 14,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YLYGU8L89",
+                "name": "\u0627\u0644\u0634\u064a\u062e",
+                "townhallLevel": 16,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#PJQYRGCLL",
+                "name": "\u0627\u0644\u0642\u0646\u0627\u0635",
+                "townhallLevel": 13,
+                "mapPosition": 12,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GVGJVGGYP",
+                "name": "\u0635\u0644\u0627\u062d \u0627\u0644\u062f\u064a\u0646",
+                "townhallLevel": 18,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GRJV9CPUU",
+                "name": "Fabregas",
+                "townhallLevel": 13,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#28GCJR2VU",
+                "name": "\u0623\u0628\u0648 \u062c\u0646\u0627\u0646",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8P02JRJCJ",
+                "name": "Fares Abou Trik",
+                "townhallLevel": 13,
+                "mapPosition": 11,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QC0PG2JQV",
+                "name": "\u0645\u062d\u0645\u062f",
+                "townhallLevel": 13,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GCRYGVU8C",
+                "name": "ipa",
+                "townhallLevel": 13,
+                "mapPosition": 15,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GCJCQ0VYJ",
+                "name": "\u0646\u0635\u064a\u0631 \u0639\u0644\u064a",
+                "townhallLevel": 14,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QGUYRPVJV",
+                "name": "brabim",
+                "townhallLevel": 14,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            }
+        ]
+    }
+}
