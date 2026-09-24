@@ -15,7 +15,7 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 19,
+        "attacks": 21,
         "stars": 45,
         "destructionPercentage": 100.0,
         "members": [
@@ -310,6 +310,24 @@
                 "name": "skibidi Sigma",
                 "townhallLevel": 16,
                 "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#GPYGUJ080",
+                        "defenderTag": "#GVPYPQCVJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 33,
+                        "duration": 49
+                    },
+                    {
+                        "attackerTag": "#GPYGUJ080",
+                        "defenderTag": "#Y009P29GG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 34,
+                        "duration": 81
+                    }
+                ],
                 "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#QQY9PJ0L8",
@@ -662,7 +680,7 @@
                         "duration": 90
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#8VJ9U88VQ",
                     "defenderTag": "#GVPYPQCVJ",
@@ -728,7 +746,7 @@
                         "duration": 84
                     }
                 ],
-                "opponentAttacks": 2,
+                "opponentAttacks": 3,
                 "bestOpponentAttack": {
                     "attackerTag": "#QL02UP8YC",
                     "defenderTag": "#Y009P29GG",
