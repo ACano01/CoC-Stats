@@ -1,0 +1,550 @@
+{
+    "state": "ongoing",
+    "startTime": "20260925T070000.000Z",
+    "endTime": "20260928T070000.000Z",
+    "capitalTotalLoot": 68527,
+    "raidsCompleted": 1,
+    "totalAttacks": 37,
+    "enemyDistrictsDestroyed": 9,
+    "offensiveReward": 0,
+    "defensiveReward": 0,
+    "members": [
+        {
+            "tag": "#29G0LRQYJ",
+            "name": "lord madara",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10951
+        },
+        {
+            "tag": "#8VJ9U88VQ",
+            "name": "Dylan",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12954
+        },
+        {
+            "tag": "#28UJLRYV9",
+            "name": "flexes",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 1150
+        },
+        {
+            "tag": "#GQV80RLCU",
+            "name": "dani",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 7007
+        },
+        {
+            "tag": "#QR9QGU200",
+            "name": "jd",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10828
+        },
+        {
+            "tag": "#GPYGUJ080",
+            "name": "skibidi Sigma",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 15301
+        },
+        {
+            "tag": "#C2GRCV8C",
+            "name": "adri7447",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 10336
+        }
+    ],
+    "attackLog": [
+        {
+            "defender": {
+                "tag": "#8C2YGC2U",
+                "name": "Kediri Empire",
+                "level": 18,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_z9vBuZluHaVZYt-WUYVySFJegIwcnHa5xEnFTUu7jg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_z9vBuZluHaVZYt-WUYVySFJegIwcnHa5xEnFTUu7jg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_z9vBuZluHaVZYt-WUYVySFJegIwcnHa5xEnFTUu7jg.png"
+                }
+            },
+            "attackCount": 28,
+            "districtCount": 7,
+            "districtsDestroyed": 7,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 7,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 9662,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28UJLRYV9",
+                                "name": "flexes"
+                            },
+                            "destructionPercent": 28,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#C2GRCV8C",
+                                "name": "adri7447"
+                            },
+                            "destructionPercent": 17,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 4,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 7330,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#C2GRCV8C",
+                                "name": "adri7447"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#C2GRCV8C",
+                                "name": "adri7447"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#C2GRCV8C",
+                                "name": "adri7447"
+                            },
+                            "destructionPercent": 61,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#C2GRCV8C",
+                                "name": "adri7447"
+                            },
+                            "destructionPercent": 43,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 6831,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#C2GRCV8C",
+                                "name": "adri7447"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 71,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 27,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 7255,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 32,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 7438,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 89,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 63,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 5282,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GQV80RLCU",
+                                "name": "dani"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QR9QGU200",
+                                "name": "jd"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 3696,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#29G0LRQYJ",
+                                "name": "lord madara"
+                            },
+                            "destructionPercent": 52,
+                            "stars": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#9VY2JY29",
+                "name": "\u0627\u06cc\u0631\u0627\u0646\u06cc\u0627\u0646 \u06f4\u06f9\u06f3\u06f1",
+                "level": 12,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/9TzTM-R9S3uH0Tuw_XyVkFXi-5_9mSv8ttyTuNfoJ70.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/9TzTM-R9S3uH0Tuw_XyVkFXi-5_9mSv8ttyTuNfoJ70.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/9TzTM-R9S3uH0Tuw_XyVkFXi-5_9mSv8ttyTuNfoJ70.png"
+                }
+            },
+            "attackCount": 9,
+            "districtCount": 7,
+            "districtsDestroyed": 2,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 7,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6224,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 35,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 91,
+                    "stars": 2,
+                    "attackCount": 2,
+                    "totalLooted": 6260,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 91,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 83,
+                    "stars": 1,
+                    "attackCount": 2,
+                    "totalLooted": 3885,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 83,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#8VJ9U88VQ",
+                                "name": "Dylan"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 4664,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#GPYGUJ080",
+                                "name": "skibidi Sigma"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "defenseLog": []
+}
