@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260925T070000.000Z",
     "endTime": "20260928T070000.000Z",
-    "capitalTotalLoot": 158250,
+    "capitalTotalLoot": 170742,
     "raidsCompleted": 3,
-    "totalAttacks": 77,
-    "enemyDistrictsDestroyed": 23,
+    "totalAttacks": 82,
+    "enemyDistrictsDestroyed": 25,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -20,10 +20,10 @@
         {
             "tag": "#2CG99999",
             "name": "sAiRoL",
-            "attacks": 2,
+            "attacks": 4,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 5453
+            "capitalResourcesLooted": 10665
         },
         {
             "tag": "#8090UU9U2",
@@ -52,10 +52,10 @@
         {
             "tag": "#LQ9QQ9G29",
             "name": "AngelRyes",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 8016
+            "capitalResourcesLooted": 15296
         },
         {
             "tag": "#P9VR8JQ9",
@@ -968,9 +968,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/irc5e2CTgfR_WJnphAX0mGSm3SJe9ntA9GA5K_tc85w.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 13,
             "districtCount": 7,
-            "districtsDestroyed": 2,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -985,19 +985,47 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 4,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 48,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 2235,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 5212,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2CG99999",
+                                "name": "sAiRoL"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2CG99999",
+                                "name": "sAiRoL"
+                            },
+                            "destructionPercent": 59,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -1073,11 +1101,27 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 2,
-                    "destructionPercent": 27,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 1180,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6225,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LQ9QQ9G29",
+                                "name": "AngelRyes"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#8090UU9U2",
