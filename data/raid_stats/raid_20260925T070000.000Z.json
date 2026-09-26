@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260925T070000.000Z",
     "endTime": "20260928T070000.000Z",
-    "capitalTotalLoot": 195214,
+    "capitalTotalLoot": 212394,
     "raidsCompleted": 4,
-    "totalAttacks": 94,
-    "enemyDistrictsDestroyed": 28,
+    "totalAttacks": 100,
+    "enemyDistrictsDestroyed": 31,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -48,6 +48,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 12954
+        },
+        {
+            "tag": "#G98J2J8J2",
+            "name": "Lolazo2",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 17180
         },
         {
             "tag": "#28UJLRYV9",
@@ -1238,9 +1246,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/4dTRzKVfXcPLEmlGW0pns6xui2shkrVscyQUiyvqDMU.png"
                 }
             },
-            "attackCount": 5,
+            "attackCount": 11,
             "districtCount": 7,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 3,
             "districts": [
                 {
                     "id": 70000000,
@@ -1255,11 +1263,19 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 4,
-                    "destructionPercent": 75,
-                    "stars": 2,
-                    "attackCount": 2,
-                    "totalLooted": 5740,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 8490,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#LC0GPUPVJ",
@@ -1282,11 +1298,19 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 63,
-                    "stars": 1,
-                    "attackCount": 3,
-                    "totalLooted": 3575,
+                    "destructionPercent": 99,
+                    "stars": 2,
+                    "attackCount": 4,
+                    "totalLooted": 6435,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 99,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#LC0GPUPVJ",
@@ -1326,10 +1350,28 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 6997,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
@@ -1344,10 +1386,28 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 4573,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#G98J2J8J2",
+                                "name": "Lolazo2"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
