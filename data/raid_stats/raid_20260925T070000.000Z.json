@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260925T070000.000Z",
     "endTime": "20260928T070000.000Z",
-    "capitalTotalLoot": 170742,
+    "capitalTotalLoot": 183458,
     "raidsCompleted": 3,
-    "totalAttacks": 82,
-    "enemyDistrictsDestroyed": 25,
+    "totalAttacks": 88,
+    "enemyDistrictsDestroyed": 27,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -16,6 +16,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 10951
+        },
+        {
+            "tag": "#LCJPYLR0P",
+            "name": "Angel",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12716
         },
         {
             "tag": "#2CG99999",
@@ -968,28 +976,70 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/irc5e2CTgfR_WJnphAX0mGSm3SJe9ntA9GA5K_tc85w.png"
                 }
             },
-            "attackCount": 13,
+            "attackCount": 19,
             "districtCount": 7,
-            "districtsDestroyed": 4,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 7,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 88,
+                    "stars": 1,
+                    "attackCount": 3,
+                    "totalLooted": 7420,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 88,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 69,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 49,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 4,
-                    "destructionPercent": 48,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 2235,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6687,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#LQ9QQ9G29",
@@ -1136,11 +1186,19 @@
                     "id": 70000006,
                     "name": "Golem Quarry",
                     "districtHallLevel": 2,
-                    "destructionPercent": 83,
-                    "stars": 2,
-                    "attackCount": 1,
-                    "totalLooted": 3190,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 4034,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#QGJJPGLV",
