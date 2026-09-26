@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/3yI8_XeuD5YLQkdBF07gYcd-qzltGpeuEZgm9UL38a4.png"
         },
         "clanLevel": 9,
-        "attacks": 14,
-        "stars": 30,
-        "destructionPercentage": 77.8,
+        "attacks": 18,
+        "stars": 31,
+        "destructionPercentage": 81.933334,
         "members": [
             {
                 "tag": "#CQVGC9UR",
@@ -31,6 +31,24 @@
                 "name": "Desert Shadow",
                 "townhallLevel": 13,
                 "mapPosition": 11,
+                "attacks": [
+                    {
+                        "attackerTag": "#9QQVQ029G",
+                        "defenderTag": "#8P02JRJCJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 21,
+                        "duration": 109
+                    },
+                    {
+                        "attackerTag": "#9QQVQ029G",
+                        "defenderTag": "#PJQYRGCLL",
+                        "stars": 1,
+                        "destructionPercentage": 70,
+                        "order": 22,
+                        "duration": 64
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#QGUYRPVJV",
@@ -61,6 +79,24 @@
                 "name": "hugonando125",
                 "townhallLevel": 14,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#QGQQY2LJ0",
+                        "defenderTag": "#QGUYRPVJV",
+                        "stars": 2,
+                        "destructionPercentage": 94,
+                        "order": 23,
+                        "duration": 161
+                    },
+                    {
+                        "attackerTag": "#QGQQY2LJ0",
+                        "defenderTag": "#GRJV9CPUU",
+                        "stars": 1,
+                        "destructionPercentage": 75,
+                        "order": 24,
+                        "duration": 97
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -444,7 +480,7 @@
                 "name": "\u0627\u0644\u0642\u0646\u0627\u0635",
                 "townhallLevel": 13,
                 "mapPosition": 12,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#UJYY2PPU",
                     "defenderTag": "#PJQYRGCLL",
@@ -466,7 +502,7 @@
                 "name": "Fabregas",
                 "townhallLevel": 13,
                 "mapPosition": 10,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
                     "attackerTag": "#UJYY2PPU",
                     "defenderTag": "#GRJV9CPUU",
@@ -488,14 +524,14 @@
                 "name": "Fares Abou Trik",
                 "townhallLevel": 13,
                 "mapPosition": 11,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#2URLVVQ8U",
+                    "attackerTag": "#9QQVQ029G",
                     "defenderTag": "#8P02JRJCJ",
-                    "stars": 2,
-                    "destructionPercentage": 68,
-                    "order": 20,
-                    "duration": 80
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 21,
+                    "duration": 109
                 }
             },
             {
@@ -566,14 +602,14 @@
                         "duration": 180
                     }
                 ],
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#P9VR8JQ9",
+                    "attackerTag": "#QGQQY2LJ0",
                     "defenderTag": "#QGUYRPVJV",
                     "stars": 2,
-                    "destructionPercentage": 64,
-                    "order": 1,
-                    "duration": 82
+                    "destructionPercentage": 94,
+                    "order": 23,
+                    "duration": 161
                 }
             }
         ]
