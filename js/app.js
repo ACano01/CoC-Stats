@@ -20,6 +20,7 @@ import {
     renderRaidSummary,
     renderRaidAttacks,
     renderRaidDefenses,
+    renderRaidAllTime,
     setRaidSort,
     resetRaidSort
 } from './render.js';
@@ -64,17 +65,70 @@ function switchSubView(subviewId, updateHash = true) {
     if (updateHash) window.location.hash = `war/${subviewId}`;
 }
 
+function ensureRaidAllTimeView() {
+    const section = document.getElementById('section-raids');
+    if (!section) return;
+
+    if (!document.getElementById('raid-subtab-alltime')) {
+        const tabs = section.querySelector('.sub-tab-btn')?.parentElement;
+        if (tabs) {
+            const btn = document.createElement('button');
+            btn.id = 'raid-subtab-alltime';
+            btn.className = 'sub-tab-btn';
+            btn.textContent = 'All Time';
+            tabs.appendChild(btn);
+            btn.addEventListener('click', () => switchRaidSubView('alltime'));
+        }
+    }
+
+    if (!document.getElementById('raidAllTimeView')) {
+        const host = document.getElementById('raidSummaryView')?.parentElement || section;
+        const view = document.createElement('div');
+        view.id = 'raidAllTimeView';
+        view.className = 'hidden';
+        view.innerHTML = `
+            <div class="bg-[#171717] border border-gray-800 rounded-xl overflow-hidden">
+                <div class="p-3 border-b border-gray-800">
+                    <div class="text-[10px] uppercase tracking-widest font-black text-gray-500">Global Raid Results</div>
+                    <div class="text-xs text-gray-300 mt-1">All time</div>
+                </div>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-[10px] text-left border-collapse">
+                        <thead>
+                            <tr class="border-b border-gray-800 text-gray-500 uppercase font-black">
+                                <th class="py-2 pl-3">Player</th>
+                                <th class="py-2 text-center">RAIDS</th>
+                                <th class="py-2 text-center">ATTACKS</th>
+                                <th class="py-2 text-center">NO ATTACK</th>
+                                <th class="py-2 text-center pr-3">RATE</th>
+                            </tr>
+                        </thead>
+                        <tbody id="raidAllTimeTableBody" class="divide-y divide-gray-800/30"></tbody>
+                    </table>
+                </div>
+            </div>`;
+        host.appendChild(view);
+    }
+}
+
 function switchRaidSubView(subviewId, updateHash = true) {
+    ensureRaidAllTimeView();
     document.getElementById('raidSummaryView')?.classList.toggle('hidden', subviewId !== 'summary');
     document.getElementById('raidAttacksView')?.classList.toggle('hidden', subviewId !== 'attacks');
     document.getElementById('raidDefensesView')?.classList.toggle('hidden', subviewId !== 'defenses');
+    document.getElementById('raidAllTimeView')?.classList.toggle('hidden', subviewId !== 'alltime');
     document.querySelectorAll('#section-raids .sub-tab-btn').forEach(b => b.classList.remove('active'));
     document.getElementById(`raid-subtab-${subviewId}`)?.classList.add('active');
-    const raid = fullRaidHistory[currentRaidIndex];
-    if (raid) {
-        if (subviewId === 'summary') renderRaidSummary(raid, allMembers);
-        else if (subviewId === 'attacks') renderRaidAttacks(raid);
-        else if (subviewId === 'defenses') renderRaidDefenses(raid);
+
+    if (subviewId === 'alltime') {
+        renderRaidAllTime(fullRaidHistory, allMembers);
+    } else {
+        const raid = fullRaidHistory[currentRaidIndex];
+        if (raid) {
+            if (subviewId === 'summary') renderRaidSummary(raid, allMembers);
+            else if (subviewId === 'attacks') renderRaidAttacks(raid);
+            else if (subviewId === 'defenses') renderRaidDefenses(raid);
+        }
     }
     if (updateHash) window.location.hash = `raids/${subviewId}`;
 }

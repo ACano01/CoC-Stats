@@ -13,6 +13,7 @@ let efficiencyChart = null;
  * @param {string} range - Filter type ('month', 'week', 'prev').
  */
 export function renderCharts(warHistory, range = 'all', allMembers = []) {
+    window.__cocCurrentMembers = allMembers || [];
     if (!warHistory || warHistory.length === 0) return;
 
     // Filter history based on range
@@ -133,7 +134,7 @@ function renderTopPerformers(warHistory, allMembers = []) {
         style.id = 'stats-ranking-scroll-style';
         style.textContent = `
             .stats-ranking-scroll {
-                max-height: 370px;
+                max-height: 430px;
                 overflow-y: auto;
                 overflow-x: hidden;
                 scrollbar-width: thin;
@@ -182,7 +183,7 @@ allMembers.forEach(m => {
 warHistory.forEach(war => {
         if (!war.clan || !war.clan.members) return;
         war.clan.members.forEach(m => {
-            if (!statsMap[m.tag]) statsMap[m.tag] = { name: m.name, wars: 0, s3: 0, s2: 0, s1: 0, s0: 0, totalStars: 0, attacksMade: 0, attacksPossible: 0 };
+            if (!statsMap[m.tag]) return; // Historical member who is no longer in the clan.
             statsMap[m.tag].wars++;
             statsMap[m.tag].attacksPossible += 2;
             statsMap[m.tag].attacksMade += (m.attacks || []).length;
@@ -220,12 +221,16 @@ function renderEfficiencyChart(warHistory) {
     const canvas = document.getElementById('efficiencyChart');
     if (!canvas) return;
     const ctx = canvas.getContext('2d');
-    const statsMap = {}; 
+    const statsMap = {};
+    const currentMembers = window.__cocCurrentMembers || [];
+    currentMembers.forEach(m => {
+        statsMap[m.tag] = { name: m.name, s3: 0, s2: 0, s1: 0, s0: 0, total: 0 };
+    });
 
     warHistory.forEach(war => {
         if (!war.clan || !war.clan.members) return;
         war.clan.members.forEach(m => {
-            if (!statsMap[m.tag]) statsMap[m.tag] = { name: m.name, s3: 0, s2: 0, s1: 0, s0: 0, total: 0 };
+            if (!statsMap[m.tag]) return;
             (m.attacks || []).forEach(atk => {
                 statsMap[m.tag].total++;
                 if (atk.stars === 3) statsMap[m.tag].s3++;

@@ -637,6 +637,57 @@ export function renderAbout(clanData) {
     </div>`;
 }
 
+
+/**
+ * Global raid participation for current clan members only.
+ * The existing date-based raid views are left unchanged.
+ */
+export function renderRaidAllTime(raidHistory = [], membersLookup = []) {
+    const tableBody = document.getElementById('raidAllTimeTableBody');
+    if (!tableBody) return;
+
+    const current = new Map((membersLookup || []).map(m => [m.tag, m]));
+    const stats = {};
+
+    current.forEach((m, tag) => {
+        stats[tag] = { name: m.name, raids: 0, attacks: 0, possible: 0, noAttack: 0 };
+    });
+
+    (raidHistory || []).forEach(raid => {
+        (raid.members || []).forEach(m => {
+            if (!current.has(m.tag)) return;
+
+            const s = stats[m.tag];
+            s.raids++;
+
+            const attacks = Number(m.attacks || 0);
+            const possible = Number(m.attackLimit || 0) + Number(m.bonusAttackLimit || 0);
+
+            s.attacks += attacks;
+            s.possible += possible;
+            if (attacks === 0) s.noAttack++;
+        });
+    });
+
+    const rows = Object.values(stats).sort((a,b) =>
+        b.raids - a.raids ||
+        a.noAttack - b.noAttack ||
+        b.attacks - a.attacks ||
+        a.name.localeCompare(b.name)
+    );
+
+    tableBody.innerHTML = rows.map(p => {
+        const rate = p.possible ? ((p.attacks / p.possible) * 100).toFixed(0) : '0';
+        return `<tr class="hover:bg-white/5 transition-colors">
+            <td class="py-2 pl-3 font-bold text-gray-300">${p.name}</td>
+            <td class="py-2 text-center font-mono">${p.raids}</td>
+            <td class="py-2 text-center font-mono">${p.attacks}/${p.possible}</td>
+            <td class="py-2 text-center font-mono">${p.noAttack}</td>
+            <td class="py-2 text-center pr-3 font-mono">${rate}%</td>
+        </tr>`;
+    }).join('');
+}
+
 // Raid sorting state
 let raidSort = { 
     summary: { col: 'loot', dir: -1 }, 
