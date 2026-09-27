@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20260925T070000.000Z",
     "endTime": "20260928T070000.000Z",
-    "capitalTotalLoot": 212394,
-    "raidsCompleted": 4,
-    "totalAttacks": 100,
-    "enemyDistrictsDestroyed": 31,
+    "capitalTotalLoot": 251008,
+    "raidsCompleted": 5,
+    "totalAttacks": 118,
+    "enemyDistrictsDestroyed": 37,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -16,6 +16,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 10951
+        },
+        {
+            "tag": "#CQVGC9UR",
+            "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12575
         },
         {
             "tag": "#LCJPYLR0P",
@@ -56,6 +64,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 17180
+        },
+        {
+            "tag": "#9920PURJR",
+            "name": "\u00bbGOKU\u00ab",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12523
         },
         {
             "tag": "#28UJLRYV9",
@@ -120,6 +136,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 10828
+        },
+        {
+            "tag": "#V8UC9Y2C",
+            "name": "Tuboescape",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 13516
         },
         {
             "tag": "#GPYGUJ080",
@@ -1246,18 +1270,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/4dTRzKVfXcPLEmlGW0pns6xui2shkrVscyQUiyvqDMU.png"
                 }
             },
-            "attackCount": 11,
+            "attackCount": 22,
             "districtCount": 7,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 7,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 10145,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 61,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1298,11 +1356,19 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 99,
-                    "stars": 2,
-                    "attackCount": 4,
-                    "totalLooted": 6435,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 7060,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#G98J2J8J2",
@@ -1341,10 +1407,36 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6319,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 68,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 1
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
@@ -1377,10 +1469,36 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6204,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 56,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9920PURJR",
+                                "name": "\u00bbGOKU\u00ab"
+                            },
+                            "destructionPercent": 27,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -1406,6 +1524,148 @@
                             },
                             "destructionPercent": 66,
                             "stars": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2Q9C0U8YC",
+                "name": "SOUTH COT pH.",
+                "level": 11,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/y2Sc7RruNGBWzS17bGapRFWgpxunGdNWoBDGDDSiF1I.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/y2Sc7RruNGBWzS17bGapRFWgpxunGdNWoBDGDDSiF1I.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/y2Sc7RruNGBWzS17bGapRFWgpxunGdNWoBDGDDSiF1I.png"
+                }
+            },
+            "attackCount": 7,
+            "districtCount": 7,
+            "districtsDestroyed": 2,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 7,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6503,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 40,
+                    "stars": 0,
+                    "attackCount": 1,
+                    "totalLooted": 2740,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6078,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#V8UC9Y2C",
+                                "name": "Tuboescape"
+                            },
+                            "destructionPercent": 88,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#CQVGC9UR",
+                                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f"
+                            },
+                            "destructionPercent": 40,
+                            "stars": 0
                         }
                     ]
                 }
