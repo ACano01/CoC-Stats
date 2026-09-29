@@ -1,5 +1,5 @@
 {
-    "state": "inWar",
+    "state": "warEnded",
     "teamSize": 20,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -363,14 +363,14 @@
                 "name": "warrior",
                 "townhallLevel": 13,
                 "mapPosition": 12,
-                "opponentAttacks": 1,
+                "opponentAttacks": 2,
                 "bestOpponentAttack": {
-                    "attackerTag": "#PQJJY0Y9Q",
+                    "attackerTag": "#2V0V0C8UC",
                     "defenderTag": "#P9YCUGQ0Y",
-                    "stars": 2,
-                    "destructionPercentage": 68,
-                    "order": 16,
-                    "duration": 71
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 56,
+                    "duration": 155
                 }
             },
             {
@@ -564,9 +564,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/xvNPzJSX8d2OyjgVnuFFtoLP9NmVzzgkqzKgHH_WJPA.png"
         },
         "clanLevel": 8,
-        "attacks": 29,
-        "stars": 57,
-        "destructionPercentage": 96.35,
+        "attacks": 30,
+        "stars": 58,
+        "destructionPercentage": 97.95,
         "members": [
             {
                 "tag": "#2V0V0C8UC",
@@ -581,6 +581,14 @@
                         "destructionPercentage": 100,
                         "order": 46,
                         "duration": 124
+                    },
+                    {
+                        "attackerTag": "#2V0V0C8UC",
+                        "defenderTag": "#P9YCUGQ0Y",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 56,
+                        "duration": 155
                     }
                 ],
                 "opponentAttacks": 1,
