@@ -1,0 +1,182 @@
+{
+    "state": "ongoing",
+    "startTime": "20261002T070000.000Z",
+    "endTime": "20261005T070000.000Z",
+    "capitalTotalLoot": 18492,
+    "raidsCompleted": 0,
+    "totalAttacks": 8,
+    "enemyDistrictsDestroyed": 3,
+    "offensiveReward": 0,
+    "defensiveReward": 0,
+    "members": [
+        {
+            "tag": "#9QQVQ029G",
+            "name": "Desert Shadow",
+            "attacks": 2,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 3947
+        },
+        {
+            "tag": "#28UJLRYV9",
+            "name": "flexes",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 14545
+        }
+    ],
+    "attackLog": [
+        {
+            "defender": {
+                "tag": "#2GPY9PL2V",
+                "name": "the akatsuki",
+                "level": 8,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fhtRSCccnu953R9O6fD87IKPkHkUd7U5ZvuzGPxv4hM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fhtRSCccnu953R9O6fD87IKPkHkUd7U5ZvuzGPxv4hM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fhtRSCccnu953R9O6fD87IKPkHkUd7U5ZvuzGPxv4hM.png"
+                }
+            },
+            "attackCount": 8,
+            "districtCount": 7,
+            "districtsDestroyed": 3,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 7,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6539,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#28UJLRYV9",
+                                "name": "flexes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28UJLRYV9",
+                                "name": "flexes"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28UJLRYV9",
+                                "name": "flexes"
+                            },
+                            "destructionPercent": 42,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7337,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9QQVQ029G",
+                                "name": "Desert Shadow"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#9QQVQ029G",
+                                "name": "Desert Shadow"
+                            },
+                            "destructionPercent": 88,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28UJLRYV9",
+                                "name": "flexes"
+                            },
+                            "destructionPercent": 46,
+                            "stars": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 1,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 4616,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#28UJLRYV9",
+                                "name": "flexes"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#28UJLRYV9",
+                                "name": "flexes"
+                            },
+                            "destructionPercent": 61,
+                            "stars": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "defenseLog": []
+}
