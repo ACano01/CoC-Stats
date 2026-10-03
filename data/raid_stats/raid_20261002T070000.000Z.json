@@ -1271,18 +1271,52 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/NQxpJ90vY7sDiRhnYOGHQdx7IM-vb0XsXBpI3d44IIE.png"
                 }
             },
-            "attackCount": 17,
+            "attackCount": 23,
             "districtCount": 7,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 7,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 91,
+                    "stars": 2,
+                    "attackCount": 4,
+                    "totalLooted": 7830,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P2QG008V",
+                                "name": "Denis"
+                            },
+                            "destructionPercent": 91,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P2QG008V",
+                                "name": "Denis"
+                            },
+                            "destructionPercent": 77,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P2QG008V",
+                                "name": "Denis"
+                            },
+                            "destructionPercent": 49,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P2QG008V",
+                                "name": "Denis"
+                            },
+                            "destructionPercent": 29,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1436,11 +1470,27 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 2,
-                    "destructionPercent": 35,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 1395,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 5675,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#P2QG008V",
+                                "name": "Denis"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#P2QG008V",
+                                "name": "Denis"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#R89PVQCVV",
