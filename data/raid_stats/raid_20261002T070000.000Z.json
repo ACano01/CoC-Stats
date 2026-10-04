@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20261002T070000.000Z",
     "endTime": "20261005T070000.000Z",
-    "capitalTotalLoot": 187050,
+    "capitalTotalLoot": 188640,
     "raidsCompleted": 5,
-    "totalAttacks": 85,
+    "totalAttacks": 86,
     "enemyDistrictsDestroyed": 28,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -88,6 +88,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 14145
+        },
+        {
+            "tag": "#LC82R2YPV",
+            "name": "Manuel",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 1590
         },
         {
             "tag": "#QR9QGU200",
@@ -1198,7 +1206,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/dESTNUY2mIonYU9j0cuVl5oyqnrAQPv8SIeam24_ar0.png"
                 }
             },
-            "attackCount": 0,
+            "attackCount": 1,
             "districtCount": 6,
             "districtsDestroyed": 0,
             "districts": [
@@ -1233,10 +1241,20 @@
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
+                    "destructionPercent": 39,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 1590,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000004,
