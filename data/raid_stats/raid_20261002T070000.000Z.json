@@ -2,9 +2,9 @@
     "state": "ongoing",
     "startTime": "20261002T070000.000Z",
     "endTime": "20261005T070000.000Z",
-    "capitalTotalLoot": 215144,
+    "capitalTotalLoot": 216724,
     "raidsCompleted": 5,
-    "totalAttacks": 100,
+    "totalAttacks": 101,
     "enemyDistrictsDestroyed": 32,
     "offensiveReward": 0,
     "defensiveReward": 0,
@@ -24,6 +24,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 11278
+        },
+        {
+            "tag": "#Q02PVQGYV",
+            "name": "player32G",
+            "attacks": 1,
+            "attackLimit": 5,
+            "bonusAttackLimit": 0,
+            "capitalResourcesLooted": 1580
         },
         {
             "tag": "#QGQQY2LJ0",
@@ -1214,7 +1222,7 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/dESTNUY2mIonYU9j0cuVl5oyqnrAQPv8SIeam24_ar0.png"
                 }
             },
-            "attackCount": 15,
+            "attackCount": 16,
             "districtCount": 6,
             "districtsDestroyed": 4,
             "districts": [
@@ -1395,10 +1403,20 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 1,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 45,
+                    "stars": 1,
+                    "attackCount": 1,
+                    "totalLooted": 1580,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#Q02PVQGYV",
+                                "name": "player32G"
+                            },
+                            "destructionPercent": 45,
+                            "stars": 1
+                        }
+                    ]
                 }
             ]
         }
