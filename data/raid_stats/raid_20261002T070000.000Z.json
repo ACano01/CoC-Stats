@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20261002T070000.000Z",
     "endTime": "20261005T070000.000Z",
-    "capitalTotalLoot": 188640,
+    "capitalTotalLoot": 215144,
     "raidsCompleted": 5,
-    "totalAttacks": 86,
-    "enemyDistrictsDestroyed": 28,
+    "totalAttacks": 100,
+    "enemyDistrictsDestroyed": 32,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -20,10 +20,18 @@
         {
             "tag": "#LCJPYLR0P",
             "name": "Angel",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 5123
+            "capitalResourcesLooted": 11278
+        },
+        {
+            "tag": "#QGQQY2LJ0",
+            "name": "hugonando125",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12171
         },
         {
             "tag": "#G98J2J8J2",
@@ -92,10 +100,10 @@
         {
             "tag": "#LC82R2YPV",
             "name": "Manuel",
-            "attacks": 1,
+            "attacks": 6,
             "attackLimit": 5,
-            "bonusAttackLimit": 0,
-            "capitalResourcesLooted": 1590
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 9768
         },
         {
             "tag": "#QR9QGU200",
@@ -1206,9 +1214,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/dESTNUY2mIonYU9j0cuVl5oyqnrAQPv8SIeam24_ar0.png"
                 }
             },
-            "attackCount": 1,
+            "attackCount": 15,
             "districtCount": 6,
-            "districtsDestroyed": 0,
+            "districtsDestroyed": 4,
             "districts": [
                 {
                     "id": 70000000,
@@ -1223,29 +1231,121 @@
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 6781,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 69,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 7352,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 84,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 23,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
                     "name": "Balloon Lagoon",
                     "districtHallLevel": 2,
-                    "destructionPercent": 39,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 1590,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 6659,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 55,
+                            "stars": 1
+                        },
                         {
                             "attacker": {
                                 "tag": "#LC82R2YPV",
@@ -1260,10 +1360,36 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 7302,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 68,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LCJPYLR0P",
+                                "name": "Angel"
+                            },
+                            "destructionPercent": 26,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
