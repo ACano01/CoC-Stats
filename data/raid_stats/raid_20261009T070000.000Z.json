@@ -2,20 +2,20 @@
     "state": "ongoing",
     "startTime": "20261009T070000.000Z",
     "endTime": "20261012T070000.000Z",
-    "capitalTotalLoot": 125575,
-    "raidsCompleted": 2,
-    "totalAttacks": 56,
-    "enemyDistrictsDestroyed": 17,
+    "capitalTotalLoot": 156624,
+    "raidsCompleted": 3,
+    "totalAttacks": 72,
+    "enemyDistrictsDestroyed": 22,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
         {
             "tag": "#9QQVQ029G",
             "name": "Desert Shadow",
-            "attacks": 4,
+            "attacks": 5,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 6780
+            "capitalResourcesLooted": 8871
         },
         {
             "tag": "#28UJLRYV9",
@@ -48,6 +48,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 14326
+        },
+        {
+            "tag": "#PYURU8VUC",
+            "name": "Paxtax",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 14123
         },
         {
             "tag": "#R222YP0QY",
@@ -92,10 +100,18 @@
         {
             "tag": "#C2GRCV8C",
             "name": "adri7447",
-            "attacks": 3,
+            "attacks": 6,
             "attackLimit": 5,
             "bonusAttackLimit": 1,
-            "capitalResourcesLooted": 6587
+            "capitalResourcesLooted": 11592
+        },
+        {
+            "tag": "#QL02UP8YC",
+            "name": "Diego",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 9830
         }
     ],
     "attackLog": [
@@ -642,28 +658,86 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/t7FSg9HqMO-CAvgz9LMmd8iZAM9AKwrG_pfFT0OWzU0.png"
                 }
             },
-            "attackCount": 13,
+            "attackCount": 26,
             "districtCount": 7,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 7,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 6,
+                    "totalLooted": 10298,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PYURU8VUC",
+                                "name": "Paxtax"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PYURU8VUC",
+                                "name": "Paxtax"
+                            },
+                            "destructionPercent": 89,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PYURU8VUC",
+                                "name": "Paxtax"
+                            },
+                            "destructionPercent": 62,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QL02UP8YC",
+                                "name": "Diego"
+                            },
+                            "destructionPercent": 39,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QL02UP8YC",
+                                "name": "Diego"
+                            },
+                            "destructionPercent": 19,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QL02UP8YC",
+                                "name": "Diego"
+                            },
+                            "destructionPercent": 4,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 4,
-                    "destructionPercent": 87,
-                    "stars": 2,
-                    "attackCount": 4,
-                    "totalLooted": 6755,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 8846,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#9QQVQ029G",
+                                "name": "Desert Shadow"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#LQ9QQ9G29",
@@ -702,10 +776,36 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6920,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QL02UP8YC",
+                                "name": "Diego"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QL02UP8YC",
+                                "name": "Diego"
+                            },
+                            "destructionPercent": 78,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QL02UP8YC",
+                                "name": "Diego"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -789,10 +889,36 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 5005,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#C2GRCV8C",
+                                "name": "adri7447"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#C2GRCV8C",
+                                "name": "adri7447"
+                            },
+                            "destructionPercent": 49,
+                            "stars": 0
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#C2GRCV8C",
+                                "name": "adri7447"
+                            },
+                            "destructionPercent": 30,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
@@ -818,6 +944,112 @@
                             },
                             "destructionPercent": 42,
                             "stars": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "defender": {
+                "tag": "#2RGR2QPVP",
+                "name": "los quesitos XD",
+                "level": 9,
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1-6ys9R6mB_9hjW3J9q3sMDQuUCJplDlwF91CI_8eAw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1-6ys9R6mB_9hjW3J9q3sMDQuUCJplDlwF91CI_8eAw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1-6ys9R6mB_9hjW3J9q3sMDQuUCJplDlwF91CI_8eAw.png"
+                }
+            },
+            "attackCount": 3,
+            "districtCount": 7,
+            "districtsDestroyed": 1,
+            "districts": [
+                {
+                    "id": 70000000,
+                    "name": "Capital Peak",
+                    "districtHallLevel": 7,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000001,
+                    "name": "Barbarian Camp",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000002,
+                    "name": "Wizard Valley",
+                    "districtHallLevel": 3,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000003,
+                    "name": "Balloon Lagoon",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000004,
+                    "name": "Builder's Workshop",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000005,
+                    "name": "Dragon Cliffs",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 0,
+                    "stars": 0,
+                    "attackCount": 0,
+                    "totalLooted": 0
+                },
+                {
+                    "id": 70000006,
+                    "name": "Golem Quarry",
+                    "districtHallLevel": 2,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6735,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PYURU8VUC",
+                                "name": "Paxtax"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PYURU8VUC",
+                                "name": "Paxtax"
+                            },
+                            "destructionPercent": 93,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PYURU8VUC",
+                                "name": "Paxtax"
+                            },
+                            "destructionPercent": 26,
+                            "stars": 0
                         }
                     ]
                 }
