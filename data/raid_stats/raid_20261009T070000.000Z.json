@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20261009T070000.000Z",
     "endTime": "20261012T070000.000Z",
-    "capitalTotalLoot": 169727,
+    "capitalTotalLoot": 184749,
     "raidsCompleted": 3,
-    "totalAttacks": 77,
-    "enemyDistrictsDestroyed": 24,
+    "totalAttacks": 83,
+    "enemyDistrictsDestroyed": 26,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -16,6 +16,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 8871
+        },
+        {
+            "tag": "#QGQQY2LJ0",
+            "name": "hugonando125",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 15022
         },
         {
             "tag": "#28UJLRYV9",
@@ -968,9 +976,9 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/1-6ys9R6mB_9hjW3J9q3sMDQuUCJplDlwF91CI_8eAw.png"
                 }
             },
-            "attackCount": 8,
+            "attackCount": 14,
             "districtCount": 7,
-            "districtsDestroyed": 3,
+            "districtsDestroyed": 5,
             "districts": [
                 {
                     "id": 70000000,
@@ -1020,10 +1028,36 @@
                     "id": 70000002,
                     "name": "Wizard Valley",
                     "districtHallLevel": 3,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 3,
+                    "totalLooted": 6679,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 64,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 48,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000003,
@@ -1056,19 +1090,47 @@
                     "id": 70000004,
                     "name": "Builder's Workshop",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 7038,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 53,
+                            "stars": 2
+                        }
+                    ]
                 },
                 {
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 2,
-                    "destructionPercent": 0,
+                    "destructionPercent": 26,
                     "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "attackCount": 1,
+                    "totalLooted": 1305,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#QGQQY2LJ0",
+                                "name": "hugonando125"
+                            },
+                            "destructionPercent": 26,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000006,
