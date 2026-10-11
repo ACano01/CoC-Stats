@@ -3,7 +3,7 @@
     "startTime": "20261009T070000.000Z",
     "endTime": "20261012T070000.000Z",
     "capitalTotalLoot": 223523,
-    "raidsCompleted": 4,
+    "raidsCompleted": 5,
     "totalAttacks": 99,
     "enemyDistrictsDestroyed": 32,
     "offensiveReward": 0,
@@ -1424,28 +1424,94 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/d7etN5BkY7Aefo8ohT8BIxUoG_hmOoP09U862rmq9_0.png"
                 }
             },
-            "attackCount": 15,
+            "attackCount": 23,
             "districtCount": 7,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 7,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 7,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 5,
+                    "totalLooted": 10170,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PQV9GV28Q",
+                                "name": "Astrousity"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQV9GV28Q",
+                                "name": "Astrousity"
+                            },
+                            "destructionPercent": 89,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PQV9GV28Q",
+                                "name": "Astrousity"
+                            },
+                            "destructionPercent": 73,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PRCLUQGUU",
+                                "name": "mirdul"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PRCLUQGUU",
+                                "name": "mirdul"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 4,
-                    "destructionPercent": 48,
-                    "stars": 1,
-                    "attackCount": 1,
-                    "totalLooted": 2740,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 7466,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#PRCLUQGUU",
+                                "name": "mirdul"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PRCLUQGUU",
+                                "name": "mirdul"
+                            },
+                            "destructionPercent": 74,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#PRCLUQGUU",
+                                "name": "mirdul"
+                            },
+                            "destructionPercent": 57,
+                            "stars": 2
+                        },
                         {
                             "attacker": {
                                 "tag": "#2U2Q9YYLL",
