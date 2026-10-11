@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20261009T070000.000Z",
     "endTime": "20261012T070000.000Z",
-    "capitalTotalLoot": 184749,
+    "capitalTotalLoot": 195827,
     "raidsCompleted": 3,
-    "totalAttacks": 83,
-    "enemyDistrictsDestroyed": 26,
+    "totalAttacks": 89,
+    "enemyDistrictsDestroyed": 27,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -88,6 +88,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 10662
+        },
+        {
+            "tag": "#LC82R2YPV",
+            "name": "Manuel",
+            "attacks": 6,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 11078
         },
         {
             "tag": "#QR9QGU200",
@@ -976,18 +984,44 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/1-6ys9R6mB_9hjW3J9q3sMDQuUCJplDlwF91CI_8eAw.png"
                 }
             },
-            "attackCount": 14,
+            "attackCount": 20,
             "districtCount": 7,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 7,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 80,
+                    "stars": 2,
+                    "attackCount": 3,
+                    "totalLooted": 6460,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 80,
+                            "stars": 2
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 41,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
@@ -1117,11 +1151,35 @@
                     "id": 70000005,
                     "name": "Dragon Cliffs",
                     "districtHallLevel": 2,
-                    "destructionPercent": 26,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 1305,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 4,
+                    "totalLooted": 5923,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 66,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#LC82R2YPV",
+                                "name": "Manuel"
+                            },
+                            "destructionPercent": 47,
+                            "stars": 0
+                        },
                         {
                             "attacker": {
                                 "tag": "#QGQQY2LJ0",
