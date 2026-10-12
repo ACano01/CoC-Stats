@@ -1,5 +1,5 @@
 {
-    "state": "preparation",
+    "state": "inWar",
     "teamSize": 15,
     "attacksPerMember": 2,
     "battleModifier": "none",
@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
         },
         "clanLevel": 10,
-        "attacks": 0,
-        "stars": 0,
-        "destructionPercentage": 0.0,
+        "attacks": 4,
+        "stars": 10,
+        "destructionPercentage": 26.4,
         "members": [
             {
                 "tag": "#CQVGC9UR",
@@ -66,6 +66,24 @@
                 "name": "Paxtax",
                 "townhallLevel": 13,
                 "mapPosition": 14,
+                "attacks": [
+                    {
+                        "attackerTag": "#PYURU8VUC",
+                        "defenderTag": "#QCCGVJJP0",
+                        "stars": 1,
+                        "destructionPercentage": 96,
+                        "order": 3,
+                        "duration": 147
+                    },
+                    {
+                        "attackerTag": "#PYURU8VUC",
+                        "defenderTag": "#GG0PQQJJR",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 4,
+                        "duration": 58
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -73,6 +91,24 @@
                 "name": "N1co",
                 "townhallLevel": 16,
                 "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#R222YP0QY",
+                        "defenderTag": "#QJGC9JRQL",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 1,
+                        "duration": 129
+                    },
+                    {
+                        "attackerTag": "#R222YP0QY",
+                        "defenderTag": "#YQ0CG9UQ2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 2,
+                        "duration": 89
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -179,7 +215,15 @@
                 "name": "SK\u2661KING\u2661\u2764\ufe0f",
                 "townhallLevel": 13,
                 "mapPosition": 14,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PYURU8VUC",
+                    "defenderTag": "#QCCGVJJP0",
+                    "stars": 1,
+                    "destructionPercentage": 96,
+                    "order": 3,
+                    "duration": 147
+                }
             },
             {
                 "tag": "#GRJ8V2UVY",
@@ -193,7 +237,15 @@
                 "name": "R\u1d00\u1d04\u026a\u0274\u0262 S\u1d07\u029f\u1d20\u1d00\u1d0d",
                 "townhallLevel": 10,
                 "mapPosition": 15,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PYURU8VUC",
+                    "defenderTag": "#GG0PQQJJR",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 4,
+                    "duration": 58
+                }
             },
             {
                 "tag": "#QUJQ9CQ8U",
@@ -207,7 +259,15 @@
                 "name": "SK\u2661RAGAVAN\u2661\u2764\ufe0f",
                 "townhallLevel": 16,
                 "mapPosition": 3,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#R222YP0QY",
+                    "defenderTag": "#QJGC9JRQL",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 1,
+                    "duration": 129
+                }
             },
             {
                 "tag": "#G82J9CJJL",
@@ -242,7 +302,15 @@
                 "name": "AS JUDAH",
                 "townhallLevel": 14,
                 "mapPosition": 4,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#R222YP0QY",
+                    "defenderTag": "#YQ0CG9UQ2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 2,
+                    "duration": 89
+                }
             }
         ]
     }
