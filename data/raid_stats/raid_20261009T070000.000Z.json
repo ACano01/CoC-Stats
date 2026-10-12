@@ -2,10 +2,10 @@
     "state": "ongoing",
     "startTime": "20261009T070000.000Z",
     "endTime": "20261012T070000.000Z",
-    "capitalTotalLoot": 233074,
+    "capitalTotalLoot": 245978,
     "raidsCompleted": 5,
-    "totalAttacks": 103,
-    "enemyDistrictsDestroyed": 33,
+    "totalAttacks": 107,
+    "enemyDistrictsDestroyed": 34,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -152,6 +152,14 @@
             "attackLimit": 5,
             "bonusAttackLimit": 1,
             "capitalResourcesLooted": 9830
+        },
+        {
+            "tag": "#2QRG8P9YJ",
+            "name": "ARTILHEIRO",
+            "attacks": 4,
+            "attackLimit": 5,
+            "bonusAttackLimit": 1,
+            "capitalResourcesLooted": 12904
         }
     ],
     "attackLog": [
@@ -1270,28 +1278,62 @@
                     "medium": "https://api-assets.clashofclans.com/badges/200/PjJe-iLYzgj14o1Xy2lecm7xQyOfHPAE0cbCfdmgdEk.png"
                 }
             },
-            "attackCount": 12,
+            "attackCount": 16,
             "districtCount": 7,
-            "districtsDestroyed": 5,
+            "districtsDestroyed": 6,
             "districts": [
                 {
                     "id": 70000000,
                     "name": "Capital Peak",
                     "districtHallLevel": 7,
-                    "destructionPercent": 0,
-                    "stars": 0,
-                    "attackCount": 0,
-                    "totalLooted": 0
+                    "destructionPercent": 95,
+                    "stars": 1,
+                    "attackCount": 3,
+                    "totalLooted": 8705,
+                    "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2QRG8P9YJ",
+                                "name": "ARTILHEIRO"
+                            },
+                            "destructionPercent": 95,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2QRG8P9YJ",
+                                "name": "ARTILHEIRO"
+                            },
+                            "destructionPercent": 60,
+                            "stars": 1
+                        },
+                        {
+                            "attacker": {
+                                "tag": "#2QRG8P9YJ",
+                                "name": "ARTILHEIRO"
+                            },
+                            "destructionPercent": 33,
+                            "stars": 0
+                        }
+                    ]
                 },
                 {
                     "id": 70000001,
                     "name": "Barbarian Camp",
                     "districtHallLevel": 4,
-                    "destructionPercent": 46,
-                    "stars": 0,
-                    "attackCount": 1,
-                    "totalLooted": 2590,
+                    "destructionPercent": 100,
+                    "stars": 3,
+                    "attackCount": 2,
+                    "totalLooted": 6789,
                     "attacks": [
+                        {
+                            "attacker": {
+                                "tag": "#2QRG8P9YJ",
+                                "name": "ARTILHEIRO"
+                            },
+                            "destructionPercent": 100,
+                            "stars": 3
+                        },
                         {
                             "attacker": {
                                 "tag": "#28UJLRYV9",
