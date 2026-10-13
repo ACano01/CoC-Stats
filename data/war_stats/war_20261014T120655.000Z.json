@@ -1,0 +1,249 @@
+{
+    "state": "preparation",
+    "teamSize": 15,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "preparationStartTime": "20261013T130655.000Z",
+    "startTime": "20261014T120655.000Z",
+    "endTime": "20261015T120655.000Z",
+    "clan": {
+        "tag": "#2C28CGJR8",
+        "name": "PSOE",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
+        },
+        "clanLevel": 10,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#29G0LRQYJ",
+                "name": "lord madara",
+                "townhallLevel": 14,
+                "mapPosition": 12,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#CQVGC9UR",
+                "name": "\u26a1\ufe0fTyrr\u26a1\ufe0f",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QGQQY2LJ0",
+                "name": "hugonando125",
+                "townhallLevel": 14,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#G98J2J8J2",
+                "name": "Lolazo2",
+                "townhallLevel": 16,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#P9VR8JQ9",
+                "name": "chechu-20",
+                "townhallLevel": 14,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QPLQ2VG0Y",
+                "name": "Simon",
+                "townhallLevel": 14,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#PYURU8VUC",
+                "name": "Paxtax",
+                "townhallLevel": 13,
+                "mapPosition": 15,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R222YP0QY",
+                "name": "N1co",
+                "townhallLevel": 16,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#UJYY2PPU",
+                "name": "Pepe27",
+                "townhallLevel": 14,
+                "mapPosition": 11,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GVYQ22UV",
+                "name": "\u2661\u2665Alexandrita\u2665\u2661",
+                "townhallLevel": 13,
+                "mapPosition": 13,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QR9QGU200",
+                "name": "jd",
+                "townhallLevel": 14,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#V8UC9Y2C",
+                "name": "Tuboescape",
+                "townhallLevel": 14,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#C2GRCV8C",
+                "name": "adri7447",
+                "townhallLevel": 16,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QL02UP8YC",
+                "name": "Diego",
+                "townhallLevel": 13,
+                "mapPosition": 14,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2QRG8P9YJ",
+                "name": "ARTILHEIRO",
+                "townhallLevel": 15,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            }
+        ]
+    },
+    "opponent": {
+        "tag": "#8Q02QJP",
+        "name": "LIBERDADE",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/fYiJAQnUoMAdnUMDW5maCiNR1-kwyaSPv6_pYE8LWb4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/fYiJAQnUoMAdnUMDW5maCiNR1-kwyaSPv6_pYE8LWb4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/fYiJAQnUoMAdnUMDW5maCiNR1-kwyaSPv6_pYE8LWb4.png"
+        },
+        "clanLevel": 24,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#GRJ2LPCGR",
+                "name": "TOGU",
+                "townhallLevel": 10,
+                "mapPosition": 15,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YR2QRQ0J8",
+                "name": "case-k\u2606",
+                "townhallLevel": 16,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8Y2QCUQR",
+                "name": "\u771f \u30b9\u30c8\u30ec\u30ea\u30c1\u30a2 \u30a2\u30d1\u30b9",
+                "townhallLevel": 16,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QRPQLC8CJ",
+                "name": "\u30ea\u30e5\u30fc\u30c8",
+                "townhallLevel": 14,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LQJLV2LV0",
+                "name": "\u308a\u3087\u30fc\u307a\u30fc",
+                "townhallLevel": 14,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GUURRU9VP",
+                "name": "Chief",
+                "townhallLevel": 12,
+                "mapPosition": 14,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QU2GJPYRY",
+                "name": "\u6176\u592a\u90ce999",
+                "townhallLevel": 14,
+                "mapPosition": 13,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9P9QJYJ9",
+                "name": "Potage(=^\u30fb^=)",
+                "townhallLevel": 16,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GVCGP0GRL",
+                "name": "AK",
+                "townhallLevel": 14,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#U8C8CJLU",
+                "name": "case-k99",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QPJR098C",
+                "name": "\u3075\u304f\u3061\u3083\u3093",
+                "townhallLevel": 15,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YL8CYJ9LP",
+                "name": "\u7530\u4e2d\u89aa\u5206",
+                "townhallLevel": 15,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R00YLJU9L",
+                "name": "\u30d1\u30f3\u30c4\u306e\u30b4\u30e0",
+                "townhallLevel": 14,
+                "mapPosition": 12,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QLLG8QUR2",
+                "name": "\u30d4\u30ea_-",
+                "townhallLevel": 14,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YPGYYY80",
+                "name": "\u3075\u30fc",
+                "townhallLevel": 13,
+                "mapPosition": 11,
+                "opponentAttacks": 0
+            }
+        ]
+    }
+}
