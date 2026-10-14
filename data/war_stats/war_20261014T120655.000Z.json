@@ -15,9 +15,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
         },
         "clanLevel": 10,
-        "attacks": 5,
-        "stars": 11,
-        "destructionPercentage": 25.2,
+        "attacks": 9,
+        "stars": 18,
+        "destructionPercentage": 48.666668,
         "members": [
             {
                 "tag": "#29G0LRQYJ",
@@ -68,6 +68,24 @@
                 "name": "chechu-20",
                 "townhallLevel": 14,
                 "mapPosition": 8,
+                "attacks": [
+                    {
+                        "attackerTag": "#P9VR8JQ9",
+                        "defenderTag": "#QLLG8QUR2",
+                        "stars": 1,
+                        "destructionPercentage": 83,
+                        "order": 13,
+                        "duration": 120
+                    },
+                    {
+                        "attackerTag": "#P9VR8JQ9",
+                        "defenderTag": "#GVCGP0GRL",
+                        "stars": 2,
+                        "destructionPercentage": 73,
+                        "order": 14,
+                        "duration": 93
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -137,6 +155,16 @@
                 "name": "\u2661\u2665Alexandrita\u2665\u2661",
                 "townhallLevel": 13,
                 "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#GVYQ22UV",
+                        "defenderTag": "#QU2GJPYRY",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 15,
+                        "duration": 113
+                    }
+                ],
                 "opponentAttacks": 0
             },
             {
@@ -193,6 +221,16 @@
                 "name": "Diego",
                 "townhallLevel": 13,
                 "mapPosition": 14,
+                "attacks": [
+                    {
+                        "attackerTag": "#QL02UP8YC",
+                        "defenderTag": "#GUURRU9VP",
+                        "stars": 1,
+                        "destructionPercentage": 96,
+                        "order": 12,
+                        "duration": 118
+                    }
+                ],
                 "opponentAttacks": 1,
                 "bestOpponentAttack": {
                     "attackerTag": "#GUURRU9VP",
@@ -301,14 +339,30 @@
                         "duration": 67
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QL02UP8YC",
+                    "defenderTag": "#GUURRU9VP",
+                    "stars": 1,
+                    "destructionPercentage": 96,
+                    "order": 12,
+                    "duration": 118
+                }
             },
             {
                 "tag": "#QU2GJPYRY",
                 "name": "\u6176\u592a\u90ce999",
                 "townhallLevel": 14,
                 "mapPosition": 13,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GVYQ22UV",
+                    "defenderTag": "#QU2GJPYRY",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 15,
+                    "duration": 113
+                }
             },
             {
                 "tag": "#9P9QJYJ9",
@@ -340,7 +394,15 @@
                 "name": "AK",
                 "townhallLevel": 14,
                 "mapPosition": 9,
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#P9VR8JQ9",
+                    "defenderTag": "#GVCGP0GRL",
+                    "stars": 2,
+                    "destructionPercentage": 73,
+                    "order": 14,
+                    "duration": 93
+                }
             },
             {
                 "tag": "#U8C8CJLU",
@@ -411,7 +473,15 @@
                         "duration": 157
                     }
                 ],
-                "opponentAttacks": 0
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#P9VR8JQ9",
+                    "defenderTag": "#QLLG8QUR2",
+                    "stars": 1,
+                    "destructionPercentage": 83,
+                    "order": 13,
+                    "duration": 120
+                }
             },
             {
                 "tag": "#YPGYYY80",
